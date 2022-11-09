@@ -6,12 +6,12 @@ The cards (records) can be dragged and dropped from one row to another. As a res
 
 You can also **expand / collapse** these rows through a toggle icon beside the row title and through the icon beside lane header you can toggle all the rows in a lane.
 
-![](<../../.gitbook/assets/Row Grouping\_2 (2).png>)
+![](<../../.gitbook/assets/Row Grouping\_2 (3).png>)
 
 The field to be used for row categories can be defined when configuring the Kanban View Component for a view as shown below:
 
-![](<../../.gitbook/assets/1 (123).png>)
+![](<../../.gitbook/assets/1 (86).png>)
 
 Another factor seen in **Row Grouping** is the **‘Drop Zone’.** This field will let you drag and drop records from one lane to another lane and update only the lane criteria. It is automatically enabled for non-option set fields in row filter criteria.
 
-![](<../../.gitbook/assets/Drop zone (1).png>)
+![](<../../.gitbook/assets/Drop zone.png>)

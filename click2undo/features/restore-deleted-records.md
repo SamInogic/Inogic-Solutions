@@ -24,7 +24,7 @@ Here are the steps to restore deleted records.
 **Note: Similarly, you can select multiple records and restore all those deleted records at once.**
 {% endhint %}
 
-![](<../../.gitbook/assets/del2.2 (1).png>)
+![](../../.gitbook/assets/del2.2.png)
 
 Similarly, you can also restore deleted records of activity entities like Email entity quite easily. The steps are different but simple to follow.
 

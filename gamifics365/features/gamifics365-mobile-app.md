@@ -12,7 +12,7 @@ _**Note: The Gamifics365 Admin will have to first go to make.powerapps.com and s
 
 Now you can view the information of all the games in this app.
 
-![](<../../.gitbook/assets/Mobile App\_1.png>)
+![](<../../.gitbook/assets/Mobile App\_1 (1).png>)
 
 ![](<../../.gitbook/assets/Mobile App\_2.png>)
 

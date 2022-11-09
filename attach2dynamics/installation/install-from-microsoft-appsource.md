@@ -4,11 +4,11 @@ Visit the [link](https://appsource.microsoft.com/en-us/product/dynamics-365/inog
 
 * Click on the **FREE TRIAL** button.
 
-![](<../../.gitbook/assets/6 (5).png>)
+![](<../../.gitbook/assets/6 (15).png>)
 
 * If the user is already logged into CRM, accept the terms & conditions and click on '**Continue**'.
 
-![](<../../.gitbook/assets/7 (1).png>)
+![](<../../.gitbook/assets/7 (3).png>)
 
 * If the user is not logged into CRM, fill in the credentials and Sign in.
 
@@ -16,16 +16,16 @@ Visit the [link](https://appsource.microsoft.com/en-us/product/dynamics-365/inog
 
 * Next, confirm the details in the form, accept the terms & conditions, and click on '**Continue**'.
 
-![](<../../.gitbook/assets/SS (2).png>)
+![](<../../.gitbook/assets/SS (1).png>)
 
 * First, select the environment from the list then accept the privacy policies & legal terms by clicking on the checkboxes. Proceed to the installation by clicking on the **Install** button.
 
-![](<../../.gitbook/assets/1 (337).png>)
+![](<../../.gitbook/assets/1 (93).png>)
 
 * The installation process will now have started and you can check the status by refreshing the page.
 
-![](<../../.gitbook/assets/2 (12).png>)
+![](<../../.gitbook/assets/2 (6).png>)
 
 * After the installation is complete, you will be able to see **Attach2Dynamics** solution in 'My apps'.
 
-![](<../../.gitbook/assets/12 (5).png>)
+![](<../../.gitbook/assets/12 (1).png>)

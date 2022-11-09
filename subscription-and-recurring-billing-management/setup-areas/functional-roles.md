@@ -15,5 +15,5 @@ When Reminder Schedules are generated, the system uses the Bill To Customer/Ship
   * **Description:** Additional information to further define the Functional Role.
 * Click on **Save**.
 
-![](../../.gitbook/assets/FunRoles\_2.png)
+![](<../../.gitbook/assets/FunRoles\_2 (1).png>)
 

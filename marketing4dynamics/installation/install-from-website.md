@@ -6,15 +6,15 @@ Installing Marketing4Dynamics solution in your CRM environment is quite easy. Fi
 
 * Download the **Marketing4Dynamics\_9\_0\_0\_0.zip** from the website **-->** **Extract** the zip file **-->** Double click on **PackageDeployer.Exe**
 
-![](<../../.gitbook/assets/Install\_1 (1).png>)
+![](<../../.gitbook/assets/Install\_1 (4).png>)
 
 * Click on **Continue**.
 
-![](<../../.gitbook/assets/Install\_2 (2).png>)
+![](<../../.gitbook/assets/Install\_2 (4).png>)
 
 * Select **Office 365** as deployment type **-->** Enter your **CRM credentials** **-->** Click on **Login**.
 
-![](<../../.gitbook/assets/Install\_3 (7).png>)
+![](<../../.gitbook/assets/Install\_3 (4).png>)
 
 * It will open to Marketing4Dynamics **welcome screen** **-->** Click on **Next**.
 
@@ -22,19 +22,19 @@ Installing Marketing4Dynamics solution in your CRM environment is quite easy. Fi
 
 * Click on **Next.**
 
-![](<../../.gitbook/assets/Install\_5 (2).png>)
+![](../../.gitbook/assets/Install\_5.png)
 
 * Ensure all ticks are **green** **-->** Click on **Next**.
 
-![](../../.gitbook/assets/Install\_6.png)
+![](<../../.gitbook/assets/Install\_6 (1).png>)
 
 * The solution will be imported within a span of **10 - 15 minutes** (may vary). After the import is complete the screen will look as below **-->** Click on **Next.**
 
-![](../../.gitbook/assets/Install\_7.png)
+![](<../../.gitbook/assets/Install\_7 (1).png>)
 
 * Click on **Finish** --> Go to Dynamics 365 CRM to complete **license registration**.
 
-![](../../.gitbook/assets/Install\_8.png)
+![](<../../.gitbook/assets/Install\_8 (1).png>)
 
 
 

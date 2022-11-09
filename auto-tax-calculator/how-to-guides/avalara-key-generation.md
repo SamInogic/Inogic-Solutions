@@ -28,6 +28,6 @@ When using **Avalara AvaTax** in Auto Tax calculator you need to enter the accou
 
 ![](<../../.gitbook/assets/Avalara key\_4.png>)
 
-![](<../../.gitbook/assets/Avalara key\_5.png>)
+![](<../../.gitbook/assets/Avalara key\_5 (1).png>)
 
 * Once the details are entered save the record and you are ready to use integration of **AvaTax** and **Auto Tax Calculator.**

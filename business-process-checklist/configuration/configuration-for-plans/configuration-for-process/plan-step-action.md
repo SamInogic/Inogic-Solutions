@@ -26,7 +26,7 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 * Once the required fields are filled, click on **‘Save and Close’**.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_3.png" alt=""><figcaption></figcaption></figure>
 
 * Your Plan Step Action will be added to the plan step and will appear here.
 

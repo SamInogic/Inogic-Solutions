@@ -30,13 +30,13 @@ DocuSign Plugin integration solution - [http://www.inogic.com/Assets/Trial/DocuS
 
 ![](../../.gitbook/assets/Conn\_Config.png)
 
-![](<../../.gitbook/assets/Config\_4 (1).png>)
+![](<../../.gitbook/assets/Config\_4 (6).png>)
 
 ### Credentials:
 
 This indicates that **Authentication** with the connector is done through **Credential i.e. id and password**. It is mandatory to enter credentials in order to create a new Connector. For authentication through credentials, for any attachment action, the name of user appears who has authenticated the Connector. Enter value for **Id** and **Password/Secret.** Next authenticate the credentials.
 
-![](<../../.gitbook/assets/Config\_5 (2).png>)
+![](<../../.gitbook/assets/Config\_5 (3).png>)
 
 {% hint style="info" %}
 **Note: In the Id field enter your username and in Password/Secret field enter password. It can be your normal Dynamics 365 CRM credentials.**&#x20;

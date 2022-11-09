@@ -24,7 +24,7 @@ To delete the **Lead Assignment and Distribution Automation** license follow the
 
 * Navigate to **Advanced Find.**
 
-![](../.gitbook/assets/FAQ\_1.png)
+![](<../.gitbook/assets/FAQ\_1 (2).png>)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
@@ -32,7 +32,7 @@ To delete the **Lead Assignment and Distribution Automation** license follow the
 
 * Select the **Lead Assignment and Distribution Automation** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_3 (2).png>)
+![](<../.gitbook/assets/FAQ\_3 (3).png>)
 
 ## 3) What are the steps to remove user from Assignment Process and re-add them again?
 

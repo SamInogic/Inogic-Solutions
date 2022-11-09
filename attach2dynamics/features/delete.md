@@ -8,4 +8,4 @@ Users can delete files from all the three cloud storage. The details of these de
 
 <figure><img src="../../.gitbook/assets/delete file- slide 19.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/Delete\_2.png)
+![](<../../.gitbook/assets/Delete\_2 (1).png>)

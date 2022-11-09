@@ -16,23 +16,23 @@ While creating an anonymous link of file on Attach2Dynamics UI in Dynamics 365 C
 
 **1**. Sign in to [https://admin.microsoft.com](https://admin.microsoft.com/) as a global or SharePoint admin. If you see a message that **You don’t have permission to access the page**, then you don’t have Office 365 administrator permissions in your organization.
 
-![](<../../.gitbook/assets/image (237).png>)
+![](<../../.gitbook/assets/image (242).png>)
 
 &#x20;**2**. In the left pane, below admin centers select SharePoint.
 
-![](<../../.gitbook/assets/image (201).png>)
+![](<../../.gitbook/assets/image (234).png>)
 
 &#x20;**3**. Now, in the left pane of the new SharePoint admin center, under **Sites** select **Active sites**. (If the classic SharePoint admin center comes then select try it now to open new SharePoint admin center).
 
-![](<../../.gitbook/assets/image (166).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 &#x20;**4**. Select site and then select **Sharing**.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (134).png>)
 
 &#x20;**5**. Select **Anyone** and then save it. Now, you can create anonymous shareable link of files.
 
-![](<../../.gitbook/assets/image (236).png>)
+![](<../../.gitbook/assets/image (243).png>)
 
 &#x20;**6**. Now go to Attach2Dynamics pop-up and try to create an anonymous link.
 

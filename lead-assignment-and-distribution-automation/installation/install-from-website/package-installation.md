@@ -7,7 +7,7 @@ To install Lead Assignment and Distribution Automation solution in Dynamics 365 
 * Download the _**LeadAssignmentAndDistributionAutomation\_Dyn365\_v9.zip**_ from the website.
 * Right click on the downloaded package --> Enable the **'Unblock'** checkbox to make the file accessible --> Click on **'Apply'** --> Click on **'Ok'**.
 
-![](<../../../.gitbook/assets/Package Deployer\_2 (1).png>)
+![](<../../../.gitbook/assets/Package Deployer\_2.png>)
 
 * Extract the zip file.
 
@@ -25,7 +25,7 @@ To install Lead Assignment and Distribution Automation solution in Dynamics 365 
 
 ![Office 365](<../../../.gitbook/assets/LADA Package Install\_4.png>)
 
-![On-premises](<../../../.gitbook/assets/LADA Package Install\_11.1 (1).png>)
+![On-premises](<../../../.gitbook/assets/LADA Package Install\_11.1.png>)
 
 * It will bring you to **Lead Assignment and Distribution Automation** welcome screen -->Click on **Next.**
 

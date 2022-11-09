@@ -8,25 +8,25 @@ To import the solution from make.powerapps.com, download the Map My Relationship
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (7).png>)
+![](../../.gitbook/assets/a.png)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (2).png>)
+![](<../../.gitbook/assets/b (3).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (6).png>)
+![](../../.gitbook/assets/c.png)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (1).png>)
+![](<../../.gitbook/assets/d (5).png>)
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (5).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (12).png>)
+![](<../../.gitbook/assets/6 (1).png>)
 
 * Then click on **Import** and proceed to import the solution.
 
@@ -44,23 +44,23 @@ Follow the step by step procedure given below:
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (150).png>)
+![](<../../.gitbook/assets/1 (131).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (3).png>)
+![](<../../.gitbook/assets/2 (31).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (5).png>)
+![](<../../.gitbook/assets/3 (19).png>)
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/1 (70).png>)
+![](<../../.gitbook/assets/1 (357).png>)
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (11).png>)
+![](<../../.gitbook/assets/5 (27).png>)
 
 Now, if you want to upgrade the solution to its latest version or reinstall the same solution, then you will get the following dialog box. Here, select the highlighted **'Upgrade'** point and the **'Overwrite customizations'** point for installing the latest solution. And for reinstalling the same solution, just select the **'Overwrite customizations'** point. Lastly, click on **Import** to start the installation process.&#x20;
 

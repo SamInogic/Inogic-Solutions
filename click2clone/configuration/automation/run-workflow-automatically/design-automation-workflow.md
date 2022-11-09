@@ -8,7 +8,7 @@ You can design your own automation workflow by following the steps given below:
 
 * Click on **New** --> Select **‘Workflow’** from the **‘Category’** dropdown --> Select the **Entity** --> Click on **OK.**
 
-![](../../../../.gitbook/assets/Workflow\_4.png)
+![](<../../../../.gitbook/assets/Workflow\_4 (1).png>)
 
 * Enable any of the given fields. Here, we will enable **‘Record Field Change’** checkbox. (With this, if any of the selected field is updated then the workflow will be triggered and the record will be cloned.)&#x20;
 

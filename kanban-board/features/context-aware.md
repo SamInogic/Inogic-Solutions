@@ -8,4 +8,4 @@ Works in context of the native CRM environment and responds to all native ribbon
 
 Apart from the ribbon it also responds to filtering options from Charts.
 
-![](../../.gitbook/assets/Chart.png)
+![](<../../.gitbook/assets/Chart (1).png>)

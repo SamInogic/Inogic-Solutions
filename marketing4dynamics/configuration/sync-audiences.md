@@ -12,11 +12,11 @@ To sync audiences, follow the steps given below:
 
 * Go to **Settings --> Setup --> Sync Audiences.**
 
-![](<../../.gitbook/assets/7 (15).png>)
+![](<../../.gitbook/assets/7 (20).png>)
 
 * Click on **‘Manage’**.
 
-![](<../../.gitbook/assets/8 (1).png>)
+![](<../../.gitbook/assets/8 (4).png>)
 
 * Now select the **Marketing List** in CRM that you want to map with Mailchimp Audience. Here, the Mailchimp members will be mapped with the contacts/leads in CRM marking list. If there are no existing marketing list then create a new one. If your selected Marketing List is of type **Contact** then **Mailchimp members** would be created as **Contacts in CRM** whereas if type is **Lead** then it would be created as **Leads in CRM.**
 
@@ -24,7 +24,7 @@ To sync audiences, follow the steps given below:
 **Note: You can select only static marketing list of type (Target At) Lead and Contact. Account type of Marketing List is not supported.**
 {% endhint %}
 
-![](<../../.gitbook/assets/9 (5).png>)
+![](<../../.gitbook/assets/9 (6).png>)
 
 * In this case, we have created a new Marketing List. For this, go to **Marketing List** --> Click on **‘Search’** icon --> Click on **‘New Marketing List’.**
 
@@ -32,9 +32,9 @@ To sync audiences, follow the steps given below:
 
 * Fill the required details in marketing list and click on **‘Save’.**
 
-![](<../../.gitbook/assets/11 (1).png>)
+![](<../../.gitbook/assets/11 (11).png>)
 
-![](<../../.gitbook/assets/12 (7).png>)
+![](../../.gitbook/assets/12.png)
 
 * A new marketing list is created. Now go back to **‘Sync Audiences’** and add this Marketing List.
 
@@ -42,23 +42,23 @@ To sync audiences, follow the steps given below:
 
 * Click on **‘Sync Now’**.
 
-![](<../../.gitbook/assets/14 (5).png>)
+![](<../../.gitbook/assets/14 (6).png>)
 
 * A pop-up will appear stating that the sync process has started --> Click on **Ok.**
 
-![](<../../.gitbook/assets/15 (3).png>)
+![](<../../.gitbook/assets/15 (6).png>)
 
 * **The status is now changed to 'In-progress' which indicates that the synchronization of Audience is in under process.** (See Status section to know meaning of each Sync Status).
 
-![](<../../.gitbook/assets/16 (5).png>)
+![](<../../.gitbook/assets/16 (2).png>)
 
 * Refresh or revisit the page to see current Sync Status.
 
-![](<../../.gitbook/assets/17 (2).png>)
+![](<../../.gitbook/assets/17 (3).png>)
 
 * Another way to verify **Sync Status** is to navigate to **Settings --> Audiences**.
 
-![](../../.gitbook/assets/18.png)
+![](<../../.gitbook/assets/18 (1).png>)
 
 * Once sync is complete, there will be two distinct changes in CRM data. Firstly, Mailchimp Tags will get synced to CRM.&#x20;
 
@@ -66,7 +66,7 @@ To sync audiences, follow the steps given below:
 
 * The tags in Mailchimp will be be synced and can be seen in both **‘Tags’** and **‘Audiences’** entity. To verify this, go to **Audiences --> Tags** or **Settings --> Tags**.
 
-![](../../.gitbook/assets/20.png)
+![](<../../.gitbook/assets/20 (1).png>)
 
 ![](<../../.gitbook/assets/21 (2).png>)
 

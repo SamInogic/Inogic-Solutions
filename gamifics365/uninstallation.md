@@ -26,6 +26,6 @@ Once the dependencies are removed you can uninstall the solution from the CRM en
 
 * Click on the **Delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/Uninstall\_2 (1).png>)
+![](<../.gitbook/assets/Uninstall\_2 (4).png>)
 
-![](<../.gitbook/assets/Uninstall\_3 (6).png>)
+![](<../.gitbook/assets/Uninstall\_3 (2).png>)

@@ -10,25 +10,25 @@ After enabling [Organization Level Auditing](https://docs.inogic.com/click2undo/
 
 2\) Open Settings by selecting the correct environment.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (147).png>)
 
 3\) Search for Entity and field audit settings.
 
-![](<../../.gitbook/assets/image (219).png>)
+![](<../../.gitbook/assets/image (112).png>)
 
 4\) It opens the Default Solution.
 
 &#x20;
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (223).png>)
 
 5\) Expand Entities --> Click on Account --> Enable Auditing.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 6\) Save and Publish.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 {% hint style="info" %}
 **Note: By default, all fields for the selected entity are enabled for auditing.**
@@ -42,15 +42,15 @@ To achieve this, follow the steps given below:
 
 1\) Select Fields Tab.
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (104).png>)
 
 2\) Select the field for which you would like to disable the auditing and click Edit.
 
-![](<../../.gitbook/assets/image (242).png>)
+![](<../../.gitbook/assets/image (179).png>)
 
 3\) Select Disable --> Click on Save and Close.
 
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 4\) Publish the customizations.
 
@@ -58,26 +58,26 @@ To achieve this, follow the steps given below:
 
 1\) Click on Advanced Settings from within Dynamics 365 CRM.
 
-![](<../../.gitbook/assets/image (197).png>)
+![](<../../.gitbook/assets/image (64).png>)
 
 2\) Click on Customizations.
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (95).png>)
 
 3\) Click on Customize the System.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
 4\) It opens the Default Solution.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](<../../.gitbook/assets/image (245).png>)
 
 5\) Expand Entities --> Click on Account --> Enable Auditing.
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (154).png>)
 
 6\) Save and Publish.
 
-![](<../../.gitbook/assets/image (221).png>)
+![](<../../.gitbook/assets/image (118).png>)
 
 __

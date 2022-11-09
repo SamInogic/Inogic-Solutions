@@ -14,4 +14,4 @@ Please follow the below steps to uninstall **User Adoption Monitor** solution fr
 
 3\) Click on delete button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/uninstall\_5 - Copy (2).png>)
+![](<../.gitbook/assets/uninstall\_5 - Copy (3).png>)

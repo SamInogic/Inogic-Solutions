@@ -4,7 +4,7 @@ Given below are the steps for Entity configuration in SharePoint Security Sync.
 
 For **‘Entity Configuration’** go to **SharePoint Security Sync --> Entity Configuration**.
 
-![](<../../.gitbook/assets/Entity\_1 (1).png>)
+![](../../.gitbook/assets/Entity\_1.png)
 
 Entity Configurations can be created from the Connector form too, just click on **Entity Configuration** **Tab** on Connector page and click on '**+ New** ' button.
 
@@ -40,9 +40,9 @@ The **‘Create Library Structure’** section can be set as follows:
 
     For example, suppose if user has set **‘Period type’** to **‘X Month’** and **‘Duration’** to **‘6’.** Now based on this setting a half yearly document library will be created in SharePoint for whichever record created for that particular period.
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_10.png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_10 (1).png>)
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_11.png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_11 (1).png>)
 
 * **By Starting Character:** If this option is selected then the document library structure will be created based on the starting character of the chosen field name. Once this option is selected, the following additional field needs to be populated:
   * **Document Library Format:** Here, logical name of the field is to be entered within brace brackets **{}**. And the field type should be either **Single.Text, Optionset** or **Lookup**.
@@ -62,7 +62,7 @@ For example, suppose if user has used combination of logical and text for **‘F
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_12 (1).png>)
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_13.png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_13 (1).png>)
 
 ### Email Configuration:
 

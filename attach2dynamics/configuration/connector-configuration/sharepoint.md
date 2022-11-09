@@ -61,7 +61,7 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Once the record is saved, click on the **Authenticate** Button.
 
-![](../../../.gitbook/assets/Authenticate.png)
+![](<../../../.gitbook/assets/Authenticate (1).png>)
 
 * A Pop-up window will appear. Fill in your credentials and then confirmation Pop-up will be opened.&#x20;
 * In the Pop-up, please select **Consent on behalf of your organization** --> Click on the **Accept** button.
@@ -79,4 +79,4 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Now if another person is to upload a file then that person's name will be displayed on the site due to authenticating connector through app.&#x20;
 
-![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3 (1).png>)
+![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3.png>)

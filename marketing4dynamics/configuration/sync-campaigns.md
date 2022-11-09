@@ -14,7 +14,7 @@ All the campaigns in Mailchimp which has been sent to the subscribers will be sy
 
 * Select the campaign **-->** Enter the number of days in **‘Auto Sync Activities’ -->** Click on **‘Sync Now’**. In the **‘Campaign Sent On’** section, the latest campaign will be listed on top followed by the previous campaign and so on. The ‘**Auto Sync Activities’** section is to determine the period for which the campaign activities will be synced to CRM.
 
-![](<../../.gitbook/assets/Campaign\_2 (1).png>)
+![](../../.gitbook/assets/Campaign\_2.png)
 
 * A pop-up will appear stating that the sync process has started **-->** Click on **Ok.**
 

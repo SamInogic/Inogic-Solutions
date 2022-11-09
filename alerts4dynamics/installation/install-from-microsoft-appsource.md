@@ -8,7 +8,7 @@ To install **Alerts4Dynamics** solution from the **Microsoft AppSource**, visit 
 
 * If the user is already logged into CRM, accept the terms & conditions and click on **Free Trail**.
 
-<figure><img src="../../.gitbook/assets/If the user is already logged into CRM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/If the user is already logged into CRM.png" alt=""><figcaption></figcaption></figure>
 
 * If the user is not logged into CRM, fill in the credentials and **Sign in**.
 

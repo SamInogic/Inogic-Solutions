@@ -18,7 +18,7 @@ Plans are where you define the pricing structure for your product depending on t
   * **Billing Unit:** This field defines the period for which bills will be generated – **Day, Week, Month, Year**. Select any of these options.&#x20;
   * **Price Per Billing Unit:** This field appears when **‘Per Unit’** pricing model is selected. It is used to define the product pricing for per unit.
 
-![](../../.gitbook/assets/Plan\_1.png)
+![](<../../.gitbook/assets/Plan\_1 (1).png>)
 
 The **Details** section defines the pricing ranges for **Tiered, Volume** and **Stairstep** pricing model. Here, additional pricing ranges or new plan details can be added as and when needed.
 

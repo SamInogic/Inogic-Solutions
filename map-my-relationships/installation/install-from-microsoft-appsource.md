@@ -4,15 +4,15 @@ Install **Map My Relationships** solution from the **Microsoft AppSource** by vi
 
 * Click on the **FREE TRIAL** button.
 
-![](<../../.gitbook/assets/15 (2).png>)
+![](<../../.gitbook/assets/15 (1).png>)
 
 * If you are already logged in then accept the terms & conditions and click on **Continue**.
 
-![](<../../.gitbook/assets/16 (4).png>)
+![](../../.gitbook/assets/16.png)
 
 * If the you are not logged into CRM, fill in the credentials and **Sign in** to proceed further.
 
-![](<../../.gitbook/assets/17 (1).png>)
+![](../../.gitbook/assets/17.png)
 
 * You will be asked to fill out a form as shown below. Fill the details in the form, accept the terms & conditions and click on **Continue**.
 
@@ -28,4 +28,4 @@ Install **Map My Relationships** solution from the **Microsoft AppSource** by vi
 
 * After the installation is done, you can see **Map My Relationships** solution in **My apps** in your Dynamics 365 CRM environment.
 
-![](<../../.gitbook/assets/4 (35).png>)
+![](<../../.gitbook/assets/4 (20).png>)

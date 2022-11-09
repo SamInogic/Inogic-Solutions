@@ -6,19 +6,19 @@ Here are the steps to activate the Business Process Checklist license.
 
 * Navigate to **Dynamics 365 --> Business Process Checklist app.**
 
-<figure><img src="../../.gitbook/assets/1 (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (303).png" alt=""><figcaption></figcaption></figure>
 
 * Go to **License Registration.**
 
-<figure><img src="../../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (49).png" alt=""><figcaption></figcaption></figure>
 
 * Enter the Details: **First Name, Last Name, Company Name, Email, Website and Main Phone.** After filling the details click ‘**ACTIVATE’** for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM.**
 
-<figure><img src="../../.gitbook/assets/3 (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (21).png" alt=""><figcaption></figcaption></figure>
 
 * If you want to purchase or extend the trial, click **‘SEND REQUEST’** after which you need to enter your **First Name, Last Name, Company Name, Email, Website, and, Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
 
-<figure><img src="../../.gitbook/assets/4 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (26).png" alt=""><figcaption></figcaption></figure>
 
 ### Alternate method to complete License Activation
 

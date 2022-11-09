@@ -10,7 +10,7 @@ Here, you will get two options.
 
 ![](<../../../.gitbook/assets/Connect CRM\_1.png>)
 
-![](../../../.gitbook/assets/Connect\_1.png)
+![](<../../../.gitbook/assets/Connect\_1 (1).png>)
 
 * Once you accept this permission you will get **Thank You** page.
 

@@ -16,4 +16,4 @@ Now, if you are to create an Opportunity and add products then tax will be calcu
 
 Similarly, you will get ‘Tax Processing’ tab which will give you detailed information about the tax calculated. Here also you will see the ‘Is Taxable’ field. You can set this field as per your preference.
 
-![](../../../.gitbook/assets/USA\_4.png)
+![](<../../../.gitbook/assets/USA\_4 (1).png>)

@@ -10,11 +10,11 @@ Given below are the steps to activate **Map My Relationships** license.
 
 * Go to **License Registration**.
 
-![](<../../.gitbook/assets/5 (2).png>)
+![](<../../.gitbook/assets/5 (19).png>)
 
 * Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/6 (20).png>)
+![](<../../.gitbook/assets/6 (19).png>)
 
 If you want to purchase or extend the trial, click on **SEND REQUEST** --> Enter all details --> Click again on **SEND REQUEST** and send the email to Inogic.
 
@@ -26,12 +26,12 @@ You can also complete the license registration by another method. Follow the bel
 
 * Request .lic file from Inogic --> Save file --> Go to **Map My Relationships** app --> **License Registration** --> Click **Choose File** to locate the file with the extension **.lic**
 
-![](<../../.gitbook/assets/9 (2).png>)
+![](<../../.gitbook/assets/9 (1).png>)
 
 * Select the file --> Click **Open**.
 
-![](<../../.gitbook/assets/10 (1).png>)
+![](../../.gitbook/assets/10.png)
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/8 (6).png>)
+![](<../../.gitbook/assets/8 (9).png>)

@@ -6,7 +6,7 @@ Follow the steps given below to uninstall **Marketing4Dynamics** from your Dynam
 
 Go to [make.powerapps.com](https://make.powerapps.com/) --> In Solutions, select the **Marketing4Dynamics** and click on **Delete.**
 
-![](<../.gitbook/assets/Uninstall\_4 (4).png>)
+![](<../.gitbook/assets/Uninstall\_4 (3).png>)
 
 A pop-up will appear asking for your confirmation --> Click on **Delete** and the solution will be uninstalled from your environment.
 
@@ -16,11 +16,11 @@ A pop-up will appear asking for your confirmation --> Click on **Delete** and th
 
 Navigate to **Settings** --> **Solutions** --> Select **Marketing4Dynamics** solution.
 
-![](<../.gitbook/assets/Uninstall\_1 (6).png>)
+![](<../.gitbook/assets/Uninstall\_1 (4).png>)
 
 Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](../.gitbook/assets/Uninstall\_2.png)
+![](<../.gitbook/assets/Uninstall\_2 (1).png>)
 
-![](../.gitbook/assets/Uninstall\_3.png)
+![](<../.gitbook/assets/Uninstall\_3 (3).png>)
 

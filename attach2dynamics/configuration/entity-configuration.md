@@ -70,7 +70,7 @@ Similarly, you need to create the below Entity Configuration to move **'Sales Li
 
 * Now go to next tab - **'Email Configuration'** **--> Populate the fields --> Click on Save.**
 
-![](<../../.gitbook/assets/Entity DB\_2.png>)
+![](<../../.gitbook/assets/Entity DB\_2 (1).png>)
 
 ### **Azure Blob Storage Connector:**
 

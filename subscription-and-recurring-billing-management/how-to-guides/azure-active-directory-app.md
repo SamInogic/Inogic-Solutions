@@ -22,7 +22,7 @@ Redirect URI should be in below format –
 
 Here CRMUrl is like “https://octtrial.crm8.dynamics.com”. After filling these details click on register.
 
-![](<../../.gitbook/assets/Azure direct\_1.png>)
+![](<../../.gitbook/assets/Azure direct\_1 (1).png>)
 
 Step 4 – Now you need to give some permissions to app. So navigate to API permissions. Here you need to add permission for Dynamics CRM.
 

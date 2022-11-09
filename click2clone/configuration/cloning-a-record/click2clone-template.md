@@ -4,7 +4,7 @@ Follow the steps given below to set up entities for Click2Clone:
 
 1\) Go to **Click2Clone app** --> **Click2Clone Templates** --> Click on **New**.
 
-![](<../../../.gitbook/assets/Temp\_1 (2).png>)
+![](<../../../.gitbook/assets/Temp\_1 (4).png>)
 
 2\) Enter an appropriate name for the template. Here, we are setting up an **'Order'** entity in source as we want to clone an order entity record.&#x20;
 

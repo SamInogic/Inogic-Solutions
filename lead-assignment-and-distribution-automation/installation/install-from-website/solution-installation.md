@@ -42,7 +42,7 @@ Follow the steps to **import** and **install** Lead Assignment and Distribution 
 
 For importing and installing the Lead Assignment and Distribution Automation an Board solution in your Dynamics 365 CRM navigate to **Advanced Settings.**
 
-![](../../../.gitbook/assets/1Installing-Click2Export-in-your-Environment.png)
+![](<../../../.gitbook/assets/1Installing-Click2Export-in-your-Environment (1).png>)
 
 &#x20;Go to **Settings → Solutions**
 

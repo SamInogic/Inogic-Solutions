@@ -29,7 +29,7 @@ To directly send an email with multiple attachments, please follow the steps giv
 * Navigate to the Email form --> Set the entity record that you want to view in Attach2Dynamics UI in the **Regarding** field --> Click on the **Attach2Dynamics** button.
 * You will be able to see the files and folders present in the SharePoint site of the record present in the **Regarding** field as shown below:
 
-![](<../../.gitbook/assets/Image1 (1).png>)
+![](../../.gitbook/assets/Image1.png)
 
 ![](../../.gitbook/assets/Image2.png)
 
@@ -43,5 +43,5 @@ To directly send an email with multiple attachments, please follow the steps giv
 
 * In the case of **Links**, the link of the SharePoint folder location of the selected file will be added as a link in the email body.
 
-![](<../../.gitbook/assets/Image5 (1).png>)
+![](../../.gitbook/assets/Image5.png)
 

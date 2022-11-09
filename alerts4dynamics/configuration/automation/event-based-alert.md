@@ -6,21 +6,21 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Navigate to **Advanced Settings** --> **Settings** --> **Process** --> **New Process**.
 
-![](<../../../.gitbook/assets/Event\_1 (2).png>)
+![](../../../.gitbook/assets/Event\_1.png)
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
-![](<../../../.gitbook/assets/Event\_2 (2).png>)
+![](<../../../.gitbook/assets/Event\_2 (4).png>)
 
 * Go to **‘Record fields change’** --> Select the field **‘Subject’** from the list.
 
-![](<../../../.gitbook/assets/Event\_3 (2).png>)
+![](<../../../.gitbook/assets/Event\_3 (3).png>)
 
-![](<../../../.gitbook/assets/Event\_4 (3).png>)
+![](../../../.gitbook/assets/Event\_4.png)
 
 * Create a notification request record to create an alert.
 
-![](<../../../.gitbook/assets/Event\_5 (3).png>)
+![](../../../.gitbook/assets/Event\_5.png)
 
 * Select **‘Notification Request’.**
 
@@ -32,11 +32,11 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Perform the dynamic field selection as required.
 
-![](../../../.gitbook/assets/Event\_8.png)
+![](<../../../.gitbook/assets/Event\_8 (1).png>)
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](../../../.gitbook/assets/Event\_9.png)
+![](<../../../.gitbook/assets/Event\_9 (1).png>)
 
 ![](<../../../.gitbook/assets/Event\_10 (1).png>)
 
@@ -58,11 +58,11 @@ Let’s further configure the condition.
 
 * Select the below assembly from the list for auto dismissing the alert notification.
 
-<figure><img src="../../../.gitbook/assets/16 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/16 (4).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **‘Set Properties’.**
 
-<figure><img src="../../../.gitbook/assets/17 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17 (4).png" alt=""><figcaption></figcaption></figure>
 
 * Select the below option from the list for **‘Look for’** field. This is a first step description that was added to create a notification request record.
 

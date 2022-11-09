@@ -8,7 +8,7 @@ To install **InoLink** solution from the **Microsoft AppSource**, visit the [lin
 
 * If the user is already logged into CRM, accept the terms & conditions and click on **Continue**.
 
-![](<../../.gitbook/assets/13 (3).png>)
+![](../../.gitbook/assets/13.png)
 
 * If the user is not logged into CRM, fill in the credentials and **Sign in**.
 
@@ -16,11 +16,11 @@ To install **InoLink** solution from the **Microsoft AppSource**, visit the [lin
 
 * Select your environment from the dropdown list and accept the privacy policies & legal terms. Then click on the **Install** button for the installation to start.
 
-![](<../../.gitbook/assets/14 (1).png>)
+![](<../../.gitbook/assets/14 (4).png>)
 
 * The installation process will now have started and you can check the status by refreshing the page.
 
-![](<../../.gitbook/assets/15 (6).png>)
+![](<../../.gitbook/assets/15 (2).png>)
 
 * After the installation is done, you will be able to see **InoLink** solution in **My apps**.
 

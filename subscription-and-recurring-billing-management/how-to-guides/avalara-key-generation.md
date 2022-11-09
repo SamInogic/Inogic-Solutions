@@ -25,6 +25,6 @@ When using **Avalara AvaTax** in Subscription and Recurring Billing Management y
 
 ![](<../../.gitbook/assets/Avalara key\_4.png>)
 
-![](<../../.gitbook/assets/Avalara key\_5.png>)
+![](<../../.gitbook/assets/Avalara key\_5 (1).png>)
 
 * Once the details are entered save the record and you are ready to use integration of **AvaTax** and **Subscription and Recurring Billing Management.**

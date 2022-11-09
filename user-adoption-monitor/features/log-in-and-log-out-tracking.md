@@ -4,7 +4,7 @@ User Adoption Monitor helps you to keep track of log-in and log-out details for 
 
 Go to **Entity Configurations (User Adoption Monitor group) --> Application-loginlogout**. Here, you can view associate Tracking records per user.
 
-![](../../.gitbook/assets/Log\_5.png)
+![](<../../.gitbook/assets/Log\_5 (1).png>)
 
 Click on the respective record to get in depth **Log-in/Log-out** Tracking Detail records.
 

@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Click2Undo solution
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (349).png>)
+![](<../../.gitbook/assets/1 (150).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (58).png>)
+![](<../../.gitbook/assets/2 (60).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (1).png>)
+![](<../../.gitbook/assets/3 (13).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (31).png>)
+![](../../.gitbook/assets/4.png)
 
-![](<../../.gitbook/assets/5 (22).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (21).png>)
+![](<../../.gitbook/assets/6 (12).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (12).png>)
+![](<../../.gitbook/assets/7 (14).png>)
 
 * Your solution will get imported in the background. To check the status of the installation, refresh the page.
 
@@ -42,7 +42,7 @@ Here are the steps to import and install Click2Undo solution.
 
 * Navigate to Advanced Settings on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/Install\_1 (8).png>)
+![](<../../.gitbook/assets/Install\_1 (2).png>)
 
 * Navigate to Settings --> Solutions.
 
@@ -58,7 +58,7 @@ Here are the steps to import and install Click2Undo solution.
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](<../../.gitbook/assets/Imp\_5 - Copy (2).png>)
+![](<../../.gitbook/assets/Imp\_5 - Copy (1).png>)
 
 
 
