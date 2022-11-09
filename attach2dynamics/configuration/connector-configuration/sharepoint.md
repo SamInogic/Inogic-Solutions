@@ -53,7 +53,7 @@ Enter value for Id and Password/Secret --> Authenticate the credentials.
 
 In App authentication, if any action is performed then the name of logged-in user appears.
 
-![](<../../../.gitbook/assets/Share\_App\_1 (1).png>)
+![](../../../.gitbook/assets/Share\_App\_1.png)
 
 * In order to know how to generate Id and Password/Secret for App [click here](https://www.inogic.com/blog/how-to-create-azure-active-directory-app/). After you have generated the Id and Password enter them in the fields provided.
 
@@ -61,17 +61,17 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Once the record is saved, click on the **Authenticate** Button.
 
-![](<../../../.gitbook/assets/Authenticate (2).png>)
+![](<../../../.gitbook/assets/Authenticate (1).png>)
 
 * A Pop-up window will appear. Fill in your credentials and then confirmation Pop-up will be opened.&#x20;
 * In the Pop-up, please select **Consent on behalf of your organization** --> Click on the **Accept** button.
 * After clicking on the Accept button if the credentials are correct then you will get a Success message window.
 
-![](<../../../.gitbook/assets/Connector Config\_1 (1).png>)
+![](<../../../.gitbook/assets/Connector Config\_1.png>)
 
 * Now if any logged in user uploads or performs any attachment action using Attach2Dynamics UI, their name will appear for the action.&#x20;
 
-![](<../../../.gitbook/assets/Connector Confg\_SharePoint 1 (1).png>)
+![](<../../../.gitbook/assets/Connector Confg\_SharePoint 1.png>)
 
 * In the below screenshot, name of the admin appears when they are logged in and have uploaded the file.
 

@@ -4,4 +4,4 @@ Ability to drag and drop the cards across columns to quickly update the values o
 
 Kanban Board presents a Kanban view of the records presented as compact cards. The product supports moving the records around from one lane to another with a quick drag and drop action. This also results in updating the corresponding field value appropriate to the data value of the lane.
 
-![](<../../.gitbook/assets/Drag & Drop (1).png>)
+![](<../../.gitbook/assets/Drag & Drop.png>)

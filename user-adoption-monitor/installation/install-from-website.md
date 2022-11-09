@@ -30,7 +30,7 @@ To import the solution from make.powerapps.com, download the User Adoption Monit
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/u7 (1).png>)
+![](../../.gitbook/assets/u7.png)
 
 * Your solution will get imported in the background. To check the status of the installation, refresh the page.
 
@@ -48,19 +48,19 @@ Here are the steps to import and install User Adoption Monitor solution.
 
 * Navigate to Advanced Settings on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/11 (7).png>)
+![](<../../.gitbook/assets/11 (10).png>)
 
 * Navigate to Settings --> Solutions.
 
-![](<../../.gitbook/assets/12 (8).png>)
+![](<../../.gitbook/assets/12 (5).png>)
 
 * Click on Import.
 
-![](<../../.gitbook/assets/13 (7).png>)
+![](<../../.gitbook/assets/13 (1).png>)
 
 * Browse the downloaded file.
 
-![](../../.gitbook/assets/u5.png)
+![](<../../.gitbook/assets/u5 (1).png>)
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 

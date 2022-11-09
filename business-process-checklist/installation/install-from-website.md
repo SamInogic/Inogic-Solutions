@@ -8,15 +8,15 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Once you have signed in, select the instance on which you want to install the solution.
 
-<figure><img src="../../.gitbook/assets/Powerapps_1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Powerapps_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Then select **Solutions** from the left navigation as shown in below screenshot:
 
-<figure><img src="../../.gitbook/assets/Powerapps_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Powerapps_2 (1).png" alt=""><figcaption></figcaption></figure>
 
 * On the command bar, select **Import**.
 
-<figure><img src="../../.gitbook/assets/Powerapps_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Powerapps_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * On the **Import a solution** page, select **Browse** to locate the compressed (.zip) file that contains the solution you want to import.
 
@@ -30,7 +30,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Select **Import** and proceed to import the solution.
 
-<figure><img src="../../.gitbook/assets/Powerapps_6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Powerapps_6.png" alt=""><figcaption></figcaption></figure>
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -44,28 +44,28 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * To import the solution, navigate to **Advanced Settings** on Gear Icon on the top right.
 
-<figure><img src="../../.gitbook/assets/1 (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (328).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Settings -> Solutions.**
 
-<figure><img src="../../.gitbook/assets/2 (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (18).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Import.**
 
-<figure><img src="../../.gitbook/assets/3 (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (37).png" alt=""><figcaption></figcaption></figure>
 
 * **Browse** the downloaded file and click open.
 
-<figure><img src="../../.gitbook/assets/4 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (25).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **‘Next’.**
 
-<figure><img src="../../.gitbook/assets/5 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (21).png" alt=""><figcaption></figcaption></figure>
 
 * Next, check **‘Enable any SDK message processing steps included in the solution’** and proceed to import the solution.
 
-<figure><img src="../../.gitbook/assets/6 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (19).png" alt=""><figcaption></figcaption></figure>
 
 * Solution is successfully imported
 
-<figure><img src="../../.gitbook/assets/7 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (18).png" alt=""><figcaption></figcaption></figure>

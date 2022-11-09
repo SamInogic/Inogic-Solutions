@@ -12,7 +12,7 @@ Unlink all Account, Contact, and Product records.
 
     Example: For Account entity, **Navigate to Account Entity --> Linked Accounts --> Select Records --> UnLink.**
 
-![](<../.gitbook/assets/Uninstall\_1 (5).png>)
+![](../.gitbook/assets/Uninstall\_1.png)
 
 * After you’ve unlinked all Account, Contact, and Product records, follow step 2.
 
@@ -22,13 +22,13 @@ Unlink all Account, Contact, and Product records.
 
 ![](<../.gitbook/assets/Uninstall\_1 (6).png>)
 
-![](<../.gitbook/assets/Uninstall\_3 (3).png>)
+![](<../.gitbook/assets/Uninstall\_3 (1).png>)
 
 * Click on **QuickBooks** in InoLink Settings page --> Select your company --> Click on **remove** button --> a confirmation dialogue would open --> Click on **Yes** to remove the Accounting Company from CRM.&#x20;
 
-![](<../.gitbook/assets/Uninstall\_4 (2).png>)
+![](../.gitbook/assets/Uninstall\_4.png)
 
-![](<../.gitbook/assets/Uninstall\_5 (4).png>)
+![](<../.gitbook/assets/Uninstall\_5 (2).png>)
 
 * Once the Accounting Company is successfully deleted (a success popup message will appear), follow Step 3.
 

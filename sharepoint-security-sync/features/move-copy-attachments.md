@@ -6,15 +6,15 @@ Users can move/copy Dynamics 365 CRM Notes Attachments/Email Attachments and Sal
 
 If enabled, it’ll move/copy the Note Attachments to the respective entity folder and leave a a hyperlink of the path in Note Body.
 
-![Copy Notes](../../.gitbook/assets/NotesCopyScreenshot.png)
+![Copy Notes](<../../.gitbook/assets/NotesCopyScreenshot (1).png>)
 
-![Move Notes](<../../.gitbook/assets/NotesMoveScreenshot (1).png>)
+![Move Notes](../../.gitbook/assets/NotesMoveScreenshot.png)
 
 ### Email Attachments:
 
 If enabled, it’ll move/copy the Email Attachments to a common folder called Email Attachments or Regarding folder and leave a hyperlink of the path in Note Body.
 
-![Copy Email Attachment](<../../.gitbook/assets/EmailCopy (3).png>)
+![Copy Email Attachment](../../.gitbook/assets/EmailCopy.png)
 
 ![Move Email Attachment](../../.gitbook/assets/EmailMove.png)
 

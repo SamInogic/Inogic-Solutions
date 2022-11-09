@@ -23,7 +23,7 @@ To enable automatic assignments on the update, follow the steps given below:
 
 ![](<../../../.gitbook/assets/Classic WF\_5.jpg>)
 
-![](<../../../.gitbook/assets/Classic WF\_6.jpg>)
+![](<../../../.gitbook/assets/Classic WF\_6 (1).jpg>)
 
 * Pass **PrimaryEntityName** and **PriamryEntityID** as Logical name of the entity e.g. lead, incident etc. and **‘GUID of the record return by the msdyncrmworkflow tools step’** respectively. This action will perform automatic assignment based on the Assignment Rules.&#x20;
 

@@ -8,20 +8,20 @@ If you’ve used Click2Export assembly in your workflow, remove the assembly fro
 
 ![](../.gitbook/assets/Untitled.png)
 
-![](../.gitbook/assets/1.jpg.png)
+![](<../.gitbook/assets/1.jpg (1).png>)
 
 If you are not using Click2Export assembly, then start from Step 2.&#x20;
 
 **Step 2:** Navigate to **Settings -> Solution -> Select Click2Export solution**
 
-![](<../.gitbook/assets/1 (350).png>)
+![](<../.gitbook/assets/1 (203).png>)
 
 **Step 3:** Click on **delete** button.
 
-![](<../.gitbook/assets/1 (252).png>)
+![](<../.gitbook/assets/1 (104).png>)
 
 &#x20;**Step 4:** Click on **OK** button.
 
-![](<../.gitbook/assets/1 (167).png>)
+![](<../.gitbook/assets/1 (178).png>)
 
 After clicking on OK your solution will be successfully uninstalled.

@@ -39,7 +39,7 @@ To directly send an email with multiple attachments, please follow the steps giv
 
 * In the case of **Attach Documents**, the file will be added as an attachment in the email attachment section.
 
-![](<../../.gitbook/assets/Image4 (1).png>)
+![](../../.gitbook/assets/Image4.png)
 
 * In the case of **Links**, the link of the SharePoint folder location of the selected file will be added as a link in the email body.
 

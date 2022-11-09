@@ -1,25 +1,26 @@
 # Plan
 
-To create Plan (Checklist), just follow the simple steps given below:
+Below are the steps to configure the checklist type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan**
 
-<figure><img src="../../../../.gitbook/assets/plan_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click on Create **New plan** button and select **Checklist.**
+* Click on the **'New plan'** button and select **Checklist.**
 
 <figure><img src="../../../../.gitbook/assets/plan_2.png" alt=""><figcaption></figcaption></figure>
 
-* This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan Checklist based on which plan will be executed.
-  * **Name:** Give an appropriate name to the plan.
+* This will open the **'New Plan'** page where you need to fill in the details
+  * **Name:** Give a unique name to the plan.
   * **Description:** Give a short description of the plan.
-  * **Plan detail settings:** Set the priority order and select the plan type.
-    * **Plan Type:** Select Plan Type **** as **Checklist.**
-    * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
   * **Record Type:** Select the **Record Type** to which the plan will be attached
+  * **Plan Type:** Select Plan Type **** as **Checklist**.
+  * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field.
   * **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria matches.) Select either **Simple** or **Advanced**.
-    * **Simple: Execute plans** based on the View of an entity.
-    * **Advanced: Execute Plans** based on filter criteria or conditions (conditions defined in Fetch XML).
+    * **Simple:** Execute plans based on the View of an entity.
+    * **Advanced:** Execute Plans based on filter criteria or conditions (conditions defined in Fetch XML).
+* **Business Process:** Create a plan for a Business Process Flow.
+* **Custom Groups:** Create a plan for a Custom Group.
 
 <figure><img src="../../../../.gitbook/assets/plan_3.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,4 +30,4 @@ To create Plan (Checklist), just follow the simple steps given below:
 
 * The new plan will be created and can be seen on **Plans**.
 
-<figure><img src="../../../../.gitbook/assets/plan_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan_5.png" alt=""><figcaption></figcaption></figure>

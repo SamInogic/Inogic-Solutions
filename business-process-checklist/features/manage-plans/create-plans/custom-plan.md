@@ -6,7 +6,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 * Enable entity configuration for this situation select  **‘Lead’** entity.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/1 (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (296).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **BPC Settings** **--> Plans --> New Plan.**
 
@@ -14,7 +14,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 * Click on Create **New plan** button and select **Process.**
 
-<figure><img src="../../../../.gitbook/assets/Custom process_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom process_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Process based on which plan will be executed.
 
@@ -99,7 +99,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
       * **Simple:** Here you can select any ‘View’ from the dropdown.
       * **Advanced:** Here, you can further define and set criteria for records through fetch XML.
 
-<figure><img src="../../../../.gitbook/assets/Custom process plan step action_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom process plan step action_2 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**.
 

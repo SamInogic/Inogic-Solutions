@@ -28,7 +28,7 @@ Now in **‘Apply Charges’** field there are three options available – I**mm
 
 **Custom:** The new charges will be applicable from the date set in 'Billing Start Date' and the new invoice will be generated accordingly. For example, if the user count was increased on 13th March then the invoice can be generated for past date i.e. **10th March** or it can be generated for future date i.e. **15th March** and based on this date the charges will be calculated for the remaining period. Once **‘Custom’** option is selected, a new field termed **‘Billing Start Date’** will appear from where you can set the necessary date.
 
-![](<../../.gitbook/assets/Apply Charges\_3 (1).png>)
+![](<../../.gitbook/assets/Apply Charges\_3.png>)
 
 ![](<../../.gitbook/assets/Apply Charges\_4.png>)
 

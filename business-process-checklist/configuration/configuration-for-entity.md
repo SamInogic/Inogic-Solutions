@@ -10,7 +10,7 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 
 * Select the required entity to configure from the appeared menu.
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity Configuration_2.png" alt=""><figcaption></figcaption></figure>
 
 * Now your enabled entity configuration will appear below and **Email, Phone Call & Task** which are three default supported activities.
 

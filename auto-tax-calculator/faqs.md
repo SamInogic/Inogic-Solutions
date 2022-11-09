@@ -14,7 +14,7 @@ Once the solution is imported, please follow the below steps to activate all the
 
 * From **'All Process'** View activate the process shown in the below screenshot:
 
-![](../.gitbook/assets/FAQ\_1.png)
+![](<../.gitbook/assets/FAQ\_1 (5).png>)
 
 ## 2) What is the significance of Location in tax calculation?
 

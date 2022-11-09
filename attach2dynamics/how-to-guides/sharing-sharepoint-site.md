@@ -8,7 +8,7 @@ If you want to share the SharePoint site **** with the users who doesn’t have 
 
 * Click on the **Setting** button on the top which is highlighted in the below screenshot --> Click on the **Site Permissions**.
 
-![](<../../.gitbook/assets/Sharing SharePoint\_2.png>)
+![](<../../.gitbook/assets/Sharing SharePoint\_2 (1).png>)
 
 * Next, click on the Advanced permissions settings.
 

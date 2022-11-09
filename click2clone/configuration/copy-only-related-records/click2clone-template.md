@@ -4,7 +4,7 @@ To set up template, follow the steps given below:
 
 * Go to **Click2Clone app** --> **Click2Clone Templates** --> Click on **New.**
 
-![](<../../../.gitbook/assets/Temp\_1 (4).png>)
+![](../../../.gitbook/assets/Temp\_1.png)
 
 * Enter a valid name for the template --> Select source entity as **'Opportunity'** --> Click on **Save.**&#x20;
 

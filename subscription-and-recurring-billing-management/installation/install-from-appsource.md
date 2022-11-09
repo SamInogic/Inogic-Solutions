@@ -8,7 +8,7 @@ To install **Subscription and Recurring Billing Management** from Microsoft AppS
 
 * If the user is already logged into CRM, accept the terms & conditions, and click on '**Continue**'.
 
-![](<../../.gitbook/assets/SRBM AppSource\_2 (2).png>)
+![](<../../.gitbook/assets/SRBM AppSource\_2 (1).png>)
 
 * If the user is not logged into CRM, fill in the credentials, and Sign in.
 

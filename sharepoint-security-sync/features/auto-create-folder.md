@@ -22,7 +22,7 @@ Follow the steps given below to create a workflow.
 
 * Next, select **Perform Action** step.
 
-![](<../../.gitbook/assets/Auto Create Folder Workflow\_4.1.png>)
+![](<../../.gitbook/assets/Auto Create Folder Workflow\_4.1 (1).png>)
 
 * Then from the dropdown select the **AutoCreateFolderStructure** action as shown below:
 

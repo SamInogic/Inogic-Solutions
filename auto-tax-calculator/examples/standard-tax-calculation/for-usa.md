@@ -12,8 +12,8 @@ If **‘Is Taxable’** field is set to **‘Yes’** then the Auto Tax Calculat
 
 Now, if you are to create an Opportunity and add products then tax will be calculated on the basis of Tax Schedule defined on the Customer set on Ship to Customer field.
 
-![](<../../../.gitbook/assets/USA\_3 (1).png>)
+![](../../../.gitbook/assets/USA\_3.png)
 
 Similarly, you will get ‘Tax Processing’ tab which will give you detailed information about the tax calculated. Here also you will see the ‘Is Taxable’ field. You can set this field as per your preference.
 
-![](<../../../.gitbook/assets/USA\_4 (1).png>)
+![](../../../.gitbook/assets/USA\_4.png)

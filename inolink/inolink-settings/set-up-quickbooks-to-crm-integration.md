@@ -2,7 +2,7 @@
 
 In this section, we will dive deep into the process of syncing data from QuickBooks to Dynamics 365 CRM.
 
-![](<../../.gitbook/assets/QB to CRM\_1.png>)
+![](<../../.gitbook/assets/QB to CRM\_1 (2).png>)
 
 ### Customer
 

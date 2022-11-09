@@ -4,7 +4,7 @@ The first step after installing the solution is to activate the license. And to 
 
 * Navigate to **Apps** --> **SharePoint Security Sync** app.
 
-![](<../../.gitbook/assets/7 (17).png>)
+![](<../../.gitbook/assets/7 (6).png>)
 
 * Go to **License Registration**.
 

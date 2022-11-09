@@ -6,7 +6,7 @@
 
 **Last Processed Date:** There is a process involved in the **'systemuser-login'** entity configuration, that runs in the background depending on the polling interval defined for the **'systemuser-login'** entity configuration. For example, if the **'Preferred Start Time'** and **'Polling'** are defined as below –
 
-![](<../.gitbook/assets/FAQ\_2 (2).png>)
+![](<../.gitbook/assets/FAQ\_2 (4).png>)
 
 Then, the process will first run at 18:18 and it will continue triggering at the interval of every 4 hours as the polling is set to **'Every 4 Hours'** as seen in the above image. Each time the process triggers, it checks for the CRM access of the respective users within that period of time (polling) and track the same.
 
@@ -84,7 +84,7 @@ To delete the **User Adoption Monitor** license follow the steps given below:
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
-![](../.gitbook/assets/FAQ\_2.png)
+![](<../.gitbook/assets/FAQ\_2 (2).png>)
 
 * Select the **User Adoption Monitor** record and **delete** it.
 

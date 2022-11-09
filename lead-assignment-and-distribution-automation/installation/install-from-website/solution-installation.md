@@ -58,7 +58,7 @@ You can now browse and upload your solution for importing.
 
 Check **Enable any SDK message processing steps included in the solution** and click on **Import**.
 
-![](<../../../.gitbook/assets/Install\_8 (1).png>)
+![](../../../.gitbook/assets/Install\_8.png)
 
 The solution will be imported in your environment.
 

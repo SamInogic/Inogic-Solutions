@@ -8,33 +8,33 @@ To import the solution from make.powerapps.com, download the Alerts4Dynamics sol
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (294).png>)
+![](<../../.gitbook/assets/1 (192).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (44).png>)
+![](<../../.gitbook/assets/2 (60).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (3).png>)
+![](<../../.gitbook/assets/3 (2).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (10).png>)
+![](<../../.gitbook/assets/4 (19).png>)
 
-![](<../../.gitbook/assets/5 (26).png>)
+![](<../../.gitbook/assets/5 (23).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (11).png>)
+![](<../../.gitbook/assets/6 (16).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (3).png>)
+![](<../../.gitbook/assets/7 (13).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
-![](<../../.gitbook/assets/8 (5).png>)
+![](<../../.gitbook/assets/8 (3).png>)
 
 * After the solution is imported you will get a message on the top notifying the same.&#x20;
 
@@ -48,15 +48,15 @@ Follow the steps to import and install **Alerts4Dynamics** solution.
 
 * Navigate to **Advanced Settings** on Gear icon on the top right to import the solution.
 
-![](<../../.gitbook/assets/a (2).png>)
+![](<../../.gitbook/assets/a (8).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/b (5).png>)
+![](<../../.gitbook/assets/b (4).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/c (8).png>)
+![](<../../.gitbook/assets/c (5).png>)
 
 * Browse the downloaded file.
 
@@ -64,6 +64,6 @@ Follow the steps to import and install **Alerts4Dynamics** solution.
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/e (3).png>)
+![](../../.gitbook/assets/e.png)
 
 <figure><img src="../../.gitbook/assets/classic ui install.png" alt=""><figcaption></figcaption></figure>

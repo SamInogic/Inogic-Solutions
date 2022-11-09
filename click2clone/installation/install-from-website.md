@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Click2Clone solutio
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](../../.gitbook/assets/a.png)
+![](<../../.gitbook/assets/a (4).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](../../.gitbook/assets/b.png)
+![](<../../.gitbook/assets/b (2).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (7).png>)
+![](<../../.gitbook/assets/c (6).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (2).png>)
+![](<../../.gitbook/assets/d (4).png>)
 
-![](<../../.gitbook/assets/e (4).png>)
+![](<../../.gitbook/assets/e (3).png>)
 
 * Select **Next**.
 
-![](../../.gitbook/assets/f.png)
+![](<../../.gitbook/assets/f (2).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/g (2).png>)
+![](../../.gitbook/assets/g.png)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -42,15 +42,15 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (111).png>)
+![](<../../.gitbook/assets/1 (204).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (13).png>)
+![](<../../.gitbook/assets/2 (33).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (8).png>)
+![](../../.gitbook/assets/3.png)
 
 * Browse the downloaded file.
 
@@ -58,7 +58,7 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (8).png>)
+![](<../../.gitbook/assets/5 (1).png>)
 
 
 

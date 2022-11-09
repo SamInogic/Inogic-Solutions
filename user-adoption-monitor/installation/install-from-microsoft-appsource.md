@@ -4,7 +4,7 @@ To install **User Adoption Monitor** solution from **Microsoft AppSource**, clic
 
 * Go to User Adoption Monitor page on Microsoft AppSource --> Click on the **FREE TRIAL** button.
 
-![](<../../.gitbook/assets/1 (289).png>)
+![](<../../.gitbook/assets/1 (393).png>)
 
 * If you have already logged into CRM, accept the terms & conditions --> Click on **Continue**.&#x20;
 
@@ -12,11 +12,11 @@ To install **User Adoption Monitor** solution from **Microsoft AppSource**, clic
 
 * If you have not logged into CRM, fill in the credentials and **Sign in**.
 
-![](<../../.gitbook/assets/2 (51).png>)
+![](<../../.gitbook/assets/2 (65).png>)
 
 * Next, confirm the details in the form --> Accept the terms & conditions --> Click on **Continue**.
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (5).png>)
 
 * Now, select an environment from the dropdown list and accept the privacy policies & legal terms by clicking on the checkboxes --> Click on **Install** to proceed further.
 

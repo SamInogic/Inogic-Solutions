@@ -10,7 +10,7 @@ Here are the steps to activate the Gamifics365 license.
 
 * Go to **License Registration.**
 
-![](<../../.gitbook/assets/Lic Reg\_1.png>)
+![](<../../.gitbook/assets/Lic Reg\_1 (1).png>)
 
 * Enter the details: **First Name, Last Name, Company Name, Email, Website and Main Phone.** After filling in the details click ‘**ACTIVATE’** for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active** **users** in the **CRM**. &#x20;
 

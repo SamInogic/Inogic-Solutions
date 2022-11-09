@@ -10,11 +10,11 @@ Here are the steps to activate Subscription and Recurring Billing Management lic
 
 * Enter the following details: **First Name, Last Name, Company Name, Email, Website and Main Phone**. After filling the details click **‘ACTIVATE’** for activating the Trial Version for 15 days. The license is issued based on the details filled in the CRM Details section. The User License is the count of active users in the CRM.
 
-![](<../../.gitbook/assets/Lic\_2 (4).png>)
+![](<../../.gitbook/assets/Lic\_2 (6).png>)
 
 * If you want to purchase or extend the trial, click on **SEND REQUEST** --> Enter all details --> Click again on **SEND REQUEST** and send the email to Inogic.
 
-![](<../../.gitbook/assets/Lic\_3 (4).png>)
+![](../../.gitbook/assets/Lic\_3.png)
 
 ### Alternate method to complete License Activation __&#x20;
 
@@ -22,15 +22,15 @@ Follow the below steps to complete registration through the **‘License Registr
 
 * Request .lic file from Inogic --> Save file --> Go to **Subscription and Recurring Billing Management** app --> License Registration --> Click **Choose File** to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/Lic\_4 (8).png>)
+![](<../../.gitbook/assets/Lic\_4 (4).png>)
 
 * Select the file from the window and then click on **Open**.
 
-![](<../../.gitbook/assets/Lic\_5 (3).png>)
+![](../../.gitbook/assets/Lic\_5.png)
 
 * Next, click **Register** to complete the License Registration.
 
-![](<../../.gitbook/assets/Lic\_6 (2).png>)
+![](<../../.gitbook/assets/Lic\_6 (5).png>)
 
 
 

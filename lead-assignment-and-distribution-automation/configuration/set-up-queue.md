@@ -28,7 +28,7 @@ Once the members are added to the teams, next step is to set up Queues. It is ne
 
 * Navigate to **Settings --> Lead Assignment Distribution --> Queues --> Click on ‘New’.**
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
 ![](<../../.gitbook/assets/LADA Queue\_2.png>)
 
@@ -40,4 +40,4 @@ Once the members are added to the teams, next step is to set up Queues. It is ne
 
     Once it is saved, you can add members to the **Queue**.
 
-![](<../../.gitbook/assets/image (227).png>)
+![](<../../.gitbook/assets/image (106).png>)

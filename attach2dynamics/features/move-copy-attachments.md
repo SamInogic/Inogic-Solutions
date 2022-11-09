@@ -10,9 +10,9 @@ In order to achieve this it is necessary to configure entities. For detailed ste
 
 **Notes Attachments:** If enabled, it’ll move/copy the Note Attachments to the respective entity folder and leave a a hyperlink of the path in Note Body.
 
-![Copy Note Attachment](<../../.gitbook/assets/NotesCopyScreenshot (1).png>)
+![Copy Note Attachment](../../.gitbook/assets/NotesCopyScreenshot.png)
 
-![Move Note Attachment](../../.gitbook/assets/NotesMoveScreenshot.png)
+![Move Note Attachment](<../../.gitbook/assets/NotesMoveScreenshot (1).png>)
 
 {% hint style="info" %}
 **Note:**
@@ -23,7 +23,7 @@ In order to achieve this it is necessary to configure entities. For detailed ste
 
 **Email Attachments:** If enabled, it’ll move/copy the Email Attachments to a common folder called Email Attachments or Regarding folder and leave a hyperlink of the path in Note Body.
 
-![Copy Email Attachment](<../../.gitbook/assets/EmailCopy (2).png>)
+![Copy Email Attachment](<../../.gitbook/assets/EmailCopy (3).png>)
 
 ![Move Email Attachment](<../../.gitbook/assets/EmailMove (1).png>)
 

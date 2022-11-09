@@ -6,7 +6,7 @@ To create **Plan steps**, follow the steps given below:
 
 * Once you create a new plan fill in plan details and click **Save** Navigate to **Plan Details** **-->** **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/plan step_1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan step_1.png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **New Plan Step** button.
 

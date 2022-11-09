@@ -2,7 +2,7 @@
 
 In Subscription and Recurring Billing Management app, there are two areas – **App Settings and Subscription Management.** In App Settings, a Configuration entity record is created once the license is activated. The Configuration entity consists of an Inogic Setting record which holds the global settings for the Subscription and Recurring Billing Management app. In Inogic Settings record, you shall see the following sections – **General and Subscription Management.**
 
-![](../../.gitbook/assets/Config\_2.png)
+![](<../../.gitbook/assets/Config\_2 (3).png>)
 
 ## **General**
 
@@ -95,4 +95,4 @@ To generate **‘Token’**, follow the steps given below:
 * **Default Delayed Charge Schedule:** This field defines the delayed charge schedule based on which late payment charges will be levied on overdue invoices. Same as the Reminder schedule the default value will be set only if the Subscription Schedule is getting created from Opportunity, Quote or Order.
 * **Pricing Mode:** This field defines two pricing modes – **Subscription Management Mode & Recurring Billing Mode.** The Recurring Billing Mode has the basic features like generating recurring Invoices as per the CRM price list. The Subscription Management mode has the additional functionalities of creating plans & add-ons, price list, proration, revising schedules, creating margin schedules, etc. Users can select either mode depending on the work requirement.
 
-![](<../../.gitbook/assets/Config\_4 (6).png>)
+![](<../../.gitbook/assets/Config\_4 (2).png>)

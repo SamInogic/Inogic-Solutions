@@ -12,25 +12,25 @@ To import the solution from make.powerapps.com, download the Map My Relationship
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (3).png>)
+![](<../../.gitbook/assets/b (8).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (3).png>)
+![](<../../.gitbook/assets/c (9).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (8).png>)
+![](<../../.gitbook/assets/d (5).png>)
 
-![](<../../.gitbook/assets/5 (6).png>)
+![](<../../.gitbook/assets/5 (24).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (13).png>)
+![](<../../.gitbook/assets/6 (20).png>)
 
 * Then click on **Import** and proceed to import the solution.
 
-![](<../../.gitbook/assets/7 (15).png>)
+![](<../../.gitbook/assets/7 (7).png>)
 
 * After successful import, you can see the solution.
 
@@ -44,23 +44,23 @@ Follow the step by step procedure given below:
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (109).png>)
+![](<../../.gitbook/assets/1 (9).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (55).png>)
+![](<../../.gitbook/assets/2 (39).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (36).png>)
+![](<../../.gitbook/assets/3 (4).png>)
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/1 (134).png>)
+![](<../../.gitbook/assets/1 (383).png>)
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (9).png>)
+![](<../../.gitbook/assets/5 (3).png>)
 
 Now, if you want to upgrade the solution to its latest version or reinstall the same solution, then you will get the following dialog box. Here, select the highlighted **'Upgrade'** point and the **'Overwrite customizations'** point for installing the latest solution. And for reinstalling the same solution, just select the **'Overwrite customizations'** point. Lastly, click on **Import** to start the installation process.&#x20;
 

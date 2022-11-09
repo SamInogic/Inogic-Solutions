@@ -14,7 +14,7 @@ Whenever there is a new notification a red dot comes on the Notification button.
 
 Notifications can be seen by clicking on Notification button.
 
-<figure><img src="../../.gitbook/assets/VIEW AND Dismiss notification (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/VIEW AND Dismiss notification.png" alt=""><figcaption></figcaption></figure>
 
 ### How to dismiss Notifications?
 

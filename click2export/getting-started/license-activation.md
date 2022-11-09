@@ -10,11 +10,11 @@ Here are the steps to activate Click2Export license.
 
 * Go to License Registration.
 
-![](<../../.gitbook/assets/2020-05-21 13\_30\_00- (1).png>)
+![](<../../.gitbook/assets/2020-05-21 13\_30\_00-.png>)
 
 Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on ACTIVATE.
 
-![](<../../.gitbook/assets/2020-05-21 13\_30\_00-.png>)
+![](<../../.gitbook/assets/2020-05-21 13\_30\_00- (2).png>)
 
 If you want to purchase or extend the trial, click on SEND REQUEST --> Enter all details --> Click again on SEND REQUEST and send the email to Inogic.
 

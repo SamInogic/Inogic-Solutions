@@ -8,7 +8,7 @@ In order to create Email Template navigate to **Click2Export App** --> **CRM Tem
 
 ### **General:**
 
-<figure><img src="../../../.gitbook/assets/32.1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/32.1.png" alt=""><figcaption></figcaption></figure>
 
 * **Template Type:** Select **‘Email’** template.&#x20;
 * **Record Type:** Select any record. Here, **‘Account’** is selected. Once record is selected a new field **‘View’** will appear.&#x20;

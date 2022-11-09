@@ -30,15 +30,15 @@ The interval period depends upon the occurrence pattern selected by the user.
 
 &#x20;     a) In the below screenshot, **Occurrence Pattern** is set as **Daily** and **Every X day(s)** is set as **3**. Here the first process will occur on 6th June 2019, at 5:30 and from there onwards every **3rd day** till the **End by** date & time.
 
-![](<../../.gitbook/assets/3 (37).png>)
+![](<../../.gitbook/assets/3 (22).png>)
 
 &#x20;     b) In the below screenshot, **Occurrence Pattern** is set as **Weekly** and **Recurs every X week(s)** is set as **2**. Here the first process will occur on the set **Start Time.** Next it will occur on the coming **Tuesday** and from there onwards every **2 weeks** on **Tuesday**, till the **End by** date & time.
 
-![](<../../.gitbook/assets/4 (1).png>)
+![](<../../.gitbook/assets/4 (18).png>)
 
 &#x20;     c) In below screenshot, **Occurrence Pattern** is set as **Monthly**, **Day** is set as **4** and **Of every X month(s)** is set as **2**. Here the first process will occur on the set **Start Time** and from there onwards **4th** day of every **2 months**, till the **End by** date & time.
 
-![](<../../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (25).png>)
 
 Fill the required fields and click on **Save**.
 

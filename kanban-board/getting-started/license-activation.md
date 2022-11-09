@@ -4,7 +4,7 @@ After importing the solution, the next step is to activate the License. Follow t
 
 * Navigate to **My Apps** -> **Kanban Board**. After the solution is imported, it will be displayed in **My Apps**.
 
-![](<../../.gitbook/assets/1 (361).png>)
+![](<../../.gitbook/assets/1 (64).png>)
 
 * Now, click on **Kanban Board** app and below page will be displayed.
 
@@ -20,7 +20,7 @@ After you have activated license, you need to configure Kanban Board to view it 
 
 If you want to purchase or extend the trial, click ‘**SEND REQUEST**’ after which you need to enter **First Name, Last Name, Company Name, Email, Website** and **Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
 
-![](<../../.gitbook/assets/1 (2) (1).png>)
+![](<../../.gitbook/assets/1 (2) (2).png>)
 
 ### Alternate method to complete License Activation __&#x20;
 
@@ -28,7 +28,7 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request .lic file from Inogic --> Save file --> Go to **Kanban Board** app --> **License Registration** --> Click **Choose File** to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/Lic Reg\_1 (1).png>)
+![](<../../.gitbook/assets/Lic Reg\_1.png>)
 
 * Select the file --> Click **Open**.
 

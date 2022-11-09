@@ -6,17 +6,17 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * Enable entity configuration for **‘Account’** entity.&#x20;
 
-![](<../../../.gitbook/assets/Event\_1 (2).png>)
+![](<../../../.gitbook/assets/Event\_1 (4).png>)
 
 * Navigate to **Advanced Settings --> Processes --> Create New process**.
 
-![](../../../.gitbook/assets/Event\_2.png)
+![](<../../../.gitbook/assets/Event\_2 (4).png>)
 
 * Fill the following details and click on **OK**.&#x20;
   * Enter a relevant name for the process •
   * Select the category as **‘Workflow’** and Entity as ‘**Account**’.
 
-<figure><img src="../../../.gitbook/assets/3 (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (24).png" alt=""><figcaption></figcaption></figure>
 
 * Select the event on which you want the notification to created.
 
@@ -24,7 +24,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * Now create a record of **‘Notification Request’.** For this, select **Add Step** --> **Create Record** --> Select **‘Notification Request’** from the dropdown.
 
-![](<../../../.gitbook/assets/Event\_5 (2).png>)
+![](<../../../.gitbook/assets/Event\_5 (1).png>)
 
 * Click on **‘Set Properties’**.&#x20;
 
@@ -35,7 +35,7 @@ For example, the user wants an alert notification to be shown to all users in CR
   * **Message Text –** Enter some valid text (You can also select dynamic value).
 * Select the above field and click on **‘Add’** button to add it in the Message Text field.
 
-![](<../../../.gitbook/assets/Event\_1 (1).png>)
+![](<../../../.gitbook/assets/Event\_1 (3).png>)
 
 * Click **OK**. You will see the dynamic value is set to the **‘Message Text’** field. Similarly add Dynamic values in **‘Name’** field.
 * Fill in the following details:&#x20;
@@ -48,7 +48,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * For the **‘Notification Audiences’** you can select dynamic users like **Owning User** of the record as well as the **Manager of the Owning User** as shown in **Include Users** field.
 
-![](../../../.gitbook/assets/Event\_8.png)
+![](<../../../.gitbook/assets/Event\_8 (2).png>)
 
 * Once details are filled, click on **‘Save and Close’** and then activate the workflow by clicking **‘Activate’** button.
 

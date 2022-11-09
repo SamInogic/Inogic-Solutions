@@ -20,7 +20,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Process based on which plan will be executed.
 
-<figure><img src="../../../../.gitbook/assets/BPF_4 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_4 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the following fields:&#x20;
 * **Name:** Give an appropriate name to the plan.
@@ -122,15 +122,15 @@ In the same way, you can create Advanced plans for other records also.
 
 * Navigate to **BPC Settings** **--> Plans --> New Plan.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_2 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on Create **New plan** button and select **Checklist.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_2 (3).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Checklist based on which plan will be executed.
 
-<figure><img src="../../../../.gitbook/assets/BPF_4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_4 (4).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the following fields:&#x20;
 * **Name:** Give an appropriate name to the plan.
@@ -141,7 +141,7 @@ In the same way, you can create Advanced plans for other records also.
 * **Record Type:** Select the **Record Type** to which the plan will be attached, here we are selecting the '**Lead' entity**.
 * This will set the fields with values as shown below:
 
-<figure><img src="../../../../.gitbook/assets/BPF_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_5 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria matches.) Select either **Simple** or **Advanced**.
 

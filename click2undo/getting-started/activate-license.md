@@ -26,7 +26,7 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request .lic file from Inogic --> Save file --> Go to Click2Undo app --> License Registration --> Click ‘Choose File’ to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/Lic\_3 - Copy (2).png>)
+![](<../../.gitbook/assets/Lic\_3 - Copy (1).png>)
 
 * Select the file --> Click ‘Open.’
 
@@ -34,4 +34,4 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Click on ‘Register’ to complete the License Registration.
 
-![](<../../.gitbook/assets/Lic\_5 (9).png>)
+![](<../../.gitbook/assets/Lic\_5 (3).png>)

@@ -16,19 +16,19 @@ To enable Assignment Configuration follow the steps given below:&#x20;
 
 * Select the entities from the list of **Available Entities** --> Move them to the list **Selected Entities.**
 
-![](<../../.gitbook/assets/Config\_3 (3).png>)
+![](<../../.gitbook/assets/Config\_3 (1).png>)
 
 * Click on **Save**.&#x20;
 
-![](<../../.gitbook/assets/Config\_4 (2).png>)
+![](<../../.gitbook/assets/Config\_4 (3).png>)
 
 * At any time you can **disable** the Assignment Configuration for a particular Entity by removing the entity from Selected Entities list.
 
-![](<../../.gitbook/assets/Config\_5 (3).png>)
+![](<../../.gitbook/assets/Config\_5 (2).png>)
 
 * You can see **Appointment** has been removed from Selected Entities grid and is now again available in Available Entities grid. Click on **Save** in order to retain these settings.
 
-![](<../../.gitbook/assets/Config\_6 (2).png>)
+![](<../../.gitbook/assets/Config\_6 (3).png>)
 
 *   To view the Assignment Configurations go to **Lead Assignment and Distribution Automation**
 

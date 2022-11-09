@@ -10,5 +10,5 @@ Like installing Auto Tax Calculator solution, uninstalling the solution from you
 
 ![](../.gitbook/assets/Uninstall\_5.png)
 
-![](<../.gitbook/assets/Uninstall\_3 (1).png>)
+![](<../.gitbook/assets/Uninstall\_3 (3).png>)
 

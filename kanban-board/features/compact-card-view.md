@@ -22,4 +22,4 @@ Double-click on the card to open the record form.&#x20;
 
 The fields for these can be defined when configuring the component for a view as shown in the screenshot below.
 
-![](<../../.gitbook/assets/1 (345).png>)
+![](<../../.gitbook/assets/1 (137).png>)

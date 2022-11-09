@@ -4,7 +4,7 @@ To install Click2Export solution from the Microsoft AppSource, visit the [link](
 
 * Click on the 'FREE TRIAL' button.
 
-![](<../../.gitbook/assets/1 (333).png>)
+![](<../../.gitbook/assets/1 (243).png>)
 
 * If the user is already logged into CRM, accept the terms & conditions and click on 'Continue'.
 

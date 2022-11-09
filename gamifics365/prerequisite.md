@@ -14,7 +14,7 @@ To set the time zone and activate the flow, follow the simple steps given below:
 
 * Select **Gamifics365** solution --> Go to **Cloud flows**.
 
-![](../.gitbook/assets/Flow\_3.png)
+![](<../.gitbook/assets/Flow\_3 (1).png>)
 
 * Select **'Gamifics365 Schedule and End Games'** flow --> Click on **'Edit'**.
 

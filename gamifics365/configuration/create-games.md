@@ -20,7 +20,7 @@ In the **‘New Game’** window, you can see 6 different tabs – **Game Detail
 
 ![](<../../.gitbook/assets/Config Games\_6.png>)
 
-![](<../../.gitbook/assets/Config Games\_7.1.png>)
+![](<../../.gitbook/assets/Config Games\_7.1 (1).png>)
 
 **Section 1 – Name this game and provide description**
 

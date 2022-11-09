@@ -9,7 +9,7 @@ Here, 2 pins will be seen besides each of the Business Process Flow.
 
 ![](<../../.gitbook/assets/KB\_New BPF\_1.png>)
 
-![](<../../.gitbook/assets/KB\_New BPF\_2.png>)
+![](<../../.gitbook/assets/KB\_New BPF\_2 (1).png>)
 
 Click on **‘Switch to Default Board’** to switch the Kanban Board to Default Board.
 
@@ -17,4 +17,4 @@ Click on **‘Switch to Default Board’** to switch the Kanban Board to Default
 
 This field is by default enabled. You can disable/enable this field while configuring the Kanban View Component for a view as shown below:
 
-![](<../../.gitbook/assets/1 (31).png>)
+![](<../../.gitbook/assets/1 (281).png>)

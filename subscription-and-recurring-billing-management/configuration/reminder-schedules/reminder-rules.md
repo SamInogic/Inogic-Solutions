@@ -7,7 +7,7 @@ The Reminder Rule is used to create the rules around the Reminder Schedule, such
 * Go to **Subscription and Recurring Billing Management App --> Schedules --> Reminder Schedules.**&#x20;
 * Open the **Reminder Schedule** to which you wish to add the rule --> In the Rules section, click on **‘New Reminder Rule’** button to add a new rule.
 
-![](../../../.gitbook/assets/Reminder\_3.png)
+![](<../../../.gitbook/assets/Reminder\_3 (2).png>)
 
 * Enter details in the following fields or any other needed fields.
   * **Reminder Rule Name:** Descriptive name of the Reminder Rule.&#x20;
