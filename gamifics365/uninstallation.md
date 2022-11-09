@@ -22,10 +22,10 @@ Once the dependencies are removed you can uninstall the solution from the CRM en
 
 * Go to **Settings** --> **Solution** --> Select **Gamifics365** solution.
 
-![](<../.gitbook/assets/Uninstall\_1 (2).png>)
+![](<../.gitbook/assets/Uninstall\_1 (5).png>)
 
 * Click on the **Delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
 ![](<../.gitbook/assets/Uninstall\_2 (1).png>)
 
-![](<../.gitbook/assets/Uninstall\_3 (3).png>)
+![](<../.gitbook/assets/Uninstall\_3 (6).png>)

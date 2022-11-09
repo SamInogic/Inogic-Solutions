@@ -6,7 +6,7 @@ Email Templates can be exported for a View. Go to the entity for which you have 
 
 * The options for entity will be listed specific to the **Views** for which **Email Templates** have been created. Select the configured **View** you want to export --> Click on **OK.**
 
-![](<../../.gitbook/assets/Email Use case\_2.png>)
+![](<../../.gitbook/assets/Email Use case\_2 (1).png>)
 
 * Once export is complete a confirmation message will pop-up.
 

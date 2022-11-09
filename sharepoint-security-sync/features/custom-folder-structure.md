@@ -10,17 +10,17 @@ Using this feature, users can customize the library structure in the following w
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_10 (1).png>)
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_11.png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_11 (1).png>)
 
 * **By Starting Character:** Using this option user can create document library structure based on the starting character of any chosen field. This comes handy for segregating folders alphabetically. In the below screenshot, configuration of custom folder structure by starting character for Account entity is shown:
 
-![](<../../.gitbook/assets/Create Cust Fold\_3 (1).png>)
+![](<../../.gitbook/assets/Create Cust Fold\_3.png>)
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_14.png>)
 
 * **Custom:** Using this option users can create document library structure based on any field name. This comes handy for segregating folders on the basis of primary contacts, contact method, address, etc. In the below screenshot, configuration of custom folder structure by a particular field type for Account entity is shown:
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_16 (1).png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_16.png>)
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_15.png>)
 

@@ -18,7 +18,7 @@ Below are the steps that needs to be followed to export Word Template.
 
 * The following **Click2Export UI** will open.
 
-<figure><img src="../../.gitbook/assets/23.1.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23.1 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **Report Templates:** This is where you will have to select the CRM Report Template for the Word Template that you would want to export.
 

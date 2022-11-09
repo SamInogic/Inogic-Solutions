@@ -6,7 +6,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 * Enable entity configuration for this situation select  **‘Lead’** entity.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/1 (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (79).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **BPC Settings** **--> Plans --> New Plan.**
 
@@ -14,7 +14,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 * Click on Create **New plan** button and select **Process.**
 
-<figure><img src="../../../../.gitbook/assets/Custom process_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom process_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Process based on which plan will be executed.
 
@@ -178,7 +178,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
   * **Days:** Add the desired waiting period for this step to be performed in **Days**.
   * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**
 

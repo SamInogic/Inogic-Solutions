@@ -6,7 +6,7 @@ To achieve this, follow the steps given below:
 
 * Navigate to **SharePoint Security Sync App** --> Click **‘Connectors’** Entity --> Click **‘New’** to create a new **‘Connector.’**
 
-![](<../../.gitbook/assets/Config\_1 (2).png>)
+![](../../.gitbook/assets/Config\_1.png)
 
 * Populate the following fields:
   * **Name:** Give name to the connector&#x20;
@@ -30,13 +30,13 @@ DocuSign Plugin integration solution - [http://www.inogic.com/Assets/Trial/DocuS
 
 ![](../../.gitbook/assets/Conn\_Config.png)
 
-![](<../../.gitbook/assets/Config\_4 (2).png>)
+![](<../../.gitbook/assets/Config\_4 (1).png>)
 
 ### Credentials:
 
 This indicates that **Authentication** with the connector is done through **Credential i.e. id and password**. It is mandatory to enter credentials in order to create a new Connector. For authentication through credentials, for any attachment action, the name of user appears who has authenticated the Connector. Enter value for **Id** and **Password/Secret.** Next authenticate the credentials.
 
-![](<../../.gitbook/assets/Config\_5 (1).png>)
+![](<../../.gitbook/assets/Config\_5 (2).png>)
 
 {% hint style="info" %}
 **Note: In the Id field enter your username and in Password/Secret field enter password. It can be your normal Dynamics 365 CRM credentials.**&#x20;
@@ -46,7 +46,7 @@ This indicates that **Authentication** with the connector is done through **Cred
 
 This is to provide authentication with App. In App authentication, if any action is performed then the name of logged-in user appears.
 
-![](<../../.gitbook/assets/Share\_App\_1 (1).png>)
+![](../../.gitbook/assets/Share\_App\_1.png)
 
 In order to know how to generate Id and Password/Secret for App [click here](https://www.inogic.com/blog/how-to-create-azure-active-directory-app/). After you have generated the Id and Password enter them in the fields provided.
 
@@ -68,7 +68,7 @@ Once the **Authenticate** button is clicked, a Pop-up window will appear. Fill i
 
 In the Pop-up, please select **Consent on behalf of your organization** --> Click on the **Accept** button.
 
-![](<../../.gitbook/assets/Connector Config\_1 (1).png>)
+![](<../../.gitbook/assets/Connector Config\_1.png>)
 
 After clicking on the Accept button if the credentials are correct then you will get a Success message window.
 

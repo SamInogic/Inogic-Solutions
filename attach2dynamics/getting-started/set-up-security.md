@@ -24,14 +24,14 @@ Follow the steps below to assign security roles to users.
 
 * Select **Users**
 
-![](<../../.gitbook/assets/b (6).png>)
+![](<../../.gitbook/assets/b (4).png>)
 
 * Select user --> Click on **Manage Roles**
 
-![](<../../.gitbook/assets/c (9).png>)
+![](<../../.gitbook/assets/c (5).png>)
 
 * Click on any one of the security roles --> Click **Ok**.
 
 ![Admin Role](<../../.gitbook/assets/Set Security\_1.png>)
 
-![User Role](<../../.gitbook/assets/d (5).png>)
+![User Role](../../.gitbook/assets/d.png)

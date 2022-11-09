@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Map My Relationship
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (8).png>)
+![](<../../.gitbook/assets/a (7).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (1).png>)
+![](<../../.gitbook/assets/b (2).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (5).png>)
+![](<../../.gitbook/assets/c (6).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](../../.gitbook/assets/d.png)
+![](<../../.gitbook/assets/d (1).png>)
 
-![](<../../.gitbook/assets/5 (27).png>)
+![](<../../.gitbook/assets/5 (1).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (5).png>)
+![](<../../.gitbook/assets/6 (12).png>)
 
 * Then click on **Import** and proceed to import the solution.
 
-![](<../../.gitbook/assets/7 (15).png>)
+![](<../../.gitbook/assets/7 (6).png>)
 
 * After successful import, you can see the solution.
 
@@ -44,23 +44,23 @@ Follow the step by step procedure given below:
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (306).png>)
+![](<../../.gitbook/assets/1 (150).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (23).png>)
+![](<../../.gitbook/assets/2 (3).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (1).png>)
+![](<../../.gitbook/assets/3 (5).png>)
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/1 (195).png>)
+![](<../../.gitbook/assets/1 (70).png>)
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (13).png>)
+![](<../../.gitbook/assets/5 (11).png>)
 
 Now, if you want to upgrade the solution to its latest version or reinstall the same solution, then you will get the following dialog box. Here, select the highlighted **'Upgrade'** point and the **'Overwrite customizations'** point for installing the latest solution. And for reinstalling the same solution, just select the **'Overwrite customizations'** point. Lastly, click on **Import** to start the installation process.&#x20;
 

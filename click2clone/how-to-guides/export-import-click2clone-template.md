@@ -11,7 +11,7 @@ Before exporting the template, create a **custom view** on **'Click2Clone Templa
 
 * Navigate to **Settings** --> **Customizations.**
 
-![](<../../.gitbook/assets/Exp\_1 (1).png>)
+![](../../.gitbook/assets/Exp\_1.png)
 
 * Click on **'Customize the System'.**
 
@@ -81,17 +81,17 @@ Once you have successfully created the .csv version of the exported file, let’
 
 * Login to the other environment to which we want to import the template --> Navigate to **Click2Clone** application --> **Click2Clone Templates.**
 
-![](<../../.gitbook/assets/Imp\_2 (1).png>)
+![](../../.gitbook/assets/Imp\_2.png)
 
 * **Import** the same **.csv** file.
 
-![](<../../.gitbook/assets/Imp\_3 (1).png>)
+![](../../.gitbook/assets/Imp\_3.png)
 
-![](../../.gitbook/assets/Imp\_4.png)
+![](<../../.gitbook/assets/Imp\_4 (1).png>)
 
 * Browse the **.csv** file.
 
-![](<../../.gitbook/assets/Imp\_5 - Copy (2).png>)
+![](<../../.gitbook/assets/Imp\_5 - Copy.png>)
 
 ![](<../../.gitbook/assets/Imp\_6 (1).png>)
 
@@ -119,7 +119,7 @@ Once you have successfully created the .csv version of the exported file, let’
 
 * **Environment - 1**
 
-![](<../../.gitbook/assets/Exp\_22 (1).png>)
+![](../../.gitbook/assets/Exp\_22.png)
 
 * **Environment - 2**
 

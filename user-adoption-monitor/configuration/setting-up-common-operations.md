@@ -17,11 +17,11 @@ Here, you can specify, which actions need to be tracked per entity in a customiz
 
 Let us understand what these terms **None, Daily, Weekly,** and **Monthly** specifies;
 
-![Represents tracking is not enabled at all.](<../../.gitbook/assets/image (189).png>)
+![Represents tracking is not enabled at all.](<../../.gitbook/assets/image (170).png>)
 
-![Represents changes that will be tracked and summarized on a daily basis.](<../../.gitbook/assets/image (8).png>)
+![Represents changes that will be tracked and summarized on a daily basis.](<../../.gitbook/assets/image (131).png>)
 
-![Represents changes that will be tracked and summarized on a weekly basis.](<../../.gitbook/assets/image (201).png>)
+![Represents changes that will be tracked and summarized on a weekly basis.](<../../.gitbook/assets/image (246).png>)
 
-![Represents changes that will be tracked and summarized on a monthly basis.](<../../.gitbook/assets/image (240).png>)
+![Represents changes that will be tracked and summarized on a monthly basis.](<../../.gitbook/assets/image (135).png>)
 

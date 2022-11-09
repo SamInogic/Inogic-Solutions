@@ -16,15 +16,15 @@ To delete the Attach2Dynamics license follow the below steps:
 
 Step 1: Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (3).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (4).jpg>)
 
 Step 2: Select **Inogic License Details** in **‘Look for’** and click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (2).jpg>)
+![](../.gitbook/assets/FAQ\_2.jpg)
 
 Step 3: Select the **Attach2Dynamics** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_3 (1).jpg>)
+![](../.gitbook/assets/FAQ\_3.jpg)
 
 ## 4) I get the following error while creating an anonymous link of file on Attach2Dynamics UI, how can I resolve this?
 
@@ -86,15 +86,15 @@ To delete the connection detail record of the user please follow the steps given
 
 * Open **Advanced Find** from your CRM.
 
-![](<../.gitbook/assets/FAQ\_1 (2).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (3).jpg>)
 
 * In the **Look for** dropdown select **Connection Details** entity.
 
-![](../.gitbook/assets/FAQ\_2.jpg)
+![](<../.gitbook/assets/FAQ\_2 (2).jpg>)
 
 * Please add a condition as shown in the below screenshot:
 
-![](../.gitbook/assets/FAQ\_3.jpg)
+![](<../.gitbook/assets/FAQ\_3 (1).jpg>)
 
 * Click on **Results.**
 
@@ -123,7 +123,7 @@ Kindly follow the below steps to enable the versioning feature in Azure Blob Sto
 
 * Check the **Enable versioning for blobs** checkbox and click on the **Save** button.
 
-![](../.gitbook/assets/FAQ\_14.3.jpg)
+![](<../.gitbook/assets/FAQ\_14.3 (1).jpg>)
 
 After enabling the above property, the versioning functionality will start working just as shown in the below example:
 
@@ -160,25 +160,25 @@ Please follow the steps given below to achieve the offline capability for the No
 * First, enable the offline mode in your CRM. Please follow this [link](https://www.inogic.com/blog/2022/03/how-to-enable-model-driven-apps-for-offline-use/) for enabling the offline mode in your CRM.&#x20;
 * Once you have enabled the offline mode in your CRM, open the Dynamics 365 App on mobile --> Login with the credentials -->Navigate to **Sales Hub -->Account**.
 
-![](<../.gitbook/assets/Image1 (1).png>)
+![](../.gitbook/assets/Image1.png)
 
 * Open any account record -->Click on the **+ icon** in the timeline of the account record.
 
-![](../.gitbook/assets/Image2.png)
+![](<../.gitbook/assets/Image2 (1).png>)
 
 * Select **notes** and **add** an attachment -->Click on **Add note** in the timeline and the note attachment will get added to the timeline.
 
-![](<../.gitbook/assets/Image3 (1).png>)
+![](../.gitbook/assets/Image3.png)
 
 {% hint style="info" %}
 **Note: Entity configuration must be created for the Account entity and attachment action should be either Move or Copy.**
 {% endhint %}
 
-![](<../.gitbook/assets/Image4 (1).png>)
+![](../.gitbook/assets/Image4.png)
 
 * Once you connect back with your network connectivity, the note attachment which is added on the account record will get migrated to SharePoint and the link will get generated in the timeline.
 
-![](<../.gitbook/assets/Image5 (1).png>)
+![](../.gitbook/assets/Image5.png)
 
 ![](../.gitbook/assets/Image6.png)
 

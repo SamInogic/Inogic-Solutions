@@ -6,7 +6,7 @@ To create **Plan steps**, follow the steps given below:
 
 * Once the plan is created Navigate to **-->** **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/plan step_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan step_1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **New Plan Step** button.
 
@@ -19,7 +19,7 @@ To create **Plan steps**, follow the steps given below:
     * **Days:** Add the desired waiting period for this step to be performed in **Days**.
     * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
 
-<figure><img src="../../../../.gitbook/assets/Plan step_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step_3 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**.
 

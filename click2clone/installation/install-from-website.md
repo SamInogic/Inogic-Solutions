@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Click2Clone solutio
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (7).png>)
+![](<../../.gitbook/assets/a (1).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (3).png>)
+![](<../../.gitbook/assets/b (6).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (4).png>)
+![](<../../.gitbook/assets/c (1).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (7).png>)
+![](<../../.gitbook/assets/d (6).png>)
 
-![](<../../.gitbook/assets/e (2).png>)
+![](../../.gitbook/assets/e.png)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/f (3).png>)
+![](<../../.gitbook/assets/f (4).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/g (1).png>)
+![](<../../.gitbook/assets/g (2).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -42,15 +42,15 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (94).png>)
+![](<../../.gitbook/assets/1 (201).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (56).png>)
+![](<../../.gitbook/assets/2 (60).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (32).png>)
+![](<../../.gitbook/assets/3 (13).png>)
 
 * Browse the downloaded file.
 
@@ -58,7 +58,7 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (24).png>)
+![](<../../.gitbook/assets/5 (12).png>)
 
 
 

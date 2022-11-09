@@ -4,7 +4,7 @@ To set up Click2Clone template, follow the steps given below:
 
 * Navigate to **Click2Clone Templates** --> Click on **New.**
 
-![](<../../../../.gitbook/assets/Temp\_1 (3).png>)
+![](<../../../../.gitbook/assets/Temp\_1 (4).png>)
 
 * Fill all the mandatory fields --> Click on **Save**.
 

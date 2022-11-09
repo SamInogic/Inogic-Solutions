@@ -26,9 +26,9 @@ Now to assign Leads on the basis of User Capacity follow the steps given below:
     * **Overall:** The assignment rule will be triggered as and when user closes the Lead or completes the task and updates the status of the work item.
   * **Open Work Item Statuses:** Select the status from the dropdown, for e.g. Open-New. Here, based on the status ‘Open-New’ Leads will be assigned to users. Once the Lead’s status changes from Open-New to another status then that Lead will be considered as completed and automatically another Lead with status as ‘Open-New’ is assigned to the same user. This process will go on till all the Leads are assigned.
 
-![](../../.gitbook/assets/Capacity\_1.png)
+![](<../../.gitbook/assets/Capacity\_1 (1).png>)
 
-![](<../../.gitbook/assets/Capacity\_2 (1).png>)
+![](../../.gitbook/assets/Capacity\_2.png)
 
 * To specify user capacity, go to **Lead Assignment and Distribution Automation App --> Administration --> Users --> Lead Assignment Users --> Select User --> Assignment Details --> Populate Base Capacity field --> Click on ‘Save’.**
 
@@ -42,13 +42,13 @@ Now to assign Leads on the basis of User Capacity follow the steps given below:
 
 ![](<../../.gitbook/assets/User workload\_2.png>)
 
-![](<../../.gitbook/assets/image (133).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (232).png>)
 
 * Now in **'Assignment Rule'** go to second tab – **User Workload.** Every individual user has their own capacity and has their priority to work on new items. A senior member can work on more items than a junior member. User Workload is used to handle such cases. The User workload records get created when 'Assignment Rule' records get created and when new member is added in the queue (which is set on the Assignment Rule).
 
-![](<../../.gitbook/assets/Capacity\_5 (1).png>)
+![](../../.gitbook/assets/Capacity\_5.png)
 
 * Click on any one user and get detailed workload information about that particular user. It gives you information about the total number of active records owned by the user in CRM. Further, you can also update the maximum records assigned to user.
 

@@ -32,7 +32,7 @@ Here are the steps to assign security role to users.
 
 * Click on any one of the security roles --> Click Ok.
 
-![](<../../.gitbook/assets/sec\_6 (1).png>)
+![](../../.gitbook/assets/sec\_6.png)
 
 
 

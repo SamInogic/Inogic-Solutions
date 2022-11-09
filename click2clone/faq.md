@@ -12,7 +12,7 @@ To delete the **Click2Clone** license follow the steps given below:
 
 * Navigate to **Advanced Find.**
 
-![](../.gitbook/assets/FAQ\_1.jpg)
+![](<../.gitbook/assets/FAQ\_1 (1).jpg>)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
@@ -82,11 +82,11 @@ Yes, user can certainly automate the clone run for efficiency. Refer the [link.]
 
 * In the page URL, change CRM region to your specific region i.e. suppose your CRM URL is **'mycrm.crm8.dynamics.com'.**
 
-![](<../.gitbook/assets/Faq\_2 (2).jpg>)
+![](../.gitbook/assets/Faq\_2.jpg)
 
 * Then, you would just need to change the Page URL to [https://port.crm8.dynamics.com/g/marketplace](https://port.crm8.dynamics.com/g/marketplace)...
 
-![](<../.gitbook/assets/Faq\_3 (1).jpg>)
+![](../.gitbook/assets/Faq\_3.jpg)
 
 After following the above steps, you will be able to successfully **install** Click2Clone solution from AppSource.
 
@@ -118,15 +118,15 @@ Kindly follow the below steps to create a template for the product entity/table 
 
 * Navigate to **Settings** -> **Advanced Settings**.
 
-<figure><img src="../.gitbook/assets/1 (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (185).png" alt=""><figcaption></figcaption></figure>
 
 * Select **Settings** dropdown. Click on next page icon![](<../.gitbook/assets/next icon.png>).
 
-<figure><img src="../.gitbook/assets/2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 * Click on **Click2Clone Template**.
 
-<figure><img src="../.gitbook/assets/3 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * Click on **New** button from Ribbon bar.
 

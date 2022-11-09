@@ -6,11 +6,11 @@ Follow the steps given below to export word templates using workflow:
 
 * Navigate to **Settings > Processes** and click on ‘**New**’ to create a new workflow.
 
-![](<../../../.gitbook/assets/1 (50).png>)
+![](<../../../.gitbook/assets/1 (194).png>)
 
 * Enter the ‘**Process Name**’, select the ‘**Category**’ as ‘**Workflow**’ and ‘**Entity**’ for which you want to create this workflow. Click on ‘**OK**’.
 
-![](<../../../.gitbook/assets/2 (3).png>)
+![](<../../../.gitbook/assets/2 (6).png>)
 
 * Here you can select whether you want the Workflow to be On Demand or trigger on a change of Options for Automatic Processes.
 
@@ -18,13 +18,13 @@ Follow the steps given below to export word templates using workflow:
 
 * First user needs to click on **‘Add Step’** and add **Perform Action** step that is predefined by Microsoft to select the appropriate **Action** for required word template. Select **Action** as **SetWordTemplate** option and **Entity** as **None** (global).&#x20;
 
-![](<../../../.gitbook/assets/4 (31).png>)
+![](<../../../.gitbook/assets/4 (23).png>)
 
 * Now click on **‘Set Properties’** of **Perform Action** step and select the required Word Template in **SelectedTemplate** section and required **Entity** in **Target** section. In order to select the required entity in Target section, it should have **Business Process Flows** ticked in the entity settings like shown below:&#x20;
 
 ![](<../../../.gitbook/assets/C2E\_Word Workflow - Copy.png>)
 
-![](<../../../.gitbook/assets/5 (6).png>)
+![](<../../../.gitbook/assets/5 (23).png>)
 
 * Click2Export ships with one workflow assembly namely ‘**Inogic.Click2Export.ExportWord.ExportWord2PDF**’. This step is required to call the workflow for performing the selected action.
 * Now click on ‘Set Properties’ for **Inogic.Click2Export.ExportWord.ExportWord2PDF**&#x20;

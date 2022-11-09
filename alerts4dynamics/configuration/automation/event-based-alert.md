@@ -6,11 +6,11 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Navigate to **Advanced Settings** --> **Settings** --> **Process** --> **New Process**.
 
-![](<../../../.gitbook/assets/Event\_1 (3).png>)
+![](<../../../.gitbook/assets/Event\_1 (2).png>)
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
-![](<../../../.gitbook/assets/Event\_2 (4).png>)
+![](<../../../.gitbook/assets/Event\_2 (2).png>)
 
 * Go to **‘Record fields change’** --> Select the field **‘Subject’** from the list.
 
@@ -20,15 +20,15 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Create a notification request record to create an alert.
 
-![](<../../../.gitbook/assets/Event\_5 (2).png>)
+![](<../../../.gitbook/assets/Event\_5 (3).png>)
 
 * Select **‘Notification Request’.**
 
-![](../../../.gitbook/assets/Event\_6.png)
+![](<../../../.gitbook/assets/Event\_6 (2).png>)
 
 * Click on **‘Set Properties’**.
 
-![](<../../../.gitbook/assets/Event\_7 (3).png>)
+![](../../../.gitbook/assets/Event\_7.png)
 
 * Perform the dynamic field selection as required.
 
@@ -38,13 +38,13 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 ![](../../../.gitbook/assets/Event\_9.png)
 
-![](../../../.gitbook/assets/Event\_10.png)
+![](<../../../.gitbook/assets/Event\_10 (1).png>)
 
 * After creating an alert, now add a **‘Wait’** condition which will wait till the case is resolved.
 
 ![](../../../.gitbook/assets/Event\_11.png)
 
-![](../../../.gitbook/assets/Event\_12.png)
+![](<../../../.gitbook/assets/Event\_12 (1).png>)
 
 Let’s further configure the condition.
 
@@ -62,7 +62,7 @@ Let’s further configure the condition.
 
 * Click on **‘Set Properties’.**
 
-<figure><img src="../../../.gitbook/assets/17 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Select the below option from the list for **‘Look for’** field. This is a first step description that was added to create a notification request record.
 

@@ -12,7 +12,7 @@ To delete the **Click2Eport** license follow the steps given below:
 
 * Navigate to **Advanced Find.**
 
-![](../.gitbook/assets/FAQ\_1.jpg)
+![](<../.gitbook/assets/FAQ\_1 (1).jpg>)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 

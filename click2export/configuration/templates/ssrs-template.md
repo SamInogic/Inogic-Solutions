@@ -26,7 +26,7 @@ This section will guide you through the process of creating **CRM Report Templat
 
 ### General:
 
-<figure><img src="../../../.gitbook/assets/29.1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/29.1.png" alt=""><figcaption></figcaption></figure>
 
 **Template Type:** Report Template. This cannot be changed for SSRS Report Template.
 

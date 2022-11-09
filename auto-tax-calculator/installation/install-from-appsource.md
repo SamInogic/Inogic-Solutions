@@ -4,14 +4,14 @@ To install Auto Tax Calculator solution from the Microsoft AppSource, visit the 
 
 * Click on the '**FREE TRIAL**' button.
 
-![](<../../.gitbook/assets/Install\_1 (3).png>)
+![](<../../.gitbook/assets/Install\_1 (5).png>)
 
 *   If the user is already logged into CRM, accept the terms & conditions and click on '**Continue**'. If the user is not logged into CRM, fill in the credentials and Sign in.
 
 
 * Next, confirm the details in the form, accept the terms & conditions and click on '**Continue**'.
 
-![](<../../.gitbook/assets/Install\_2 (6).png>)
+![](../../.gitbook/assets/Install\_2.png)
 
 * Select an environment from the dropdown list given and then accept the privacy policies & legal terms. Proceed to the installation by clicking on the **Install** button.
 
@@ -19,4 +19,4 @@ To install Auto Tax Calculator solution from the Microsoft AppSource, visit the 
 
 * After the installation is done, you will be able to see **Auto Tax Calculator** solution in your Apps section.
 
-![](<../../.gitbook/assets/Install\_4 (5).png>)
+![](<../../.gitbook/assets/Install\_4 (1).png>)

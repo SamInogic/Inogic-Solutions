@@ -32,11 +32,11 @@ OR, you can follow another alternative method mentioned below:
 
 * Go to **Advanced Settings** --> **Settings** --> **Security**.
 
-![](<../../.gitbook/assets/f (2).png>)
+![](../../.gitbook/assets/f.png)
 
 * Select **Users**
 
-![](<../../.gitbook/assets/g (4).png>)
+![](<../../.gitbook/assets/g (1).png>)
 
 * Select user --> Click on **MANAGE ROLES**
 
@@ -46,4 +46,4 @@ OR, you can follow another alternative method mentioned below:
 
 ![Admin Role](<../../.gitbook/assets/Set Security\_1 (1).png>)
 
-![User Role](../../.gitbook/assets/i.png)
+![User Role](<../../.gitbook/assets/i (2).png>)

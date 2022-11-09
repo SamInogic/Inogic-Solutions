@@ -6,21 +6,21 @@ To connect Mailchimp and Dynamics 365 CRM, **API URL** and **API key** from Mail
 
 * First, log into the existing Mailchimp account or create a new account.
 
-![](<../../.gitbook/assets/1 (229).png>)
+![](<../../.gitbook/assets/1 (147).png>)
 
 * Go to **Account --> Extras --> Click on API keys.**
 
-![](<../../.gitbook/assets/2 (51).png>)
+![](<../../.gitbook/assets/2 (48).png>)
 
-![](<../../.gitbook/assets/3 (12).png>)
+![](<../../.gitbook/assets/3 (25).png>)
 
 * Navigate to **'Your API keys'** section. If you already have an API key listed and you would like to use it, simply copy it for connecting to your Mailchimp account otherwise, click on **‘Create A Key’** button.
 
-![](../../.gitbook/assets/4.png)
+![](<../../.gitbook/assets/4 (25).png>)
 
 * The key will be created shortly. This will be the **API key.**
 
-![](<../../.gitbook/assets/5 (2).png>)
+![](<../../.gitbook/assets/5 (6).png>)
 
 ### **API URL**
 
@@ -29,7 +29,7 @@ To connect Mailchimp and Dynamics 365 CRM, **API URL** and **API key** from Mail
 * To get the {dc} for your URL, look at the URL in your browser. On the home page of Mailchimp you’ll see something like - **https://us6.admin.mailchimp.com/.** Here, the **us6** part is the server prefix **(dc)**. Note that your specific value may be different.&#x20;
 * So in the above example, your API URL would be **https://us6.api.mailchimp.com/3.0/**
 
-![](<../../.gitbook/assets/6 (19).png>)
+![](<../../.gitbook/assets/6 (2).png>)
 
 * Now use the **API URL** and **API key** to connect Mailchimp account with Dynamics 365 CRM.
 

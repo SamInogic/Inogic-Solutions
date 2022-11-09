@@ -4,7 +4,7 @@ Like installing Business Process Checklist solution, uninstalling the solution f
 
 * Navigate to **Business Process Checklist App** --> **BPC Settings.**
 
-<figure><img src="../.gitbook/assets/1 EC (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 EC.png" alt=""><figcaption></figcaption></figure>
 
 * To delete all entity configurations click on **Delete** icons.
 
@@ -50,7 +50,7 @@ Once the dependencies are removed you can uninstall the solution from the **Dyna
 
 <figure><img src="../.gitbook/assets/uninstallation_3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Uninstall_4 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Uninstall_4 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Uninstall from Power Apps
 

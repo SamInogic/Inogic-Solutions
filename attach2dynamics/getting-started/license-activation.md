@@ -6,15 +6,15 @@ Follow the steps below for hassle-free license activation.
 
 * Navigate to Dynamics 365 --> Attach2Dynamics app.
 
-![](<../../.gitbook/assets/12 (3).png>)
+![](<../../.gitbook/assets/12 (4).png>)
 
 * Go to License Registration.
 
-![](<../../.gitbook/assets/15 (2).png>)
+![](<../../.gitbook/assets/15 (1).png>)
 
 Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on ACTIVATE.
 
-![](<../../.gitbook/assets/16 (4).png>)
+![](../../.gitbook/assets/16.png)
 
 If you want to purchase or extend the trial, click on SEND REQUEST --> Enter all details --> Click again on SEND REQUEST and send the email to Inogic.
 
@@ -30,8 +30,8 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Select the file --> Click ‘Open.’
 
-![](<../../.gitbook/assets/19 (1).png>)
+![](<../../.gitbook/assets/19 (2).png>)
 
 * Click on ‘Register’ to complete the License Registration.
 
-![](../../.gitbook/assets/20.png)
+![](<../../.gitbook/assets/20 (2).png>)

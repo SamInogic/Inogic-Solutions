@@ -4,13 +4,13 @@ This section will guide you through the process of creating **CRM Report Templat
 
 * Navigate to **Click2Export App --> CRM Report Templates --> New.**
 
-![](<../../../.gitbook/assets/Excel\_1 (1).png>)
+![](../../../.gitbook/assets/Excel\_1.png)
 
 * Fill the relevant details in the **New CRM Report Template** and save it.
 
 ### General:
 
-<figure><img src="../../../.gitbook/assets/31.1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/31.1.png" alt=""><figcaption></figcaption></figure>
 
 **Template Type:** Excel Template. If Excel Template is not available. Please enable it from[ here](https://docs.inogic.com/click2export/configuration/click2export-configuration).
 

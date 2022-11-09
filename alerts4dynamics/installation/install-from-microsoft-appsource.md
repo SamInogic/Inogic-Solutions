@@ -8,7 +8,7 @@ To install **Alerts4Dynamics** solution from the **Microsoft AppSource**, visit 
 
 * If the user is already logged into CRM, accept the terms & conditions and click on **Free Trail**.
 
-<figure><img src="../../.gitbook/assets/If the user is already logged into CRM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/If the user is already logged into CRM (1).png" alt=""><figcaption></figcaption></figure>
 
 * If the user is not logged into CRM, fill in the credentials and **Sign in**.
 
@@ -16,7 +16,7 @@ To install **Alerts4Dynamics** solution from the **Microsoft AppSource**, visit 
 
 * Next, confirm the details in the form, accept the terms & conditions and click on **Continue**.
 
-![](<../../.gitbook/assets/SS (2).png>)
+![](../../.gitbook/assets/SS.png)
 
 * Select your environment from the dropdown list and accept the privacy policies & legal terms. Then click on the **Install** button for the installation to start.
 

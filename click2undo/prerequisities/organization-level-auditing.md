@@ -8,31 +8,31 @@ In order to enable Organization Level Auditing follow the steps given below:
 
 2\) Open Settings by selecting the correct environment.
 
-![](<../../.gitbook/assets/image (130).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 3\) Search for Audit Setting and Open It.
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (100).png>)
 
 4\) Click Start Auditing and then hit OK.
 
-![](<../../.gitbook/assets/image (227).png>)
+![](<../../.gitbook/assets/image (241).png>)
 
 **Now, let's look into alternate approach for enabling Organization Level Auditing.**
 
 1\) Click on Advanced Settings in Dynamics 365 CRM.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (193).png>)
 
 2\) Click on Administration.
 
-![](<../../.gitbook/assets/image (232).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 3\) Open System Settings.
 
-![](<../../.gitbook/assets/image (228).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 4\) On the Auditing Tab, click Start Auditing and then hit OK.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (48).png>)
 

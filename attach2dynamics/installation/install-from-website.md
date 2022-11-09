@@ -8,11 +8,11 @@ To import the solution from make.powerapps.com, download the Attach2Dynamics sol
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (376).png>)
+![](<../../.gitbook/assets/1 (396).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (54).png>)
+![](<../../.gitbook/assets/2 (61).png>)
 
 * Click on **Import** on the command bar.
 
@@ -20,17 +20,17 @@ To import the solution from make.powerapps.com, download the Attach2Dynamics sol
 
 *  On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (30).png>)
 
-![](<../../.gitbook/assets/5 (22).png>)
+![](<../../.gitbook/assets/5 (14).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](<../../.gitbook/assets/6 (17).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (11).png>)
+![](<../../.gitbook/assets/7 (16).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -42,22 +42,22 @@ Follow the steps to import and install **Attach2Dynamics** solution.
 
 * Navigate to Advanced Settings on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (167).png>)
+![](<../../.gitbook/assets/1 (158).png>)
 
 * Navigate to Settings --> Solutions.
 
-![](<../../.gitbook/assets/2 (41).png>)
+![](<../../.gitbook/assets/2 (15).png>)
 
 * Click on Import.
 
-![](<../../.gitbook/assets/3 (19).png>)
+![](<../../.gitbook/assets/3 (12).png>)
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/4 (29).png>)
+![](<../../.gitbook/assets/4 (28).png>)
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (18).png>)
 
 ###

@@ -6,19 +6,19 @@ Let’s go through an example for deleting Kanban Board controls set on Case Ent
 
 * Navigate to **Advanced Settings -> Settings -> Customizations -> Customize the System.**
 
-![](<../.gitbook/assets/1 (159).png>)
+![](<../.gitbook/assets/1 (171).png>)
 
 * Then go to **Components -> Entities -> Case -> Select last tab – Controls.**
 
-![](<../.gitbook/assets/2 (37).png>)
+![](<../.gitbook/assets/2 (53).png>)
 
 * Here, click on the delete button to delete custom control configuration.
 
-![](<../.gitbook/assets/3 (10).png>)
+![](<../.gitbook/assets/3 (22).png>)
 
 * Next click on **‘Save’** and then click on ‘**Publish.**’
 
-![](<../.gitbook/assets/4 (6).png>)
+![](<../.gitbook/assets/4 (21).png>)
 
 Next, we will see how to uninstall the solution from **Dynamics 365 CRM** and **Power Apps**.
 
@@ -26,13 +26,13 @@ Next, we will see how to uninstall the solution from **Dynamics 365 CRM** and **
 
 * After deleting the custom control, got to **Settings -> Solutions -> Select Kanban Board solution**.
 
-![](<../.gitbook/assets/5 (19).png>)
+![](<../.gitbook/assets/5 (8).png>)
 
 * Next, click on delete button. After clicking on delete button a pop-up will appear asking your confirmation to delete the solution. Here, click on **OK**
 
-![](<../.gitbook/assets/6 (6).png>)
+![](<../.gitbook/assets/6 (13).png>)
 
-![](<../.gitbook/assets/1 (63).png>)
+![](<../.gitbook/assets/1 (45).png>)
 
 The solution is successfully uninstalled.
 

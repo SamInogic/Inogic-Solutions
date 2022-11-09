@@ -23,7 +23,7 @@ To enable this feature, follow the steps given below:
 
 * After entity configuration, the **Log In** button will be displayed on the home grid.
 
-![](<../../../.gitbook/assets/Log\_3 (1).png>)
+![](../../../.gitbook/assets/Log\_3.png)
 
 * Click on **Log In** button as soon as you login to your CRM account. Once user finishes working in the CRM click on Log Out button. The **Log In/Log Out button** interchanges as you click on it.
 

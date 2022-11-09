@@ -6,19 +6,19 @@ Given below are the steps to export reports through automation:
 
 * Navigate to **Settings > Processes** and click on ‘**New**’ to create a new workflow.
 
-![](<../../../.gitbook/assets/1 (35).png>)
+![](<../../../.gitbook/assets/1 (114).png>)
 
 * Enter the ‘**Process Name**’, select the ‘**Category**’ as ‘**Workflow**’ and ‘**Entity**’ for which you want to create this workflow. Click on ‘**OK**’.
 
-![](<../../../.gitbook/assets/2 (24).png>)
+![](<../../../.gitbook/assets/2 (2).png>)
 
 * Here you can select whether you want the **Workflow** to be **On Demand** or trigger on a change of Options for Automatic Processes.
 
-![](<../../../.gitbook/assets/3 (7).png>)
+![](<../../../.gitbook/assets/3 (29).png>)
 
 * First user needs to click on ‘**Add Step**’.  Click2Export ships with one workflow assembly namely ‘**Inogic.Click2Export.ExportReport.ExportAndScheduleReports**’. This step is required to call the workflow for performing the selected action.
 
-![](<../../../.gitbook/assets/4 (28).png>)
+![](<../../../.gitbook/assets/4 (29).png>)
 
 * For **On-Premises**, the work flow assembly will be as follows:
 
@@ -26,11 +26,11 @@ Given below are the steps to export reports through automation:
 
 * Now click on ‘**Set Properties**’ for **Inogic.Click2Export.ExportReport.ExportAndScheduleReports**
 
-![](<../../../.gitbook/assets/5 (11).png>)
+![](<../../../.gitbook/assets/5 (21).png>)
 
 * Once the properties window opens, fill in the correct details as explained below:
 
-![](<../../../.gitbook/assets/1 (124).png>)
+![](<../../../.gitbook/assets/1 (295).png>)
 
 **CRM Report Template:** CRM Report Template for the SSRS report that you want to be converted.
 
@@ -47,4 +47,4 @@ Given below are the steps to export reports through automation:
 * Now ’**Save**’  and then ‘**Activate**’ the process.
 * You can now see the workflow in ‘**My Processes**’.
 
-![](<../../../.gitbook/assets/6 (4).png>)
+![](<../../../.gitbook/assets/6 (18).png>)

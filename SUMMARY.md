@@ -125,7 +125,7 @@
   * [Features](business-process-checklist/features/README.md)
     * [Manage Plans](business-process-checklist/features/manage-plans/README.md)
       * [Create Plans](business-process-checklist/features/manage-plans/create-plans/README.md)
-        * [Business Process Flow Plan](business-process-checklist/features/manage-plans/create-plans/business-process-flow-plan.md)
+        * [Business Process Flow](business-process-checklist/features/manage-plans/create-plans/business-process-flow.md)
         * [Custom Plan](business-process-checklist/features/manage-plans/create-plans/custom-plan.md)
         * [Record-Based Plan](business-process-checklist/features/manage-plans/create-plans/record-based-plan.md)
       * [Revise Plan](business-process-checklist/features/manage-plans/revise-plan.md)

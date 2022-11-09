@@ -20,7 +20,7 @@ In the **‘New Game’** window, you can see 6 different tabs – **Game Detail
 
 ![](<../../.gitbook/assets/Config Games\_6.png>)
 
-![](<../../.gitbook/assets/Config Games\_7.1 (1).png>)
+![](<../../.gitbook/assets/Config Games\_7.1.png>)
 
 **Section 1 – Name this game and provide description**
 
@@ -68,7 +68,7 @@ In this section, there are two fields:
 * **Behaviour of Game:** Here, you can set the behavior (mode) of the game as **Public** or **Private**. Public games will be open to all those players who are allowed to join the games. Who is allowed and who is not allowed to participate in games can be clearly defined in **‘Allowed Roles’**. Whereas, in **Private** games, only managers can add players to the game.&#x20;
 * **Allowed Roles:** Here, you can define which roles are suitable for the game. This is to make sure that only a select few players holding a particular position in the organization are allowed to join the game in Public mode. If this field is kept blank then the game will be open to all the players. In Private mode, this field is not necessary.
 
-![](<../../.gitbook/assets/Games\_11 (1).png>)
+![](../../.gitbook/assets/Games\_11.png)
 
 **Section 5 – Allow players to join game if the Game is in-progress?**
 
@@ -110,7 +110,7 @@ In the case of a team, give an appropriate name to the team and save it. After s
 
 The last tab is – **Game Badge & Rewards**. You can add Badges and Rewards that are to be conferred upon the winners of the game. Here, click on **‘+New Game Badges/Rewards’** to add them to the game.
 
-![](../../.gitbook/assets/Games\_11.png)
+![](<../../.gitbook/assets/Games\_11 (1).png>)
 
 Now, select the badges/rewards and define the points after earning which the player will get these badges/rewards. Click on **Save**. Once it is saved, additional sections - **Description and User Profile Description** - will automatically appear on the screen in editable format. Here, you can edit the content as per your requirement which will be automatically reflected on the mobile app. For easy understanding, the content/descriptions can be updated in any language of your choice.
 

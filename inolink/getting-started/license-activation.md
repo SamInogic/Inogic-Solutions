@@ -6,11 +6,11 @@ Here are the steps to activate **InoLink** license.
 
 * Navigate to **Settings --> InoLink Group --> License Registration**.
 
-![](<../../.gitbook/assets/Lic\_1 (4).png>)
+![](<../../.gitbook/assets/Lic\_1 (3).png>)
 
 * Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/Lic\_2 (3).png>)
+![](<../../.gitbook/assets/Lic\_2 (9).png>)
 
 *   Notification Details: This section is optional. Purpose of having this is if product license for some reason expired then someone should get a notification about it so they will take appropriate action. In the notification section user needs to provide the notification details.&#x20;
 
@@ -32,5 +32,5 @@ If you want to purchase or extend the trial, click on **SEND REQUEST --> Enter a
 
 After activating the license, set the **InoLink Settings** to configure the required features and enable the services.
 
-![](<../../.gitbook/assets/Lic\_4 (5).png>)
+![](<../../.gitbook/assets/Lic\_4 (10).png>)
 

@@ -74,7 +74,7 @@ In case of an announcement alert being sent through an email, there will be no s
 
 **User 2** will get an alert only through **Pop-up.**
 
-![](<../../.gitbook/assets/Set Pref1\_13 (1).png>)
+![](<../../.gitbook/assets/Set Pref1\_13.png>)
 
 ![](<../../.gitbook/assets/Set Pref1\_14.png>)
 

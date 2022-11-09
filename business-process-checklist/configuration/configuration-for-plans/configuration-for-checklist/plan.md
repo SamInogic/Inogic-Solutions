@@ -26,8 +26,8 @@ Below are the steps to configure the checklist type plan:
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/Plan_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_4.png" alt=""><figcaption></figcaption></figure>
 
 * The new plan will be created and can be seen on **Plans**.
 
-<figure><img src="../../../../.gitbook/assets/plan_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan_5 (1).png" alt=""><figcaption></figcaption></figure>

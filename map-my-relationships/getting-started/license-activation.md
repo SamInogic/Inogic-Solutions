@@ -6,19 +6,19 @@ Given below are the steps to activate **Map My Relationships** license.
 
 * Navigate to **Dynamics 365** --> **Map My Relationships** app.&#x20;
 
-![](<../../.gitbook/assets/4 (33).png>)
+![](<../../.gitbook/assets/4 (34).png>)
 
 * Go to **License Registration**.
 
-![](<../../.gitbook/assets/5 (10).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 * Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/6 (18).png>)
+![](<../../.gitbook/assets/6 (20).png>)
 
 If you want to purchase or extend the trial, click on **SEND REQUEST** --> Enter all details --> Click again on **SEND REQUEST** and send the email to Inogic.
 
-![](<../../.gitbook/assets/7 (12).png>)
+![](<../../.gitbook/assets/7 (5).png>)
 
 ### Alternate method to complete License Activation __&#x20;
 
@@ -26,7 +26,7 @@ You can also complete the license registration by another method. Follow the bel
 
 * Request .lic file from Inogic --> Save file --> Go to **Map My Relationships** app --> **License Registration** --> Click **Choose File** to locate the file with the extension **.lic**
 
-![](<../../.gitbook/assets/9 (1).png>)
+![](<../../.gitbook/assets/9 (2).png>)
 
 * Select the file --> Click **Open**.
 
@@ -34,4 +34,4 @@ You can also complete the license registration by another method. Follow the bel
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/8 (4).png>)
+![](<../../.gitbook/assets/8 (6).png>)

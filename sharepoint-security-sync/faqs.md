@@ -48,7 +48,7 @@ Step 2: Select **Inogic License Details** in **‘Look for’** and click on **R
 
 Step 3: Select the **SharePoint Security Sync** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_1 (6).png>)
+![](<../.gitbook/assets/FAQ\_1 (5).png>)
 
 ## 7) What to do if I am unable to authenticate the connector?
 
@@ -84,15 +84,15 @@ To delete the connection detail record of the user please follow the steps given
 
 * Open **Advanced Find** from your CRM.
 
-![](<../.gitbook/assets/FAQ\_1 (2).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (3).jpg>)
 
 * In the **Look for** dropdown select **Connection Details** entity.
 
-![](../.gitbook/assets/FAQ\_2.jpg)
+![](<../.gitbook/assets/FAQ\_2 (2).jpg>)
 
 * Please add a condition as shown in the below screenshot:
 
-![](../.gitbook/assets/FAQ\_3.jpg)
+![](<../.gitbook/assets/FAQ\_3 (1).jpg>)
 
 * Click on **Results.**
 
@@ -128,7 +128,7 @@ To export the log record in Excel, follow the steps given below:
 
 * Add a condition for the error, as shown in the below screenshot.
 
-![](<../.gitbook/assets/FAQ\_14.3 (1).jpg>)
+![](../.gitbook/assets/FAQ\_14.3.jpg)
 
 * Now click on the Edit Columns button.
 
@@ -162,11 +162,11 @@ Yes, it is safe to delete the batching and sync status which are completed. By u
 
 **Query for Sync status:**
 
-![](../.gitbook/assets/FAQ\_15.1.jpg)
+![](<../.gitbook/assets/FAQ\_15.1 (1).jpg>)
 
 **Query for Batching:**
 
-![](../.gitbook/assets/FAQ\_15.2.jpg)
+![](<../.gitbook/assets/FAQ\_15.2 (1).jpg>)
 
 ## 16) **How to fix the following error 'No reply address is registered for the application'?**
 

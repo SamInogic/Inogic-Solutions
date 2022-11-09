@@ -14,14 +14,14 @@ If you are not using Click2Export assembly, then start from Step 2.&#x20;
 
 **Step 2:** Navigate to **Settings -> Solution -> Select Click2Export solution**
 
-![](<../.gitbook/assets/1 (57).png>)
+![](<../.gitbook/assets/1 (314).png>)
 
 **Step 3:** Click on **delete** button.
 
-![](<../.gitbook/assets/1 (115).png>)
+![](<../.gitbook/assets/1 (264).png>)
 
 &#x20;**Step 4:** Click on **OK** button.
 
-![](<../.gitbook/assets/1 (196).png>)
+![](<../.gitbook/assets/1 (64).png>)
 
 After clicking on OK your solution will be successfully uninstalled.

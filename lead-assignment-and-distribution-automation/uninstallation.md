@@ -22,7 +22,7 @@ Click on **delete** button. A pop-up will appear asking for your confirmation. C
 
 ![](../.gitbook/assets/Last2.png)
 
-![](<../.gitbook/assets/21 (3).png>)
+![](../.gitbook/assets/21.png)
 
 ### Uninstall from Power Apps
 

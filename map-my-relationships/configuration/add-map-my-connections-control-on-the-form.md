@@ -111,7 +111,7 @@ Here, we will set this as **0.**
 
 **Map My Relationship Control Configuration:** It is mandatory for user to enter the name of Map My Relationship configuration if the user wishes to see the connections in the **relationship view** through the connection control. So, despite having the Map My Relationship configuration in the system, it will show you the below error if you try to see the relationship view of connections **without** entering a name of Map My Relationship configuration.
 
-![](<../../.gitbook/assets/MMC\_19 (1).png>)
+![](../../.gitbook/assets/MMC\_19.png)
 
 Considering that the below Map My Relationship configuration is present in the system, let’s enter its name while configuring the connection control.
 
