@@ -12,5 +12,5 @@ The Reminder Schedule is used to set up a reminder for customers regarding their
   * **Name:** Give any appropriate name for the Reminder Schedule.&#x20;
   * **Reminder Rule:** The Rules section includes the information user have created for each reminder.
 
-![](../../../.gitbook/assets/Reminder\_2.png)
+![](<../../../.gitbook/assets/Reminder\_2 (1).png>)
 

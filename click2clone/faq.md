@@ -12,11 +12,11 @@ To delete the **Click2Clone** license follow the steps given below:
 
 * Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (2).jpg>)
+![](../.gitbook/assets/FAQ\_1.jpg)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
-![](../.gitbook/assets/FAQ\_2.jpg)
+![](<../.gitbook/assets/FAQ\_2 (1).jpg>)
 
 * Select the **Click2Clone** record and **delete** it.
 
@@ -76,13 +76,13 @@ Yes, user can certainly automate the clone run for efficiency. Refer the [link.]
 
 ## 16) What to do if you get "Sorry, we couldn't find a Dynamics 365 organization connected to the signed-in user." message while installing from AppSource?
 
-![](<../.gitbook/assets/Faq\_1 (1).jpg>)
+![](../.gitbook/assets/Faq\_1.jpg)
 
 **If you get the above message then follow the steps given below:**
 
 * In the page URL, change CRM region to your specific region i.e. suppose your CRM URL is **'mycrm.crm8.dynamics.com'.**
 
-![](../.gitbook/assets/Faq\_2.jpg)
+![](<../.gitbook/assets/Faq\_2 (2).jpg>)
 
 * Then, you would just need to change the Page URL to [https://port.crm8.dynamics.com/g/marketplace](https://port.crm8.dynamics.com/g/marketplace)...
 
@@ -118,11 +118,11 @@ Kindly follow the below steps to create a template for the product entity/table 
 
 * Navigate to **Settings** -> **Advanced Settings**.
 
-<figure><img src="../.gitbook/assets/1 (330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (250).png" alt=""><figcaption></figcaption></figure>
 
 * Select **Settings** dropdown. Click on next page icon![](<../.gitbook/assets/next icon.png>).
 
-<figure><img src="../.gitbook/assets/2 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * Click on **Click2Clone Template**.
 

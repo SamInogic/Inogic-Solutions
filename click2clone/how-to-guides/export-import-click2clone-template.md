@@ -41,7 +41,7 @@ Before exporting the template, create a **custom view** on **'Click2Clone Templa
 
 ![](../../.gitbook/assets/Exp\_9.png)
 
-![](../../.gitbook/assets/Exp\_10.png)
+![](<../../.gitbook/assets/Exp\_10 (1).png>)
 
 * Click **'Ok'** to proceed.
 
@@ -91,7 +91,7 @@ Once you have successfully created the .csv version of the exported file, let’
 
 * Browse the **.csv** file.
 
-![](<../../.gitbook/assets/Imp\_5 - Copy (1).png>)
+![](<../../.gitbook/assets/Imp\_5 - Copy (2).png>)
 
 ![](<../../.gitbook/assets/Imp\_6 (1).png>)
 

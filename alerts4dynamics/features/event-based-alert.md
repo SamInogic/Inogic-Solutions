@@ -62,7 +62,7 @@ There is an invoice with a related account which has further multiple associated
 
 * This will set the field with value as shown below:
 
-<figure><img src="../../.gitbook/assets/12 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12 (6).png" alt=""><figcaption></figcaption></figure>
 
 * Now we will define the email recipient and select the user from whom you would like to send an email notification. Click on the below look-up field. In this scenario we will set the Notification Audience section blank. Hence, the notification will be displayed to all the users in the CRM.
 * **‘To – Same As Include Users’** : If we have selected the include users and want the same audience to be carry forwarded for the email audience as well, then in such scenario we would have to just set the field to ‘**Yes**’, as by default is set to **‘No’.**

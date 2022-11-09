@@ -30,11 +30,11 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 * Your Plan Step Action will be added to the plan step and will appear here.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_4 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_4 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Similarly, we can add more Plan Step Action, by clicking on **'Add an action** button as shown below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_4.png" alt=""><figcaption></figcaption></figure>
 
 * **Click** on **Publish** to publish the plan.
 

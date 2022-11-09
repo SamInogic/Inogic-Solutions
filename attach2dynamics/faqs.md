@@ -16,7 +16,7 @@ To delete the Attach2Dynamics license follow the below steps:
 
 Step 1: Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (1).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (3).jpg>)
 
 Step 2: Select **Inogic License Details** in **‘Look for’** and click on **Results** button.
 
@@ -64,7 +64,7 @@ Firstly, please check if the browser setting is to Enable the cookies. To know m
 
 This message is displayed when the number of the CRM user is increased beyond the subscribed users. If you get this issue then please reach out to us at [crm@inogic.com](mailto:crm@inogic.com) with the total user count. To get the total user count please execute the below condition in **Advanced Find**:
 
-![](<../.gitbook/assets/FAQ\_1 (6).png>)
+![](<../.gitbook/assets/FAQ\_1 (1).png>)
 
 ## 10) What to do if I am not able to see the Attach2Dynamics button?
 
@@ -86,11 +86,11 @@ To delete the connection detail record of the user please follow the steps given
 
 * Open **Advanced Find** from your CRM.
 
-![](<../.gitbook/assets/FAQ\_1 (4).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (2).jpg>)
 
 * In the **Look for** dropdown select **Connection Details** entity.
 
-![](<../.gitbook/assets/FAQ\_2 (1).jpg>)
+![](../.gitbook/assets/FAQ\_2.jpg)
 
 * Please add a condition as shown in the below screenshot:
 
@@ -160,7 +160,7 @@ Please follow the steps given below to achieve the offline capability for the No
 * First, enable the offline mode in your CRM. Please follow this [link](https://www.inogic.com/blog/2022/03/how-to-enable-model-driven-apps-for-offline-use/) for enabling the offline mode in your CRM.&#x20;
 * Once you have enabled the offline mode in your CRM, open the Dynamics 365 App on mobile --> Login with the credentials -->Navigate to **Sales Hub -->Account**.
 
-![](../.gitbook/assets/Image1.png)
+![](<../.gitbook/assets/Image1 (1).png>)
 
 * Open any account record -->Click on the **+ icon** in the timeline of the account record.
 
@@ -168,7 +168,7 @@ Please follow the steps given below to achieve the offline capability for the No
 
 * Select **notes** and **add** an attachment -->Click on **Add note** in the timeline and the note attachment will get added to the timeline.
 
-![](../.gitbook/assets/Image3.png)
+![](<../.gitbook/assets/Image3 (1).png>)
 
 {% hint style="info" %}
 **Note: Entity configuration must be created for the Account entity and attachment action should be either Move or Copy.**
@@ -178,7 +178,7 @@ Please follow the steps given below to achieve the offline capability for the No
 
 * Once you connect back with your network connectivity, the note attachment which is added on the account record will get migrated to SharePoint and the link will get generated in the timeline.
 
-![](../.gitbook/assets/Image5.png)
+![](<../.gitbook/assets/Image5 (1).png>)
 
 ![](../.gitbook/assets/Image6.png)
 
@@ -194,7 +194,7 @@ Please follow the below steps to add a redirect URL:
 
 * Navigate to **Azure App** --> Click on **Redirect URL**.
 
-![](<../.gitbook/assets/FAQ\_16.3 (1).jpg>)
+![](../.gitbook/assets/FAQ\_16.3.jpg)
 
 * Click on **Add a platform** button --> Select **Web**.
 

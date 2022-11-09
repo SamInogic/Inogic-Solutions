@@ -10,11 +10,11 @@ Here are the steps to activate **Click2Clone** license.
 
 * Go to **License Registration**.
 
-![](<../../.gitbook/assets/22 (4).png>)
+![](../../.gitbook/assets/22.png)
 
 Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/1a (1).png>)
+![](../../.gitbook/assets/1a.png)
 
 If you want to purchase or extend the trial, click on **SEND REQUEST** --> Enter all details --> Click again on **SEND REQUEST** and send the email to Inogic.
 
@@ -26,7 +26,7 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request .lic file from Inogic --> Save file --> Go to **Click2Clone** app --> **License Registration** --> Click **Choose File** to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/55 (1).png>)
+![](../../.gitbook/assets/55.png)
 
 * Select the file --> Click **Open**.
 
@@ -34,4 +34,4 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/77 (1).png>)
+![](../../.gitbook/assets/77.png)

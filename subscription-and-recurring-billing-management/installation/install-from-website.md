@@ -38,7 +38,7 @@ To import Subscription and Recurring Billing Management solution, first sign int
 
 * To import the Subscription and Recurring Billing Management solution, navigate to **Advanced Settings** on Gear Icon on top right.
 
-![](../../.gitbook/assets/Classic\_1.png)
+![](<../../.gitbook/assets/Classic\_1 (1).png>)
 
 * Navigate to **Settings --> Solutions**.
 

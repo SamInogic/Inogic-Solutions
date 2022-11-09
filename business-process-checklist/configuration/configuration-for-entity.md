@@ -6,7 +6,7 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 
 * Navigate to **Business Process Checklist App** **--> BPC Settings --> Add Record Type.**
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity Configuration_1.png" alt=""><figcaption></figcaption></figure>
 
 * Select the required entity to configure from the appeared menu.
 
@@ -26,11 +26,11 @@ Note: Email activity is supported only for those entities that have an email fie
 
 * Entity configuration can be deleted using **** the **Delete icon**.
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity Configuration_4.png" alt=""><figcaption></figcaption></figure>
 
 * Click Delete.
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity Configuration_5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note: Users can't create entity configuration.**

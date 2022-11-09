@@ -19,8 +19,8 @@ Below are the steps to configure the checklist type plan:
   * **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria matches.) Select either **Simple** or **Advanced**.
     * **Simple:** Execute plans based on the View of an entity.
     * **Advanced:** Execute Plans based on filter criteria or conditions (conditions defined in Fetch XML).
-* **Business Process:** Create a plan for a Business Process Flow.
-* **Custom Groups:** Create a plan for a Custom Group.
+* **Business Process:** Create a plan for Business Process Flow.
+* **Custom Groups:** Create a plan for Custom Groups.
 
 <figure><img src="../../../../.gitbook/assets/plan_3.png" alt=""><figcaption></figcaption></figure>
 

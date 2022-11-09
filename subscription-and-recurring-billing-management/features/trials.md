@@ -21,7 +21,7 @@ Once the trial is created if you get confirmation on purchase from your customer
 
 To convert to Subscription schedule, click on **'Convert To Subscription Schedule'** button on the form ribbon. Instantly, a Subscription Schedule will be created.
 
-![](<../../.gitbook/assets/Trials\_2 (1).png>)
+![](../../.gitbook/assets/Trials\_2.png)
 
 ### Extend Trials
 
@@ -35,7 +35,7 @@ To extend trials, follow the steps given below:
 
 * Click on the **‘Extend Trial’** button.
 
-![](../../.gitbook/assets/Trials\_2.png)
+![](<../../.gitbook/assets/Trials\_2 (1).png>)
 
 * A copy of the trial will be created and the current date will be the start date of the trial.
 

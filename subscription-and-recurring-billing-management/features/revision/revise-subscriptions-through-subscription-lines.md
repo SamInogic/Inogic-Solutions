@@ -25,7 +25,7 @@ To revise the fields in Subscription Line, follow the steps given below:
   * **Start from Next Billing Cycle:** The new charges will be applicable from the next billing cycle.
   * **Custom:** The new charges will be applicable from the date set in 'Billing Start Date' and the new invoice will be generated accordingly. For example, let’s consider a scenario where the annual subscription for one of the products is set for Jan 2021 to Dec 2021. Now, the customer increased the subscriber count from **10 to 20** from mid of August, i.e. **15/08/2021**. Due to company policy, it was decided to create a back-dated invoice from 1st Aug 2021 with new subscriber count. So, for this select **‘Custom’** option and set **‘Billing Start Date’** field **** to 01/08/2021. Instantly, a negative and positive invoice for the period 01/08/2012 to 31/12/2021 will be generated. Here, negative invoice indicates the amount which needs to be refunded to the customer. On the other hand, positive invoice indicates the amount to be charged to the customer for the increased subscriber count. Similarly, if the customer wants the charges to be applied from 1st September then you can revise the schedule accordingly. Just select **‘Custom’** and set **‘Billing Start Date’** to 01/09/2021. Since this is a future date, both negative and positive invoice for the remaining period i.e. from 01/09/2021 to 31/12/2021 will be generated on 1st Sept 2021.&#x20;
 
-![](<../../../.gitbook/assets/Apply Charges\_3 (2).png>)
+![](<../../../.gitbook/assets/Apply Charges\_3 (1).png>)
 
 ![](<../../../.gitbook/assets/Apply Charges\_2.png>)
 

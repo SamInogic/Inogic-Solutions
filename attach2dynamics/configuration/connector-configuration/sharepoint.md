@@ -71,7 +71,7 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Now if any logged in user uploads or performs any attachment action using Attach2Dynamics UI, their name will appear for the action.&#x20;
 
-![](<../../../.gitbook/assets/Connector Confg\_SharePoint 1.png>)
+![](<../../../.gitbook/assets/Connector Confg\_SharePoint 1 (1).png>)
 
 * In the below screenshot, name of the admin appears when they are logged in and have uploaded the file.
 
@@ -79,4 +79,4 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Now if another person is to upload a file then that person's name will be displayed on the site due to authenticating connector through app.&#x20;
 
-![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3.png>)
+![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3 (1).png>)

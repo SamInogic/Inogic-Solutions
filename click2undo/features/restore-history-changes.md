@@ -6,7 +6,7 @@ Here are the steps to restore past changes in Dynamics 365 CRM records.
 
 * Go to any enabled entity (Here, we are taking Accounts entity.) --> Select a record. (In this example, we are going to restore past changes made in Fax & Website fields.)
 
-![](../../.gitbook/assets/His4.1.png)
+![](<../../.gitbook/assets/His4.1 (1).png>)
 
 * Click on the downward arrow near Click2Undo --> Click on History.
 

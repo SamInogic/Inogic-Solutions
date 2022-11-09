@@ -2,7 +2,7 @@
 
 Click2Export allows users to perform the following four different actions with the exported reports:
 
-<figure><img src="../../.gitbook/assets/23.1.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23.1 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 **Attach as a Note:** If it is enabled then the exported file will be attached a Note against the record. This is only available for **SSRS Reports** and **Word Templates**.
 

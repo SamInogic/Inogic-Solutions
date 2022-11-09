@@ -8,7 +8,7 @@ Below are the steps to configure the process type plan:
 
 * Click on the **New plan** button and select **Process.**
 
-<figure><img src="../../../../.gitbook/assets/Plan_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details.
   * **Name:** Give a unique name to the plan.

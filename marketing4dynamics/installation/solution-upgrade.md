@@ -21,7 +21,7 @@ Follow the steps given below to upgrade the Marketing4Dynamics solution to its l
 
 * Now go to **Advanced Settings** --> Select **Upgrade** -->Verify if **'Enable Plug-In steps and flows included in the solution'** is checked -->Click on **Next**.
 
-![](<../../.gitbook/assets/Upgrade\_5 (1).png>)
+![](../../.gitbook/assets/Upgrade\_5.png)
 
 * Select the existing connection reference here. If it isn't already created, create a new one and select that one over here.
 

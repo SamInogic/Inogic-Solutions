@@ -20,7 +20,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Process based on which plan will be executed.
 
-<figure><img src="../../../../.gitbook/assets/BPF_4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_4 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the following fields:&#x20;
 * **Name:** Give an appropriate name to the plan.
@@ -47,7 +47,7 @@ Note: This step is same for checklist and process type plans.
 
 &#x20;**** Simple Plans are plans created based on System Views related to the entity whose Entity Configuration has been selected. **** &#x20;
 
-<figure><img src="../../../../.gitbook/assets/BPF_7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_7 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2) Advance Plan
 
@@ -99,7 +99,7 @@ In the same way, you can create Advanced plans for other records also.
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_11 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **'New Plan'.**
 
@@ -122,15 +122,15 @@ In the same way, you can create Advanced plans for other records also.
 
 * Navigate to **BPC Settings** **--> Plans --> New Plan.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_2 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Click on Create **New plan** button and select **Checklist.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_2 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page. Here, you can fill in the details and set the conditions for Plan-Checklist based on which plan will be executed.
 
-<figure><img src="../../../../.gitbook/assets/BPF_4 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_4 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the following fields:&#x20;
 * **Name:** Give an appropriate name to the plan.
@@ -148,7 +148,7 @@ In the same way, you can create Advanced plans for other records also.
 * **Simple: Execute plans** based on the View of an entity.
 * **Advanced: Execute Plans** based on filter criteria or conditions (conditions defined in Fetch XML).
 
-<figure><img src="../../../../.gitbook/assets/BPF_6 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_6.png" alt=""><figcaption></figcaption></figure>
 
 * Select **'Business Process'.**
 
@@ -170,6 +170,6 @@ In the same way, you can create Advanced plans for other records also.
   * **Name:** Give an appropriate name to the plan.
   * **Description:** Give a short description of the plan.
 
-<figure><img src="../../../../.gitbook/assets/BPF_11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
 
 * To know how to create Plan Steps please[ click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-checklist/plan-step).

@@ -14,6 +14,6 @@ After designing the workflow, the next task is to **execution** of workflow. To 
 
 * We can see the clone copy is created along with the **cloned opportunity line:**
 
-![](../../../../.gitbook/assets/Flow\_4.png)
+![](<../../../../.gitbook/assets/Flow\_4 (2).png>)
 
 ![](../../../../.gitbook/assets/Flow\_5.png)

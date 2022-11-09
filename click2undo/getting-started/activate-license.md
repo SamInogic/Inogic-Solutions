@@ -30,8 +30,8 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Select the file --> Click ‘Open.’
 
-![](<../../.gitbook/assets/Lic\_4 - Copy.png>)
+![](<../../.gitbook/assets/Lic\_4 - Copy (2).png>)
 
 * Click on ‘Register’ to complete the License Registration.
 
-![](<../../.gitbook/assets/Lic\_5 (3).png>)
+![](../../.gitbook/assets/Lic\_5.png)

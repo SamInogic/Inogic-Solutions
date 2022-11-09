@@ -10,11 +10,11 @@ Yes, we can change the number of rows in the History and Restore Deleted grid. T
 
 So in order to change it, you need to Click on gear icon at top right corner then click on Personal Settings.
 
-![](../.gitbook/assets/Faq\_1.jpg)
+![](<../.gitbook/assets/Faq\_1 (1).jpg>)
 
 Then change the 'Records Per page' value and click on OK.
 
-![](<../.gitbook/assets/Faq\_2 (2).jpg>)
+![](<../.gitbook/assets/Faq\_2 (1).jpg>)
 
 ## 3) After importing the solution of Click2Undo from website all the Processes of Click2Undo is in a 'Draft/Deactivated' state. What to do?
 

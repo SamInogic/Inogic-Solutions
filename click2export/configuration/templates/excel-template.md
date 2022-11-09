@@ -4,7 +4,7 @@ This section will guide you through the process of creating **CRM Report Templat
 
 * Navigate to **Click2Export App --> CRM Report Templates --> New.**
 
-![](../../../.gitbook/assets/Excel\_1.png)
+![](<../../../.gitbook/assets/Excel\_1 (1).png>)
 
 * Fill the relevant details in the **New CRM Report Template** and save it.
 

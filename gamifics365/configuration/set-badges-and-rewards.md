@@ -13,6 +13,6 @@ To create Badges & Rewards, follow the steps given below:
   * **Type:** Select either Badge or Reward.
   * **Icon:** Upload the appropriate icon for the badge or reward.
 
-![](<../../.gitbook/assets/Badges\_2 (1).png>)
+![](../../.gitbook/assets/Badges\_2.png)
 
 ![](../../.gitbook/assets/Badges\_3.png)

@@ -4,7 +4,7 @@ To uninstall **Alerts4Dynamics** solution from your CRM environment, follow the 
 
 1\) Navigate to **Alerts4Dynamics --> License Registration --> Enable Entity Configuration.** Next, disable all selected entities and click on **Save.**
 
-![](<../.gitbook/assets/Uninstall\_1 (5).png>)
+![](<../.gitbook/assets/Uninstall\_1 (7).png>)
 
 2\) Ensure that **Selected Entities** column is blank.
 
@@ -16,6 +16,6 @@ To uninstall **Alerts4Dynamics** solution from your CRM environment, follow the 
 
 4\) Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/bb (1).png>)
+![](<../.gitbook/assets/bb (2).png>)
 
 ![](../.gitbook/assets/h.png)

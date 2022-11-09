@@ -40,7 +40,7 @@ Here are the steps for Advanced Configuration:
 
 **Columns present under 'Active Invoices' view:**
 
-![](<../../../.gitbook/assets/Tooltip\_2 (1).png>)
+![](../../../.gitbook/assets/Tooltip\_2.png)
 
 **Information shown on hovering over the respective entity record:**
 
@@ -79,7 +79,7 @@ On hovering over the group node, it will show the **sum of Credit limit**:
 
 * Next, perform the steps to [add Map My Relationships control on the form](https://docs.inogic.com/map-my-relationships/configuration/add-map-my-relationships-control-on-the-form) --> Go to **Controls** --> Select **Map My Relationships** control.
 
-![](<../../../.gitbook/assets/Basic\_0 (2).png>)
+![](<../../../.gitbook/assets/Basic\_0 (1).png>)
 
 * Go to **'Map My Relationships Control Configuration'** --> Enter the **'Entity Configuration'** record name.
 

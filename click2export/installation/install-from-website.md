@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Click2Export soluti
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (20).png>)
+![](<../../.gitbook/assets/1 (7).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (36).png>)
+![](<../../.gitbook/assets/2 (16).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (33).png>)
+![](<../../.gitbook/assets/3 (36).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (8).png>)
+![](<../../.gitbook/assets/4 (27).png>)
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (26).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (6).png>)
+![](<../../.gitbook/assets/6 (8).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (10).png>)
+![](<../../.gitbook/assets/7 (3).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 

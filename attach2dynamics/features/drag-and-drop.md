@@ -6,4 +6,4 @@ Users can drag and drop multiple files and folders at one time to SharePoint, Az
 **Note: Drag & Drop of files and folders is not supported in IE.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Drag and Drop- slide 12 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Drag and Drop- slide 12 (1).png" alt=""><figcaption></figcaption></figure>

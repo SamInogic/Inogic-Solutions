@@ -30,7 +30,7 @@ To do this, follow the steps given below:
 
 * The server-based integration of SharePoint site is now enabled for your Dynamics 365 CRM environment. Now, go back to **Settings --> Document Management Settings**.
 
-![](../.gitbook/assets/PRE\_10.png)
+![](<../.gitbook/assets/PRE\_10 (1).png>)
 
 * Select the **Entities** for which Document Management needs to be enabled --> Enter the **URL of active SharePoint sites** where you want to store documents --> Click on **Next**.
 

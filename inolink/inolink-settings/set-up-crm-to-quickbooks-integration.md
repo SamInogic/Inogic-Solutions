@@ -4,7 +4,7 @@ With the help of this section, the user can enable the required feature namely D
 
 As shown in below image you need to select the required Company in the Companies tab for which you want to configure the settings.
 
-![](<../../.gitbook/assets/CRM to QB\_1 (2).png>)
+![](<../../.gitbook/assets/CRM to QB\_1.png>)
 
 ### Customer - (Account/Contact)
 

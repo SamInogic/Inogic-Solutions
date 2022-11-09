@@ -8,7 +8,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Once you have signed in, select the instance on which you want to install the solution.
 
-![](../../.gitbook/assets/Powerapps\_1.png)
+![](<../../.gitbook/assets/Powerapps\_1 (2).png>)
 
 * Then select **Solutions** from the left navigation as shown in the below screenshot:
 
@@ -22,7 +22,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 ![Browse for the solution](../../.gitbook/assets/Powerapps\_4.png)
 
-![Import the solution](<../../.gitbook/assets/Powerapps\_5 (2).png>)
+![Import the solution](../../.gitbook/assets/Powerapps\_5.png)
 
 * Select **Next.**
 
@@ -30,7 +30,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Click on **Next -->** Select **Import** and proceed to import the solution.
 
-![](<../../.gitbook/assets/Powerapps\_7 (1).png>)
+![](../../.gitbook/assets/Powerapps\_7.png)
 
 ![](../../.gitbook/assets/Powerapps\_8.png)
 
@@ -50,12 +50,12 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * **Browse** the downloaded file.
 
-![](<../../.gitbook/assets/Install\_1 (6).png>)
+![](../../.gitbook/assets/Install\_1.png)
 
 * Click on **‘Next’.**
 
-![](../../.gitbook/assets/Install\_2.png)
+![](<../../.gitbook/assets/Install\_2 (1).png>)
 
 * Next, check **‘Enable any SDK message processing steps included in the solution’** --> Click on **Import** and proceed to import the solution.
 
-![](<../../.gitbook/assets/Install\_3 (3).png>)
+![](<../../.gitbook/assets/Install\_3 (5).png>)

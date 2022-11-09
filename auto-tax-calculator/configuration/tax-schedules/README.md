@@ -8,7 +8,7 @@ To create a Tax Schedule follow the steps given below:
 
 * Navigate to **Dynamics 365 --> Auto Tax Calculator --> Tax Schedules --> Click on ‘+New’.**
 
-![](<../../../.gitbook/assets/Tax Sch\_1 (2).png>)
+![](<../../../.gitbook/assets/Tax Sch\_1 (1).png>)
 
 * Enter appropriate **Tax Schedule Name** --> Click on **Save.**
 
@@ -26,17 +26,17 @@ To create a Tax Schedule follow the steps given below:
 
 * Click on **‘+ New Record’** --> Click on **‘Tax Details’**.
 
-![](<../../../.gitbook/assets/Tax Sch\_7 (1).png>)
+![](<../../../.gitbook/assets/Tax Sch\_7.png>)
 
 * The following dialog will appear. Here, click on **OK**.
 
-![](<../../../.gitbook/assets/Tax Sch\_8.png>)
+![](<../../../.gitbook/assets/Tax Sch\_8 (1).png>)
 
 * Enter appropriate values to the respective fields – **Tax Detail Name, Tax Percent and Tax Number** --> Click on **Save**.
 
-![](<../../../.gitbook/assets/Tax Sch\_1 (1).png>)
+![](<../../../.gitbook/assets/Tax Sch\_1 (3).png>)
 
-![](<../../../.gitbook/assets/Tax Sch\_2.png>)
+![](<../../../.gitbook/assets/Tax Sch\_2 (1).png>)
 
 ### Edit Tax Schedule
 

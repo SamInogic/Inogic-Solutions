@@ -42,9 +42,9 @@ Now to assign Leads on the basis of User Capacity follow the steps given below:
 
 ![](<../../.gitbook/assets/User workload\_2.png>)
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (133).png>)
 
-![](<../../.gitbook/assets/image (164).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 * Now in **'Assignment Rule'** go to second tab – **User Workload.** Every individual user has their own capacity and has their priority to work on new items. A senior member can work on more items than a junior member. User Workload is used to handle such cases. The User workload records get created when 'Assignment Rule' records get created and when new member is added in the queue (which is set on the Assignment Rule).
 

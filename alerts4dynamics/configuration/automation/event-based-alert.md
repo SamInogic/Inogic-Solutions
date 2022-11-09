@@ -6,25 +6,25 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Navigate to **Advanced Settings** --> **Settings** --> **Process** --> **New Process**.
 
-![](<../../../.gitbook/assets/Event\_1 (1).png>)
+![](<../../../.gitbook/assets/Event\_1 (3).png>)
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
-![](<../../../.gitbook/assets/Event\_2 (2).png>)
+![](<../../../.gitbook/assets/Event\_2 (4).png>)
 
 * Go to **‘Record fields change’** --> Select the field **‘Subject’** from the list.
 
-![](<../../../.gitbook/assets/Event\_3 (3).png>)
+![](<../../../.gitbook/assets/Event\_3 (2).png>)
 
-![](../../../.gitbook/assets/Event\_4.png)
+![](<../../../.gitbook/assets/Event\_4 (3).png>)
 
 * Create a notification request record to create an alert.
 
-![](<../../../.gitbook/assets/Event\_5 (3).png>)
+![](<../../../.gitbook/assets/Event\_5 (2).png>)
 
 * Select **‘Notification Request’.**
 
-![](<../../../.gitbook/assets/Event\_6 (1).png>)
+![](../../../.gitbook/assets/Event\_6.png)
 
 * Click on **‘Set Properties’**.
 

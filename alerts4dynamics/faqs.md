@@ -32,11 +32,11 @@ To delete the **Alerts4Dynamics** license follow the steps given below:
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (3).png>)
+![](../.gitbook/assets/FAQ\_2.png)
 
 * Select the **Alerts4Dynamics** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_3 (3).png>)
+![](<../.gitbook/assets/FAQ\_3 (1).png>)
 
 ## 7) What if user cannot see the 'Alerts4Dynamics' button on the entity?
 

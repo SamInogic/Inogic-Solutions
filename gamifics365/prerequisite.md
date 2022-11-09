@@ -18,11 +18,11 @@ To set the time zone and activate the flow, follow the simple steps given below:
 
 * Select **'Gamifics365 Schedule and End Games'** flow --> Click on **'Edit'**.
 
-![](<../.gitbook/assets/Flow\_4 (2).png>)
+![](<../.gitbook/assets/Flow\_4 (1).png>)
 
 * Click on the first step **'Run every Day at 00.01 AM'** --> Click on **'Edit'**.
 
-![](<../.gitbook/assets/Flow\_5 (2).png>)
+![](<../.gitbook/assets/Flow\_5 (1).png>)
 
 * Now, click on **'Show advanced options'**.
 

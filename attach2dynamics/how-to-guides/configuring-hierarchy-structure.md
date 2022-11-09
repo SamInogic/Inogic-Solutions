@@ -4,7 +4,7 @@ Attachments/Documents of Dynamics 365 CRM records can be stored in SharePoint si
 
 * Go to **Advanced Settings --> Settings --> Document Management Settings.**
 
-![](<../../.gitbook/assets/PRE\_10 (1).png>)
+![](../../.gitbook/assets/PRE\_10.png)
 
 * Select **Entities --> Enter the URL of respective SharePoint site.**
 

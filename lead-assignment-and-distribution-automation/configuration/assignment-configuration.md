@@ -12,15 +12,15 @@ To enable Assignment Configuration follow the steps given below:&#x20;
 **Note: To enable assignment configuration it is necessary to enable Queue for OOB entities. Also, keep ''Automatically move records....or assigned" box unchecked.**
 {% endhint %}
 
-![](<../../.gitbook/assets/Config\_2 (1).png>)
+![](../../.gitbook/assets/Config\_2.png)
 
 * Select the entities from the list of **Available Entities** --> Move them to the list **Selected Entities.**
 
-![](<../../.gitbook/assets/Config\_3 (1).png>)
+![](../../.gitbook/assets/Config\_3.png)
 
 * Click on **Save**.&#x20;
 
-![](<../../.gitbook/assets/Config\_4 (3).png>)
+![](../../.gitbook/assets/Config\_4.png)
 
 * At any time you can **disable** the Assignment Configuration for a particular Entity by removing the entity from Selected Entities list.
 
@@ -28,7 +28,7 @@ To enable Assignment Configuration follow the steps given below:&#x20;
 
 * You can see **Appointment** has been removed from Selected Entities grid and is now again available in Available Entities grid. Click on **Save** in order to retain these settings.
 
-![](<../../.gitbook/assets/Config\_6 (3).png>)
+![](../../.gitbook/assets/Config\_6.png)
 
 *   To view the Assignment Configurations go to **Lead Assignment and Distribution Automation**
 
