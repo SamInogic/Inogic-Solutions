@@ -10,7 +10,7 @@ You can also **expand / collapse** these rows through a toggle icon beside the r
 
 The field to be used for row categories can be defined when configuring the Kanban View Component for a view as shown below:
 
-![](<../../.gitbook/assets/1 (86).png>)
+![](<../../.gitbook/assets/1 (248).png>)
 
 Another factor seen in **Row Grouping** is the **‘Drop Zone’.** This field will let you drag and drop records from one lane to another lane and update only the lane criteria. It is automatically enabled for non-option set fields in row filter criteria.
 

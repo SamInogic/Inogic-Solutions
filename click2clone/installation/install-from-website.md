@@ -8,25 +8,25 @@ To import the solution from make.powerapps.com, download the Click2Clone solutio
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (2).png>)
+![](<../../.gitbook/assets/a (3).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](../../.gitbook/assets/b.png)
+![](<../../.gitbook/assets/b (8).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (7).png>)
+![](<../../.gitbook/assets/c (3).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (2).png>)
+![](<../../.gitbook/assets/d (5).png>)
 
-![](<../../.gitbook/assets/e (3).png>)
+![](../../.gitbook/assets/e.png)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/f (3).png>)
+![](<../../.gitbook/assets/f (4).png>)
 
 * Then click on **Import**.
 
@@ -42,15 +42,15 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (127).png>)
+![](<../../.gitbook/assets/1 (313).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (61).png>)
+![](<../../.gitbook/assets/2 (18).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (7).png>)
+![](<../../.gitbook/assets/3 (3).png>)
 
 * Browse the downloaded file.
 
@@ -58,7 +58,7 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (12).png>)
+![](<../../.gitbook/assets/5 (4).png>)
 
 
 

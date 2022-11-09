@@ -26,11 +26,11 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request **.lic file** from Inogic --> Save file --> Go to Auto Tax Calculator app --> License Registration --> Click ‘**Choose File**’ to locate the file with the extension **.lic**
 
-![](<../../.gitbook/assets/Lic\_4 - Copy.png>)
+![](<../../.gitbook/assets/Lic\_4 - Copy (2).png>)
 
 * Select the file --> Click ‘**Open**.’
 
-![](<../../.gitbook/assets/Lic\_5 (3).png>)
+![](<../../.gitbook/assets/Lic\_5 (9).png>)
 
 * Click on ‘**Register**’ to complete the License Registration.
 

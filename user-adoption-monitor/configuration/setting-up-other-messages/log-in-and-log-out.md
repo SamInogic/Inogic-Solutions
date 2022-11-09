@@ -10,7 +10,7 @@ To enable this feature, follow the steps given below:
 
 * Navigate to **Entity Configurations** (User Adoption Monitor group) --> Click on **New**.
 
-![](../../../.gitbook/assets/Log\_1.png)
+![](<../../../.gitbook/assets/Log\_1 (1).png>)
 
 * Here, fill the fields as follows:
   * **Entity Label:** Application&#x20;
@@ -19,7 +19,7 @@ To enable this feature, follow the steps given below:
   * Period: as required (Daily in this instance)
 * Click on **Save.**
 
-![](../../../.gitbook/assets/Log\_2.png)
+![](<../../../.gitbook/assets/Log\_2 (1).png>)
 
 * After entity configuration, the **Log In** button will be displayed on the home grid.
 

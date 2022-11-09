@@ -4,7 +4,7 @@ After importing the solution, the next step is to activate the License. Follow t
 
 * Navigate to **My Apps** -> **Kanban Board**. After the solution is imported, it will be displayed in **My Apps**.
 
-![](<../../.gitbook/assets/1 (87).png>)
+![](<../../.gitbook/assets/1 (251).png>)
 
 * Now, click on **Kanban Board** app and below page will be displayed.
 
@@ -14,7 +14,7 @@ After importing the solution, the next step is to activate the License. Follow t
 
 After filling the details click ‘**ACTIVATE**’ for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM**.
 
-![](<../../.gitbook/assets/1 (1) (3).png>)
+![](<../../.gitbook/assets/1 (1) (2).png>)
 
 After you have activated license, you need to configure Kanban Board to view it on desired home grid.&#x20;
 
@@ -28,11 +28,11 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request .lic file from Inogic --> Save file --> Go to **Kanban Board** app --> **License Registration** --> Click **Choose File** to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/Lic Reg\_1.png>)
+![](<../../.gitbook/assets/Lic Reg\_1 (1).png>)
 
 * Select the file --> Click **Open**.
 
-![](<../../.gitbook/assets/Lic Reg\_2.png>)
+![](<../../.gitbook/assets/Lic Reg\_2 (1).png>)
 
 * Click on **Register** to complete the **License Registration**.
 

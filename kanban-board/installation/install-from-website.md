@@ -8,21 +8,21 @@ To import the solution from make.powerapps.com, download the Kanban Board soluti
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (6).png>)
+![](<../../.gitbook/assets/a (4).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (2).png>)
+![](<../../.gitbook/assets/b (7).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (5).png>)
+![](<../../.gitbook/assets/c (1).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/d (8).png>)
+![](../../.gitbook/assets/d.png)
 
-![](<../../.gitbook/assets/e (4).png>)
+![](<../../.gitbook/assets/e (2).png>)
 
 * Select **Next**.
 
@@ -30,7 +30,7 @@ To import the solution from make.powerapps.com, download the Kanban Board soluti
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/g (2).png>)
+![](<../../.gitbook/assets/g (4).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -42,11 +42,11 @@ Follow the steps to **import** and **install** Kanban Board solution.
 
 For importing and installing the Kanban Board solution in your Dynamics 365 CRM navigate to **Advanced Settings.**
 
-![](<../../.gitbook/assets/1Installing-Click2Export-in-your-Environment (1).png>)
+![](../../.gitbook/assets/1Installing-Click2Export-in-your-Environment.png)
 
 &#x20;Go to **Settings → Solutions**
 
-![](../../.gitbook/assets/2Installing-Click2Export-in-your-Environment.png)
+![](<../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (2).png>)
 
 Click on **Import** button.
 
@@ -60,7 +60,7 @@ You can now browse and upload your solution for importing.
 
 Check **Enable any SDK message processing steps included in the solution** and click on **Import**.
 
-![](<../../.gitbook/assets/Install\_8 (2).png>)
+![](../../.gitbook/assets/Install\_8.png)
 
 The solution will be imported in your environment.
 

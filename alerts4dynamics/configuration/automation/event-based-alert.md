@@ -10,7 +10,7 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
-![](<../../../.gitbook/assets/Event\_2 (4).png>)
+![](<../../../.gitbook/assets/Event\_2 (3).png>)
 
 * Go to **‘Record fields change’** --> Select the field **‘Subject’** from the list.
 
@@ -20,31 +20,31 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Create a notification request record to create an alert.
 
-![](../../../.gitbook/assets/Event\_5.png)
+![](<../../../.gitbook/assets/Event\_5 (2).png>)
 
 * Select **‘Notification Request’.**
 
-![](<../../../.gitbook/assets/Event\_6 (2).png>)
+![](<../../../.gitbook/assets/Event\_6 (1).png>)
 
 * Click on **‘Set Properties’**.
 
-![](../../../.gitbook/assets/Event\_7.png)
+![](<../../../.gitbook/assets/Event\_7 (3).png>)
 
 * Perform the dynamic field selection as required.
 
-![](<../../../.gitbook/assets/Event\_8 (1).png>)
+![](<../../../.gitbook/assets/Event\_8 (2).png>)
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](<../../../.gitbook/assets/Event\_9 (1).png>)
+![](../../../.gitbook/assets/Event\_9.png)
 
-![](<../../../.gitbook/assets/Event\_10 (1).png>)
+![](../../../.gitbook/assets/Event\_10.png)
 
 * After creating an alert, now add a **‘Wait’** condition which will wait till the case is resolved.
 
 ![](../../../.gitbook/assets/Event\_11.png)
 
-![](<../../../.gitbook/assets/Event\_12 (1).png>)
+![](../../../.gitbook/assets/Event\_12.png)
 
 Let’s further configure the condition.
 
@@ -58,11 +58,11 @@ Let’s further configure the condition.
 
 * Select the below assembly from the list for auto dismissing the alert notification.
 
-<figure><img src="../../../.gitbook/assets/16 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/16 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **‘Set Properties’.**
 
-<figure><img src="../../../.gitbook/assets/17 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the below option from the list for **‘Look for’** field. This is a first step description that was added to create a notification request record.
 

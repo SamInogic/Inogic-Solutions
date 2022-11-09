@@ -36,15 +36,15 @@ To delete the **Map My Relationships** license follow the steps given below:
 
 * Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (2).png>)
+![](<../.gitbook/assets/FAQ\_1 (6).png>)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (3).png>)
+![](../.gitbook/assets/FAQ\_2.png)
 
 * Select the **Map My Relationships** record and **delete** it.
 
-![](../.gitbook/assets/FAQ\_1.png)
+![](<../.gitbook/assets/FAQ\_1 (4).png>)
 
 ## 6) Can we customize the record details that we can see by hovering over the record node in the view?
 

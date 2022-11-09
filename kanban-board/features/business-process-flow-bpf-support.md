@@ -17,4 +17,4 @@ Click on **‘Switch to Default Board’** to switch the Kanban Board to Default
 
 This field is by default enabled. You can disable/enable this field while configuring the Kanban View Component for a view as shown below:
 
-![](<../../.gitbook/assets/1 (186).png>)
+![](<../../.gitbook/assets/1 (183).png>)

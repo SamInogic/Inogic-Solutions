@@ -16,7 +16,7 @@ Uninstalling **Map My Relationships** solution from your CRM environment is quit
 
 3\) Double click on **Form** ->Click the field on which control is set.
 
-![](<../.gitbook/assets/23 (1).png>)
+![](<../.gitbook/assets/23 (2).png>)
 
 4\) Now go to **Controls** -> Delete **Map My Relationships** Control -> Click **OK** -> Click on **Save and Publish**.
 
@@ -24,22 +24,22 @@ Uninstalling **Map My Relationships** solution from your CRM environment is quit
 
 5\) Similarly, to remove Map My Connections control, go to **Default Solution** -> Select **Opportunity** -> **Forms** -> **Main Form**.&#x20;
 
-![](<../.gitbook/assets/Uninstall\_1 (6).png>)
+![](<../.gitbook/assets/Uninstall\_1 (7).png>)
 
 6\) Double click on **Form** -> Click the field on which control is set.
 
-![](<../.gitbook/assets/Uninstall\_2 (6).png>)
+![](<../.gitbook/assets/Uninstall\_2 (1).png>)
 
 7\) Now go to **Controls** -> Delete **Map My Connections** Control -> Click **OK** -> Click on **Save and Publish**.
 
-![](<../.gitbook/assets/Uninstall\_3 (4).png>)
+![](<../.gitbook/assets/Uninstall\_3 (6).png>)
 
 8\) Next, navigate to **Settings** --> **Solution** --> Select **Map My Relationships** solution.
 
-![](<../.gitbook/assets/2 (64).png>)
+![](<../.gitbook/assets/2 (57).png>)
 
 9\) Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/3 (14).png>)
+![](<../.gitbook/assets/3 (20).png>)
 
 ![](<../.gitbook/assets/uninstall\_5 - Copy (1).png>)

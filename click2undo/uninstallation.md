@@ -10,4 +10,4 @@ Like installing Click2Undo solution, uninstalling the solution from your CRM env
 
 ![](<../.gitbook/assets/uninstall\_4 - Copy.png>)
 
-![](<../.gitbook/assets/uninstall\_5 - Copy.png>)
+![](<../.gitbook/assets/uninstall\_5 - Copy (2).png>)

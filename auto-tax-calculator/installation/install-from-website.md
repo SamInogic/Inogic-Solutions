@@ -8,19 +8,19 @@ To import the solution from make.powerapps.com, download the Auto Tax Calculator
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (257).png>)
+![](<../../.gitbook/assets/1 (107).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (63).png>)
+![](<../../.gitbook/assets/2 (20).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (35).png>)
+![](<../../.gitbook/assets/3 (11).png>)
 
 *  On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (32).png>)
+![](<../../.gitbook/assets/4 (30).png>)
 
 ![](../../.gitbook/assets/Power\_1.1.png)
 
@@ -42,19 +42,19 @@ Follow the steps to import and install **Auto Tax Calculator** solution.
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (167).png>)
+![](<../../.gitbook/assets/1 (225).png>)
 
 * Navigate to **Settings --> Solutions**.
 
-![](<../../.gitbook/assets/2 (7).png>)
+![](../../.gitbook/assets/2.png)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (26).png>)
+![](<../../.gitbook/assets/3 (9).png>)
 
 * Browse the downloaded file --> Select the file --> Click on **Next**.
 
-![](<../../.gitbook/assets/Install\_9 (1).png>)
+![](../../.gitbook/assets/Install\_9.png)
 
 ![](../../.gitbook/assets/Install\_10.png)
 

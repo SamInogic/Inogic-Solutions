@@ -6,20 +6,20 @@ Here are the steps to activate **Alerts4Dynamics** license.
 
 * Navigate to **Dynamics 365** --> **Alerts4Dynamics** app.&#x20;
 
-<figure><img src="../../.gitbook/assets/1 (304).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (130).png" alt=""><figcaption></figcaption></figure>
 
 * Go to **License Registration**.
 
-![](<../../.gitbook/assets/1 (20).png>)
+![](<../../.gitbook/assets/1 (316).png>)
 
 Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/3 (9).png>)
+![](<../../.gitbook/assets/3 (19).png>)
 
 If you want to purchase or extend the trial, click on **SEND REQUEST** --> Enter all details --> Click again on **SEND REQUEST** and send the email to Inogic.\
 
 
-![](<../../.gitbook/assets/4 (10).png>)
+![](<../../.gitbook/assets/4 (33).png>)
 
 ### Alternate method to complete License Activation __&#x20;
 
@@ -27,7 +27,7 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Request .lic file from Inogic --> Save file --> Go to **Alerts4Dynamics** app --> **License Registration** --> Click **Choose File** to locate the file with the extension .lic
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (25).png>)
 
 * Select the file --> Click **Open**.
 
@@ -35,4 +35,4 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/6 (16).png>)
+![](<../../.gitbook/assets/6 (19).png>)

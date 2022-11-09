@@ -12,11 +12,11 @@ To revise existing Plans, Plan Steps, and Plan Step Actions for both process and
 Note: Locked Fields can't be edited.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/edit plan_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit plan_1.png" alt=""><figcaption></figcaption></figure>
 
 * Make the required changes to the plan --> Click on **‘Revise’**.
 
-<figure><img src="../../../.gitbook/assets/revise plan (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan.png" alt=""><figcaption></figcaption></figure>
 
 * To Revise Plan Step navigate to **Business Process Checklist App --> Plans --> Plan Details --> Manage Steps --> Select** the **Existing Plan Step** you want to edit --> Click on the **Edit Button**.
 
@@ -28,7 +28,7 @@ Note: Locked Fields can't be edited.
 
 * Click on **‘Revise’**.
 
-<figure><img src="../../../.gitbook/assets/revise plan step (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan step.png" alt=""><figcaption></figcaption></figure>
 
 * To Edit Plan Step Action navigate to **Business Process Checklist App --> Plans --> Plan Details --> Manage Steps --> Select** the **Existing Plan Step Action** you want to edit --> Click on the **ellipses (the three small dots)** --> Click on **'Edit'**.
 
@@ -50,7 +50,7 @@ Note: Locked Fields can't be edited.
 
 * Make the required changes to the plan --> Click on **‘Revise’**.
 
-<figure><img src="../../../.gitbook/assets/revise plan  (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan .png" alt=""><figcaption></figcaption></figure>
 
 * To Revise Plan Step navigate to **Business Process Checklist App --> Plans --> Plan Details --> Manage Steps --> Select** the **Existing Plan Step** you want to edit --> Click on the **Edit Button**.
 
@@ -58,4 +58,4 @@ Note: Locked Fields can't be edited.
 
 * Make the required changes to the plan --> Click on **‘Save’**.
 
-<figure><img src="../../../.gitbook/assets/revise plan step (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan step (1).png" alt=""><figcaption></figcaption></figure>

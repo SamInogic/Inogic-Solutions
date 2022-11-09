@@ -6,11 +6,11 @@ To add Kanban Board Control on Subgrid follow the steps given below:
 
 * Go to **Settings -> Customizations**.
 
-![](<../../.gitbook/assets/1 (92).png>)
+![](<../../.gitbook/assets/1 (396).png>)
 
 * &#x20;From there go to **Customize the System -> Entities**
 
-![](<../../.gitbook/assets/2 (36).png>)
+![](<../../.gitbook/assets/2 (17).png>)
 
 * Next, click on any Entity, for e.g. **‘Account’ --> Form --> Select ‘Account’.**
 
@@ -22,7 +22,7 @@ To add Kanban Board Control on Subgrid follow the steps given below:
 
 * Now select the tab --> Click on **‘Change Properties’** --> Go to **‘Display’** --> Select the required details.
 
-![](<../../.gitbook/assets/Subgrid\_4 (1).png>)
+![](../../.gitbook/assets/Subgrid\_4.png)
 
 * Next go to **‘Controls’** --> Enable **Kanban Board** for **Web, Phone and Tablet.**
 

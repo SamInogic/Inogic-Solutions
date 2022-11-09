@@ -2,7 +2,7 @@
 
 The Tax Schedule entity is used to create your Tax Schedules and assign the Tax Details to the schedule. A Tax Schedule is a group of Tax Details that can be applied to a Product or Customer.
 
-![](<../../../.gitbook/assets/Tax Sch\_1 (2).png>)
+![](<../../../.gitbook/assets/Tax Sch\_1 (3).png>)
 
 ### How to create a Tax Schedule:
 

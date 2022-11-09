@@ -4,7 +4,7 @@ To set up the template, follow the steps given below:
 
 * Go to **Click2Clone app** --> **Click2Clone Templates** --> Click on **New.**
 
-![](../../../.gitbook/assets/Temp\_1.png)
+![](<../../../.gitbook/assets/Temp\_1 (4).png>)
 
 * Here, let’s clone the record from **Opportunity** entity to an **Order** entity. Name the template --> Select source entity = **'Opportunity'** and target entity = **'Order'** --> Click on **Save.**
 

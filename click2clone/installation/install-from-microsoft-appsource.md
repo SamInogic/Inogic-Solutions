@@ -12,19 +12,19 @@ To install **Click2Clone** solution from the **Microsoft AppSource**, visit the 
 
 * If the user is not logged into CRM, fill in the credentials and **Sign in**.
 
-![](../../.gitbook/assets/hh.png)
+![](<../../.gitbook/assets/hh (1).png>)
 
 * Next, confirm the details in the form, accept the terms & conditions and click on **Continue**.
 
-![](<../../.gitbook/assets/SS (2).png>)
+![](../../.gitbook/assets/SS.png)
 
 * &#x20;Select an environment from the dropdown list. Click on the checkboxes to accept the legal terms and privacy policies. Then proceed further by clicking on the **Install** button.
 
-![](<../../.gitbook/assets/11 (6).png>)
+![](<../../.gitbook/assets/11 (7).png>)
 
 * The installation process will now have started and you can check the status by refreshing the page.
 
-![](<../../.gitbook/assets/22 (2).png>)
+![](<../../.gitbook/assets/22 (4).png>)
 
 * After the installation is done, you will be able to see **Click2Clone** solution in **My apps**.&#x20;
 

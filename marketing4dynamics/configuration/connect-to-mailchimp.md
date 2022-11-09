@@ -4,7 +4,7 @@ To successfully connect Mailchimp account to Dynamics 365 CRM, follow the steps 
 
 * First, go to **Marketing4Dynamics App --> Settings --> Setup**.
 
-![](../../.gitbook/assets/Connect\_1.png)
+![](<../../.gitbook/assets/Connect\_1 (1).png>)
 
 * Click on **‘Connect to Mailchimp Account’** --> A dialog box will appear.
 

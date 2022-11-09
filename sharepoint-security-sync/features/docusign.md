@@ -6,7 +6,7 @@ Users are given the provision to use the features of DocuSign to electronically 
 **Note: To use this feature both DocuSign solution and SharePoint Security Sync solution must be installed.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Docusign slide 35 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docusign slide 35.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note : The entity for which you want to use the DocuSign feature should be enabled for notes**.

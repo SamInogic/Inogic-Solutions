@@ -10,5 +10,5 @@ For example, here in CRM the user can only see a particular record **'Abby Produ
 
 With SharePoint Security Sync, the user will have the same privileges in SharePoint also i.e. , the user will only be able to see **'Abby Production House'** record of Account entity in SharePoint site.
 
-![](<../../.gitbook/assets/Sync Privi\_2 (1).jpg>)
+![](<../../.gitbook/assets/Sync Privi\_2.jpg>)
 

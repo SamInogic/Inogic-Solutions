@@ -30,7 +30,7 @@ To create a Tax Schedule follow the steps given below:
 
 * The following dialog will appear. Here, click on **OK**.
 
-![](<../../../.gitbook/assets/Tax Sch\_8.png>)
+![](<../../../.gitbook/assets/Tax Sch\_8 (1).png>)
 
 * Enter appropriate values to the respective fields – **Tax Detail Name, Tax Percent and Tax Number** --> Click on **Save**.
 

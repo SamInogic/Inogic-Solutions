@@ -10,7 +10,7 @@ After designing the workflow, the next task is to **execution** of workflow. To 
 
 * Click **'OK'** to confirm.
 
-![](../../../../.gitbook/assets/Flow\_3.png)
+![](<../../../../.gitbook/assets/Flow\_3 (1).png>)
 
 * We can see the clone copy is created along with the **cloned opportunity line:**
 

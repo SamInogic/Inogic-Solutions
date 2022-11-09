@@ -16,15 +16,15 @@ To delete the Attach2Dynamics license follow the below steps:
 
 Step 1: Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (4).jpg>)
+![](<../.gitbook/assets/FAQ\_1 (1).jpg>)
 
 Step 2: Select **Inogic License Details** in **‘Look for’** and click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (1).jpg>)
+![](<../.gitbook/assets/FAQ\_2 (2).jpg>)
 
 Step 3: Select the **Attach2Dynamics** record and **delete** it.
 
-![](../.gitbook/assets/FAQ\_3.jpg)
+![](<../.gitbook/assets/FAQ\_3 (1).jpg>)
 
 ## 4) I get the following error while creating an anonymous link of file on Attach2Dynamics UI, how can I resolve this?
 
@@ -64,7 +64,7 @@ Firstly, please check if the browser setting is to Enable the cookies. To know m
 
 This message is displayed when the number of the CRM user is increased beyond the subscribed users. If you get this issue then please reach out to us at [crm@inogic.com](mailto:crm@inogic.com) with the total user count. To get the total user count please execute the below condition in **Advanced Find**:
 
-![](<../.gitbook/assets/FAQ\_1 (3).png>)
+![](<../.gitbook/assets/FAQ\_1 (1).png>)
 
 ## 10) What to do if I am not able to see the Attach2Dynamics button?
 
@@ -86,7 +86,7 @@ To delete the connection detail record of the user please follow the steps given
 
 * Open **Advanced Find** from your CRM.
 
-![](<../.gitbook/assets/FAQ\_1 (1).jpg>)
+![](../.gitbook/assets/FAQ\_1.jpg)
 
 * In the **Look for** dropdown select **Connection Details** entity.
 
@@ -94,7 +94,7 @@ To delete the connection detail record of the user please follow the steps given
 
 * Please add a condition as shown in the below screenshot:
 
-![](<../.gitbook/assets/FAQ\_3 (1).jpg>)
+![](../.gitbook/assets/FAQ\_3.jpg)
 
 * Click on **Results.**
 
@@ -178,7 +178,7 @@ Please follow the steps given below to achieve the offline capability for the No
 
 * Once you connect back with your network connectivity, the note attachment which is added on the account record will get migrated to SharePoint and the link will get generated in the timeline.
 
-![](<../.gitbook/assets/Image5 (1).png>)
+![](../.gitbook/assets/Image5.png)
 
 ![](../.gitbook/assets/Image6.png)
 
@@ -194,7 +194,7 @@ Please follow the below steps to add a redirect URL:
 
 * Navigate to **Azure App** --> Click on **Redirect URL**.
 
-![](../.gitbook/assets/FAQ\_16.3.jpg)
+![](<../.gitbook/assets/FAQ\_16.3 (1).jpg>)
 
 * Click on **Add a platform** button --> Select **Web**.
 

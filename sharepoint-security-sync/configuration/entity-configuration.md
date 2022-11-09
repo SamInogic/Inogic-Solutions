@@ -4,7 +4,7 @@ Given below are the steps for Entity configuration in SharePoint Security Sync.
 
 For **‘Entity Configuration’** go to **SharePoint Security Sync --> Entity Configuration**.
 
-![](../../.gitbook/assets/Entity\_1.png)
+![](<../../.gitbook/assets/Entity\_1 (1).png>)
 
 Entity Configurations can be created from the Connector form too, just click on **Entity Configuration** **Tab** on Connector page and click on '**+ New** ' button.
 
@@ -40,7 +40,7 @@ The **‘Create Library Structure’** section can be set as follows:
 
     For example, suppose if user has set **‘Period type’** to **‘X Month’** and **‘Duration’** to **‘6’.** Now based on this setting a half yearly document library will be created in SharePoint for whichever record created for that particular period.
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_10 (1).png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_10.png>)
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_11 (1).png>)
 
@@ -60,7 +60,7 @@ The **‘Create Record Folder Structure’** section can be set as follows:
 
 For example, suppose if user has used combination of logical and text for **‘Folder Format’** like **‘{name} KP.’** Now based on this setting the following record folder structure will be created in SharePoint.
 
-![](<../../.gitbook/assets/Create Cust Fold Feat\_12 (1).png>)
+![](<../../.gitbook/assets/Create Cust Fold Feat\_12.png>)
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_13 (1).png>)
 

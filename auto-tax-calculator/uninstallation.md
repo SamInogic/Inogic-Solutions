@@ -4,11 +4,11 @@ Like installing Auto Tax Calculator solution, uninstalling the solution from you
 
 * Navigate to **Settings** --> **Solutions** --> Select **Auto Tax Calculator** solution.
 
-![](../.gitbook/assets/Uninstall\_4.png)
+![](<../.gitbook/assets/Uninstall\_4 (2).png>)
 
 * Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](../.gitbook/assets/Uninstall\_5.png)
+![](<../.gitbook/assets/Uninstall\_5 (2).png>)
 
-![](<../.gitbook/assets/Uninstall\_3 (5).png>)
+![](<../.gitbook/assets/Uninstall\_3 (2).png>)
 

@@ -38,7 +38,7 @@ To do this, follow the steps given below:
 
 * Select the **Entities** for which Document Management needs to be enabled --> Enter the **URL of active SharePoint sites** where you want to store documents --> Click on **Next**.
 
-![](../../.gitbook/assets/PRE\_11.png)
+![](<../../.gitbook/assets/PRE\_11 (1).png>)
 
 * Check **‘Based on entity’** to automatically create document libraries and folders that are based on the Dynamics 365 Account on the SharePoint site. Users will not be prompted to create them. If you don't want folders automatically created, do not select the **‘Based on entity’** check box. Click on **Next** button.
 
@@ -60,4 +60,4 @@ If you are using Dropbox connector, you need to **create app on Dropbox**. To kn
 
 If you are using Azure Blob Storage connector, then you need to create a **storage account**. To know more, click [here](https://docs.inogic.com/attach2dynamics/configuration/connector-configuration/azure-blob-storage).
 
-![](../../.gitbook/assets/Azure\_1.png)
+![](<../../.gitbook/assets/Azure\_1 (1).png>)

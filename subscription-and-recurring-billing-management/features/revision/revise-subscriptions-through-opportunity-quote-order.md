@@ -6,11 +6,11 @@ Follow the steps given below, to revise Subscription Schedule through Opportunit
 
 * Navigate to **Subscription and Recurring Billing Management app --> Billings --> Opportunities --> Click on +New.**
 
-![](<../../../.gitbook/assets/Opp to SS\_1 (6).png>)
+![](<../../../.gitbook/assets/Opp to SS\_1.png>)
 
 * Enter basic details like name, bill to customer and click on **save**.
 
-![](<../../../.gitbook/assets/Opp to SS\_2 (2).png>)
+![](<../../../.gitbook/assets/Opp to SS\_2.png>)
 
 * Now, go to **Subscription Management** tab --> Select the existing subscription schedule --> Click on **Save.** Once the subscription schedule is selected, it is deemed that it is to going to be **revised**.
 
@@ -24,11 +24,11 @@ Here, the existing subscriber count is shown as **20** and the customer wanted t
 
 * Now close this opportunity as **won**.
 
-![](<../../../.gitbook/assets/Opp to SS\_5.png>)
+![](<../../../.gitbook/assets/Opp to SS\_5 (2).png>)
 
 * Next, click on **‘Convert to Subscription Schedule’** button.
 
-![](<../../../.gitbook/assets/Opp to SS\_6 (2).png>)
+![](<../../../.gitbook/assets/Opp to SS\_6 (1).png>)
 
 * The subscription schedule is now revised.
 

@@ -36,15 +36,15 @@ To delete the **Kanban Board** license follow the steps given below:
 
 * Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (2).png>)
+![](<../.gitbook/assets/FAQ\_1 (6).png>)
 
 * Select **Inogic License Details** in **‘Look for’** --> Click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (3).png>)
+![](../.gitbook/assets/FAQ\_2.png)
 
 * Select the **Kanban Board** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_3 (1).png>)
+![](<../.gitbook/assets/FAQ\_3 (3).png>)
 
 ## 8) After importing the solution of Kanban Board from website all the Processes of Kanban Board is in a 'Draft/Deactivated' state. What to do?
 

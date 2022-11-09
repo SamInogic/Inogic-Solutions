@@ -18,7 +18,7 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 Note: Email activity is supported only for those entities that have an email field.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity Configuration_3.png" alt=""><figcaption></figcaption></figure>
 
 * Check or uncheck the supported activities as per business requirements.&#x20;
 

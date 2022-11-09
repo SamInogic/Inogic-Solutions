@@ -6,11 +6,11 @@ Here are the steps to activate **InoLink** license.
 
 * Navigate to **Settings --> InoLink Group --> License Registration**.
 
-![](<../../.gitbook/assets/Lic\_1 (6).png>)
+![](<../../.gitbook/assets/Lic\_1 (11).png>)
 
 * Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
-![](<../../.gitbook/assets/Lic\_2 (8).png>)
+![](<../../.gitbook/assets/Lic\_2 (3).png>)
 
 *   Notification Details: This section is optional. Purpose of having this is if product license for some reason expired then someone should get a notification about it so they will take appropriate action. In the notification section user needs to provide the notification details.&#x20;
 
@@ -28,9 +28,9 @@ If you want to purchase or extend the trial, click on **SEND REQUEST --> Enter a
 
 **License Registration using (\*.lic) file** is the option for the users for whom the automated process of activating the license (ACTIVATE button) within the CRM doesn’t work. In that case, we provide the license file which user needs to extract and select in **Choose file** option and click on **Register.**
 
-![](<../../.gitbook/assets/Lic\_3 (4).png>)
+![](<../../.gitbook/assets/Lic\_3 (5).png>)
 
 After activating the license, set the **InoLink Settings** to configure the required features and enable the services.
 
-![](<../../.gitbook/assets/Lic\_4 (7).png>)
+![](<../../.gitbook/assets/Lic\_4 (3).png>)
 

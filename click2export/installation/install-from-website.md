@@ -8,29 +8,29 @@ To import the solution from make.powerapps.com, download the Click2Export soluti
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (362).png>)
+![](<../../.gitbook/assets/1 (190).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (17).png>)
+![](<../../.gitbook/assets/2 (52).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (38).png>)
+![](<../../.gitbook/assets/3 (35).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (12).png>)
+![](<../../.gitbook/assets/4 (35).png>)
 
-![](<../../.gitbook/assets/5 (21).png>)
+![](<../../.gitbook/assets/5 (10).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (21).png>)
+![](<../../.gitbook/assets/6 (10).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (11).png>)
+![](<../../.gitbook/assets/7 (17).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -42,11 +42,11 @@ Follow the steps to import and install Click2Export solution.
 
 For importing and installing the Click2Export solution in your Dynamics 365 CRM navigate to **Advanced Settings.**
 
-![](../../.gitbook/assets/1Installing-Click2Export-in-your-Environment.png)
+![](<../../.gitbook/assets/1Installing-Click2Export-in-your-Environment (1).png>)
 
 &#x20;Go to **Settings → Solutions**
 
-![](<../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (2).png>)
+![](<../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (1).png>)
 
 &#x20;Click on **Import** tab.
 

@@ -62,7 +62,7 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/BPF_11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
 
 * Click on **'New Plan'.**
 
@@ -86,11 +86,11 @@ In the same way, you can set Advance criteria for other plan records as well.
 * **Simple:** Execute plans based on the View of an entity.
 * **Advanced:** Execute Plans based on filter criteria or conditions (conditions defined in Fetch XML).
 
-<figure><img src="../../../../.gitbook/assets/BPF_6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_6 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Select **'Business Process'.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_7 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Select Business Process Flow to which the plan will be attached.
 
@@ -106,6 +106,6 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 * Fill in the Plan Details and Click **'Save'**:
 
-<figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_11 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Add how to create a plan step for BPF here.

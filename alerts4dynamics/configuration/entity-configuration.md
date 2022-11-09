@@ -18,7 +18,7 @@ Given below are the steps to enable Entity Configuration in Alerts4Dynamics:
 
 * Similarly, you can disable Entity Configuration for any of the entities. Here, we will disable **'Product'** entity.
 
-![](<../../.gitbook/assets/EntConf\_4 (1).png>)
+![](../../.gitbook/assets/EntConf\_4.png)
 
 * Now the 'Product' entity is removed from **'Selected Entities'** and can be seen in **'Available Entities'** --> Click on **Save** icon.
 

@@ -26,7 +26,7 @@ Navigate to **Attach2Dynamics app --> Connectors--> Click on New --> Fill the fo
 
 * Now, click on **My apps** on the list in left. If you have already created an app click on the **‘app icon’**. You will be redirected to the App’s home page. Scroll down and you will find **App Key** and **App Secret**. If you don’t have an app click on **Create App**. From **Choose an API** click on **Dropbox API button**.
 
-![](<../../../.gitbook/assets/DP\_2 (1).jpg>)
+![](../../../.gitbook/assets/DP\_2.jpg)
 
 * In **Choose the type of access you need** select **Full Dropbox**.
 

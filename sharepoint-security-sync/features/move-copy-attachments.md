@@ -8,7 +8,7 @@ If enabled, it’ll move/copy the Note Attachments to the respective entity fold
 
 ![Copy Notes](<../../.gitbook/assets/NotesCopyScreenshot (1).png>)
 
-![Move Notes](<../../.gitbook/assets/NotesMoveScreenshot (1).png>)
+![Move Notes](../../.gitbook/assets/NotesMoveScreenshot.png)
 
 ### Email Attachments:
 
@@ -16,7 +16,7 @@ If enabled, it’ll move/copy the Email Attachments to a common folder called Em
 
 ![Copy Email Attachment](<../../.gitbook/assets/EmailCopy (1).png>)
 
-![Move Email Attachment](../../.gitbook/assets/EmailMove.png)
+![Move Email Attachment](<../../.gitbook/assets/EmailMove (1).png>)
 
 ### Sales Literature Attachments:
 

@@ -10,7 +10,7 @@ Go to [make.powerapps.com](https://make.powerapps.com/) --> In Solutions, select
 
 A pop-up will appear asking for your confirmation --> Click on **Delete** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/Uninstall\_5 (2).png>)
+![](<../.gitbook/assets/Uninstall\_5 (3).png>)
 
 ### Uninstall from Dynamics 365 CRM
 
@@ -20,7 +20,7 @@ Navigate to **Settings** --> **Solutions** --> Select **Marketing4Dynamics** sol
 
 Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](<../.gitbook/assets/Uninstall\_2 (1).png>)
+![](<../.gitbook/assets/Uninstall\_2 (6).png>)
 
 ![](<../.gitbook/assets/Uninstall\_3 (3).png>)
 

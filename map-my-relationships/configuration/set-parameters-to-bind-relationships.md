@@ -6,11 +6,11 @@ Here are the steps for the same:
 
 * Click on **'Map My Relationships'** text field --> Go to **Controls** --> Select **Map My Relationships** control.
 
-![](<../../.gitbook/assets/Basic\_0 (2).png>)
+![](../../.gitbook/assets/Basic\_0.png)
 
 * Go to **One to Many Relationships** --> Click on **edit** button.
 
-![](../../.gitbook/assets/Basic\_1.png)
+![](<../../.gitbook/assets/Basic\_1 (1).png>)
 
 * Select **'Bind to a static value'** --> Enter the comma separated **relationship schema name**.
 
@@ -31,5 +31,5 @@ Here are the steps for the same:
 
 * Click on **Save** --> Click on **Publish**. &#x20;
 
-![](../../.gitbook/assets/Adv\_8.png)
+![](<../../.gitbook/assets/Adv\_8 (1).png>)
 
