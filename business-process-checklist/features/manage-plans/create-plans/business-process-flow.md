@@ -18,7 +18,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 Note: This step is the same for checklist and process-type plans.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/BPF_6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_6.png" alt=""><figcaption></figcaption></figure>
 
 #### **1)    Simple**&#x20;
 
@@ -79,7 +79,7 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
 
-<figure><img src="../../../../.gitbook/assets/BPF_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_5 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Set criteria for the execution of plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria match). Select either **Simple** or **Advanced**.
 
@@ -90,7 +90,7 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 * Select **'Business Process'.**
 
-<figure><img src="../../../../.gitbook/assets/BPF_7 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/BPF_7 (4).png" alt=""><figcaption></figcaption></figure>
 
 * Select Business Process Flow to which the plan will be attached.
 

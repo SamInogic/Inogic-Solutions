@@ -42,7 +42,7 @@ To do this, follow the steps given below:
 
 * Click on **Finish**.
 
-![](../.gitbook/assets/PRE\_14.png)
+![](<../.gitbook/assets/PRE\_14 (1).png>)
 
 Once this is done, you can easily store **Documents/Attachments** related to selected **Entities** in the respective **SharePoint site** using **Attach2Dynamics** button.
 

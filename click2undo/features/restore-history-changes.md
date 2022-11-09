@@ -18,11 +18,11 @@ Here are the steps to restore past changes in Dynamics 365 CRM records.
 
 * Further you can filter these changes on the basis of date or fields.
 
-![](../../.gitbook/assets/His3.6.png)
+![](<../../.gitbook/assets/His3.6 (1).png>)
 
 * Now, select the changes you want to restore --> Click on the ‘Undo’ button and the past changes will be restored.
 
 ![](../../.gitbook/assets/His5.2.jpg)
 
-![](<../../.gitbook/assets/His4.4 (1).png>)
+![](../../.gitbook/assets/His4.4.png)
 

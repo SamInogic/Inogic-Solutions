@@ -23,7 +23,7 @@ Here are the steps to create Simple Alerts:
 
 * Select the **Interval**.
 
-<figure><img src="../../../.gitbook/assets/Simple 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Simple 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Poll Interval:** This is the duration after which the system checks if any new record has been created that satisfies the condition provided. (In above case, based on the condition of the selected view.)
    *   The workflow can run:&#x20;

@@ -8,25 +8,25 @@ To import the solution from make.powerapps.com, download the Kanban Board soluti
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/a (4).png>)
+![](<../../.gitbook/assets/a (6).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/b (7).png>)
+![](<../../.gitbook/assets/b (6).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/c (1).png>)
+![](<../../.gitbook/assets/c (2).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
 ![](../../.gitbook/assets/d.png)
 
-![](<../../.gitbook/assets/e (2).png>)
+![](../../.gitbook/assets/e.png)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/f (2).png>)
+![](../../.gitbook/assets/f.png)
 
 * Then click on **Import**.
 
@@ -46,7 +46,7 @@ For importing and installing the Kanban Board solution in your Dynamics 365 CRM 
 
 &#x20;Go to **Settings → Solutions**
 
-![](<../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (2).png>)
+![](<../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (1).png>)
 
 Click on **Import** button.
 

@@ -40,7 +40,7 @@ To delete the SharePoint Security Sync license follow the below steps:
 
 Step 1: Navigate to **Advanced Find.**
 
-![](<../.gitbook/assets/FAQ\_1 (2).png>)
+![](<../.gitbook/assets/FAQ\_1 (6).png>)
 
 Step 2: Select **Inogic License Details** in **‘Look for’** and click on **Results** button.
 
@@ -48,7 +48,7 @@ Step 2: Select **Inogic License Details** in **‘Look for’** and click on **R
 
 Step 3: Select the **SharePoint Security Sync** record and **delete** it.
 
-![](<../.gitbook/assets/FAQ\_1 (5).png>)
+![](<../.gitbook/assets/FAQ\_1 (4).png>)
 
 ## 7) What to do if I am unable to authenticate the connector?
 
@@ -66,7 +66,7 @@ Currently, we support only SharePoint Communication and Team site. SharePoint Su
 
 This message is displayed when the number of the CRM user is increased beyond the subscribed users. If you get this issue then please reach out to us at [crm@inogic.com](mailto:crm@inogic.com) with the total user count. To get the total user count please execute the below condition in **Advanced Find**:
 
-![](<../.gitbook/assets/FAQ\_1 (1).png>)
+![](<../.gitbook/assets/FAQ\_1 (5).png>)
 
 ## 11) What to do if I am not able to see the Attach2Dynamics button?
 
@@ -128,7 +128,7 @@ To export the log record in Excel, follow the steps given below:
 
 * Add a condition for the error, as shown in the below screenshot.
 
-![](../.gitbook/assets/FAQ\_14.3.jpg)
+![](<../.gitbook/assets/FAQ\_14.3 (1).jpg>)
 
 * Now click on the Edit Columns button.
 
@@ -162,7 +162,7 @@ Yes, it is safe to delete the batching and sync status which are completed. By u
 
 **Query for Sync status:**
 
-![](<../.gitbook/assets/FAQ\_15.1 (1).jpg>)
+![](../.gitbook/assets/FAQ\_15.1.jpg)
 
 **Query for Batching:**
 

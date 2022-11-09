@@ -46,7 +46,7 @@ For importing and installing the Lead Assignment and Distribution Automation an 
 
 &#x20;Go to **Settings → Solutions**
 
-![](<../../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (2).png>)
+![](<../../../.gitbook/assets/2Installing-Click2Export-in-your-Environment (1).png>)
 
 Click on **Import** button.
 

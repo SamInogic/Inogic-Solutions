@@ -6,7 +6,7 @@ Given below are the details to configure emails as per your requirement:
 
 After saving the details in **General** section of CRM Report Templates, go to **Email Configuration** section and fill the following fields.
 
-![](<../../.gitbook/assets/Advance Email Config\_7 (1).png>)
+![](<../../.gitbook/assets/Advance Email Config\_7.png>)
 
 * **From** – The sender i.e. the person who wants to send the email**.**
 * **To** – Recipient i.e. the person to whom the email is to be sent.

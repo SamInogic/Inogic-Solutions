@@ -6,7 +6,7 @@ To delete existing Plans, Plan Steps, and Plan Step Actions for both process and
 
 * To delete plans navigate to **Business Process Checklist App --> Plans --> Select** the **Existing Plan** you want to delete --> Click on the **Delete Button**.
 
-<figure><img src="../../../.gitbook/assets/Delete plan_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Delete plan_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **'Delete'.**
 

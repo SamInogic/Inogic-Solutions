@@ -16,7 +16,7 @@ To install **Alerts4Dynamics** solution from the **Microsoft AppSource**, visit 
 
 * Next, confirm the details in the form, accept the terms & conditions and click on **Continue**.
 
-![](<../../.gitbook/assets/SS (2).png>)
+![](<../../.gitbook/assets/SS (1).png>)
 
 * Select your environment from the dropdown list and accept the privacy policies & legal terms. Then click on the **Install** button for the installation to start.
 

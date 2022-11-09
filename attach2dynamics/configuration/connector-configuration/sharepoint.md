@@ -57,7 +57,7 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * In order to know how to generate Id and Password/Secret for App [click here](https://www.inogic.com/blog/how-to-create-azure-active-directory-app/). After you have generated the Id and Password enter them in the fields provided.
 
-![](<../../../.gitbook/assets/Share\_App\_2 (1).png>)
+![](../../../.gitbook/assets/Share\_App\_2.png)
 
 * Once the record is saved, click on the **Authenticate** Button.
 
@@ -67,7 +67,7 @@ In App authentication, if any action is performed then the name of logged-in use
 * In the Pop-up, please select **Consent on behalf of your organization** --> Click on the **Accept** button.
 * After clicking on the Accept button if the credentials are correct then you will get a Success message window.
 
-![](<../../../.gitbook/assets/Connector Config\_1.png>)
+![](<../../../.gitbook/assets/Connector Config\_1 (1).png>)
 
 * Now if any logged in user uploads or performs any attachment action using Attach2Dynamics UI, their name will appear for the action.&#x20;
 
@@ -79,4 +79,4 @@ In App authentication, if any action is performed then the name of logged-in use
 
 * Now if another person is to upload a file then that person's name will be displayed on the site due to authenticating connector through app.&#x20;
 
-![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3 (1).png>)
+![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3.png>)

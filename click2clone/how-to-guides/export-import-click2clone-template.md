@@ -19,9 +19,9 @@ Before exporting the template, create a **custom view** on **'Click2Clone Templa
 
 * Navigate to **Entities** --> **Click2Clone Template** --> **Views**.
 
-![](<../../.gitbook/assets/Exp\_3 (1).png>)
+![](../../.gitbook/assets/Exp\_3.png)
 
-![](../../.gitbook/assets/Exp\_4.png)
+![](<../../.gitbook/assets/Exp\_4 (1).png>)
 
 * Click on **'New'** to create a new view.
 
@@ -85,7 +85,7 @@ Once you have successfully created the .csv version of the exported file, let’
 
 * **Import** the same **.csv** file.
 
-![](../../.gitbook/assets/Imp\_3.png)
+![](<../../.gitbook/assets/Imp\_3 (1).png>)
 
 ![](../../.gitbook/assets/Imp\_4.png)
 
@@ -93,7 +93,7 @@ Once you have successfully created the .csv version of the exported file, let’
 
 ![](<../../.gitbook/assets/Imp\_5 - Copy.png>)
 
-![](<../../.gitbook/assets/Imp\_6 (1).png>)
+![](../../.gitbook/assets/Imp\_6.png)
 
 * Click on **Review Mapping**.
 
@@ -119,7 +119,7 @@ Once you have successfully created the .csv version of the exported file, let’
 
 * **Environment - 1**
 
-![](../../.gitbook/assets/Exp\_22.png)
+![](<../../.gitbook/assets/Exp\_22 (1).png>)
 
 * **Environment - 2**
 

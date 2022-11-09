@@ -4,7 +4,7 @@ To uninstall Attach2Dynamics from your Dynamics environment, follow the below st
 
 1\) Navigate to Settings --> Solution --> Select Attach2Dynamics solution.
 
-![](../.gitbook/assets/13.png)
+![](<../.gitbook/assets/13 (4).png>)
 
 2\) Click on delete button. A pop-up will appear asking for your confirmation. Click on 'OK' and the solution will be uninstalled from your environment.
 

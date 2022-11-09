@@ -38,15 +38,15 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Navigate to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/1 (313).png>)
+![](<../../.gitbook/assets/1 (369).png>)
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (18).png>)
+![](<../../.gitbook/assets/2 (27).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (3).png>)
+![](<../../.gitbook/assets/3 (30).png>)
 
 * Browse the downloaded file.
 
@@ -54,7 +54,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (14).png>)
 
 
 

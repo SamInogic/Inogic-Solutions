@@ -20,7 +20,7 @@ Step 1: Navigate to **Advanced Find.**
 
 Step 2: Select **Inogic License Details** in **‘Look for’** and click on **Results** button.
 
-![](<../.gitbook/assets/FAQ\_2 (2).jpg>)
+![](<../.gitbook/assets/FAQ\_2 (1).jpg>)
 
 Step 3: Select the **Attach2Dynamics** record and **delete** it.
 
@@ -64,7 +64,7 @@ Firstly, please check if the browser setting is to Enable the cookies. To know m
 
 This message is displayed when the number of the CRM user is increased beyond the subscribed users. If you get this issue then please reach out to us at [crm@inogic.com](mailto:crm@inogic.com) with the total user count. To get the total user count please execute the below condition in **Advanced Find**:
 
-![](<../.gitbook/assets/FAQ\_1 (1).png>)
+![](<../.gitbook/assets/FAQ\_1 (5).png>)
 
 ## 10) What to do if I am not able to see the Attach2Dynamics button?
 
@@ -123,7 +123,7 @@ Kindly follow the below steps to enable the versioning feature in Azure Blob Sto
 
 * Check the **Enable versioning for blobs** checkbox and click on the **Save** button.
 
-![](<../.gitbook/assets/FAQ\_14.3 (1).jpg>)
+![](../.gitbook/assets/FAQ\_14.3.jpg)
 
 After enabling the above property, the versioning functionality will start working just as shown in the below example:
 
@@ -164,21 +164,21 @@ Please follow the steps given below to achieve the offline capability for the No
 
 * Open any account record -->Click on the **+ icon** in the timeline of the account record.
 
-![](<../.gitbook/assets/Image2 (1).png>)
+![](../.gitbook/assets/Image2.png)
 
 * Select **notes** and **add** an attachment -->Click on **Add note** in the timeline and the note attachment will get added to the timeline.
 
-![](../.gitbook/assets/Image3.png)
+![](<../.gitbook/assets/Image3 (1).png>)
 
 {% hint style="info" %}
 **Note: Entity configuration must be created for the Account entity and attachment action should be either Move or Copy.**
 {% endhint %}
 
-![](../.gitbook/assets/Image4.png)
+![](<../.gitbook/assets/Image4 (1).png>)
 
 * Once you connect back with your network connectivity, the note attachment which is added on the account record will get migrated to SharePoint and the link will get generated in the timeline.
 
-![](../.gitbook/assets/Image5.png)
+![](<../.gitbook/assets/Image5 (1).png>)
 
 ![](../.gitbook/assets/Image6.png)
 

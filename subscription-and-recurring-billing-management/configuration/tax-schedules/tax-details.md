@@ -20,7 +20,7 @@ Tax Detail is used to define the number of taxes to be applied on a product whic
 
 * The following dialog box will appear. Here, click on **OK.**
 
-![](<../../../.gitbook/assets/Tax Sch\_7 (1).png>)
+![](<../../../.gitbook/assets/Tax Sch\_7.png>)
 
 * Enter details in the required fields and any other necessary fields.
   * **Name:** Descriptive name of the Tax Detail.&#x20;

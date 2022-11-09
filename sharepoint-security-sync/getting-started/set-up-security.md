@@ -46,4 +46,4 @@ OR, you can follow another alternative method mentioned below:
 
 ![Admin Role](<../../.gitbook/assets/Set Security\_1 (1).png>)
 
-![User Role](<../../.gitbook/assets/i (2).png>)
+![User Role](../../.gitbook/assets/i.png)

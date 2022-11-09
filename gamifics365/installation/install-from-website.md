@@ -8,7 +8,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Once you have signed in, select the instance on which you want to install the solution.
 
-![](../../.gitbook/assets/Powerapps\_1.png)
+![](<../../.gitbook/assets/Powerapps\_1 (2).png>)
 
 * Then select **Solutions** from the left navigation as shown in the below screenshot:
 
@@ -20,19 +20,19 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * On the **Import a solution** page --> Select **Browse** to locate the compressed (.zip) file that contains the solution you want to import.
 
-![Browse for the solution](<../../.gitbook/assets/Powerapps\_4 (1).png>)
+![Browse for the solution](../../.gitbook/assets/Powerapps\_4.png)
 
-![Import the solution](<../../.gitbook/assets/Powerapps\_5 (2).png>)
+![Import the solution](<../../.gitbook/assets/Powerapps\_5 (1).png>)
 
 * Select **Next.**
 
-![](../../.gitbook/assets/Powerapps\_6.png)
+![](<../../.gitbook/assets/Powerapps\_6 (1).png>)
 
 * Click on **Next -->** Select **Import** and proceed to import the solution.
 
 ![](<../../.gitbook/assets/Powerapps\_7 (1).png>)
 
-![](../../.gitbook/assets/Powerapps\_8.png)
+![](<../../.gitbook/assets/Powerapps\_8 (1).png>)
 
 ### Using Classic UI
 
@@ -58,4 +58,4 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Next, check **‘Enable any SDK message processing steps included in the solution’** --> Click on **Import** and proceed to import the solution.
 
-![](<../../.gitbook/assets/Install\_3 (4).png>)
+![](<../../.gitbook/assets/Install\_3 (6).png>)

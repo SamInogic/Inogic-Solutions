@@ -4,11 +4,11 @@ To install **Subscription and Recurring Billing Management** from Microsoft AppS
 
 * Click on the **FREE TRIAL** button.
 
-![](<../../.gitbook/assets/SRBM AppSource\_1.png>)
+![](<../../.gitbook/assets/SRBM AppSource\_1 (2).png>)
 
 * If the user is already logged into CRM, accept the terms & conditions, and click on '**Continue**'.
 
-![](<../../.gitbook/assets/SRBM AppSource\_2 (2).png>)
+![](<../../.gitbook/assets/SRBM AppSource\_2.png>)
 
 * If the user is not logged into CRM, fill in the credentials, and Sign in.
 

@@ -10,7 +10,7 @@ This section will guide you through the process of creating **CRM Report Templat
 
 ### General:
 
-<figure><img src="../../../.gitbook/assets/31.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/31.1 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Template Type:** Excel Template. If Excel Template is not available. Please enable it from[ here](https://docs.inogic.com/click2export/configuration/click2export-configuration).
 

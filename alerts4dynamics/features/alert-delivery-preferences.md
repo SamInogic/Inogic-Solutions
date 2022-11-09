@@ -42,6 +42,6 @@ If user selects ‘Display As’ option as ‘Bar’ then an alert will be displ
 
 If the user sets alert as ‘Email Notification’ then the alerts will be notified to the users through an email.
 
-![](../../.gitbook/assets/Email\_1.png)
+![](<../../.gitbook/assets/Email\_1 (1).png>)
 
-![](<../../.gitbook/assets/Email\_2 (2).png>)
+![](<../../.gitbook/assets/Email\_2 (3).png>)

@@ -20,15 +20,15 @@ Here are the steps to assign security role to users.
 
 * Go to **Advanced Settings** --> **Settings** --> **Security**.
 
-![](<../../.gitbook/assets/11 (5).png>)
+![](<../../.gitbook/assets/11 (1).png>)
 
 * Select **Users**.
 
-![](<../../.gitbook/assets/12 (9).png>)
+![](<../../.gitbook/assets/12 (2).png>)
 
 * Select user --> Click on **MANAGE ROLES**.
 
-![](<../../.gitbook/assets/13 (1).png>)
+![](../../.gitbook/assets/13.png)
 
 * Click on any one of the security roles --> Click **Ok**.
 

@@ -12,7 +12,7 @@ In order to achieve this it is necessary to configure entities. For detailed ste
 
 ![Copy Note Attachment](../../.gitbook/assets/NotesCopyScreenshot.png)
 
-![Move Note Attachment](<../../.gitbook/assets/NotesMoveScreenshot (1).png>)
+![Move Note Attachment](../../.gitbook/assets/NotesMoveScreenshot.png)
 
 {% hint style="info" %}
 **Note:**
@@ -23,9 +23,9 @@ In order to achieve this it is necessary to configure entities. For detailed ste
 
 **Email Attachments:** If enabled, it’ll move/copy the Email Attachments to a common folder called Email Attachments or Regarding folder and leave a hyperlink of the path in Note Body.
 
-![Copy Email Attachment](../../.gitbook/assets/EmailCopy.png)
+![Copy Email Attachment](<../../.gitbook/assets/EmailCopy (1).png>)
 
-![Move Email Attachment](../../.gitbook/assets/EmailMove.png)
+![Move Email Attachment](<../../.gitbook/assets/EmailMove (1).png>)
 
 **Sales Literature Attachments:** If enabled, it’ll move/copy the Sales Literature Attachments to the respective Sales Literature folder and leave a hyperlink of the path back in Cloud Storage Links section. You can view the moved file from Attach2Dynamics UI.
 

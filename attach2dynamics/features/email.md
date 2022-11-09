@@ -31,17 +31,17 @@ To directly send an email with multiple attachments, please follow the steps giv
 
 ![](../../.gitbook/assets/Image1.png)
 
-![](../../.gitbook/assets/Image2.png)
+![](<../../.gitbook/assets/Image2 (1).png>)
 
 * Select the file --> Click on the **Email** button to attach the file as an **attachment** or as a **link** in the email.
 
-![](<../../.gitbook/assets/Image3 (1).png>)
+![](../../.gitbook/assets/Image3.png)
 
 * In the case of **Attach Documents**, the file will be added as an attachment in the email attachment section.
 
-![](<../../.gitbook/assets/Image4 (1).png>)
+![](../../.gitbook/assets/Image4.png)
 
 * In the case of **Links**, the link of the SharePoint folder location of the selected file will be added as a link in the email body.
 
-![](<../../.gitbook/assets/Image5 (1).png>)
+![](../../.gitbook/assets/Image5.png)
 

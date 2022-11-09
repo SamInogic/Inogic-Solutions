@@ -12,4 +12,4 @@ Hide Empty lanes using the filter option provided at the top. Do note if the lan
 
 The field to be used for lane categories can be defined when configuring the Kanban View Component for a view as shown below.
 
-![](<../../.gitbook/assets/Lane filter.png>)
+![](<../../.gitbook/assets/Lane filter (1).png>)

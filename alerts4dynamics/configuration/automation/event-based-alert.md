@@ -10,33 +10,33 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
-![](<../../../.gitbook/assets/Event\_2 (3).png>)
+![](../../../.gitbook/assets/Event\_2.png)
 
 * Go to **‘Record fields change’** --> Select the field **‘Subject’** from the list.
 
-![](<../../../.gitbook/assets/Event\_3 (3).png>)
+![](../../../.gitbook/assets/Event\_3.png)
 
-![](../../../.gitbook/assets/Event\_4.png)
+![](<../../../.gitbook/assets/Event\_4 (2).png>)
 
 * Create a notification request record to create an alert.
 
-![](<../../../.gitbook/assets/Event\_5 (2).png>)
+![](<../../../.gitbook/assets/Event\_5 (1).png>)
 
 * Select **‘Notification Request’.**
 
-![](<../../../.gitbook/assets/Event\_6 (1).png>)
+![](<../../../.gitbook/assets/Event\_6 (3).png>)
 
 * Click on **‘Set Properties’**.
 
-![](<../../../.gitbook/assets/Event\_7 (3).png>)
+![](<../../../.gitbook/assets/Event\_7 (1).png>)
 
 * Perform the dynamic field selection as required.
 
-![](<../../../.gitbook/assets/Event\_8 (2).png>)
+![](<../../../.gitbook/assets/Event\_8 (1).png>)
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](../../../.gitbook/assets/Event\_9.png)
+![](<../../../.gitbook/assets/Event\_9 (1).png>)
 
 ![](../../../.gitbook/assets/Event\_10.png)
 
@@ -44,7 +44,7 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 ![](../../../.gitbook/assets/Event\_11.png)
 
-![](../../../.gitbook/assets/Event\_12.png)
+![](<../../../.gitbook/assets/Event\_12 (1).png>)
 
 Let’s further configure the condition.
 
@@ -58,7 +58,7 @@ Let’s further configure the condition.
 
 * Select the below assembly from the list for auto dismissing the alert notification.
 
-<figure><img src="../../../.gitbook/assets/16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/16 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **‘Set Properties’.**
 

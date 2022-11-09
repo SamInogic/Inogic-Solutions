@@ -8,25 +8,25 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 
-![](<../../.gitbook/assets/1 (72).png>)
+![](<../../.gitbook/assets/1 (22).png>)
 
 * From the left navigation, click on **Solutions** as shown below.
 
-![](<../../.gitbook/assets/2 (23).png>)
+![](<../../.gitbook/assets/2 (20).png>)
 
 * Click on **Import** on the command bar.
 
-![](<../../.gitbook/assets/3 (4).png>)
+![](<../../.gitbook/assets/3 (19).png>)
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (5).png>)
+![](<../../.gitbook/assets/4 (24).png>)
 
-![](<../../.gitbook/assets/1 (29).png>)
+![](<../../.gitbook/assets/1 (246).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/2 (55).png>)
+![](<../../.gitbook/assets/2 (64).png>)
 
 * Then click on **Import**. Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -34,7 +34,7 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Go to **Advanced Settings** on Gear Icon on top right to import the solution.
 
-![](<../../.gitbook/assets/8 (6).png>)
+![](<../../.gitbook/assets/8 (10).png>)
 
 * Proceed to **Settings** --> **Solutions**.
 
@@ -42,7 +42,7 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/10 (5).png>)
+![](<../../.gitbook/assets/10 (4).png>)
 
 * Browse the downloaded file.
 
@@ -50,10 +50,10 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](<../../.gitbook/assets/12 (4).png>)
+![](<../../.gitbook/assets/12 (1).png>)
 
 * Check the solution **SharePoint Security Sync** in '**Apps**'.
 
-![](<../../.gitbook/assets/7 (4).png>)
+![](<../../.gitbook/assets/7 (19).png>)
 
 ###

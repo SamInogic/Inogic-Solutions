@@ -8,7 +8,7 @@ Below are the steps to configure the process type plan:
 
 * Click on the **New plan** button and select **Process.**
 
-<figure><img src="../../../../.gitbook/assets/Plan_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details.
   * **Name:** Give a unique name to the plan.
@@ -26,11 +26,11 @@ Below are the steps to configure the process type plan:
 Note: If both business process or custom groups are not selected then the plan will be created for the record by default.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Plan_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_3 (4).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/Plan_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_11 (2).png" alt=""><figcaption></figcaption></figure>
 
 * The new plan will be created and can be seen on **Plans**.
 
