@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<!-- saved from url=(0109)https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/ -->
+<html lang="en-US" class=" js"><script type="text/javascript" async="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/analytics.js.download"></script><script async="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/saved_resource" data-sumo-site-id="e4b9420089ca9f0018c5020098454000709886000901700051da64007825cb00" data-sumo-platform="wordpress"></script><script type="text/javascript" async="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/recaptcha__en.js.download"></script><script type="text/javascript" charset="utf-8" id="zm-extension" src="chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/scripts/webrtc-patch.js" async=""></script><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.inogic.com/blog/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="https://www.inogic.com/blog/wp-content/themes/iconic-one/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Configuring Product Mapping in InoLink for QuickBooks Desktop | Microsoft Dynamics 365 CRM Tips and Tricks</title>
+
+<!-- All in One SEO Pack 2.10 by Michael Torbert of Semper Fi Web Design[570,689] -->
+<meta name="description" content="In this article, we will guide you through the process of configuring product mapping for InoLink for QuickBooks Desktop.">
+
+<link rel="canonical" href="https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/">
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Microsoft Dynamics 365 CRM Tips and Tricks » Feed" href="https://www.inogic.com/blog/feed/">
+<link rel="alternate" type="application/rss+xml" title="Microsoft Dynamics 365 CRM Tips and Tricks » Comments Feed" href="https://www.inogic.com/blog/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.inogic.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="dashicons-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="admin-bar-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/admin-bar.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="sanpop-public-style-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/sanpop-public-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="social-widget-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/social_widget.css" type="text/css" media="all">
+<link crossorigin="anonymous" rel="stylesheet" id="themonic-fonts-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="themonic-style-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/custom.css" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='themonic-ie-css'  href='https://www.inogic.com/blog/wp-content/themes/iconic-one/css/ie.css?ver=20130305' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="simple-social-icons-font-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="newsletter-css" href="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/style(2).css" type="text/css" media="all">
+<script type="text/javascript" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/svgxuse.js.download"></script>
+<link rel="https://api.w.org/" href="https://www.inogic.com/blog/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.inogic.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.inogic.com/blog/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.1.4">
+<link rel="shortlink" href="https://www.inogic.com/blog/?p=5571">
+<link rel="alternate" type="application/json+oembed" href="https://www.inogic.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.inogic.com%2Fblog%2Finolink-infocentre%2Fconfiguring-product-mapping-in-inolink-for-quickbooks-desktop%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.inogic.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.inogic.com%2Fblog%2Finolink-infocentre%2Fconfiguring-product-mapping-in-inolink-for-quickbooks-desktop%2F&amp;format=xml">
+<script src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/api.js.download" async="" defer=""></script>
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.inogic.com') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+			<style type="text/css" id="wp-custom-css">
+			.broken_link, a.broken_link {
+
+text-decoration: unset !important;
+
+}
+		</style>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2698051-1');
+</script>
+<script charset="utf-8" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/72.83c0fd282d7068bf2eed.js.download"></script><script charset="utf-8" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/73.83c0fd282d7068bf2eed.js.download"></script></head>
+<body class="page-template page-template-page-templates page-template-full-width page-template-page-templatesfull-width-php page page-id-5571 page-child parent-pageid-4860 logged-in admin-bar full-width custom-font-enabled customize-support" data-gr-c-s-loaded="true" style="">
+<div id="page" class="site">
+	<header id="masthead" class="site-header" role="banner">
+					<div class="io-title-description">
+			<a href="https://www.inogic.com/blog/" title="Microsoft Dynamics 365 CRM Tips and Tricks" rel="home">Microsoft Dynamics 365 CRM Tips and Tricks</a>
+				<br ...=""> 
+								 <a class="site-description">By Inogic</a>
+						</div>
+		
+		
+		<nav id="site-navigation" class="themonic-nav" role="navigation">
+			<a class="assistive-text" href="https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/#main" title="Skip to content">Skip to content</a>
+			<ul id="menu-top" class="nav-menu"><li id="menu-item-15216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15216"><a href="http://inogic.com/blog/" onclick="javascript:window.open(&#39;http://inogic.com/blog/&#39;); return false;">Home</a></li>
+<li id="menu-item-15217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15217"><a title="Inogic Dynamics 365 CRM Solutions" target="_blank" href="https://www.inogic.com/blog/dynamics-crm-solutions/">Inogic Dynamics 365 CRM Solutions</a></li>
+<li id="menu-item-15218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15218"><a href="https://www.inogic.com/blog/maplytics-infocentre/">Maplytics InfoCentre</a></li>
+<li id="menu-item-18188" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-18188"><a href="https://www.inogic.com/blog/inolink-infocentre/">InoLink InfoCentre</a></li>
+<li id="menu-item-15222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15222"><a href="https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/#Dynamics365Apps">Dynamics 365 Apps InfoCentre</a>
+<ul class="sub-menu">
+	<li id="menu-item-18187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18187"><a href="https://www.inogic.com/blog/attach2dynamics-infocentre/">Attach2Dynamics</a></li>
+	<li id="menu-item-18189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18189"><a href="https://www.inogic.com/blog/click2clone-infocentre/">Click2Clone</a></li>
+	<li id="menu-item-18769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18769"><a href="https://www.inogic.com/blog/click2export-infocentre/">Click2Export</a></li>
+	<li id="menu-item-19125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19125"><a href="https://www.inogic.com/blog/user-adoption-monitor-infocentre/">User Adoption Monitor</a></li>
+	<li id="menu-item-20027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20027"><a href="https://www.inogic.com/blog/alerts4dynamics-infocentre/">Alerts4Dynamics</a></li>
+	<li id="menu-item-21972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21972"><a href="https://www.inogic.com/blog/lead-assignment-distribution-automation-infocentre/">Lead Assignment Distribution &amp; Automation</a></li>
+	<li id="menu-item-21936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21936"><a href="https://www.inogic.com/blog/sharepoint-security-sync-infocentre/">SharePoint Security Sync</a></li>
+	<li id="menu-item-21971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21971"><a href="https://www.inogic.com/blog/map-my-relationships-infocentre/">Map My Relationships</a></li>
+	<li id="menu-item-21937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21937"><a href="https://www.inogic.com/blog/kanban-board-infocentre/">Kanban Board</a></li>
+</ul>
+</li>
+</ul><select class="selectnav" id="selectnav1"><option value="">Menu</option><option value="http://inogic.com/blog/">HOME</option><option value="https://www.inogic.com/blog/dynamics-crm-solutions/">INOGIC DYNAMICS 365 CRM SOLUTIONS</option><option value="https://www.inogic.com/blog/maplytics-infocentre/">MAPLYTICS INFOCENTRE</option><option value="https://www.inogic.com/blog/inolink-infocentre/">INOLINK INFOCENTRE</option><option value="https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/#Dynamics365Apps">DYNAMICS 365 APPS INFOCENTRE</option><option value="https://www.inogic.com/blog/attach2dynamics-infocentre/">- Attach2Dynamics</option><option value="https://www.inogic.com/blog/click2clone-infocentre/">- Click2Clone</option><option value="https://www.inogic.com/blog/click2export-infocentre/">- Click2Export</option><option value="https://www.inogic.com/blog/user-adoption-monitor-infocentre/">- User Adoption Monitor</option><option value="https://www.inogic.com/blog/alerts4dynamics-infocentre/">- Alerts4Dynamics</option><option value="https://www.inogic.com/blog/lead-assignment-distribution-automation-infocentre/">- Lead Assignment Distribution &amp; Automation</option><option value="https://www.inogic.com/blog/sharepoint-security-sync-infocentre/">- SharePoint Security Sync</option><option value="https://www.inogic.com/blog/map-my-relationships-infocentre/">- Map My Relationships</option><option value="https://www.inogic.com/blog/kanban-board-infocentre/">- Kanban Board</option></select>		</nav><!-- #site-navigation -->
+		<div class="clear"></div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+									
+	<article id="post-5571" class="post-5571 page type-page status-publish hentry">
+		<header class="entry-header">
+			<h1 class="entry-title">Configuring Product Mapping in InoLink for QuickBooks Desktop</h1>
+		</header>
+
+		<div class="entry-content">
+			<p style="text-align: justify;"><strong>Introduction:</strong></p>
+<p style="text-align: justify;">After <a href="http://www.inogic.com/blog/inolink-infocentre/install-inolink-on-your-system/" target="_blank" rel="noopener noreferrer">installing</a>, connecting Dynamics 365 and QuickBooks(<a href="http://www.inogic.com/blog/inolink-infocentre/connecting-microsoft-dynamics-365dynamics-crm-and-intuit-quickbooks-using-inolink/" target="_blank" rel="noopener noreferrer">Online</a> and <a href="http://www.inogic.com/blog/inolink-infocentre/connecting-microsoft-dynamics-365dynamics-crm-and-intuit-quickbooks-desktop/" target="_blank" rel="noopener noreferrer">Desktop</a>), and successfully <a href="http://www.inogic.com/blog/inolink-infocentre/register-and-activate-inolink-quickbooks-integration-with-dynamics-crm365/" target="_blank" rel="noopener noreferrer">activating InoLink</a>, you are ready to proceed to the next step. Handling of Write-In line items and discounts differs in Dynamics 365/CRM and QuickBooks InoLink therefore requires this additional step to configure the mapping of products. In this article, we will guide you through the process of configuring product mapping for InoLink for QuickBooks Desktop.</p>
+<p style="text-align: justify;"><strong>Follow the steps mentioned below to perform product Mapping in InoLink:</strong></p>
+<p style="text-align: justify;"><strong>1.</strong>&nbsp;For error-free synchronization between Dynamics 365/CRM and QuickBooks Desktop, we need to set up the products that need to be used in QuickBooks for the following namely; <em><strong>Write-In Product, Invoice/Order Discount Product, Line Discount Product, Subtotal Product, and Freight.</strong></em></p>
+<p style="text-align: justify;"><strong>2.</strong>&nbsp;Let us discuss each&nbsp;of these</p>
+<p style="padding-left: 30px; text-align: justify;"><strong>A. Write-In Product:</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Dynamics 365/CRM allows for adding products maintained through the Product Catalog or enter in a write-in product in Opportunity, Quote, Order, and Invoice. QuickBooks, however, does not allow entering a line item without specifying the product. To avoid this conflict we need to create a service type of product in QuickBooks that we can use as a placeholder when transferring write-in lines from CRM transactions to QuickBooks.</p>
+<p><img class="wp-image-5575" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/141.png" alt="141" width="1125" height="114"></p>
+<p style="padding-left: 60px; text-align: justify;">After this, any write-in line from Dynamics 365/CRM would be carried over to QuickBooks as shown in the screenshots below;</p>
+<p><img class="wp-image-5577 " src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/1421.png" alt="" width="1171" height="356"><br>
+<img class="wp-image-5578" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/143.png" alt="143" width="968" height="183"></p>
+<p style="padding-left: 30px; text-align: justify;"><strong>B.&nbsp;</strong><strong>Line Discount Product:</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Dynamics 365/CRM allows you to specify discounts for line-items by specifying the discount amount in the <strong>Discount</strong> and <strong>Volume Discount fields</strong> on the line item form. QuickBooks, on the other hand, requires products of the type ‘Discount’ to be created and add it as a separate line item in the transaction.</p>
+<p><img class="wp-image-5579" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/144.png" alt="144" width="1028" height="88"></p>
+<p style="padding-left: 60px; text-align: justify;">With the above mapping, line item discount in Dynamics 365/CRM will be carried over to QuickBooks as shown in the screenshots below;</p>
+<p><img class=" wp-image-5580" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/145.png" alt="145" width="1150" height="357"><br>
+<img class="wp-image-5581" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/146.png" alt="146" width="953" height="173"></p>
+<p style="padding-left: 30px; text-align: justify;"><strong>C.&nbsp;Quote/Order/Invoice Discount Product:</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Similar to Line Discount, Dynamics 365/CRM allows for Discount on the transaction as a whole. The following mapping support enables these discounts to be carried over to QuickBooks.</p>
+<p><img class="wp-image-5582" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/147.png" alt="147" width="972" height="82"></p>
+<p style="padding-left: 60px; text-align: justify;">An invoice discount provided in Dynamics 365/CRM will be carried over to QuickBooks as shown in the screenshots below;</p>
+<p style="padding-left: 60px; text-align: justify;"><img class="aligncenter  wp-image-5584" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/148.png" alt="148" width="456" height="333"></p>
+<p><img class="wp-image-5585" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/149.png" alt="149" width="996" height="200"></p>
+<p style="padding-left: 30px; text-align: justify;"><strong>D.&nbsp;Subtotal Product:</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Bringing over Discounts provided at the transaction level would require the Discount to be represented in QuickBooks as a discount on the entire line item total. This requires a sub-total product to be added to the transaction in QuickBooks and hence the need for providing the QuickBooks product to be used for this.</p>
+<p><img class="wp-image-5586" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/150.png" alt="150" width="987" height="87"></p>
+<p style="padding-left: 60px; text-align: justify;">With the above mapping set, Dynamics 365/CRM transaction would be in QuickBooks as shown in the screenshot below;</p>
+<p><img class="wp-image-5587" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/151.png" alt="151" width="988" height="188"></p>
+<p style="padding-left: 30px; text-align: justify;"><strong>E.&nbsp;Freight Product:</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Dynamics 365/CRM provides the ability to specify the Freight amount on the transaction header screen. Again this needs to be carried over to QuickBooks as a line item since no fields appear in QuickBooks transaction form to accept this.</p>
+<p><img class="wp-image-5591" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/1521.png" alt="" width="971" height="64"></p>
+<p style="padding-left: 60px; text-align: justify;">The above mapping will help to carry the freight amount in Dynamics 365/CRM transaction as a line item in the transaction in QuickBooks as shown in the screenshots below;</p>
+<p style="padding-left: 60px; text-align: justify;"><img class="aligncenter  wp-image-5589" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/153.png" alt="153" width="423" height="309"></p>
+<p><img class="wp-image-5590" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/154.png" alt="154" width="1002" height="203"></p>
+<p style="text-align: justify;"><strong>3.&nbsp;</strong>The product mappings accept the products of the following types in QuickBooks;</p>
+<table style="height: 284px;" width="558">
+<tbody>
+<tr>
+<td width="307"><strong>Dynamics CRM </strong></td>
+<td width="312"><strong>QuickBooks Item type</strong></td>
+</tr>
+<tr>
+<td width="307">Freight</td>
+<td width="312">Other Charges Product</td>
+</tr>
+<tr>
+<td width="307">Line Item Discount</td>
+<td width="312">Discount Product</td>
+</tr>
+<tr>
+<td width="307">Order/Invoice Discount Product</td>
+<td width="312">Discount Product</td>
+</tr>
+<tr>
+<td width="307">SubTotal Product</td>
+<td width="312">Subtotal Product</td>
+</tr>
+<tr>
+<td width="307">Write-In Product</td>
+<td width="312">Service Product</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p style="padding-left: 30px; text-align: justify;"><strong><em>Note:&nbsp;Make sure that you complete the mappings to ensure that the data is correctly integrated between the two systems.</em></strong></p>
+</blockquote>
+<p style="text-align: justify;"><strong>4.&nbsp;</strong>To know more about how the fields between Dynamics CRM and QuickBooks, read ‘<a href="http://www.inogic.com/blog/inolink-infocentre/field-mappings-between-dynamics-365-and-quickbooks-account-contact-product/" target="_blank" rel="noopener noreferrer">Field mapping for Account, Contact &amp; Product</a>‘ and ‘<a href="http://www.inogic.com/blog/inolink-infocentre/field-mappings-between-dynamics-365-and-quickbooks-quote-and-invoice/" target="_blank" rel="noopener noreferrer">Field mapping for Quote &amp; Invoice</a>‘.</p>
+<p style="text-align: justify;"><strong>Conclusion:</strong></p>
+<p style="text-align: justify;">After successfully mapping the products, you are now ready to configure integration preferences for the sync using InoLink. In the next article, we will guide you through the steps needed for <a href="http://www.inogic.com/blog/inolink-infocentre/integration-preferences-for-customers-products-and-transactions-sync-between-dynamics-365crm-and-quickbooks-in-inolink/" target="_blank" rel="noopener noreferrer">configuring integration preference for Customers, Products and Transactions Sync</a> between Dynamics 365/CRM and QuickBooks.</p>
+					</div><!-- .entry-content -->
+		<footer class="entry-meta">
+			<span class="edit-link"><a class="post-edit-link" href="https://www.inogic.com/blog/wp-admin/post.php?post=5571&amp;action=edit">Edit</a></span>		</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+		<div class="footercopy"></div>
+		<div class="footercredit">Copyright © 2019 Inogic. All Rights Reserved</div>
+		<div class="clear"></div>
+		</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+		<div class="site-wordpress">
+				<a href="http://themonic.com/iconic-one/" onclick="javascript:window.open(&#39;http://themonic.com/iconic-one/&#39;); return false;">Iconic One</a> Theme | Powered by <a href="http://wordpress.org/" onclick="javascript:window.open(&#39;http://wordpress.org/&#39;); return false;">Wordpress</a>
+				</div><!-- .site-info -->
+				<div class="clear"></div>
+</div><!-- #page -->
+
+<script async="">(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='e4b9420089ca9f0018c5020098454000709886000901700051da64007825cb00';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>    <script type="application/javascript">
+      var ajaxurl = "https://www.inogic.com/blog/wp-admin/admin-ajax.php";
+
+      function sumo_add_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_add_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_remove_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_remove_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_get_woocommerce_cart_subtotal(callback) {
+        jQuery.ajax({
+          method: 'POST',
+          url: ajaxurl,
+          dataType: 'html',
+          data: {
+            action: 'sumo_get_woocommerce_cart_subtotal',
+          },
+          success: function(subtotal) {
+            return callback(null, subtotal);
+          },
+          error: function(err) {
+            return callback(err, 0);
+          }
+        });
+      }
+    </script>
+    <style type="text/css" media="screen"></style><script type="text/javascript" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/admin-bar.min.js.download"></script>
+<script type="text/javascript" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/selectnav.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"Email address is not correct","name_error":"Name is required","surname_error":"Last name is required","privacy_error":"You must accept the privacy policy"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/validate.js.download"></script>
+<script type="text/javascript" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/wp-embed.min.js.download"></script>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			
+
+		
+<iframe id="sumome-jquery-iframe" title="Sumo Hidden Content" style="display: none;" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/saved_resource.html"></iframe><div id="wpadminbar" class="nojq ">
+							<a class="screen-reader-shortcut" href="https://www.inogic.com/blog/inolink-infocentre/configuring-product-mapping-in-inolink-for-quickbooks-desktop/#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu"><li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.inogic.com/blog/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu"><li id="wp-admin-bar-about"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/about.php">About WordPress</a></li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu"><li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/" onclick="javascript:window.open(&#39;https://wordpress.org/&#39;); return false;">WordPress.org</a></li><li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/" onclick="javascript:window.open(&#39;https://codex.wordpress.org/&#39;); return false;">Documentation</a></li><li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/" onclick="javascript:window.open(&#39;https://wordpress.org/support/&#39;); return false;">Support Forums</a></li><li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback" onclick="javascript:window.open(&#39;https://wordpress.org/support/forum/requests-and-feedback&#39;); return false;">Feedback</a></li></ul></div></li><li id="wp-admin-bar-site-name" class="menupop "><a class="ab-item" aria-haspopup="true" href="https://www.inogic.com/blog/wp-admin/">Microsoft Dynamics 365 CRM Tips and Tric…</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu"><li id="wp-admin-bar-dashboard"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/">Dashboard</a></li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu"><li id="wp-admin-bar-themes"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/themes.php">Themes</a></li><li id="wp-admin-bar-widgets"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/widgets.php">Widgets</a></li><li id="wp-admin-bar-menus"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/nav-menus.php">Menus</a></li><li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/themes.php?page=custom-background">Background</a></li></ul></div></li><li id="wp-admin-bar-customize" class="hide-if-no-customize "><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/customize.php?url=https%3A%2F%2Fwww.inogic.com%2Fblog%2Finolink-infocentre%2Fconfiguring-product-mapping-in-inolink-for-quickbooks-desktop%2F">Customize</a></li><li id="wp-admin-bar-updates" class=""><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/update-core.php" title="21 Plugin Updates, 4 Theme Updates"><span class="ab-icon"></span><span class="ab-label">25</span><span class="screen-reader-text">21 Plugin Updates, 4 Theme Updates</span></a></li><li id="wp-admin-bar-comments" class=""><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-81" aria-hidden="true">81</span><span class="screen-reader-text">81 comments awaiting moderation</span></a></li><li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.inogic.com/blog/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu"><li id="wp-admin-bar-new-post"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/post-new.php">Post</a></li><li id="wp-admin-bar-new-media"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/media-new.php">Media</a></li><li id="wp-admin-bar-new-page"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/post-new.php?post_type=page">Page</a></li><li id="wp-admin-bar-new-user"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/user-new.php">User</a></li></ul></div></li><li id="wp-admin-bar-edit" class=""><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/post.php?post=5571&amp;action=edit">Edit Page</a></li><li id="wp-admin-bar-all-in-one-seo-pack" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.inogic.com/blog/wp-admin/admin.php?page=all-in-one-seo-pack/aioseop_class.php">SEO</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-all-in-one-seo-pack-default" class="ab-submenu"><li id="wp-admin-bar-aioseop-pro-upgrade"><a class="ab-item" href="https://semperplugins.com/plugins/all-in-one-seo-pack-pro-version/?loc=menu" onclick="javascript:window.open(&#39;https://semperplugins.com/plugins/all-in-one-seo-pack-pro-version/?loc=menu&#39;); return false;">Upgrade To Pro</a></li><li id="wp-admin-bar-aiosp_edit_5571"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/post.php?post=5571&amp;action=edit#aiosp">Edit SEO</a></li><li id="wp-admin-bar-all-in-one-seo-pack/modules/aioseop_performance.php"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/admin.php?page=all-in-one-seo-pack/modules/aioseop_performance.php">Performance</a></li><li id="wp-admin-bar-all-in-one-seo-pack/modules/aioseop_feature_manager.php"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/admin.php?page=all-in-one-seo-pack/modules/aioseop_feature_manager.php">Feature Manager</a></li></ul></div></li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu"><li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://www.inogic.com/blog/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150"><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"></form></div></li><li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="https://www.inogic.com/blog/wp-admin/profile.php">Howdy, <span class="display-name">Inogic</span><img alt="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/4a0370e652eed8821dc7149dc07d1489.png" srcset="https://secure.gravatar.com/avatar/4a0370e652eed8821dc7149dc07d1489?s=52&amp;d=mm&amp;r=g 2x" class="avatar avatar-26 photo" height="26" width="26"></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu"><li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="https://www.inogic.com/blog/wp-admin/profile.php"><img alt="" src="./16Configure Product Mapping in InoLink for QuickBooks Desktop_files/4a0370e652eed8821dc7149dc07d1489(1).png" srcset="https://secure.gravatar.com/avatar/4a0370e652eed8821dc7149dc07d1489?s=128&amp;d=mm&amp;r=g 2x" class="avatar avatar-64 photo" height="64" width="64"><span class="display-name">Inogic</span><span class="username">inogic</span></a></li><li id="wp-admin-bar-edit-profile"><a class="ab-item" href="https://www.inogic.com/blog/wp-admin/profile.php">Edit My Profile</a></li><li id="wp-admin-bar-logout"><a class="ab-item" href="https://www.inogic.com/blog/wp-login.php?action=logout&amp;_wpnonce=6bbc3e251a">Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://www.inogic.com/blog/wp-login.php?action=logout&amp;_wpnonce=6bbc3e251a">Log Out</a>
+					</div><a href="javascript:void(0);" title="Sumo" style="background-color: rgb(0, 115, 183); border-radius: 3px 0px 0px 3px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 10px; position: fixed; z-index: 2147483647; padding: 0px; width: 44px; height: 40px; text-indent: -10000px; opacity: 1; display: none !important;"><span style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Sumo</span><span style="display:block;width:40px;height:40px;background:white;margin-left:4px;-webkit-border-radius: 3px 0 0 3px;-moz-border-radius: 3px 0 0 3px;-ms-border-radius: 3px 0 0 3px;-o-border-radius: 3px 0 0 3px;border-radius: 3px 0 0 3px;background-repeat:no-repeat;background-position:8px 8px;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxZDQ2MjI4YS03NWY2LTRkZTQtOGJjYy1hODc1NjRkMjYxYTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDQ3MUVFMDFFMjVDMTFFNjlFQjhBRjdGODU5MDJBMDUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDQ3MUVFMDBFMjVDMTFFNjlFQjhBRjdGODU5MDJBMDUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxZDQ2MjI4YS03NWY2LTRkZTQtOGJjYy1hODc1NjRkMjYxYTUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MWQ0NjIyOGEtNzVmNi00ZGU0LThiY2MtYTg3NTY0ZDI2MWE1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+8JtvywAAAKhQTFRFzOPxSJvLA3W4Mo7FBna5w97u8vj7EHy8a67VhbzdsdTpVaLPh73d9/v9C3m6QZfJbq/WXKbR3u32JIfB3ez1KorDir/eBHW4+/3+rtPoZarUG4K/LIvDDnu7ocvkf7nbdrTY9fr8E328WKPQO5PITJ3MPpXJstXptdbq+Pv9cbHXaq3VU6HOkMLgnMnjDHq62uv1/P3+6/T53Oz1cLDX/f7+AHO3////ptOZ5QAAADh0Uk5T/////////////////////////////////////////////////////////////////////////wA7XBHKAAAAmUlEQVR42sSRRxLCMAxFRSq9907ovebr/jdDMWYGxmZL3sIqbyFbJv4B/VlkVlerKALTD3G46Mx3AOR1UZ/TsDxW6W0gfYRNVfTCFu2AWpAMgMItMW+zQJU2UjWI29D0+e5KWNPMk+A9Om+B/UgOJyCuwMJCrpuziYkIsglfRByZ/XM3eXnBFEu1kpMpjq9dxQYp/OAXTwEGAB7Rc1xVnPemAAAAAElFTkSuQmCC);"></span></a></body></html>
