@@ -10,23 +10,23 @@ To revise existing published Plans, Plan Steps, and Plan Step Actions for both p
 
 * To revise existing published plans navigate to **Business Process Checklist App --> Plans --> Open existing published plan**.
 
-<figure><img src="../../../.gitbook/assets/revise plan_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan_1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Revise'** Button, this will change the plan status to **Draft**.
 
 <figure><img src="../../../.gitbook/assets/revise plan_2.png" alt=""><figcaption></figcaption></figure>
 
-* Make the required changes to the plan --> Click on the **‘Save’** button.
+* Make the required changes to the plan **-->** Click on the **‘Save’** button.
 
 <figure><img src="../../../.gitbook/assets/revise plan_3.png" alt=""><figcaption></figcaption></figure>
 
 ### 2) Plan steps
 
-* To Edit Plan Step navigate to **Manage Steps** --> Click on the **ellipses** --> Click on **'Edit'**.
+* To Edit Plan Step navigate to **Manage Steps -->** Click on the **ellipses -->** Click on **'Edit'**.
 
 <figure><img src="../../../.gitbook/assets/edit plan step_1.png" alt=""><figcaption></figcaption></figure>
 
-* Make the required changes to the plan step --> Click on the **‘Save’** Button.
+* Make the required changes to the plan step **-->** Click on the **‘Save’** Button.
 
 <figure><img src="../../../.gitbook/assets/Edit Plan step_4.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,13 +48,13 @@ Note: Locked Fields can't be edited.
 
 <figure><img src="../../../.gitbook/assets/Publish.png" alt=""><figcaption></figcaption></figure>
 
-### Revise Plans-Checklist:
+### Revise Plans - Checklist:
 
 ### 1) Plan
 
 * To revise existing published plans navigate to **Business Process Checklist App --> Plans --> Open existing published plan**.
 
-<figure><img src="../../../.gitbook/assets/revise plan .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan  (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Revise'** Button, this will change the plan status to **Draft**.
 
@@ -70,10 +70,10 @@ Note: Locked Fields can't be edited.
 
 <figure><img src="../../../.gitbook/assets/Edit Plan Step_1.png" alt=""><figcaption></figcaption></figure>
 
-* Make the required changes to the plan step --> Click on **‘Save’**.
+* Make the required changes to the plan step **-->** Click on **‘Save’**.
 
 <figure><img src="../../../.gitbook/assets/revise plan step (2).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **'Publish'.**
 
-<figure><img src="../../../.gitbook/assets/Publish checklist.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Publish checklist (1).png" alt=""><figcaption></figcaption></figure>

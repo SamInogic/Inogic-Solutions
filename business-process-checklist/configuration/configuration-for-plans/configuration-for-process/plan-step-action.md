@@ -42,4 +42,4 @@ To Add a **Plan Step Action**, follow the steps given below:
 Note: At least one plan step and plan step action should be added to publish a plan.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/publish process (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/publish process.png" alt=""><figcaption></figcaption></figure>
