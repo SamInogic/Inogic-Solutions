@@ -64,15 +64,8 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
 
-* Click on **'New Plan'.**
-
-<figure><img src="../../../../.gitbook/assets/BPF_12.png" alt=""><figcaption></figcaption></figure>
-
-* Fill in the Plan Details and Click **'Save'**:
-
-<figure><img src="../../../../.gitbook/assets/BPF_13.png" alt=""><figcaption></figcaption></figure>
-
-* add how to create a plan step for bpf here.&#x20;
+* Navigate to **-->** **Manage Steps**.
+* Here, As per the Business Process Flow selected by the manager, various BPF stages of the same will be displayed. manager can now select the desired stage and create the actions inside the stages.&#x20;
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
 ### Business Process Flow - Checklist:
