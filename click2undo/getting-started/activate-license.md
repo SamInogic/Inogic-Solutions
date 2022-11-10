@@ -2,9 +2,9 @@
 
 The first and foremost step after installing solution is License Activation.
 
-Here are the steps to activate Click2Undo license.
+Here are the steps to activate Undo2Restore license.
 
-* Navigate to Dynamics 365 --> Click2Undo app.&#x20;
+* Navigate to Dynamics 365 --> Undo2Restore app.&#x20;
 
 ![](<../../.gitbook/assets/Lic\_0.1 - Copy.png>)
 
@@ -24,7 +24,7 @@ If you want to purchase or extend the trial, click on SEND REQUEST --> Enter all
 
 Here are the steps to complete registration through the **‘License Registration using (.lic) file’** section.
 
-* Request .lic file from Inogic --> Save file --> Go to Click2Undo app --> License Registration --> Click ‘Choose File’ to locate the file with the extension .lic
+* Request .lic file from Inogic --> Save file --> Go to Undo2Restore app --> License Registration --> Click ‘Choose File’ to locate the file with the extension .lic
 
 ![](<../../.gitbook/assets/Lic\_3 - Copy (2).png>)
 
