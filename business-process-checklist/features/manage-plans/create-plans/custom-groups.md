@@ -26,25 +26,29 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_1.png" alt=""><figcaption></figcaption></figure>
 
-* Click on the **Add Groups** button.
+* Click on the **'Add Groups'** button.
 
 
 
-* Fill in the Plan Details and Click **'Save'**:
+* This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details**.**
   * **Name:** Give an appropriate name to the plan.
   * **Description:** Give a short description of the plan.
   * **Priority Order:** Set the execution order against the plan.
 
 
 
-* Click on **'Create Step'.**
+* Once the required fields are filled, click on **‘Save and Close’**.
+
+
+
+* Click on **'Create Step'** button.
 
 ****
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Give an appropriate name to the Plan Step.
   * **Description:** Give a short description of the Plan Step.
-  * **Add waiting period for this step:**
+  * **Add a waiting period for this step:**
     * **Days:** Add the desired waiting period for this step to be performed in **Days**.
     * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
 
@@ -61,8 +65,6 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 * &#x20;we can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
 
 
-
-#### **Plan Step Actions**
 
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
@@ -86,26 +88,32 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan_8.png" alt=""><figcaption></figcaption></figure>
 
-* Click on **'New Plan'.**
-
-<figure><img src="../../../../.gitbook/assets/custom checklist plan_9.png" alt=""><figcaption></figcaption></figure>
-
-* Fill in the Plan Details and Click **'Save'**:
-  * **Name:** Give an appropriate name to the plan.
-  * **Description:** Give a short description of the plan.
-  * **Priority Order:** Set the execution order against the plan.
-
-<figure><img src="../../../../.gitbook/assets/custom checklist plan_10.png" alt=""><figcaption></figcaption></figure>
-
 * Navigate to **-->** **Manage Steps**.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_1.png" alt=""><figcaption></figcaption></figure>
 
-* Click on the **New Plan Step** button.
+* Click on the **'Add Groups'** button.
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_2.png" alt=""><figcaption></figcaption></figure>
 
-* This will open the **‘Quick Create: Plan Step’** form. Here, you can fill in the details and add a waiting period for this plan step to execute**.**
+
+*   This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details
+
+    * **Name:** Give an appropriate name to the plan.
+    * **Description:** Give a short description of the plan.
+    * **Priority Order:** Set the execution order against the plan.
+
+
+* Once the required fields are filled, click on **‘Save and Close’.**
+
+****
+
+* Click on the **'Create Step'** button.
+
+
+
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+  * **Name:** Give an appropriate name to the Plan Step.
+  * **Description:** Give a short description of the Plan Step.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 
