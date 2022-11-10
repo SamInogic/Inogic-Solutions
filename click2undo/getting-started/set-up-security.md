@@ -1,19 +1,19 @@
 # Set up Security
 
-Undo2Restore has the following security roles:
+Click2Undo has the following security roles:
 
 {% tabs %}
-{% tab title="Undo2Restore Administrator " %}
+{% tab title="Click2Undo Administrator " %}
 The **Click2Undo Administrator** is given the right to configure as well as use Click2Undo solution.
 {% endtab %}
 
-{% tab title="Undo2Restore User" %}
-The Undo2Restore **User** has the right to use Undo2Restore do solution only to undo changes in Dynamics 365 CRM records. They cannot restore deleted records.
+{% tab title="Click2Undo User" %}
+The **Click2Undo User** has the right to use Click2Undo solution only to undo changes in Dynamics 365 CRM records. They cannot restore deleted records.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
-**Note: It is necessary to assign any one of the above security roles to use Undo2Restore solution.**
+**Note: It is necessary to assign any one of the above security roles to use Click2Undo solution.**
 {% endhint %}
 
 Here are the steps to assign security role to users.
