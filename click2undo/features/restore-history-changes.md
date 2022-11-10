@@ -1,6 +1,6 @@
 # Restore History Changes
 
-The 'History' button in Click2Undo enables you to restore the past changes made to Dynamics 365 CRM records. In order to restore past changes in the records it is necessary to [enable entities](https://docs.inogic.com/click2undo/configuration/enable-entities) for Click2Undo solution. All the past changes made to the records for a set default period will be displayed in History grid. This default period is defined in [Click2Undo Configuration](https://docs.inogic.com/click2undo/configuration/click2undo-configuration) which can be manually updated. From this displayed list, necessary past changes made to the records can be selected and restored as per requirement.
+The 'History' button in Undo2Restore enables you to restore the past changes made to Dynamics 365 CRM records. In order to restore past changes in the records it is necessary to [enable entities](https://docs.inogic.com/click2undo/configuration/enable-entities) for Undo2Restore solution. All the past changes made to the records for a set default period will be displayed in History grid. This default period is defined in [Undo2Restore Configuration](https://docs.inogic.com/click2undo/configuration/click2undo-configuration) which can be manually updated. From this displayed list, necessary past changes made to the records can be selected and restored as per requirement.
 
 Here are the steps to restore past changes in Dynamics 365 CRM records.
 
@@ -8,7 +8,7 @@ Here are the steps to restore past changes in Dynamics 365 CRM records.
 
 ![](<../../.gitbook/assets/His4.1 (1).png>)
 
-* Click on the downward arrow near Click2Undo --> Click on History.
+* Click on the downward arrow near Undo2Restore --> Click on History.
 
 ![](../../.gitbook/assets/His4.2.png)
 

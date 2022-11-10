@@ -1,8 +1,8 @@
 # Uninstallation
 
-Like installing Click2Undo solution, uninstalling the solution from your CRM environment is quite simple. Just follow the below process to uninstall Click2Undo from your Dynamics 365 CRM.&#x20;
+Like installing Undo2Restore solution, uninstalling the solution from your CRM environment is quite simple. Just follow the below process to uninstall Undo2Restore from your Dynamics 365 CRM.&#x20;
 
-1\) Navigate to Settings --> Solutions --> Select Click2Undo solution.
+1\) Navigate to Settings --> Solutions --> Select Undo2Restore solution.
 
 ![](../.gitbook/assets/uninstall\_3.png)
 

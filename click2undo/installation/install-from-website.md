@@ -1,10 +1,10 @@
 # Install from Website
 
-Use any of the two methods to install Click2Undo from our [website](https://www.inogic.com/product/productivity-apps/undo-restore-recover-deleted-dynamics-365-crm-records).
+Use any of the two methods to install **Undo2Restore**(Formerly known as Click2Undo) from our [website](https://www.inogic.com/product/productivity-apps/undo-restore-recover-deleted-dynamics-365-crm-records).
 
 ### Using Power Apps UI
 
-To import the solution from make.powerapps.com, download the Click2Undo solution from our [website](https://www.inogic.com/product/productivity-apps/attach-2-dynamics-365-crm-upload-multiple-files-sharepoint-cloud-storage). Then follow the steps as shown below:
+To import the solution from make.powerapps.com, download the **Undo2Restore** solution from our [website](https://www.inogic.com/product/productivity-apps/attach-2-dynamics-365-crm-upload-multiple-files-sharepoint-cloud-storage). Then follow the steps as shown below:
 
 * Sign in to [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc). After signing in, select the instance on which you want to install the solution.
 

@@ -1,6 +1,6 @@
 # Organization Level Auditing
 
-Click2Undo leverages Audit log in order to understand the changes that needs to be restored because of which it is of utmost important to enable Organization Level Auditing, without which you cannot enable Entity Level Auditing.
+Undo2Restore leverages Audit log in order to understand the changes that needs to be restored because of which it is of utmost important to enable Organization Level Auditing, without which you cannot enable Entity Level Auditing.
 
 In order to enable Organization Level Auditing follow the steps given below:
 

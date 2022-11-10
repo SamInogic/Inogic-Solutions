@@ -1,6 +1,6 @@
 # Features
 
-Click2Undo has the following list of features:
+Undo2Restore(Formerly known as Click2Undo) has the following list of features:
 
 * [Undo Changes](https://docs.inogic.com/click2undo/features/undo-changes)
 * [Undo Changes in Bulk](https://docs.inogic.com/click2undo/features/undo-changes-in-bulk)

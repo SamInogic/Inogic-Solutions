@@ -1,9 +1,9 @@
 # Restore Deleted Records
 
-Sometimes, it happens that you may delete a record by mistake and find that there is no way to restore it. In such situations, this feature allows you to restore that deleted record. For this feature to function it is a must to [enable entities](https://docs.inogic.com/click2undo/configuration/enable-entities) for Click2Undo solution.&#x20;
+Sometimes, it happens that you may delete a record by mistake and find that there is no way to restore it. In such situations, this feature allows you to restore that deleted record. For this feature to function it is a must to [enable entities](https://docs.inogic.com/click2undo/configuration/enable-entities) for Undo2Restore solution.&#x20;
 
 {% hint style="info" %}
-**Note: 'Restore Deleted' button is visible to users with System Administrator role and  Click2Undo Administrator role.**
+**Note: 'Restore Deleted' button is visible to users with System Administrator role and  Undo2Restore Administrator role.**
 {% endhint %}
 
 Here are the steps to restore deleted records.
@@ -12,7 +12,7 @@ Here are the steps to restore deleted records.
 
 ![](<../../.gitbook/assets/Rest\_1 - Copy.png>)
 
-* Here, in the Restore grid you will find all the deleted records pertaining to default period which is defined in [Click2Undo Configuration](https://docs.inogic.com/click2undo/configuration/click2undo-configuration). You can further search and filter these records by date.
+* Here, in the Restore grid you will find all the deleted records pertaining to default period which is defined in [Undo2Restore Configuration](https://docs.inogic.com/click2undo/configuration/click2undo-configuration). You can further search and filter these records by date.
 
 ![](../../.gitbook/assets/rest2.2.png)
 

@@ -1,6 +1,6 @@
 # Entity Level Auditing
 
-After enabling [Organization Level Auditing](https://docs.inogic.com/click2undo/prerequisities/organization-level-auditing), the next important step is to enable Entity Level Auditing. For all the entities that needs to be leveraging Click2Undo feature you need to follow below steps in order to enable Entity Level Auditing.&#x20;
+After enabling [Organization Level Auditing](https://docs.inogic.com/click2undo/prerequisities/organization-level-auditing), the next important step is to enable Entity Level Auditing. For all the entities that needs to be leveraging Undo2Restore feature you need to follow below steps in order to enable Entity Level Auditing.&#x20;
 
 {% hint style="info" %}
 **Note : The below illustration is done using Account entity, but the same process can be followed for the other system or custom entities as well.**

@@ -1,10 +1,10 @@
 # Enable Entities
 
-In order to leverage Click2Undo functionalities like undo changes or restore deleted records, it is necessary to Enable Entities for Click2Undo solution. &#x20;
+In order to leverage Undo2Restore functionalities like undo changes or restore deleted records, it is necessary to Enable Entities for Undo2Restore solution. &#x20;
 
-Here are the steps to 'Enable Entities' for Click2Undo solution.
+Here are the steps to 'Enable Entities' for Undo2Restore solution.
 
-* Navigate to Click2Undo App --> License Registration --> Enable Entities.
+* Navigate to Undo2Restore App --> License Registration --> Enable Entities.
 
 ![](../../.gitbook/assets/C2U\_2.1.png)
 
@@ -12,7 +12,7 @@ Here are the steps to 'Enable Entities' for Click2Undo solution.
 
 ![](<../../.gitbook/assets/Entity\_2 - Copy.png>)
 
-* Click on Save to Enable Entities for Click2Undo solution.
+* Click on Save to Enable Entities for Undo2Restore solution.
 
 ![](<../../.gitbook/assets/Entity\_3 - Copy.png>)
 
