@@ -22,24 +22,24 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/Custom process_9.png" alt=""><figcaption></figcaption></figure>
 
-* Click on **'New Plan'.**
+* Navigate to **-->** **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/Custom process_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_1.png" alt=""><figcaption></figcaption></figure>
+
+* Click on the **Add Groups** button.
+
+
 
 * Fill in the Plan Details and Click **'Save'**:
   * **Name:** Give an appropriate name to the plan.
   * **Description:** Give a short description of the plan.
   * **Priority Order:** Set the execution order against the plan.
 
-<figure><img src="../../../../.gitbook/assets/Custom process_11 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **-->** **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_1.png" alt=""><figcaption></figcaption></figure>
+* Click on **'Create Step'.**
 
-* Click on the **New Plan Step** button.
-
-<figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_2.png" alt=""><figcaption></figcaption></figure>
+****
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Give an appropriate name to the Plan Step.
@@ -58,7 +58,12 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_5.png" alt=""><figcaption></figcaption></figure>
 
-* add how to create a plan step for custom here.
+* &#x20;we can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
+
+
+
+#### **Plan Step Actions**
+
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
 ### **Custom Plan-Checklist:**
@@ -101,12 +106,6 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create: Plan Step’** form. Here, you can fill in the details and add a waiting period for this plan step to execute**.**
-* ****
-* **Name:** Give an appropriate name to the Plan Step.
-* **Description:** Give a short description of the Plan Step.
-* **Add waiting period for this step:**
-  * **Days:** Add the desired waiting period for this step to be performed in **Days**.
-  * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 
