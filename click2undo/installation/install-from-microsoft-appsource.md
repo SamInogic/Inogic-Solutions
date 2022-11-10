@@ -1,6 +1,6 @@
 # Install from Microsoft AppSource
 
-To install **Undo2Restore**(Formerly known as Click2Undo) solution from **Microsoft AppSource**, click [here](https://appsource.microsoft.com/en-us/product/dynamics-365/inogic.undo-restore-deleted-dynamics-365-records) and follow the steps given below:&#x20;
+To install **Undo2Restore** (Formerly known as Click2Undo) solution from **Microsoft AppSource**, click [here](https://appsource.microsoft.com/en-us/product/dynamics-365/inogic.undo-restore-deleted-dynamics-365-records) and follow the steps given below:&#x20;
 
 * Go to Undo2Restore page on Microsoft AppSource --> Click on the **FREE TRIAL** button.
 
@@ -26,6 +26,6 @@ To install **Undo2Restore**(Formerly known as Click2Undo) solution from **Micros
 
 ![](../../.gitbook/assets/2b.png)
 
-* Once the installation is completed, **Click2Undo** solution will be visible in **My apps**.&#x20;
+* Once the installation is completed, **Undo2Restore** solution will be visible in **My apps**.&#x20;
 
 ![](../../.gitbook/assets/AppS\_6.png)
