@@ -4,7 +4,7 @@ To view, Record Details follow the steps below:
 
 * Go to **Business Process Checklist App --> Plan Step Item.**
 
-<figure><img src="../../../.gitbook/assets/VIew recod details_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/VIew recod details_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on Regarding.
 
