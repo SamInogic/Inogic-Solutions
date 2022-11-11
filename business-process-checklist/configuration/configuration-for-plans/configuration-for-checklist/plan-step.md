@@ -15,9 +15,6 @@ To create **Plan steps**, follow the steps given below:
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
 * **Name:** Give an appropriate name to the Plan Step.
 * **Description:** Give a short description of the Plan Step.
-* **Add a waiting period for this step:**
-  * **Days:** Add the desired waiting period for this step to be performed in **Days**.
-  * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
 
 <figure><img src="../../../../.gitbook/assets/Plan step_3.png" alt=""><figcaption></figcaption></figure>
 
