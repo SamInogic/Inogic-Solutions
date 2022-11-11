@@ -115,4 +115,3 @@ In the same way, you can set Advance criteria for other plan records as well.
   * **Description:** Give a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’**.
 * Your plan step will be added to the process and will appear here.
-* And now you can add the actions inside the selected stage.&#x20;
