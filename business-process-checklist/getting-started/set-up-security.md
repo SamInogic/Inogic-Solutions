@@ -4,7 +4,7 @@ Business Process Checklist has the following security roles:
 
 {% tabs %}
 {% tab title="Business Process Checklist Administrator" %}
-**Business Process Checklist Administrator** can activate the license, enable entities, create and, manage plans, etc.
+**Business Process Checklist Administrator** can activate the license, enable entities, create and manage plans, etc.
 {% endtab %}
 
 {% tab title="Business Process Checklist User" %}
