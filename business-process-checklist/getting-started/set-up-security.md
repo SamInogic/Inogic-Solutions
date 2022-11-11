@@ -29,7 +29,7 @@ Here are the steps to assign security roles to CRM users.
 
 ![](<../../.gitbook/assets/Set up Security\_2.png>)
 
-* Select user --> Click on **Three Dots** --> **MANAGE ROLES.**
+* Select user --> Click on **ellipses** --> **MANAGE ROLES.**
 
 <figure><img src="../../.gitbook/assets/set up security 1.png" alt=""><figcaption></figcaption></figure>
 
