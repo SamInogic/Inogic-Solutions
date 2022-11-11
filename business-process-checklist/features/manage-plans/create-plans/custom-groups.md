@@ -64,7 +64,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 * &#x20;we can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Add Plan step part (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Add Plan step part (1).png" alt=""><figcaption></figcaption></figure>
 
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
