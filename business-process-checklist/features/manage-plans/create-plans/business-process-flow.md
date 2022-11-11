@@ -105,12 +105,14 @@ In the same way, you can set Advance criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF_9.png" alt=""><figcaption></figcaption></figure>
 
-* Click on **'New Plan'.**
-
-<figure><img src="../../../../.gitbook/assets/BPF_10.png" alt=""><figcaption></figcaption></figure>
-
-* Fill in the Plan Details and Click **'Save'**:
-
-<figure><img src="../../../../.gitbook/assets/BPF_11 (1).png" alt=""><figcaption></figcaption></figure>
-
-* Add how to create a plan step for BPF here.
+* Navigate to **-->** **Manage Steps**.
+* Here, As per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. manager can now select the desired stages and create the actions inside the stages.&#x20;
+* For Example: Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
+* Now select the required BPF stage for example select the **Qualify stage**.
+* Click on the **'Create Step'** Button.
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+  * **Name:** Give an appropriate name to the Plan Step.
+  * **Description:** Give a short description of the Plan Step.
+* Once the required fields are filled, click on **‘Save and Close’**.
+* Your plan step will be added to the process and will appear here.
+* And now you can add the actions inside the selected stage.&#x20;
