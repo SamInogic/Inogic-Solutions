@@ -4,5 +4,5 @@ Plans help sales managers enforce best practices by introducing a set of consecu
 
 There are two types of plans Checklist and Process.
 
-* Configuration for Process
-* Configuration for Checklist
+* [Configuration for Process](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process)
+* [Configuration for Checklist](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-checklist)

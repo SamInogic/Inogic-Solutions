@@ -2,5 +2,5 @@
 
 **Business Process Checklist** Solution has the following features:
 
-* Manage Plans
-* User Plans
+* [Manage Plans](https://docs.inogic.com/business-process-checklist/features/manage-plans)
+* [User Plans](https://docs.inogic.com/business-process-checklist/features/user-plans)
