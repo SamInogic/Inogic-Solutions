@@ -1,10 +1,10 @@
 # Plan Step
 
-A Plan (checklist) consists of multiple plan steps.
+A Plan (Checklist) consists of multiple plan steps.
 
-To create **Plan steps**, follow the steps given below:
+To create **Plan Steps**, follow the steps given below:
 
-* Once the plan is created  Navigate to **-->** **Manage Steps**.
+* Once the plan is created navigate to **-->** **Manage Steps**.
 
 <figure><img src="../../../../.gitbook/assets/plan step_1 (1).png" alt=""><figcaption></figcaption></figure>
 

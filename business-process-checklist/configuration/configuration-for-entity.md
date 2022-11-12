@@ -1,6 +1,6 @@
 # Configuration for Entity
 
-Enabling **Entity Configuration** is essential to **create** and **manage** Plans for Entity (Except Activity entity).
+Enabling **Entity Configuration** is essential to **create** and **manage** Plans for Entity (except activity entity).
 
 Below are the steps for Entity Configuration in Business Process Checklist:
 
@@ -12,7 +12,7 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 
 <figure><img src="../../.gitbook/assets/Entity Configuration_2 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Now your enabled entity configuration will appear below and **Email, Phone Call & Task** which are three default supported activities.
+* Now your enabled entity configuration will appear below along with **Email, Phone Call & Task** which are three default supported activities.
 
 {% hint style="info" %}
 Note: Email activity is supported only for those entities that have an email field.
@@ -33,6 +33,6 @@ Note: Email activity is supported only for those entities that have an email fie
 <figure><img src="../../.gitbook/assets/Entity Configuration_5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note: Users can't create entity configuration.**
+**Note: Business Process Checklist User can't create entity configuration.**
 {% endhint %}
 

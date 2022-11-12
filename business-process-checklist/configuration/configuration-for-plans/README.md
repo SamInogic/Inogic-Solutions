@@ -1,8 +1,8 @@
 # Configuration for Plans
 
-Plans help sales managers enforce best practices by introducing a set of consecutive activities for users/salespersons to follow during the course of their day. A manager can connect plans to various records (lead, opportunity, and campaigns) which then CRM users can follow. this proves helpful in increasing the productivity of the users.
+A manager can create plans for various records ( like lead, opportunity, campaigns, etc) which then CRM users can follow. This helps in increasing the productivity of the business.
 
-There are two types of plans Checklist and Process.
+There are two types of plans - Process and Checklist:
 
 * [Configuration for Process](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process)
 * [Configuration for Checklist](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-checklist)

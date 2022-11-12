@@ -2,6 +2,6 @@
 
 You can manage plans in the following ways:
 
-* [Create Plans](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plans)
+* [Create Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plans)
 * [Revise Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/revise-plan)
 * [Delete Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/delete-plan)

@@ -1,6 +1,6 @@
 # Business Process Flow
 
-With this feature, you can create both **Process** and **Checklist-type** plans against **Business Process Flow.**
+With this feature, you can create both **Process** and **Checklist** - **** type plans against **Business Process Flow.**
 
 For example, if a user wants to create a plan against the **Lead to Opportunity Sales process** to set the best practices for **Lead Nurturing**. **** In order to achieve this, the user has to follow the steps given below:
 
@@ -10,27 +10,27 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 
 <figure><img src="../../../../.gitbook/assets/BPF_5.png" alt=""><figcaption></figcaption></figure>
 
-* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria matches.) Select either **Simple** or **Advanced**.
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
-  * **Advanced:** Execute Plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
+  * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 
 {% hint style="info" %}
-Note: This step is the same for checklist and process-type plans.
+Note: This step is the same for checklist and process - type plans.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/BPF_6.png" alt=""><figcaption></figcaption></figure>
 
 #### **1)    Simple**&#x20;
 
-Simple criteria can be set on System Views of the Record Type.
+Simple criteria can be set on Views of the Record Type.
 
 <figure><img src="../../../../.gitbook/assets/BPF_7 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### 2) Advance&#x20;
+#### 2) Advanced&#x20;
 
 Plans can be attached based on conditions.&#x20;
 
-For eg. If you want to attach a plan to open leads with lead source as web then you have to enter the Fetch XML for it. Below is the Fetch XML for the open lead where the lead source is the web.
+For eg. If you want to attach a plan for upcoming leads with lead source as **Web** then you have to enter the Fetch XML for it. Below is the Fetch XML for the same.
 
 <pre><code>&#x3C;fetch version="1.0" output-format="xml-platform" mapping="logical" no-lock="false" distinct="true">
 &#x3C;entity name="lead">
@@ -48,11 +48,11 @@ For eg. If you want to attach a plan to open leads with lead source as web then 
 &#x3C;/entity>
 &#x3C;/fetch></code></pre>
 
-In the same way, you can set Advance criteria for other plan records as well.
+In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/Bpf_8.png" alt=""><figcaption></figcaption></figure>
 
-* Select **'Business Process'.**
+* Select **'Business Process Flow'.**
 
 <figure><img src="../../../../.gitbook/assets/Bpf_9.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,16 +65,16 @@ In the same way, you can set Advance criteria for other plan records as well.
 <figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **-->** **Manage Steps**.
-* Here, As per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. manager can now select the desired stages and create the actions inside the stages.&#x20;
-* For Example: Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
-* Now select the required BPF stage for example select the **Qualify stage**.
+* Here, As per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.&#x20;
+* For Example: Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below. &#x20;
+* Now, select the required BPF stage, for example, select the Qualify stage.
 * Click on the **'Create Step'** Button.
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Give an appropriate name to the Plan Step.
   * **Description:** Give a short description of the Plan Step.
   * **Add a waiting period for this step:**
-    * **Days:** Add the desired waiting period for this step to be performed in **Days**.
-    * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
+    * **Days:** Add the desired waiting period for this step to be performed after **'X'** **Days**.
+    * **Hours:** Add the desired waiting period for this step to be performed after **'X'** **Hours.**
 * Once the required fields are filled, click on **‘Save and Close’**.
 * Your plan step will be added to the process and will appear here.
 * And now you can add the actions inside the selected stage.&#x20;
