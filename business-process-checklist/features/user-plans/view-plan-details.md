@@ -1,6 +1,8 @@
 # View Plan Details
 
-To view the, **Plan Details** follow the steps below:
+The Salesperson can check the plan created by the manager that he needs to follow.
+
+To view the **Plan Details** follow the steps below:
 
 * Go to **Business Process Checklist App --> Plan Step Items.**
 

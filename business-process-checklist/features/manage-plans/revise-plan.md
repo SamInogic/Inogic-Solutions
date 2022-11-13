@@ -1,14 +1,14 @@
 # Revise Plan
 
-Plans can be revised to suit the circumstances of the business process. In Business Process Checklist, you can easily modify existing Plans, Plans Step, and Plan Step Actions as and when required.&#x20;
+Plans can be revised to suit the circumstances of the business process. In Business Process Checklist, you can easily modify existing Plans, Plan Steps, and Plan Step Actions as and when required.&#x20;
 
-To revise existing published Plans, Plan Steps, and Plan Step Actions for both process and checklist-type plans, follow the steps given below:
+To revise existing published Plans, Plan Steps, and Plan Step Actions for both process and checklist - type plans, follow the steps given below:
 
 ## Revise Plans - Process:
 
 ### 1) Plans
 
-* To revise existing published plans navigate to **Business Process Checklist App --> Plans --> Open existing published plan**.
+* To revise existing published plans navigate to **Plans --> Open existing published plan**.
 
 <figure><img src="../../../.gitbook/assets/revise plan_1 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ To revise existing published Plans, Plan Steps, and Plan Step Actions for both p
 
 ### 2) Plan steps
 
-* To Edit Plan Step navigate to **Manage Steps -->** Click on the **ellipses -->** Click on **'Edit'**.
+* To Edit Plan Step navigate to **Manage Steps -->** Click on the **ellipsis -->** Click on **'Edit'**.
 
 <figure><img src="../../../.gitbook/assets/edit plan step_1.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ To revise existing published Plans, Plan Steps, and Plan Step Actions for both p
 
 ### 3) Plan Step Action
 
-* To Edit Plan Step Action navigate to **--> Manage Steps -->** Click on the **ellipses -->** Click on **'Edit'**.
+* To Edit Plan Step Action navigate to **--> Manage Steps -->** Click on the **ellipsis -->** Click on **'Edit'**.
 
 <figure><img src="../../../.gitbook/assets/edit plan step action_1.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Note: Locked Fields can't be edited.
 
 ### 1) Plan
 
-* To revise existing published plans navigate to **Business Process Checklist App --> Plans --> Open existing published plan**.
+* To revise existing published plans navigate to **Plans --> Open existing published plan**.
 
 <figure><img src="../../../.gitbook/assets/revise plan  (2).png" alt=""><figcaption></figcaption></figure>
 

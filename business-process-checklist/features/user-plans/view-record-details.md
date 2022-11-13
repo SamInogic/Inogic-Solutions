@@ -1,12 +1,14 @@
 # View Record Details
 
-To view, Record Details follow the steps below:
+The salesperson can view the record details that he needs to follow during the course of the day without moving to the original app. (Example sales hub)
 
-* Go to **Business Process Checklist App --> Plan Step Item.**
+To view, **Record Details** follow the steps below:
+
+* Go to **--> Plan Step Item.**
 
 <figure><img src="../../../.gitbook/assets/VIew recod details_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click on Regarding.
+* Click on **Regarding.**
 
 <figure><img src="../../../.gitbook/assets/VIew recod details_2.png" alt=""><figcaption></figcaption></figure>
 

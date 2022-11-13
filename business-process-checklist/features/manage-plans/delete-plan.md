@@ -1,12 +1,12 @@
 # Delete Plan
 
-To delete existing Plans, Plan Steps, and Plan Step Actions for both process and checklist-type plans, follow the steps given below:
+To delete existing Plans, Plan Steps, and Plan Step Actions for both process and checklist - type plans, follow the steps given below:
 
 ## Delete Plans - Process:
 
 ### 1) Plan
 
-* To delete plans navigate to **Business Process Checklist App --> Plans --> Select** the **Existing Plan** you want to delete --> Click on the **Delete Button**.
+* To delete plans navigate to **--> Plans --> Select** the **Existing Plan** you want to delete **-->** Click on the **Delete Button**.
 
 <figure><img src="../../../.gitbook/assets/Delete plan_1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ To delete existing Plans, Plan Steps, and Plan Step Actions for both process and
 <figure><img src="../../../.gitbook/assets/Delete plan_2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If the plan is deleted Plan Steps and Plan Step Actions get deleted automatically.
+Note: If a plan is deleted then the associated Plan steps and Plan Step Actions will also be deleted.
 {% endhint %}
 
 ### 2) Plan Step
@@ -29,7 +29,7 @@ Note: If the plan is deleted Plan Steps and Plan Step Actions get deleted automa
 <figure><img src="../../../.gitbook/assets/delete plan step _2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If Plan Step is deleted plan step actions are deleted automatically
+Note: If Plan Step is deleted then associated plan step actions are deleted automatically.
 {% endhint %}
 
 ### 3) Plan Step Action
@@ -42,7 +42,7 @@ Note: If Plan Step is deleted plan step actions are deleted automatically
 
 ### 1) Plan
 
-* To delete plans navigate to **Business Process Checklist App --> Plans --> Select** the **Existing Plan** you want to delete --> Click on the **Delete Button**.
+* To delete plans navigate to **--> Plans --> Select** the **Existing Plan** you want to delete --> Click on the **Delete Button**.
 
 <figure><img src="../../../.gitbook/assets/delete plan_1.png" alt=""><figcaption></figcaption></figure>
 

@@ -131,7 +131,7 @@
       * [Revise Plan](business-process-checklist/features/manage-plans/revise-plan.md)
       * [Delete Plan](business-process-checklist/features/manage-plans/delete-plan.md)
     * [User Plans](business-process-checklist/features/user-plans.md)
-      * [Connect Records](business-process-checklist/features/user-plans/connect-records.md)
+      * [Auto-Attach the Plan to Record](business-process-checklist/features/user-plans/auto-attach-the-plan-to-record.md)
       * [View Record Details](business-process-checklist/features/user-plans/view-record-details.md)
       * [View Plan Details](business-process-checklist/features/user-plans/view-plan-details.md)
   * [Uninstallation](business-process-checklist/uninstallation.md)

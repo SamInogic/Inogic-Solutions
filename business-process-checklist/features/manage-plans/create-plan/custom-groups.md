@@ -1,6 +1,6 @@
 # Custom Groups
 
-With this feature, you can create both **Process** and **Checklist-type** plans against **Custom Groups** to do the same user has to follow the steps given below:
+With this feature, you can create both **Process** and **Checklist -** type plans against **Custom Groups** to do the same user has to follow the steps given below:
 
 ### **Custom Groups - Process:**
 
@@ -8,9 +8,9 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/Custom process_6.png" alt=""><figcaption></figcaption></figure>
 
-* **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria match). Select either **Simple** or **Advanced**.
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
-  * **Advanced:** Execute Plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
+  * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 
 <figure><img src="../../../../.gitbook/assets/Custom process_7.png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 * This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details**.**
   * **Name:** Give an appropriate name to the plan.
   * **Description:** Give a short description of the plan.
-  * **Priority Order:** Set the execution order against the plan.
+  * **Priority Order:** set the priority order against the plan
 
 
 
@@ -41,7 +41,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 
 
-* Click on **'Create Step'** button.
+* Click on the **'Create Step'** button.
 
 ****
 
@@ -62,7 +62,7 @@ With this feature, you can create both **Process** and **Checklist-type** plans 
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_5.png" alt=""><figcaption></figcaption></figure>
 
-* &#x20;we can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
+* &#x20;We can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Add Plan step part (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,9 +1,10 @@
-# Connect Records
+# Auto-Attach the Plan to Record
 
-Below are the steps to **Connect Records**:
+Plans defined by the manager will automatically get attached to the records as per the matched criteria.
 
-* First, we need to create a plan.&#x20;
-* **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type and click **'Save'.**
+**Below is an example:**
+
+Now, the manager has created a plan for Lead Nurturing for the Lead entity, where the criteria are set as "Lead Source as "Web"
 
 <figure><img src="../../../.gitbook/assets/connect records 1.png" alt=""><figcaption></figcaption></figure>
 

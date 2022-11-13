@@ -86,14 +86,13 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF_5 (3).png" alt=""><figcaption></figcaption></figure>
 
-**Set criteria for the execution of plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria match). Select either **Simple** or **Advanced**.
-
-* **Simple:** Execute plans based on the View of an entity.
-* **Advanced:** Execute Plans based on filter criteria or conditions (conditions defined in Fetch XML).
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
+  * **Simple:** Execute plans based on the View of an entity.
+  * **Advanced:** Execute plans based on filter criteria or conditions (conditions defined in Fetch XML).
 
 <figure><img src="../../../../.gitbook/assets/BPF_6 (2).png" alt=""><figcaption></figcaption></figure>
 
-* Select **'Business Process'.**
+* Select **'Business Process Flow'.**
 
 <figure><img src="../../../../.gitbook/assets/BPF_7 (4).png" alt=""><figcaption></figcaption></figure>
 
