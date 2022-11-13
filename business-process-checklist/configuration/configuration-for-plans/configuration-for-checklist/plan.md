@@ -11,14 +11,14 @@ Below are the steps to configure the checklist - type plan:
 <figure><img src="../../../../.gitbook/assets/plan_2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details
-  * **Name:** Give a unique name to the plan.
-  * **Description:** Give a short description of the plan.
+  * **Name:** Provide a unique name to the plan.
+  * **Description:** Provide a short description of the plan.
   * **Record Type:** Select the **Record Type** to which the plan will be attached
   * **Plan Type:** Select Plan Type **** as **Checklist**.
   * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field.
-  * **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria matches.) Select either **Simple** or **Advanced**.
+  * **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
     * **Simple:** Execute plans based on the View of an entity.
-    * **Advanced:** Execute Plans based on filter criteria or conditions (conditions defined in Fetch XML).
+    * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 * **Business Process:** Create a plan for Business Process Flow.
 * **Custom Groups:** Create a plan for Custom Groups.
 

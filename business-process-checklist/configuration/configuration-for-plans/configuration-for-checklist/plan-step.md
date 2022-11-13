@@ -8,13 +8,13 @@ To create **Plan Steps**, follow the steps given below:
 
 <figure><img src="../../../../.gitbook/assets/plan step_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click on the **New Plan Step** button.
+* Click on the **Create** **Step** button.
 
 <figure><img src="../../../../.gitbook/assets/Plan step_2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-* **Name:** Give an appropriate name to the Plan Step.
-* **Description:** Give a short description of the Plan Step.
+* **Name:** Provide an appropriate name to the Plan Step.
+* **Description:** Provide a short description of the Plan Step.
 
 <figure><img src="../../../../.gitbook/assets/Plan step_3.png" alt=""><figcaption></figcaption></figure>
 

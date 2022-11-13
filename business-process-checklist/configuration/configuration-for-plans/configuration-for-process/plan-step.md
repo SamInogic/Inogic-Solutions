@@ -16,8 +16,8 @@ To create **Plan steps**, follow the steps given below:
   * **Name:** Provide an appropriate name to the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
   * **Add a waiting period for this step:**
-    * **Days:** Add the desired waiting period for this step to be performed in **Days**.
-    * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
+    * **Days:** Add the desired waiting period for this step to be performed after **'X' Days.**
+    * **Hours:** Add the desired waiting period for this step to be performed after **'X' Hours.**
 
 <figure><img src="../../../../.gitbook/assets/Plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 

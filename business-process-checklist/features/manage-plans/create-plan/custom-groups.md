@@ -31,8 +31,8 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 
 * This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details**.**
-  * **Name:** Give an appropriate name to the plan.
-  * **Description:** Give a short description of the plan.
+  * **Name:** Provide an appropriate name to the plan.
+  * **Description:** Provide a short description of the plan.
   * **Priority Order:** set the priority order against the plan
 
 
@@ -46,11 +46,11 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 ****
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-  * **Name:** Give an appropriate name to the Plan Step.
-  * **Description:** Give a short description of the Plan Step.
+  * **Name:** Provide an appropriate name to the Plan Step.
+  * **Description:** Provide a short description of the Plan Step.
   * **Add a waiting period for this step:**
-    * **Days:** Add the desired waiting period for this step to be performed in **Days**.
-    * **Hours:** Add the desired waiting period for this step to be performed in **Hours.**
+    * **Days:** Add the desired waiting period for this step to be performed after **'X' Days.**
+    * **Hours:** Add the desired waiting period for this step to be performed after **'X' Hours.**
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_3.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,9 +74,9 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan_5.png" alt=""><figcaption></figcaption></figure>
 
-* **Set criteria for the execution of Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will run against those for which the criteria match). Select either **Simple** or **Advanced**.
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
-  * **Advanced:** Execute Plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
+  * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan_6.png" alt=""><figcaption></figcaption></figure>
 
@@ -98,8 +98,8 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 *   This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details
 
-    * **Name:** Give an appropriate name to the plan.
-    * **Description:** Give a short description of the plan.
+    * **Name:** Provide an appropriate name to the plan.
+    * **Description:** Provide a short description of the plan.
     * **Priority Order:** Set the execution order against the plan.
 
 
@@ -112,8 +112,8 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-  * **Name:** Give an appropriate name to the Plan Step.
-  * **Description:** Give a short description of the Plan Step.
+  * **Name:** Provide an appropriate name to the Plan Step.
+  * **Description:** Provide a short description of the Plan Step.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +124,3 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 * Your plan step will be added to the plan and will appear here.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step_5.png" alt=""><figcaption></figcaption></figure>
-
-****
-
-****
