@@ -18,7 +18,7 @@ To Add a **Plan Step Action**, follow the steps given below:
     * **Email Template:** If you want to send an email select an appropriate Email Template from the drop-down. If the **Auto-Send Email** is selected as **Yes** the Email Template field is mandatory to fill.
   * **Set criteria for the execution of Plan Step Action:**
     * **Execution Order:** Enter the execution order for Plan Step Action in which the Plan Step Action will be executed.
-    * **Criteria Mode:** Defines the criteria of the records on which the Plan Step Action will be applicable and executed. Select either Simple or Advanced.
+    * **Criteria Mode:** Defines the criteria of the records on which the Plan Step Action will be applicable and executed. Select either **Simple** or **Advanced**.
       * **Simple:** Here you can select any ‘View’ from the dropdown.
       * **Advanced:** Here, you can further define and set criteria for records through fetch XML.
 
