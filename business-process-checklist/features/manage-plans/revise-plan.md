@@ -4,9 +4,9 @@ Plans can be revised to suit the circumstances of the business process. In Busin
 
 To revise existing published Plans, Plan Steps, and Plan Step Actions for both process and checklist - type plans, follow the steps given below:
 
-## Revise Plans - Process:
+## Revise Plan - Process:
 
-### 1) Plans
+### 1) Plan
 
 * To revise existing published plans navigate to **Plans --> Open existing published plan**.
 
@@ -48,7 +48,7 @@ Note: Locked Fields can't be edited.
 
 <figure><img src="../../../.gitbook/assets/Publish.png" alt=""><figcaption></figcaption></figure>
 
-### Revise Plans - Checklist:
+### Revise Plan - Checklist:
 
 ### 1) Plan
 
