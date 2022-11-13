@@ -1,6 +1,6 @@
 # Configuration for Plans
 
-A manager can create plans for various records ( like lead, opportunity, campaigns, etc) which then CRM users can follow. This helps in increasing the productivity of the business.
+A manager can create plans for various records (like lead, opportunity, campaigns, etc) which then CRM users can follow. This helps in increasing the productivity of the business.
 
 There are two types of plans - Process and Checklist:
 

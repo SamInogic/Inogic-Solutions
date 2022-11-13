@@ -1,6 +1,6 @@
 # Plan
 
-Below are the steps to configure the checklist type plan:
+Below are the steps to configure the checklist - type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan**
 

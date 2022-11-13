@@ -1,6 +1,6 @@
 # Records
 
-With this feature, you can create both **Process** and **Checklist-type** plans against **Records** to do the same user has to follow the steps given below:
+With this feature, you can create both **Process** and **Checklist -** type plans against **Records** to do the same user has to follow the steps given below:
 
 ### Records - Process
 

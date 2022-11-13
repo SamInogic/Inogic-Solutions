@@ -20,7 +20,7 @@ Note: If a plan is deleted then the associated Plan steps and Plan Step Actions 
 
 ### 2) Plan Step
 
-* To Delete Plan Step navigate to **Manage Steps --> Select** the **Existing Plan Step** you want to delete-->  Click on the **ellipses** --> Click on **'Delete Plan Step'**.
+* To Delete Plan Step navigate to **Manage Steps --> Select** the **Existing Plan Step** you want to delete-->  Click on the **ellipsis** --> Click on **'Delete Plan Step'**.
 
 <figure><img src="../../../.gitbook/assets/delete plan step _1.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Note: If Plan Step is deleted then associated plan step actions are deleted auto
 
 ### 3) Plan Step Action
 
-* To Delete Plan Step Action navigate to **Manage Steps --> Select** the **Existing Plan Step Action** you want to delete --> Click on the **ellipses** --> Click **'Delete'**.
+* To Delete Plan Step Action navigate to **Manage Steps --> Select** the **Existing Plan Step Action** you want to delete --> Click on the **ellipsis** --> Click **'Delete'**.
 
 <figure><img src="../../../.gitbook/assets/Delete plan step action_1.png" alt=""><figcaption></figcaption></figure>
 
