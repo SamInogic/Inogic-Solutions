@@ -38,7 +38,7 @@ Note: If Plan Step is deleted then associated plan step actions are deleted auto
 
 <figure><img src="../../../.gitbook/assets/Delete plan step action_1.png" alt=""><figcaption></figcaption></figure>
 
-### Delete Plans-Checklist:
+### Delete Plan - Checklist:
 
 ### 1) Plan
 
