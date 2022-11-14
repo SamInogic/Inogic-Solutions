@@ -8,7 +8,7 @@ Here are the steps to restore past changes in Dynamics 365 CRM records.
 
 ![](<../../.gitbook/assets/His4.1 (1).png>)
 
-* Click on the downward arrow near Undo2Restore --> Click on History.
+* Click on the downward arrow near Click2Undo --> Click on History.
 
 ![](../../.gitbook/assets/His4.2.png)
 
