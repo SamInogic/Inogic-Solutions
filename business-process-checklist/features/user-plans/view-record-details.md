@@ -1,10 +1,10 @@
 # View Record Details
 
-The salesperson can view the record details that he needs to follow during the course of the day without moving to the original app. (Example sales hub)
+The salesperson can view the record details that he needs to follow during the course of the day without moving to the original app (Example: Sales Hub).
 
 To view, **Record Details** follow the steps below:
 
-* Go to **--> Plan Step Item.**
+* Go to **Plan Step Item.**
 
 <figure><img src="../../../.gitbook/assets/VIew recod details_1 (1).png" alt=""><figcaption></figcaption></figure>
 

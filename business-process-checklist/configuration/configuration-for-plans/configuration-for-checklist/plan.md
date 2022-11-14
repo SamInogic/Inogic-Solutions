@@ -22,6 +22,10 @@ Below are the steps to configure the checklist - type plan:
 * **Business Process:** Create a plan for Business Process Flow.
 * **Custom Groups:** Create a plan for Custom Groups.
 
+{% hint style="info" %}
+Note: If both business process or custom groups are not selected then the plan will be created for the record by default.
+{% endhint %}
+
 <figure><img src="../../../../.gitbook/assets/plan_3.png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save’**.

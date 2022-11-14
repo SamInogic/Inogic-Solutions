@@ -33,7 +33,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 * This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name to the plan.
   * **Description:** Provide a short description of the plan.
-  * **Priority Order:** set the priority order against the plan
+  * **Priority Order:** Set the priority order against the plan
 
 
 

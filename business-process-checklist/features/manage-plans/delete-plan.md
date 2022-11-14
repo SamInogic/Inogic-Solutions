@@ -2,11 +2,11 @@
 
 To delete existing Plans, Plan Steps, and Plan Step Actions for both process and checklist - type plans, follow the steps given below:
 
-## Delete Plans - Process:
+## Delete Plan - Process:
 
 ### 1) Plan
 
-* To delete plans navigate to **--> Plans --> Select** the **Existing Plan** you want to delete **-->** Click on the **Delete Button**.
+* To delete plans navigate to **Plans --> Select** the **Existing Plan** you want to delete **-->** Click on the **Delete Button**.
 
 <figure><img src="../../../.gitbook/assets/Delete plan_1 (1).png" alt=""><figcaption></figcaption></figure>
 

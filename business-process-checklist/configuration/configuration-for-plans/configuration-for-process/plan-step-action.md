@@ -1,6 +1,6 @@
 # Plan Step Action
 
-Multiple Plan Step Action can be added to a single plan step to define which actions a salesperson needs to undertake in order to successfully perform a plan step.
+Multiple Plan Step Action can be added to a single plan step to define which action a salesperson needs to undertake in order to successfully perform a plan step.
 
 To Add a **Plan Step Action**, follow the steps given below:
 

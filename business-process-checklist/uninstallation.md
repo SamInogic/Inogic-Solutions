@@ -36,7 +36,7 @@ Like installing Business Process Checklist solution, uninstalling the solution f
 
 Once the dependencies are removed you can uninstall the solution from the **Dynamics 365 CRM** and **Power Apps** environment. **** To uninstall the solution, follow the simple steps given below:
 
-### Uninstall from Dynamics 365
+### Uninstall from Classic UI
 
 * After deleting the plans and entity configuration, click on the **Gear Icon** in the top right corner and go to **Advanced Settings**.
 
@@ -62,4 +62,4 @@ After deleting the plans and entity configuration,  navigate to [make.powerapps.
 
 * A pop-up will appear asking for your confirmation **→** Click on Delete and the solution will be uninstalled from your environment.
 
-<figure><img src="../.gitbook/assets/power apps _ 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete power apps.png" alt=""><figcaption></figcaption></figure>
