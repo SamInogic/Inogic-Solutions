@@ -7,6 +7,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 ### Business Process Flow - Process:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 
 <figure><img src="../../../../.gitbook/assets/BPF_5.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,9 +65,9 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF_11.png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **-->** **Manage Steps**.
-* Here, As per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.&#x20;
-* **For Example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below. &#x20;
+* Navigate to **Manage Steps**.
+* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.&#x20;
+* **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below. &#x20;
 * Now, select the required BPF stage, for example, select the Qualify stage.
 * Click on the **'Create Step'** Button.
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
@@ -104,9 +105,9 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF_9.png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **-->** **Manage Steps**.
-* Here, As per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. manager can now select the desired stages and create the actions inside the stages.&#x20;
-* For Example: Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
+* Navigate to **Manage Steps**.
+* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. manager can now select the desired stages and create the actions inside the stages.&#x20;
+* **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
 * Now select the required BPF stage for example select the **Qualify stage**.
 * Click on the **'Create Step'** Button.
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**

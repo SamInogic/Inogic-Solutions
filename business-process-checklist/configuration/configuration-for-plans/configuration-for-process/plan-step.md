@@ -4,7 +4,7 @@ A Plan (Process) consists of multiple plan steps.
 
 To create **Plan steps**, follow the steps given below:
 
-* Once the plan is created Navigate to **-->** **Manage Steps**.
+* Once the plan is created Navigate to **Manage Steps**.
 
 <figure><img src="../../../../.gitbook/assets/plan step_1 (2).png" alt=""><figcaption></figcaption></figure>
 

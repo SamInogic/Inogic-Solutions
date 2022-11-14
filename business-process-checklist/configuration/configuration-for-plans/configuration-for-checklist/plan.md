@@ -13,7 +13,7 @@ Below are the steps to configure the checklist - type plan:
 * This will open the **'New Plan'** page where you need to fill in the details
   * **Name:** Provide a unique name to the plan.
   * **Description:** Provide a short description of the plan.
-  * **Record Type:** Select the **Record Type** to which the plan will be attached
+  * **Record Type:** Select the Record Type to which the plan will be created.
   * **Plan Type:** Select Plan Type **** as **Checklist**.
   * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field.
   * **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.

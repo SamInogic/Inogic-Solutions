@@ -8,12 +8,12 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 <figure><img src="../../../../.gitbook/assets/Plan step actions_1.png" alt=""><figcaption></figcaption></figure>
 
-* This will open the **‘Quick Create Form: Plan Step Action’**. where we need to fill in the details**.**
+* This will open the **‘Quick Create Form: Plan Step Action’** where we need to fill in the details**.**
   * **Title:** Your plan step action title is the same as your plan step name but you can modify the Plan Step Action title as per your requirement.&#x20;
-  * **Description:** Provide a short description of the plan step action
+  * **Description:** Provide a short description of the plan step action.
   * **Action Display Name:** Choose a display name for the action from the dropdown.
   * **Action Logical Name:** Choose a logical name for the action from the dropdown.
-  * **Select the Email Template:** You will see this option only if email activity is supported.
+  * **Select the Email Template:** You will see this option only if email activity is selected.
     * **Auto Send Email:** By default, it is set as **No**.
     * **Email Template:** If you want to send an email select an appropriate Email Template from the drop-down. If the **Auto-Send Email** is selected as **Yes** the Email Template field is mandatory to fill.
   * **Set criteria for the execution of Plan Step Action:**
