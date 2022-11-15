@@ -7,7 +7,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 ### Business Process Flow - Process:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+* **Priority Order:** Set the execution order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 
 <figure><img src="../../../../.gitbook/assets/BPF_5.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ Simple criteria can be set on Views of the Record Type.
 
 Plans can be attached based on conditions.&#x20;
 
-For eg. If you want to attach a plan for upcoming leads with lead source as **Web** then you have to enter the Fetch XML for it. Below is the Fetch XML for the same.
+For eg. If you want to attach a plan for upcoming leads with lead source as **"Web"** then you have to enter the Fetch XML for it. Below is the Fetch XML for the same.
 
 <pre><code>&#x3C;fetch version="1.0" output-format="xml-platform" mapping="logical" no-lock="false" distinct="true">
 &#x3C;entity name="lead">
@@ -84,6 +84,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 ### Business Process Flow - Checklist:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Priority Order:** Set the execution order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field.
 
 <figure><img src="../../../../.gitbook/assets/BPF_5 (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +107,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 <figure><img src="../../../../.gitbook/assets/BPF_9.png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Manage Steps**.
-* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. manager can now select the desired stages and create the actions inside the stages.&#x20;
+* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. Manager can now select the desired stages and create the actions inside the stages.&#x20;
 * **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
 * Now select the required BPF stage for example select the **Qualify stage**.
 * Click on the **'Create Step'** Button.
