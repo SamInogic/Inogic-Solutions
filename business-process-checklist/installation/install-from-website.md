@@ -1,6 +1,6 @@
 # Install from Website
 
-Installing Business Process Checklist solution in your CRM or Dataverse environment is quite easy. Download it from the [Website](https://www.inogic.com/product/productivity-apps/business-process-dynamics-365-crm-to-do-checklist-sequence), installation can be done in the following two ways:
+Installing Business Process Checklist solution in your CRM or Dataverse environment is quite easy. Download it from the [Website](https://www.inogic.com/product/productivity-apps/business-process-dynamics-365-crm-to-do-checklist-sequence), installation can be done in following two ways:
 
 ### Using Power Apps UI&#x20;
 
@@ -66,6 +66,6 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 <figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
-* The solution is successfully imported
+* Solution is successfully imported
 
 <figure><img src="../../.gitbook/assets/7 (9).png" alt=""><figcaption></figcaption></figure>

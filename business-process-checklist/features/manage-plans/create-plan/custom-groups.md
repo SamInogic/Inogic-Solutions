@@ -5,7 +5,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 ### **Custom Groups - Process:**
 
 * **Fill the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+* **Priority Order:** Set the execution order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Custom process_6.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,10 +31,10 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 
 
-* This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details**.**
+* This will open the **‘Quick Create Form: Add Groups’,** where we need to fill the details**.**
   * **Name:** Provide an appropriate name to the plan.
   * **Description:** Provide a short description of the plan.
-  * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+  * **Priority Order:** Set the execution order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 
 
 
@@ -46,7 +46,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 ****
 
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in  the details**.**
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
   * **Name:** Provide an appropriate name to the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
   * **Add a waiting period for this step:**
@@ -71,7 +71,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 ### **Custom Plan - Checklist:**
 
-* **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Fill the following details:** Name, Description, Plan Type, Priority Order, Record Type.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan_5.png" alt=""><figcaption></figcaption></figure>
 
@@ -97,7 +97,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 
 
-*   This will open the **‘Quick Create Form: Add Groups’,** where we need to fill in the details
+*   This will open the **‘Quick Create Form: Add Groups’,** where we need to fill the details
 
     * **Name:** Provide an appropriate name to the plan.
     * **Description:** Provide a short description of the plan.
@@ -112,7 +112,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 
 
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
   * **Name:** Provide an appropriate name to the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
 

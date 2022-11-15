@@ -32,7 +32,7 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 <figure><img src="../../../../.gitbook/assets/Plan step actions_4.png" alt=""><figcaption></figcaption></figure>
 
-* Similarly, we can add more Plan Step Action, by clicking on the **'Add an action** button as shown below.&#x20;
+* Similarly, we can add more Plan Step Action, by clicking on the **'Add an action'** as shown below.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Plan step actions_4 (2).png" alt=""><figcaption></figcaption></figure>
 

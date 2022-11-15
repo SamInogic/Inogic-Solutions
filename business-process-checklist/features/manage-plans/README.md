@@ -1,4 +1,4 @@
-# Manage Plan
+# Manage Plans
 
 You can manage plans in the following ways:
 
