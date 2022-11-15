@@ -7,7 +7,7 @@ For example, if a user wants to create a plan against the **Lead to Opportunity 
 ### Business Process Flow - Process:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+* **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 
 <figure><img src="../../../../.gitbook/assets/BPF_5.png" alt=""><figcaption></figcaption></figure>
 

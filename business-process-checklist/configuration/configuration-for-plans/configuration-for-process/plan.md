@@ -14,16 +14,16 @@ Below are the steps to configure the process type plan:
   * **Name:** Provide the unique name for the plan.
   * **Description:** Provide a short description of the plan.
   * **Plan Type:** Select Plan Type **** as **Process**.
-  * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) Any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+  * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 * **Record Type:**  Select the **Record Type** to which the plan will be created.
-* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria match). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
   * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 * **Business Process:** Create a plan for a Business Process Flow.
 * **Custom Groups:** Create a plan for a Custom Group.
 
 {% hint style="info" %}
-Note: If both business process or custom groups are not selected then the plan will be created for the record by default.
+Note: If both business process or custom groups are not selected, then the plan will be created for the record by default.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/Plan_3 (4).png" alt=""><figcaption></figcaption></figure>

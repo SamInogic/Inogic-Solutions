@@ -1,6 +1,6 @@
 # Uninstallation
 
-Like installing Business Process Checklist solution, uninstalling the solution from your CRM and Power Apps environment is quite simple. But first, you will have to remove the dependencies. Just follow the steps given below for the same:
+Like installing the Business Process Checklist solution, uninstalling the solution from your CRM and Power Apps environment is quite simple. But first, you will have to remove the dependencies. Just follow the steps given below for the same:
 
 * Navigate to **Business Process Checklist App** --> **BPC Settings.**
 
