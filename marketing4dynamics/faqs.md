@@ -2,7 +2,7 @@
 
 ## 1) What to do when all the syncs (Marketing Lists/Campaigns) are stuck in 'In Progress' status and there are no error logs created?
 
-There are Power Automate Flows that takes care of the whole syncing process. In case of above situation, please check if all the flows are turned on for the environment by following the steps given below:
+There are Power Automate Flows that take care of the whole syncing process. In case of above situation, please check if all the flows are turned on for the environment by following the steps given below:
 
 * Sign in to **flow.microsoft.com**
 * Click on **Solutions** --> Open **Marketing4Dynamics Mailchimp Integration** solution.
@@ -76,3 +76,4 @@ However, after the initial sync, in which the entire audience or a specific segm
 ## 5) I see {error message from below pop-up} when trying to install Marketing4Dynamics.
 
 <figure><img src="../.gitbook/assets/image002.png" alt=""><figcaption></figcaption></figure>
+
