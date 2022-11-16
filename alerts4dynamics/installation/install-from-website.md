@@ -67,3 +67,7 @@ Follow the steps to import and install **Alerts4Dynamics** solution.
 ![](<../../.gitbook/assets/e (2).png>)
 
 <figure><img src="../../.gitbook/assets/classic ui install.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

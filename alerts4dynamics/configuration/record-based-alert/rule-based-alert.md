@@ -60,3 +60,7 @@ Here are the steps to create Advanced Alerts:&#x20;
 * After creating the **Alert**, you can add a message to it. To know how to **Add New Message** go to the [**Message** ](https://docs.inogic.com/alerts4dynamics/configuration/messages)section.
 
 ![](<../../../.gitbook/assets/Rule Ad\_2.png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

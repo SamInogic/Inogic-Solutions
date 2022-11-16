@@ -19,3 +19,7 @@ Here are the steps to create Record-Based Alerts:
 * Add the **Name** of the alert --> Click on **Save.** Once the **Alert** is created, next step would be to create **Message** against it. To know how to Add New Message go to [**Message**](https://docs.inogic.com/alerts4dynamics/configuration/messages) section.
 
 <figure><img src="../../../.gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

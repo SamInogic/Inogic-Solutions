@@ -134,6 +134,7 @@
       * [Auto-Attach the Plan to Record](business-process-checklist/features/user-plans/auto-attach-the-plan-to-record.md)
       * [View Record Details](business-process-checklist/features/user-plans/view-record-details.md)
       * [View Plan Details](business-process-checklist/features/user-plans/view-plan-details.md)
+      * [View Plan Items on Record](business-process-checklist/features/user-plans/view-plan-items-on-record.md)
   * [Uninstallation](business-process-checklist/uninstallation.md)
   * [FAQs](business-process-checklist/faqs.md)
   * [Video Library](business-process-checklist/video-library.md)
