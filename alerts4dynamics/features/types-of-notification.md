@@ -62,3 +62,7 @@ Just go to **Alerts4Dynamics App --> Alerts --> Select Alert --> Select Message 
 {% endhint %}
 
 &#x20;
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

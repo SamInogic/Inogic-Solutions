@@ -34,5 +34,9 @@ It is quite easy to update the maximum number of work items allowed to be assign
 
 ![](../../.gitbook/assets/Max\_2.jpg)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

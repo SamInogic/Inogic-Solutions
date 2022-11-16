@@ -6,6 +6,10 @@
 
 {% embed url="https://youtu.be/Th1CnQBygn0" %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 | Availability                    | Deployment              |
 | ------------------------------- | ----------------------- |
 | Dynamics 365 CRM v9.x and above |  On-Premises and Online |

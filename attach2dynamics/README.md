@@ -6,6 +6,10 @@
 
 {% embed url="https://youtu.be/VS0RNF_f6xA" %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
 | Availability               | Deployment                      |

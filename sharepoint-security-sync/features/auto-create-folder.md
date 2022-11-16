@@ -37,3 +37,7 @@ Follow the steps given below to create a workflow.
 ![](<../../.gitbook/assets/Auto Create Folder Workflow\_7.1.png>)
 
 Once the workflow is activated, based on the triggering event the record would be created in SharePoint. By Auto Create folder feature user will be able to create folder in the SharePoint without hitting the **Attach2Dynamics button** or **Documents tab**.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
