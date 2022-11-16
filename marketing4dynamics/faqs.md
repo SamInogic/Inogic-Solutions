@@ -70,4 +70,9 @@ According to the value in the 'Targeted At' field of the Marketing List, Marketi
 
 Furthermore, we also associate those members with the selected marketing list. Since a dynamic marketing list runs on a query dynamically, there is no way to associate contacts/leads with a dynamic marketing list. Because of this, we can't sync the members of a dynamic marketing list while syncing Mailchimp to CRM.
 
-However, after the initial sync, in which the entire audience or a specific segment is transferred to the CRM, syncing from CRM to Mailchimp using a dynamic marketing list is very much possible.\
+However, after the initial sync, in which the entire audience or a specific segment is transferred to the CRM, syncing from the CRM to Mailchimp using a dynamic marketing list is very much possible.\
+
+
+## 5) I see {error message from below pop-up} when trying to install Marketing4Dynamics.
+
+<figure><img src="../.gitbook/assets/image002.png" alt=""><figcaption></figcaption></figure>
