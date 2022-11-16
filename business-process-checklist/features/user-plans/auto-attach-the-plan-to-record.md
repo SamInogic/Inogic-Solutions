@@ -18,8 +18,8 @@ Plans defined by the manager will automatically get attached to the records as p
 
 * Check to complete Plan Step Actions.
 * Once you check the Plan Step Action check box the values of the progress bar and step count will increase.&#x20;
-* To skip Plan Step Action click on the skip button shown below.
-* You can mark Plan steps as favorites by clicking on the icon shown below. this will make marked plan steps appear in the Important Items View.
+* To skip Plan Step Action, click on the skip button shown below.
+* You can mark Plan steps as favorites by clicking on the icon shown below. This will make marked plan steps appear in the Important Items View.
 
 {% hint style="info" %}
 Note: To remove favorite plan steps from the Important Items view, unmark them.
