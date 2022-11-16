@@ -2,7 +2,7 @@
 
 Plans can be revised to suit the circumstances of the business process. In Business Process Checklist, you can easily modify existing Plans, Plan Steps, and Plan Step Actions as and when required.&#x20;
 
-To revise existing published Plans for both process and checklist - type plans, follow the steps given below:
+To revise existing published plans for both process and checklist - type plans, follow the steps given below:
 
 ## Revise Plan - Process:
 

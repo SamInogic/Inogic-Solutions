@@ -41,7 +41,7 @@ Similarly, you can also restore deleted records of activity entities like Email 
 ![](<../../.gitbook/assets/Restore activity\_3.png>)
 
 {% hint style="success" %}
-To know more about Undo2Restore reach out at [crm@inogic.com](mailto:crm@inogic.com)
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
 {% endhint %}
 
 &#x20;
