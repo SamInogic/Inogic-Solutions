@@ -24,3 +24,7 @@ Similarly, Notification Message record can be **Updated** in two ways:
 For example, for Multi-Language message, consider there are total three users in the organization out of which one user have **German** language enabled as his CRM’s User Interface Language. Alerts4Dynamics gives a provision through which alert message can be added in user’s preferred language (German in this example) to be shown to the respective user. In addition, the users that do not have a **‘German’** language enabled as their CRM's User Interface language will not be able to see the German message.
 
 ![](../../.gitbook/assets/MultiLanguageDropDown.png)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

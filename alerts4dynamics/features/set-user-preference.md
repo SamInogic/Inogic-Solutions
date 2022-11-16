@@ -145,3 +145,7 @@ Admin configures an alert as both **‘User Preference’** and **‘From Notifi
 ![](<../../.gitbook/assets/Set Pref2\_10.png>)
 
 **Reason:** User is required to create a workflow for alert as **‘Email Notification’** where they will decide which of the users to be picked as an audience of this email notification. In addition to this, no separate notification is created for an alert as **‘Email Notification’**, it would be sent directly as email.
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -19,3 +19,7 @@ To uninstall **Alerts4Dynamics** solution from your CRM environment, follow the 
 ![](../.gitbook/assets/bb.png)
 
 ![](../.gitbook/assets/h.png)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

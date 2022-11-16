@@ -112,3 +112,7 @@ Similarly, we want the Notification and Email Audiences related to the account l
 
 <figure><img src="../../.gitbook/assets/advance message 2.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

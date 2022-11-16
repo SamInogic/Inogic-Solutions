@@ -32,3 +32,7 @@ Given below are the steps to configure workflow to auto-dismiss alerts:
 
 <figure><img src="../../../.gitbook/assets/8 (4).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

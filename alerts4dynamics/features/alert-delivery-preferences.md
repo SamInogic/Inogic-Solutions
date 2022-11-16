@@ -45,3 +45,7 @@ If the user sets alert as ‘Email Notification’ then the alerts will be notif
 ![](<../../.gitbook/assets/Email\_1 (1).png>)
 
 ![](<../../.gitbook/assets/Email\_2 (3).png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -5,3 +5,7 @@
 ![](../../.gitbook/assets/Announcement\_1.png)
 
 For more information, please [click here.](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/announcement)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

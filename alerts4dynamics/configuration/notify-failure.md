@@ -15,3 +15,8 @@ By default the field is set as ‘No’, which means no notification mails about
 When **‘Yes’** option is selected, user can see two fields **‘To’** and **‘From’** which defines to whom the error logs will be send and from whom they will receive the error logs. Here, the error logs contain all the failures in Alerts4Dynamics process and its details in a table format. The error logs will be sent daily at **12:00 am** to users mentioned in **‘To’** field.
 
 <figure><img src="../../.gitbook/assets/yes.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

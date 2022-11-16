@@ -91,5 +91,9 @@ Once the solution is imported, please follow the below steps to activate all the
 
 ![](../.gitbook/assets/A4D\_7.png)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
