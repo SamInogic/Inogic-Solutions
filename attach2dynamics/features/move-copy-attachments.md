@@ -31,3 +31,7 @@ In order to achieve this it is necessary to configure entities. For detailed ste
 
 ![](<../../.gitbook/assets/Sales Lit.png>)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

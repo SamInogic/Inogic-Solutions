@@ -32,7 +32,3 @@ Given below are the steps to enable Entity Configuration in Alerts4Dynamics:
 
 ![](../../.gitbook/assets/EntConf\_6.png)
 
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-

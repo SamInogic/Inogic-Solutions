@@ -80,3 +80,7 @@ In App authentication, if any action is performed then the name of logged-in use
 * Now if another person is to upload a file then that person's name will be displayed on the site due to authenticating connector through app.&#x20;
 
 ![](<../../../.gitbook/assets/Connector Confg\_SharePoint 3.png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

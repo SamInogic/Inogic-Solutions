@@ -43,3 +43,8 @@ To remove the GUID you first need to change the organization settings of CRM. To
 **Note: SharePoint Folders created after applying the above settings will be created without GUID, the history folders in SharePoint which are created before the above settings will remain with GUID.**
 {% endhint %}
 
+
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

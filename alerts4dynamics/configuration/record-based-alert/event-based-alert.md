@@ -56,8 +56,3 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 To know more about Event-Based Alert, please [click here.](https://docs.inogic.com/alerts4dynamics/features/event-based-alert)
 
-
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

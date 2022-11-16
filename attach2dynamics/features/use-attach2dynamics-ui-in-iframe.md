@@ -4,4 +4,7 @@ Users can perform all the Attach2Dynamics actions such as Drag & Drop, Upload/Do
 
 ![](<../../.gitbook/assets/Features\_Use A2D UI in iframe.png>)
 
-For more information, please click [here](https://docs.inogic.com/attach2dynamics/configuration/iframe-configuration).
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

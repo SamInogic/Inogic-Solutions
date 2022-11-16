@@ -26,3 +26,7 @@ Attachments/Documents of Dynamics 365 CRM records can be stored in SharePoint si
 * Next go to SharePoint site. Here, the respective file will be stored in the following manner: **Account > Account Name\_guid > Opportunity > Opportunity Name\_guid.**
 
 ![](<../../.gitbook/assets/How to Guide\_Confg Hierarchy Structure 6.png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

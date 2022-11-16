@@ -9,3 +9,7 @@ Users can delete files from all the three cloud storage. The details of these de
 <figure><img src="../../.gitbook/assets/delete file- slide 19 (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/Delete\_2 (2).png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

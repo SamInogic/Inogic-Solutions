@@ -56,3 +56,7 @@ This tab comprises the details of processed records.
 {% hint style="info" %}
 **Note: At a time only three jobs can be executed, one for Note, one for Email and one for Sales Literature Attachment. After completion other jobs can be created.**
 {% endhint %}
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

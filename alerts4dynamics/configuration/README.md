@@ -7,7 +7,3 @@ Alerts4Dynamics solution has the following configurations:
 * [Messages](https://docs.inogic.com/alerts4dynamics/configuration/notify-failure)
 * [Notify Failure](https://docs.inogic.com/alerts4dynamics/configuration/messages)
 * [Auto-dismiss Alert Notifications](https://docs.inogic.com/alerts4dynamics/configuration/automation)
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

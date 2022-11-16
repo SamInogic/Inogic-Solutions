@@ -8,7 +8,3 @@ This provision allows user to decide if they want an alert to auto dismiss once 
 {% hint style="info" %}
 **Note: Auto dismiss feature is not applicable for announcement alerts as they do not put on any specific condition/rule unlike Rule-based alerts. This feature also supports Record-based alerts only if the alert is configured as advanced message type.**
 {% endhint %}
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

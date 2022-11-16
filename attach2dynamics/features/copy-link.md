@@ -10,4 +10,8 @@ If only View is selected then the document is available in read only mode wherea
 
 However, if you get an error while creating an anonymous link, then follow the instructions given [here](https://docs.inogic.com/attach2dynamics/prerequisites/untitled).
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ####

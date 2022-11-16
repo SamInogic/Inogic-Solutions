@@ -10,8 +10,3 @@ Alerts4Dynamics has the following features:
 * [Alert in Multiple Languages](https://docs.inogic.com/alerts4dynamics/features/alert-in-multiple-languages)
 * [Set User Preference](https://docs.inogic.com/alerts4dynamics/features/set-user-preference)
 * [Alert Delivery Preferences](https://docs.inogic.com/alerts4dynamics/features/alert-delivery-preferences)
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-

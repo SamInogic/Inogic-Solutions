@@ -11,3 +11,7 @@ Upload files from home page directly for the selected records.
 {% endhint %}
 
 ****
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

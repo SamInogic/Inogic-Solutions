@@ -69,3 +69,7 @@ Firefox can be set to not accept cookies. To turn on cookies, follow the steps g
 
 
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

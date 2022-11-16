@@ -60,4 +60,8 @@ Follow the steps to import and install **Attach2Dynamics** solution.
 
 ![](<../../.gitbook/assets/5 (13).png>)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ###

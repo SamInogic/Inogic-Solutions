@@ -45,3 +45,7 @@ It is possible to add Attach2Dynamics tab embedded in Entity record page directl
 * Now navigate to **Entity** (for which you have configured the Form) and open a record--> Scroll down and you can see your desired tab embedded in the page.
 
 ![](../../.gitbook/assets/Configuration\_Iframe\_Last.png)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

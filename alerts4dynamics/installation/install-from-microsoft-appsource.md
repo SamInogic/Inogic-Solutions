@@ -29,7 +29,3 @@ To install **Alerts4Dynamics** solution from the **Microsoft AppSource**, visit 
 * After the installation is done, you will be able to see **Alerts4Dynamics** solution in **My apps**.
 
 <figure><img src="../../.gitbook/assets/app is installed.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

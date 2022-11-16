@@ -7,3 +7,7 @@ Users can drag and drop multiple files and folders at one time to SharePoint, Az
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Drag and Drop- slide 12 (2).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

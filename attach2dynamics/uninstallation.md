@@ -15,3 +15,7 @@ To uninstall Attach2Dynamics from your Dynamics environment, follow the below st
 {% hint style="info" %}
 **Note: If iframe is embedded to a form of any entity, it must be removed from the form before deleting the Attach2Dynamics solution.**
 {% endhint %}
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

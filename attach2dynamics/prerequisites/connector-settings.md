@@ -61,3 +61,7 @@ If you are using Dropbox connector, you need to **create app on Dropbox**. To kn
 If you are using Azure Blob Storage connector, then you need to create a **storage account**. To know more, click [here](https://docs.inogic.com/attach2dynamics/configuration/connector-configuration/azure-blob-storage).
 
 ![](../../.gitbook/assets/Azure\_1.png)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

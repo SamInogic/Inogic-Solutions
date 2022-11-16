@@ -14,3 +14,8 @@ Security Templates Entity enables to control access given to the users over vari
 * **If multiple Security Templates are created for a single user then that user gets the cumulative permissions from the Security Templates.**
 {% endhint %}
 
+
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

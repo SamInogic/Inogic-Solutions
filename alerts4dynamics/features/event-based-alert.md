@@ -114,9 +114,5 @@ There is an invoice with a related account which has further multiple associated
 
 ![](<../../.gitbook/assets/Event 2\_25.png>)
 
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 
 

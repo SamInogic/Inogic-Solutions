@@ -118,7 +118,3 @@ Let’s further configure the condition.
 
 ![](../../../.gitbook/assets/Event\_33.png)
 
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-

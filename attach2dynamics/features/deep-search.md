@@ -5,3 +5,7 @@ Users can deep search for files/folders related to the entered keyword in the se
 Azure Blob Storage does not support deep search but user can search within the current folder. For Azure Blob Storage '**Search'** word is **case sensitive.**
 
 <figure><img src="../../.gitbook/assets/Deep search- slide 18.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -66,3 +66,7 @@ Navigate to **Attach2Dynamics app --> Connectors--> Click on New --> Fill the fo
 ![](../../../.gitbook/assets/DB\_Authen.png)
 
 This button is visible only to users with **System Administration** or **Attach2Dynamics Administrator** role.
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

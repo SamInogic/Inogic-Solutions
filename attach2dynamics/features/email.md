@@ -45,3 +45,7 @@ To directly send an email with multiple attachments, please follow the steps giv
 
 ![](../../.gitbook/assets/Image5.png)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

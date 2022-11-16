@@ -4,3 +4,7 @@ Users have the option to rename the documents by selecting the required files an
 
 ![](../../.gitbook/assets/Features\_Rename.png)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

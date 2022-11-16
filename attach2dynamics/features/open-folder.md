@@ -11,3 +11,7 @@ After the clicking on the **Open Record** icon a new tab will be opened which wi
 {% hint style="info" %}
 **Note: This feature is available only for SharePoint.**
 {% endhint %}
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

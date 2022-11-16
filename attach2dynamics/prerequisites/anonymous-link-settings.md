@@ -41,3 +41,7 @@ While creating an anonymous link of file on Attach2Dynamics UI in Dynamics 365 C
 Anonymous shareable link is created!!
 
 By enabling rights for a particular site you can enable creating anonymous shareable link for that site.
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

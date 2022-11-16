@@ -7,3 +7,7 @@ Users can get access to all documents of required storage system and download th
 {% endhint %}
 
 ![](../../.gitbook/assets/Features\_Download.png)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

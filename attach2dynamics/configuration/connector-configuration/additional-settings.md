@@ -7,3 +7,8 @@ The **Additional Settings** tab has the following fields:
 
 Click on **save** and the **‘New Connector’** is created with a form notification as “Click on Authenticate button to authenticate the connector”.
 
+
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -37,7 +37,3 @@ In the same way, you can create Advanced Alerts for other records also.
 ![](<../../.gitbook/assets/Rule based\_1.png>)
 
 To know how to create Rule-Based Advanced Alerts, please [click here.](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/rule-based-alert#2-advanced-alerts)
-
-{% hint style="success" %}
-For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

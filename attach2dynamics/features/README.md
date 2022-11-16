@@ -20,3 +20,8 @@ Attach2Dynamics has the following list of features:
 * [Bulk Migration Job](https://docs.inogic.com/attach2dynamics/features/bulk-migration-job)
 * [Use Attach2Dynamics UI in IFRAME](https://docs.inogic.com/attach2dynamics/features/use-attach2dynamics-ui-in-iframe)
 * [Bulk Migration Tool](https://docs.inogic.com/attach2dynamics/features/bulk-migration-tool)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

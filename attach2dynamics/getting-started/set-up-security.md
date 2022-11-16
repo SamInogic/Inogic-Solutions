@@ -35,3 +35,7 @@ Follow the steps below to assign security roles to users.
 ![Admin Role](<../../.gitbook/assets/Set Security\_1.png>)
 
 ![User Role](<../../.gitbook/assets/d (1).png>)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
