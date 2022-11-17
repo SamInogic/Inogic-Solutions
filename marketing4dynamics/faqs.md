@@ -77,3 +77,17 @@ However, after the initial sync, in which the entire audience or a specific segm
 
 <figure><img src="../.gitbook/assets/image002.png" alt=""><figcaption></figcaption></figure>
 
+**To install Marketing4Dynamics, follow the steps given below:**
+
+* Extract the zip file you’ve downloaded and right-click on __ the _Inogic.Marketing4Dynamics. PackageDeployer.dll_ file inside the _Marketing4Dynamics\_PackageDeployer_ folder.
+* Click on **"Properties."**
+
+<figure><img src="../.gitbook/assets/faq (1).jpg" alt=""><figcaption></figcaption></figure>
+
+* Click on the checkmark beside **"Unblock."** Click on **"Apply"** and then **"OK."**
+
+<figure><img src="../.gitbook/assets/faq 1.jpg" alt=""><figcaption></figcaption></figure>
+
+* Click on **PackageDeployer.exe** again and follow the next steps from the **ReadMe.md file.**
+
+&#x20;
