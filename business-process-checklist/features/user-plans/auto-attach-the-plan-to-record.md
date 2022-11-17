@@ -16,14 +16,17 @@ Plans defined by the manager will automatically get attached to the records as p
 
 <figure><img src="../../../.gitbook/assets/Connect record final ss.png" alt=""><figcaption></figcaption></figure>
 
-* Check to complete Plan Step Actions.
-* Once you check the Plan Step Action check box the values of the progress bar and step count will increase.&#x20;
-* To skip Plan Step Action, click on the skip button shown below.
+**Miscellaneous Features:**&#x20;
+
+* Click to mark check on the Plan Step Action Check box to complete actions.
+* Once you do the check mark on the Plan Step Action check box the values in the progress bar and step count will increase.
+* **Progress:** Color and percentage values in the progress bar will increase.&#x20;
+* **Step Count:** In the step count, the number of completed step counts will also increase.
+* Users can skip Plan Step Actions as per their requirements for completing a certain process, by clicking on the skip button shown below.
 * You can mark Plan steps as favorites by clicking on the icon shown below. This will make marked plan steps appear in the Important Items View.
 
 {% hint style="info" %}
 Note: To remove favorite plan steps from the Important Items view, unmark them.
 {% endhint %}
 
-* We can reset the Plan step due date by clicking on the icon shown below.
-
+* We can reset the Plan step due date by clicking on the icon shown below to attach plans against records according to the desired date.
