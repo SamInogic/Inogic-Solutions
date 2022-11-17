@@ -1,6 +1,6 @@
 # FAQs
 
-## 1) What to do when all the syncs (Marketing Lists/Campaigns) are stuck in 'In Progress' status and there are no error logs created?
+1\) What to do when all the syncs (Marketing Lists/Campaigns) are stuck in 'In Progress' status and there are no error logs created?
 
 There are Power Automate Flows that take care of the whole syncing process. In case of above situation, please check if all the flows are turned on for the environment by following the steps given below:
 
@@ -73,13 +73,13 @@ Furthermore, we also associate those members with the selected marketing list. S
 However, after the initial sync, in which the entire audience or a specific segment is transferred to the CRM, syncing from the CRM to Mailchimp using a dynamic marketing list is very much possible.\
 
 
-## 5) I see {error message from below pop-up} when trying to install Marketing4Dynamics.
+## 5) What to do if the "error message from below pops up" when trying to install Marketing4Dynamics?
 
 <figure><img src="../.gitbook/assets/image002.png" alt=""><figcaption></figcaption></figure>
 
-**To install Marketing4Dynamics, follow the steps given below:**
+**To resolve the issue, follow the steps given below to install Marketing4Dynamics:**
 
-* Extract the zip file you’ve downloaded and right-click on __ the _Inogic.Marketing4Dynamics. PackageDeployer.dll_ file inside the _Marketing4Dynamics\_PackageDeployer_ folder.
+* Extract the zip file you’ve downloaded and right-click on _Inogic.Marketing4Dynamics. PackageDeployer.dll_ file inside the _Marketing4Dynamics\_PackageDeployer_ folder.
 * Click on **"Properties."**
 
 <figure><img src="../.gitbook/assets/faq (1).jpg" alt=""><figcaption></figcaption></figure>
