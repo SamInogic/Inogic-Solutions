@@ -58,7 +58,7 @@ After deleting the plans and entity configuration,  navigate to [make.powerapps.
 
 * In Solutions, select the Business Process Checklist Solution **→** Click on **Delete.**
 
-<figure><img src="../.gitbook/assets/power apps _ 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/power apps _ 1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * A pop-up will appear asking for your confirmation **→** Click on Delete and the solution will be uninstalled from your environment.
 

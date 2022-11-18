@@ -16,7 +16,7 @@ To create **Plan Steps**, follow the steps given below:
 * **Name:** Provide an appropriate name to the Plan Step.
 * **Description:** Provide a short description of the Plan Step.
 
-<figure><img src="../../../../.gitbook/assets/Plan step_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**
 

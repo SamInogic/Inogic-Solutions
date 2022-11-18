@@ -123,7 +123,7 @@
         * [Plan](business-process-checklist/configuration/configuration-for-plans/configuration-for-checklist/plan.md)
         * [Plan Step](business-process-checklist/configuration/configuration-for-plans/configuration-for-checklist/plan-step.md)
   * [Features](business-process-checklist/features/README.md)
-    * [Manage Plan](business-process-checklist/features/manage-plans/README.md)
+    * [Manage Plans](business-process-checklist/features/manage-plans/README.md)
       * [Create Plan](business-process-checklist/features/manage-plans/create-plan/README.md)
         * [Business Process Flow](business-process-checklist/features/manage-plans/create-plan/business-process-flow.md)
         * [Custom Groups](business-process-checklist/features/manage-plans/create-plan/custom-groups.md)

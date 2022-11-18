@@ -19,8 +19,8 @@ Plans defined by the manager will automatically get attached to the records as p
 **Miscellaneous Features:**&#x20;
 
 * The action can be completed by clicking on the checkbox.
-* The user can check the progress and number of completed steps count.
 * Users can be able to skip the plan step instead of performing it.
+* The user can check the progress and number of completed steps count.
 * Users can mark plan steps as favorites by clicking on the icon shown below. Once marked as favorites, users can see them in the Important Items View.
 
 {% hint style="info" %}
