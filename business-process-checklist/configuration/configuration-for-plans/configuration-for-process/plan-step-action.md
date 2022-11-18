@@ -6,7 +6,7 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 * Click on **ellipsis --> '+ Create Action'** to Add an action.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_1 new (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step Action’** where we need to fill in the details**.**
   * **Title:** Your plan step action title is the same as your plan step name but you can modify the Plan Step Action title as per your requirement.&#x20;
@@ -22,19 +22,19 @@ To Add a **Plan Step Action**, follow the steps given below:
       * **Simple:** Here you can select any ‘View’ from the dropdown.
       * **Advanced:** Here, you can further define and set criteria for records through fetch XML.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_2 New.png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_3 new.png" alt=""><figcaption></figcaption></figure>
 
 * Your Plan Step Action will be added to the plan step and will appear here.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_4 new.png" alt=""><figcaption></figcaption></figure>
 
 * Similarly, we can add more Plan Step Action, by clicking on the **'Add an action'** as shown below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step actions_5.png" alt=""><figcaption></figcaption></figure>
 
 * **Click** on **Publish** to publish the plan.
 
@@ -42,4 +42,4 @@ To Add a **Plan Step Action**, follow the steps given below:
 Note: At least one plan step and plan step action should be added to publish a plan.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/publish process.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/publish process (1).png" alt=""><figcaption></figcaption></figure>
