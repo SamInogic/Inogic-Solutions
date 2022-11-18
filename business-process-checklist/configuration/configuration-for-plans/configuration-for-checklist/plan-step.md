@@ -32,4 +32,4 @@ To create **Plan Steps**, follow the steps given below:
 Note: At least one plan step should be added to publish a plan.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Publish checklist.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Publish checklist (4).png" alt=""><figcaption></figcaption></figure>

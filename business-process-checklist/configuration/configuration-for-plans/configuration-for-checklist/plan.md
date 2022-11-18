@@ -34,4 +34,4 @@ Note: If both business process or custom groups are not selected, then the plan 
 
 * The new plan will be created and can be seen on **Plans**.
 
-<figure><img src="../../../../.gitbook/assets/plan_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Publish checklist.png" alt=""><figcaption></figcaption></figure>
