@@ -10,7 +10,7 @@ To revise existing published plans for both process and checklist - type plans, 
 
 * To revise existing published plans navigate to **Plans --> Open existing published plan**.
 
-<figure><img src="../../../.gitbook/assets/revise plan_1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Revise'** Button, this will change the plan status to **Draft**.
 
@@ -18,11 +18,11 @@ To revise existing published plans for both process and checklist - type plans, 
 Note: Locked Fields can't be edited.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/revise plan_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan_2.png" alt=""><figcaption></figcaption></figure>
 
 * Make the required changes to the plan **-->** Click on the **‘Publish’** button.
 
-<figure><img src="../../../.gitbook/assets/revise plan_3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/revise plan_3.png" alt=""><figcaption></figcaption></figure>
 
 ### 2) Plan steps
 
@@ -51,26 +51,22 @@ Note: Locked Fields can't be edited.
 
 * To revise existing published plans navigate to **Plans --> Open existing published plan**.
 
-<figure><img src="../../../.gitbook/assets/revise plan  (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan 1.png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Revise'** Button, this will change the plan status to **Draft**.
 
-<figure><img src="../../../.gitbook/assets/revise plan_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan 2.png" alt=""><figcaption></figcaption></figure>
 
-* Make the required changes to the plan **-->** Click on the **‘Save’** button.
+* Make the required changes to the plan **-->** Click on the **‘Publish’** button.
 
-<figure><img src="../../../.gitbook/assets/revise plan _2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan 3.png" alt=""><figcaption></figcaption></figure>
 
 ### 2) Plan Step
 
-* To Edit Plan Step navigate to **--> Manage Steps --> Select** the **Existing Plan Step** you want to edit **-->** Click on the **'Edit' Button**.
+* To Edit Plan Step navigate to **--> Manage Steps -->** Click on **Revise--> Select** the **Existing Plan Step** you want to edit **-->** Click on the **'Edit' Button**.
 
-<figure><img src="../../../.gitbook/assets/Edit Plan Step_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan step 1.png" alt=""><figcaption></figcaption></figure>
 
-* Make the required changes to the plan step **-->** Click on **‘Save’**.
+* Make the required changes to the plan step **-->** Click on **‘Publish’**.
 
-<figure><img src="../../../.gitbook/assets/revise plan step (2).png" alt=""><figcaption></figcaption></figure>
-
-* Click on **'Publish'.**
-
-<figure><img src="../../../.gitbook/assets/Publish checklist (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Publish plan step changes.png" alt=""><figcaption></figcaption></figure>
