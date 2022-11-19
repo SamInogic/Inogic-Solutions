@@ -68,19 +68,19 @@ With this feature, you can create both **Process** and **Checklist -** type plan
   * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 * Select **'Custom Groups'.**
 
-<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **Manage Steps**.
+* Navigate to **Manage Plans**.
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_1 new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/navigate to manage plans.png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'New Plan'** button.
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_2 new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/new plan.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan’,** where we need to fill the details
   * **Name:** Provide an appropriate name to the plan.
@@ -88,8 +88,10 @@ With this feature, you can create both **Process** and **Checklist -** type plan
   * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 * Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/child plan quick create form.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/child plan quick create form (1).png" alt=""><figcaption></figcaption></figure>
 
+* Child plan will be added here.
+* Now click on the Child plan.
 * Click on the **'Create Step'** button.
 
 
