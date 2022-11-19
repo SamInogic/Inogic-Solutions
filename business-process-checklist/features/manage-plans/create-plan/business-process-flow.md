@@ -63,9 +63,6 @@ In the same way, you can set Advanced criteria for other plan records as well.
 <figure><img src="../../../../.gitbook/assets/BPF new 8 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Manage Steps**.
-
-<figure><img src="../../../../.gitbook/assets/BPF steps 1 (1) (2).png" alt=""><figcaption></figcaption></figure>
-
 * Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.&#x20;
 * **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below. &#x20;
 * Now, select the required BPF stage, for example, select the **Qualify** stage.
@@ -90,7 +87,10 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF step 4 (1).png" alt=""><figcaption></figcaption></figure>
 
-* And now you can add the actions inside the selected stage.&#x20;
+* And now you can add the actions inside the selected stage.
+
+<figure><img src="../../../../.gitbook/assets/BPF_ 14.png" alt=""><figcaption></figcaption></figure>
+
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
 ### Business Process Flow - Checklist:
@@ -118,15 +118,29 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/MANAGE STEPS.png" alt=""><figcaption></figcaption></figure>
 
-* Now select the required BPF stage for example select the **Qualify stage**.
+* Now select the required BPF stage, for example select the **Qualify stage**.
 
 <figure><img src="../../../../.gitbook/assets/MANAGE STEPS 2.png" alt=""><figcaption></figcaption></figure>
 
-* Click on the **'Create Plan Step'** Button.
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+* Fill in the **Qualify** **Child Plan Details.**
+  * **Name:** Provide an appropriate name for the Plan.
+  * **Description:** Provide a short description of the Plan.
+* Once the required fields are filled, click on **‘Save’**.
+
+<figure><img src="../../../../.gitbook/assets/BPF stage plan details..png" alt=""><figcaption></figcaption></figure>
+
+* Navigate to **Manage Steps**.
+* Click on the **'New Plan step'** Button.
+
+<figure><img src="../../../../.gitbook/assets/BPF stage plan step.png" alt=""><figcaption></figcaption></figure>
+
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
   * **Name:** Provide an appropriate name to the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’**.
+
+<figure><img src="../../../../.gitbook/assets/Quick create plan step bpf.png" alt=""><figcaption></figcaption></figure>
+
 * Your plan step will be added to the process and will appear here.
 
-<figure><img src="../../../../.gitbook/assets/manage steps 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/qualify plan step.png" alt=""><figcaption></figcaption></figure>
