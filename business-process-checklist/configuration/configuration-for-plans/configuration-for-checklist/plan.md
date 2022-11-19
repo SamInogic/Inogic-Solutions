@@ -26,8 +26,6 @@ Below are the steps to configure the checklist - type plan:
 Note: If both business process or custom groups are not selected, then the plan will be created for the record by default.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/plan_3.png" alt=""><figcaption></figcaption></figure>
-
 * Once the required fields are filled, click on **‘Save’**.
 
 <figure><img src="../../../../.gitbook/assets/Plan_4 (1).png" alt=""><figcaption></figcaption></figure>

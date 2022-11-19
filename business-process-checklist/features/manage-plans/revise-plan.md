@@ -76,4 +76,4 @@ Note: Locked Fields can't be edited.
 
 * Click on **'Publish'.**
 
-<figure><img src="../../../.gitbook/assets/Publish checklist (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Publish checklist (1) (1).png" alt=""><figcaption></figcaption></figure>
