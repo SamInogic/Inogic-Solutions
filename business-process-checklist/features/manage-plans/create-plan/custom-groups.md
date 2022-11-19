@@ -88,24 +88,28 @@ With this feature, you can create both **Process** and **Checklist -** type plan
   * **Priority Order:** Set the execution order against the plan (If the criteria is matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
 * Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/child plan quick create form (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/child plan quick create form.png" alt=""><figcaption></figcaption></figure>
 
-* Child plan will be added here.
-* Now click on the Child plan.
-* Click on the **'Create Step'** button.
+* Your **Child plan** will be added here.
+* Now click on the **Child plan**.
 
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step new 1 (1).png" alt=""><figcaption></figcaption></figure>
 
+* Navigate to **Manage Steps.**
+
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step new 2.png" alt=""><figcaption></figcaption></figure>
+
+* Click on the **'New Plan Step'** button.
+
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step new 4.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
   * **Name:** Provide an appropriate name to the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
-
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_3 (1).png" alt=""><figcaption></figcaption></figure>
-
 * Once the required fields are filled, click on **‘Save and Close’**
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step new 5.png" alt=""><figcaption></figcaption></figure>
 
 * Your plan step will be added to the plan and will appear here.
 
-<figure><img src="../../../../.gitbook/assets/custom checklist plan step_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/custom checklist plan step new 6.png" alt=""><figcaption></figcaption></figure>
