@@ -1,15 +1,15 @@
 # Data Migration
 
-How to migrate plan configurations from one environment to another.
+How to migrate configurations, plans, plan steps, plan step actions from one environment to another.
 
-The process of migrating Plan configurations from one environment to another can be divided into two parts:
+The process of migrating configurations from one environment to another can be divided into two parts:
 
-* Export plan configurations from one environment
-* Import the same plan configurations in another environment
+* Export configuration from one environment
+* Import the same configuration in another environment
 
-### Export plan configurations from one environment
+### Export configurations from one environment to another
 
-Before exporting the plan configurations, create a **custom view** on **'Business Process Checklist'** in the environment from which the plan configuration is to be moved in the following way:
+Before exporting the configurations, create a **custom view** on **'Business Process Checklist configuration'** in the environment from which the configuration is to be moved in the following way:
 
 * Navigate to **Settings** --> **Customizations.**
 
@@ -75,7 +75,7 @@ Before exporting the plan configurations, create a **custom view** on **'Busines
 * Click **'Ok'.**
 * Once you have successfully created the .csv version of the exported file, let’s proceed to import operation.
 
-### Import the same plan configuration in another environment
+### Import the same configuration in another environment
 
 * Login to the other environment to which we want to import the template --> Navigate to **Business Process Checklist** application **--> BPC Settings** --> **Business Process Checklist Configurations.**
 
@@ -93,11 +93,11 @@ Before exporting the plan configurations, create a **custom view** on **'Busines
 
 * Browse the **.csv** file.
 
-<figure><img src="../../.gitbook/assets/data migration_24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/data migration_31 new.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/data migration_25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/data migration_32 new.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/data migration_26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/data migration_33 new.png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Review Mapping**.
 

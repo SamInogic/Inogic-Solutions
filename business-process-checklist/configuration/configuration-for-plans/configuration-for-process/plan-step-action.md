@@ -13,7 +13,7 @@ To Add a **Plan Step Action**, follow the steps given below:
   * **Description:** Provide a short description of the plan step action.
   * **Action Display Name:** Choose a display name for the action from the dropdown.
   * **Action Logical Name:** Choose a logical name for the action from the dropdown.
-  * **Select the Email Template:** You will see this option only if email activity is selected.
+  * **Select the Email Template:** You will see this option only if email activity is supported.
     * **Auto Send Email:** By default, it is set as **No**.
     * **Email Template:** If you want to send an email select an appropriate Email Template from the drop-down. If the **Auto-Send Email** is selected as **Yes** the Email Template field is mandatory to fill.
   * **Set criteria for the execution of Plan Step Action:**
