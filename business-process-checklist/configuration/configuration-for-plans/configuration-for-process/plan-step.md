@@ -8,7 +8,7 @@ To create **Plan steps**, follow the steps given below:
 
 <figure><img src="../../../../.gitbook/assets/Plan step.png" alt=""><figcaption></figcaption></figure>
 
-* Click on the **Create Step** button.
+* Click on the **Create Plan Step** button.
 
 <figure><img src="../../../../.gitbook/assets/plan step_2 (1).png" alt=""><figcaption></figcaption></figure>
 
