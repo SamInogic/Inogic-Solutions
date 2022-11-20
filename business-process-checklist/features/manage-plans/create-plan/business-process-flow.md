@@ -96,7 +96,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 ### Business Process Flow - Checklist:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the execution order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field.
+* **Priority Order:** Set the priority order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field.
 * **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
   * **Advanced:** Execute plans based on filter criteria or conditions (conditions defined in Fetch XML).
