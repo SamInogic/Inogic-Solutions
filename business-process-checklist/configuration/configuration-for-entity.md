@@ -6,11 +6,11 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 
 * Navigate to **Business Process Checklist App** **--> BPC Settings --> Add Record Type.**
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity configuration 1 new.png" alt=""><figcaption></figcaption></figure>
 
 * Select the required entity to configure from the appeared menu.
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity configuration 3 new.png" alt=""><figcaption></figcaption></figure>
 
 * Now your enabled entity configuration will appear below along with **Email, Phone Call & Task** which are three default supported activities.
 
@@ -18,15 +18,15 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 Note: Email activity is supported only for those entities that have an email field.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity configuration 4 new.png" alt=""><figcaption></figcaption></figure>
 
 * Check or uncheck the supported activities as per business requirements.&#x20;
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity configuration 5 new.png" alt=""><figcaption></figcaption></figure>
 
 * Entity configuration can be deleted using **** the **Delete icon**.
 
-<figure><img src="../../.gitbook/assets/Entity Configuration_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Entity configuration 6 new.png" alt=""><figcaption></figcaption></figure>
 
 * Click Delete.
 
@@ -35,4 +35,3 @@ Note: Email activity is supported only for those entities that have an email fie
 {% hint style="info" %}
 **Note: Business Process Checklist User can't create entity configuration.**
 {% endhint %}
-
