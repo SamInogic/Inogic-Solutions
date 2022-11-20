@@ -122,7 +122,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/MANAGE STEPS 2.png" alt=""><figcaption></figcaption></figure>
 
-* Fill in the **Qualify** **Child Plan Details.**
+* Fill in the "Child plan" details (Qualify)**.**
   * **Name:** Provide an appropriate name for the Plan.
   * **Description:** Provide a short description of the Plan.
 * Once the required fields are filled, click on **‘Save’**.
