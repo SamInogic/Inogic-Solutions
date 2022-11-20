@@ -18,7 +18,7 @@ Like installing the Business Process Checklist solution, uninstalling the soluti
 
 <figure><img src="../.gitbook/assets/unistallation 3.png" alt=""><figcaption></figcaption></figure>
 
-* Go to --> **Plans.**
+* Go to **Plans.**
 
 <figure><img src="../.gitbook/assets/unistallation 4.png" alt=""><figcaption></figcaption></figure>
 

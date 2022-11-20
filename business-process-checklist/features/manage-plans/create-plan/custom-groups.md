@@ -60,7 +60,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
 
-### **Custom Plan - Checklist:**
+### **Custom Groups - Checklist:**
 
 * **Fill the following details:** Name, Description, Plan Type, Priority Order, Record Type.
 * **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
