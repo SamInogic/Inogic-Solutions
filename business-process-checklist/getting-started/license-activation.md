@@ -6,12 +6,9 @@ Here are the steps to activate the Business Process Checklist license.
 
 * Navigate to **Dynamics 365 --> Business Process Checklist app.**
 
-<figure><img src="../../.gitbook/assets/1 (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/License activation 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Go to **License Registration.**
-
-<figure><img src="../../.gitbook/assets/2 (17).png" alt=""><figcaption></figcaption></figure>
-
 * Enter the Details: **First Name, Last Name, Company Name, Email, Website and Main Phone.** After filling the details click ‘**ACTIVATE’** for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM.**
 
 <figure><img src="../../.gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
