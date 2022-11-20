@@ -135,6 +135,7 @@
       * [View Record Details](business-process-checklist/features/user-plans/view-record-details.md)
       * [View Plan Details](business-process-checklist/features/user-plans/view-plan-details.md)
       * [View Plan Items on Record](business-process-checklist/features/user-plans/view-plan-items-on-record.md)
+    * [Data Migration](business-process-checklist/features/data-migration.md)
   * [Uninstallation](business-process-checklist/uninstallation.md)
   * [FAQs](business-process-checklist/faqs.md)
   * [Video Library](business-process-checklist/video-library.md)
