@@ -14,7 +14,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 * So, whenever the lead is created with the lead source as **"Web"** then the lead nurturing plan will get attached to that lead record.
 
-<figure><img src="../../../.gitbook/assets/Auto Attach the Plan to Record new 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Auto attach plan to record.png" alt=""><figcaption></figcaption></figure>
 
 **Miscellaneous Features:**&#x20;
 
@@ -28,7 +28,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 * The user can check the progress and number of completed steps count.
 
-<figure><img src="../../../.gitbook/assets/prrogress bar and step count.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Auto attach plan to record - Copy.png" alt=""><figcaption></figcaption></figure>
 
 * Users can mark plan steps as favorites by clicking on the icon shown below. Once marked as favorites, users can see them in the Important Items View.
 

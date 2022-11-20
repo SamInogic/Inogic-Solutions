@@ -67,12 +67,9 @@ With this feature, you can create both **Process** and **Checklist -** type plan
   * **Simple:** Execute plans based on the View of an entity.
   * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 * Select **'Custom Groups'.**
-
-<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Custom checklist plan 1 new (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Manage Plans**.
 
