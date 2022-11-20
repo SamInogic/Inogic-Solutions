@@ -4,31 +4,31 @@ Like installing the Business Process Checklist solution, uninstalling the soluti
 
 * Navigate to **Business Process Checklist App** --> **BPC Settings.**
 
-<figure><img src="../.gitbook/assets/1 EC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 1.png" alt=""><figcaption></figcaption></figure>
 
 * To delete all entity configurations click on **Delete** icons.
 
-<figure><img src="../.gitbook/assets/2 EC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 1 - Copy.png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Delete.**
 
-<figure><img src="../.gitbook/assets/3 EC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/uninstallation 2.png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Ensure all enabled **Entity Configurations** are deleted.
 
-<figure><img src="../.gitbook/assets/4 ec.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 3.png" alt=""><figcaption></figcaption></figure>
 
-* Go to **BPC Settings** --> **Plans.**
+* Go to --> **Plans.**
 
-<figure><img src="../.gitbook/assets/Delete plans_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 4.png" alt=""><figcaption></figcaption></figure>
 
 * Select all **Plans**.
 
-<figure><img src="../.gitbook/assets/Delete plans_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 5.png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Delete** Button.
 
-<figure><img src="../.gitbook/assets/Delete plans_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unistallation 5 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **Delete.**
 
