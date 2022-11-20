@@ -4,11 +4,11 @@ Below are the steps to configure the checklist - type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan**
 
-<figure><img src="../../../../.gitbook/assets/plan_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _1.png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'New plan'** button and select **Checklist.**
 
-<figure><img src="../../../../.gitbook/assets/plan_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity checklist _2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details
   * **Name:** Provide a unique name to the plan.

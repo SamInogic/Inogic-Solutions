@@ -4,11 +4,11 @@ Below are the steps to configure the process type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan.**
 
-<figure><img src="../../../../.gitbook/assets/plan_1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **New plan** button and select **Process.**
 
-<figure><img src="../../../../.gitbook/assets/Plan_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details.
   * **Name:** Provide the unique name for the plan.
@@ -28,7 +28,7 @@ Note: If both business process or custom groups are not selected, then the plan 
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../.gitbook/assets/Plan_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _3.png" alt=""><figcaption></figcaption></figure>
 
 * The new plan will be created and can be seen on **Plans**.
 
