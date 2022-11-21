@@ -63,3 +63,7 @@ After deleting the plans and entity configuration,  navigate to [make.powerapps.
 * A pop-up will appear asking for your confirmation **→** Click on Delete and the solution will be uninstalled from your environment.
 
 <figure><img src="../.gitbook/assets/delete power apps.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

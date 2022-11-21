@@ -114,3 +114,7 @@ Before exporting the configurations, create a **custom view** on **'Business Pro
 * Click on **Done.**
 
 <figure><img src="../../.gitbook/assets/data migration_30.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

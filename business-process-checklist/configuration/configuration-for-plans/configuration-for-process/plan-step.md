@@ -32,3 +32,7 @@ To create **Plan steps**, follow the steps given below:
 * Similarly, we can add more steps, by clicking on the '**+'** button as shown below.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/plan step_5 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

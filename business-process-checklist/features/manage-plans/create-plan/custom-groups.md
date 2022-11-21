@@ -110,3 +110,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 * Your plan step will be added to the plan and will appear here.
 
 <figure><img src="../../../../.gitbook/assets/custom checklist plan step new 6.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

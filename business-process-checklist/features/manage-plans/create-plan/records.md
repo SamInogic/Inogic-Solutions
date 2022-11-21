@@ -12,3 +12,7 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 * [ Plan ](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-checklist/plan)
 * &#x20;[Plan steps](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-checklist/plan-step)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

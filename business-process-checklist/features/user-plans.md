@@ -6,3 +6,7 @@ Plan items have the following sections:
 * [View Record Details](https://docs.inogic.com/business-process-checklist/features/user-plans/view-record-details)
 * [View Plan Details](https://docs.inogic.com/business-process-checklist/features/user-plans/view-plan-details)
 * [View Plan Items on Record](https://docs.inogic.com/business-process-checklist/features/user-plans/view-plan-items-on-record)
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -8,3 +8,6 @@ Below are the steps for process configuration:
 * [Plan Step](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process/plan-step)
 * [Plan Step Action](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process/plan-step-action)
 
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

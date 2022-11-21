@@ -33,3 +33,7 @@ Note: If both business process or custom groups are not selected, then the plan 
 * The new plan will be created and can be seen on **Plans**.
 
 <figure><img src="../../../../.gitbook/assets/Plan_12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

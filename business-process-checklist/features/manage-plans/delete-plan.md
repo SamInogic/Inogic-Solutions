@@ -51,3 +51,7 @@ Note: If Plan Step is deleted then associated plan step actions are deleted auto
 * To Delete Plan Step, navigate to **Manage Steps --> Select** the **Existing Plan Step** you want to delete--> Click on **'Delete Plan Step'**.
 
 <figure><img src="../../../.gitbook/assets/delete plan step_1.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -43,3 +43,7 @@ Note: At least one plan step and plan step action should be added to publish a p
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/publish process (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

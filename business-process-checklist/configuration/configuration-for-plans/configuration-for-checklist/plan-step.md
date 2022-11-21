@@ -34,3 +34,7 @@ Note: At least one plan step should be added to publish a plan.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/Publish checklist (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -10,7 +10,7 @@ It works on tablets and mobile of both iOS and Android OS.
 
 ## 3) Does it work on On-Premise?
 
-Yes, Kanban Board supports Dynamics 365 9.1 On-Premise version.
+No, Kanban Board works only on Online environment.
 
 ## 4) How to use BPF in Kanban Board?
 

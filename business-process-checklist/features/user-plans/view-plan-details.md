@@ -15,3 +15,7 @@ To view the **Plan Details** follow the steps below:
 * Plan Details will now get displayed.
 
 <figure><img src="../../../.gitbook/assets/view plan details3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

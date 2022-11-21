@@ -41,3 +41,7 @@ Note: In the same way, you can unmark to remove favorite plan steps from the Imp
 * Users can view the due date against each open-plan step. The due date can be changed as per the requirements.
 
 <figure><img src="../../../.gitbook/assets/due date.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

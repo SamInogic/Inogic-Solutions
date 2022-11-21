@@ -15,3 +15,7 @@ To view, **Record Details** follow the steps below:
 * Record Details will now get displayed.
 
 <figure><img src="../../../.gitbook/assets/View record details 3 .png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

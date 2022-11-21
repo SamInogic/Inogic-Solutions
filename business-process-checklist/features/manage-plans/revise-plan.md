@@ -70,3 +70,7 @@ Note: Locked Fields can't be edited.
 * Make the required changes to the plan step **-->** Click on **‘Publish’**.
 
 <figure><img src="../../../.gitbook/assets/Publish plan step changes.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
