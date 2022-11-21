@@ -35,3 +35,7 @@ Note: Email activity is supported only for those entities that have an email fie
 {% hint style="info" %}
 **Note: Business Process Checklist User can't create entity configuration.**
 {% endhint %}
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
