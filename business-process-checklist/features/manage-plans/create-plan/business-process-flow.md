@@ -28,7 +28,7 @@ Simple criteria can be set on Views of the Record Type.
 
 Plans can be attached based on conditions.&#x20;
 
-For eg. If you want to attach a plan for upcoming leads with lead source as **"Web"** then you have to enter the Fetch XML for it. Below is the Fetch XML for the same.
+For eg. If you want to attach a plan for upcoming leads with the lead source as **"Web"** then you have to enter the Fetch XML for it. Below is the Fetch XML for the same.
 
 <pre><code>&#x3C;fetch version="1.0" output-format="xml-platform" mapping="logical" no-lock="false" distinct="true">
 &#x3C;entity name="lead">

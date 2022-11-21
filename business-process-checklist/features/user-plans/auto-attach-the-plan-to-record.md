@@ -4,7 +4,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 **Below is an example:**
 
-* Now, the manager has created a plan for lead nurturing for the lead entity, where the criteria is set as lead source as "Web".
+* Now, the manager has created a plan for lead nurturing for the lead entity, where the criteria are set as lead source as **"Web"**.
 
 <figure><img src="../../../.gitbook/assets/Auto Attach the Plan to Record new 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 **Miscellaneous Features:**&#x20;
 
-* The action can be completed by clicking on the checkbox.
+* The action can be completed by clicking on the **Checkbox.**
 
 <figure><img src="../../../.gitbook/assets/Check to complete action.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 <figure><img src="../../../.gitbook/assets/Auto attach plan to record - Copy.png" alt=""><figcaption></figcaption></figure>
 
-* Users can mark plan steps as favorites by clicking on the icon shown below. Once marked as favorites, users can see them in the Important Items View.
+* Users can mark **plan steps** as favorites by clicking on the icon shown below. Once marked as favorites, users can see them in the Important Items View.
 
 <figure><img src="../../../.gitbook/assets/Favorite.png" alt=""><figcaption></figcaption></figure>
 

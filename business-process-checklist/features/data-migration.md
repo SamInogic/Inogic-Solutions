@@ -1,6 +1,6 @@
 # Data Migration
 
-How to migrate configurations, plans, plan steps, plan step actions from one environment to another.
+How to migrate configurations, plans, plan steps, and plan step actions from one environment to another.
 
 The process of migrating configurations from one environment to another can be divided into two parts:
 
@@ -71,7 +71,7 @@ Before exporting the configurations, create a **custom view** on **'Business Pro
 
 <figure><img src="../../.gitbook/assets/data migration_18.png" alt=""><figcaption></figcaption></figure>
 
-* After clicking on **'Export to Excel'**, file with an extension **'.xlsx'** will be downloaded. **Open** this file and **save** it as **.csv format** in the system.
+* After clicking on **'Export to Excel'**, a file with an extension **'.xlsx'** will be downloaded. **Open** this file and **save** it as **.csv format** in the system.
 * Click **'Ok'.**
 * Once you have successfully created the .csv version of the exported file, let’s proceed to import operation.
 

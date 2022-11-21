@@ -23,7 +23,7 @@ Below are the steps to configure the process type plan:
 * **Custom Groups:** Create a plan for a Custom Group.
 
 {% hint style="info" %}
-Note: If both business process or custom groups are not selected, then the plan will be created for the record by default.
+Note: If neither business process nor custom groups are selected, then the plan will be created for the record by default.
 {% endhint %}
 
 * Once the required fields are filled, click on **‘Save’**.

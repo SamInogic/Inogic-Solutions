@@ -13,7 +13,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 <figure><img src="../../.gitbook/assets/Powerapps_1 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Then select **Solutions** from the left navigation as shown in below screenshot:
+* Then select **Solutions** from the left navigation pane as shown in below screenshot:
 
 <figure><img src="../../.gitbook/assets/Powerapps_2.png" alt=""><figcaption></figcaption></figure>
 

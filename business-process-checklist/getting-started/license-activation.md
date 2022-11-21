@@ -9,7 +9,7 @@ Here are the steps to activate the Business Process Checklist license.
 <figure><img src="../../.gitbook/assets/License activation 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Go to **License Registration.**
-* Enter the Details: **First Name, Last Name, Company Name, Email, Website and Main Phone.** After filling the details click ‘**ACTIVATE’** for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM.**
+* Enter the Details: **First Name, Last Name, Company Name, Email, Website, and Main Phone.** After filling in the details click ‘**ACTIVATE’** for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM.**
 
 <figure><img src="../../.gitbook/assets/License activation 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +21,7 @@ Here are the steps to activate the Business Process Checklist license.
 
 <figure><img src="../../.gitbook/assets/license activation 4.png" alt=""><figcaption></figcaption></figure>
 
-* If you want to purchase or extend the trial, click **‘SEND REQUEST’** after which you need to enter your **First Name, Last Name, Company Name, Email, Website, and, Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
+* If you want to purchase or extend the trial, click **‘SEND REQUEST’** after which you need to enter your **First Name, Last Name, Company Name, Email, Website, and Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
 
 <figure><img src="../../.gitbook/assets/send request.png" alt=""><figcaption></figcaption></figure>
 

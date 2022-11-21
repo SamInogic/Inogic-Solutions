@@ -13,7 +13,7 @@ To create **Plan steps**, follow the steps given below:
 <figure><img src="../../../../.gitbook/assets/plan step_2 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-  * **Name:** Provide an appropriate name to the Plan Step.
+  * **Name:** Provide an appropriate name for the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
   * **Add a waiting period for this step:**
     * **Days:** Add the desired waiting period for this step to be performed after **'X' Days.**

@@ -8,11 +8,11 @@ Below are the steps for Entity Configuration in Business Process Checklist:
 
 <figure><img src="../../.gitbook/assets/Entity configuration 1 new.png" alt=""><figcaption></figcaption></figure>
 
-* Select the required entity to configure from the appeared menu.
+* Select the required **entity** to configure from the appeared menu.
 
 <figure><img src="../../.gitbook/assets/Entity configuration 3 new.png" alt=""><figcaption></figcaption></figure>
 
-* Now your enabled entity configuration will appear below along with **Email, Phone Call & Task** which are three default supported activities.
+* Now your **enabled entity configuration** will appear below along with **Email, Phone Call & Task** which are three default supported activities.
 
 {% hint style="info" %}
 Note: Email activity is supported only for those entities that have an email field.
@@ -28,10 +28,14 @@ Note: Email activity is supported only for those entities that have an email fie
 
 <figure><img src="../../.gitbook/assets/Entity configuration 6 new.png" alt=""><figcaption></figcaption></figure>
 
-* Click Delete.
+* Click **Delete**.
 
 <figure><img src="../../.gitbook/assets/Entity Configuration_5.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note: Business Process Checklist User can't create entity configuration.**
+{% endhint %}
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
 {% endhint %}
