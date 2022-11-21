@@ -27,7 +27,7 @@ Here are the steps to activate the Business Process Checklist license.
 
 ### Alternate method to complete License Activation
 
-Here are the steps to complete registration through the **‘License Registration using (.lic) file** section.
+Here are the steps to complete registration by using **'License Registration using (.lic) file'** section.
 
 * Request .lic file from Inogic --> Save file --> Go to **Business Process Checklist** app --> **License Registration** --> Click **Choose File** to locate the file with the extension .lic
 
@@ -40,3 +40,7 @@ Here are the steps to complete registration through the **‘License Registratio
 * Click on **Register** to complete the **License Registration**.
 
 <figure><img src="../../.gitbook/assets/alternate lic 3.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

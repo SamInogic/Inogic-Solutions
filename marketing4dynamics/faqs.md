@@ -73,7 +73,7 @@ Furthermore, we also associate those members with the selected marketing list. S
 However, after the initial sync, in which the entire audience or a specific segment is transferred to the CRM, syncing from the CRM to Mailchimp using a dynamic marketing list is very much possible.\
 
 
-## 5) What to do if the "error message from below pops up" when trying to install Marketing4Dynamics?
+## 5) What to do if the "No import packages were found. Exiting the program" error message pops up when trying to install Marketing4Dynamics?
 
 <figure><img src="../.gitbook/assets/image002.png" alt=""><figcaption></figcaption></figure>
 

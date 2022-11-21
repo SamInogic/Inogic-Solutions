@@ -7,3 +7,7 @@ To install the Business Process Checklist solution from the Microsoft AppSource,
 * Next, confirm the details in the form, accept the terms & conditions and click on **Continue**.
 * Select your environment from the dropdown list and accept the privacy policies & legal terms. Then click on the **Install** button for the installation to start.
 * The installation process will now start, and you can check the status by refreshing the page.  after the installation is done, you can see **Business Process Checklist** solution in **Apps**.
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
