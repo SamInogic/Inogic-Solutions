@@ -79,7 +79,7 @@ However, after the initial sync, in which the entire audience or a specific segm
 
 **To resolve this issue, follow the steps given below to install Marketing4Dynamics:**
 
-* Extract the zip file you’ve downloaded and right-click on _Inogic.Marketing4Dynamics. PackageDeployer.dll_ file inside the _Marketing4Dynamics\_PackageDeployer_ folder.
+* Extract the zip file you’ve downloaded and right-click on _Inogic.Marketing4Dynamics.PackageDeployer.dll_ file inside the _Marketing4Dynamics\_PackageDeployer_ folder.
 * Click on **"Properties."**
 
 <figure><img src="../.gitbook/assets/faq (1).jpg" alt=""><figcaption></figcaption></figure>
