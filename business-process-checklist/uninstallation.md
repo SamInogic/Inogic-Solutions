@@ -6,7 +6,7 @@ Like installing the Business Process Checklist solution, uninstalling the soluti
 
 <figure><img src="../.gitbook/assets/unistallation 1.png" alt=""><figcaption></figcaption></figure>
 
-* To delete all entity configurations click on **Delete** icons.
+* Entity configuration can be deleted using the **Delete Icon.**
 
 <figure><img src="../.gitbook/assets/unistallation 1 - Copy.png" alt=""><figcaption></figcaption></figure>
 
