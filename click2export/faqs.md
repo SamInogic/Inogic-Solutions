@@ -63,3 +63,7 @@ While uploading exported files to SharePoint online from Dynamics 365 On-premise
 In such a situation please ensure the correct server URL is provided while leveraging Click2Export's [Upload to SharePoint](https://docs.inogic.com/click2export/configuration/click2export-configuration) functionality.&#x20;
 
 ![](../.gitbook/assets/FAQ.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

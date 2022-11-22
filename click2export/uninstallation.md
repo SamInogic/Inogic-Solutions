@@ -25,3 +25,7 @@ If you are not using Click2Export assembly, then start from Step 2.&#x20;
 ![](<../.gitbook/assets/1 (130).png>)
 
 After clicking on OK your solution will be successfully uninstalled.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
