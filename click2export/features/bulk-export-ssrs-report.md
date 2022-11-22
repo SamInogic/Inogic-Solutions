@@ -30,5 +30,9 @@ Selection Mode: There are two selection modes available **Per Record** and **Com
 
 You can read more about **Action and Email** Section from [here.](https://docs.inogic.com/click2export/features/action-and-email-section)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

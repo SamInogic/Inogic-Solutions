@@ -35,3 +35,8 @@ description: This section includes the latest updates in the app.
 * Easily upload the exported report file on SharePoint
 * Automate the process of exporting the Dynamics 365 word template/report template with required action to be performed for selected entity record using Click2Export workflow
 * SSRS/Word/Excel/Email Template (CRM Views) Automation/Scheduling for On-Premise & Online
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

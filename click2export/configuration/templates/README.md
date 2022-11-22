@@ -9,3 +9,7 @@ There are four types of CRM Report Templates:
 * [Excel Template](https://docs.inogic.com/click2export/configuration/templates/excel-template)
 * [Email Template](https://docs.inogic.com/click2export/configuration/templates/email-template)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

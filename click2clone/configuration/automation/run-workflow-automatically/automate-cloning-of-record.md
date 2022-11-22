@@ -13,3 +13,7 @@ After designing the workflow, the next task is to execution of workflow. To exec
 * The workflow is triggered and copies of the record is generated.
 
 ![](../../../../.gitbook/assets/Workflow\_13.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

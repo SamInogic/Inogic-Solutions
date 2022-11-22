@@ -7,3 +7,8 @@ Configuration in Click2Export solution can be categorized into following section
 3. [Email Configuration](https://docs.inogic.com/click2export/configuration/email-configuration)
 4. [Schedule Reports](https://docs.inogic.com/click2export/configuration/schedule-reports)
 5. [Automation](https://docs.inogic.com/click2export/configuration/automation)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

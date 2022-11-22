@@ -21,3 +21,7 @@ Now navigate to **Personalization Settings --> General Tab --> User Information 
 You will get confirmation if it is successfully connected.
 
 ![](<../../.gitbook/assets/Set Cred\_2.jpg>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

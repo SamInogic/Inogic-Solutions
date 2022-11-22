@@ -11,3 +11,7 @@ The uninstallation process of **Click2Clone** solution from your CRM environment
 ![](../.gitbook/assets/image\_2020\_06\_03T11\_51\_26\_824Z.png)
 
 ![](../.gitbook/assets/333.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

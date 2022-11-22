@@ -83,3 +83,7 @@ If no one is added in **'Scheduled For'** then this scheduling will be under the
 {% hint style="info" %}
 _**If End by date is not defined, then the process will go on nonstop.**_
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

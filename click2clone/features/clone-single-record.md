@@ -20,4 +20,8 @@ After setting up templates and selecting attributes/ relationships, the next ste
 
 This is how **target** and **source** entity reference work which helps you to navigate within target and source records more efficiently.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 &#x20;

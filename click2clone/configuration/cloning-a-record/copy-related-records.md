@@ -10,3 +10,7 @@ To copy related records, follow the steps given below:
 
 ![](../../../.gitbook/assets/Clone1\_4.2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -36,3 +36,7 @@ You can use any field name including custom field from the record type provided.
 The next section is **'Email Configuration'.** To know more about this section, please click [here](https://docs.inogic.com/click2export/configuration/email-configuration).&#x20;
 
 <figure><img src="../../../.gitbook/assets/30.2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

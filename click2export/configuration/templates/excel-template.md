@@ -36,3 +36,7 @@ The next section is **'Email Configuration'.** To know more about this section, 
 
 <figure><img src="../../../.gitbook/assets/31.2.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

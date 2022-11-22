@@ -10,3 +10,7 @@ To set up fields to copy, follow the steps given below:
 
 ![](../../../.gitbook/assets/Clone1\_3.1.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -13,3 +13,7 @@ To copy fields of related records, follow the steps given below:
 * Go to **Attributes/Relationships to Clone** section --> Select the **fields** from the attributes to copy --> Click on **Save**.&#x20;
 
 ![](../../../.gitbook/assets/Clone1\_5.3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

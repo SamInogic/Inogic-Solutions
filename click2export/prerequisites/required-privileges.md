@@ -13,3 +13,8 @@ For **Word & Excel Templates** the following privileges are required:
 {% hint style="info" %}
 **Note: Both privileges are required to export Excel Templates.** &#x20;
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -29,3 +29,8 @@ To install **Click2Clone** solution from the **Microsoft AppSource**, visit the 
 * After the installation is done, you will be able to see **Click2Clone** solution in **My apps**.&#x20;
 
 ![](<../../.gitbook/assets/gg (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

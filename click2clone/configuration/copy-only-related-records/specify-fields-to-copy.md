@@ -12,3 +12,8 @@ After configuring template, follow the steps given below to specify the fields t
 
 Once you have completed all the steps, you will be able to [copy related records i.e. Get Records.](https://docs.inogic.com/click2clone/features/get-records)
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

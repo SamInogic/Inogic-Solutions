@@ -37,3 +37,8 @@ Here are the steps to complete registration through the **‘License Registratio
 ![](../../.gitbook/assets/2020\_05\_21\_13\_51\_53\_.png)
 
 * Your license is activated.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

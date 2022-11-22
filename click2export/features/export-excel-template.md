@@ -29,3 +29,7 @@ Given below are the steps that needs to be followed to export Excel Template.
 
 You can read more about **Action and Email** Section from [here.](https://docs.inogic.com/click2export/features/action-and-email-section)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

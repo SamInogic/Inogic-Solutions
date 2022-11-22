@@ -53,3 +53,8 @@ Once you have completed all the steps, you will be able to:
 * [Clone single record](https://docs.inogic.com/click2clone/features/clone-single-record)
 * [Clone multiple records](https://docs.inogic.com/click2clone/features/clone-multiple-records)
 * [Create multiple copies of a record](https://docs.inogic.com/click2clone/features/multiple-copies-of-a-record)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -29,3 +29,7 @@ The users are also **allowed** to make changes before the file is exported.
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

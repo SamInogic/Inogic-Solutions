@@ -5,3 +5,7 @@ The next step is to map the fields under **'Fields Mapping'** section. Here, the
 * Go to **Fields Mapping** section --> Select the **fields** --> Click on **Save**.
 
 ![](<../../../.gitbook/assets/C2C Temp\_2 - Copy (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

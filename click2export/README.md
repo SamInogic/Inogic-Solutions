@@ -6,6 +6,10 @@
 
 {% embed url="https://youtu.be/TC-qcpcjEok" %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 | Available for              | Deployment             |
 | -------------------------- | ---------------------- |
 | Dynamics 365 8.2 and above | On-Premises and Online |

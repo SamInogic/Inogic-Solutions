@@ -26,4 +26,8 @@ It is **mandatory** that parent entity holds **1:N relationship** with the selec
 
 ![](../../../.gitbook/assets/Clone2\_3.4.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 Once you have completed all the steps, you will be able to [copy one entity record to another](https://docs.inogic.com/click2clone/features/copy-one-record-to-another).

@@ -50,3 +50,7 @@ Follow the steps given below to export word templates using workflow:
 
 ![](<../../../.gitbook/assets/8 (5).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

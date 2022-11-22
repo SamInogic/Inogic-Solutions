@@ -29,3 +29,7 @@ Let's compare the cloning results.
 * **Target record** - The record to which we copied opportunity line items except the discount field.
 
 ![](../../.gitbook/assets/Clone3\_3.6.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

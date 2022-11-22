@@ -135,3 +135,7 @@ Kindly follow the below steps to create a template for the product entity/table 
 * Enter Template Name.  In **Source** **Entity** **Name**, kindly search the entity with its logical name. For example, lets search **Product** with its logical name i.e. ‘**product’**.
 
 <figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

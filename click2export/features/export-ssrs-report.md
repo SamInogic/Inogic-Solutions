@@ -29,3 +29,8 @@ Given below are the steps that needs to be followed to export SSRS Report.
 **Report Parameters:** If the SSRS report is a parameterized report, this section will list down all the parameters of the SSRS report and the user can select values before exporting the report.
 
 You can read more about **Action and Email** Section from[ here.](https://docs.inogic.com/click2export/features/action-and-email-section)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

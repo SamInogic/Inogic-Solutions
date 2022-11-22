@@ -26,3 +26,7 @@ Apart from cloning single and multiple records, you can also create multiple cop
 
 ![](<../../.gitbook/assets/Multi cop\_4.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

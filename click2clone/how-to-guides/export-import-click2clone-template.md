@@ -125,5 +125,9 @@ Once you have successfully created the .csv version of the exported file, let’
 
 ![](../../.gitbook/assets/Imp\_11.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 &#x20;
 

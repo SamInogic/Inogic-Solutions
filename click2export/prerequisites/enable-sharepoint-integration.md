@@ -43,3 +43,7 @@ If you would like to use Click2Export’s **'Upload to SharePoint'** functionali
 ![](<../../.gitbook/assets/1 (307).png>)
 
 Now, you can successfully use Click2Export's **'Upload to SharePoint'** functionality and store exported reports in SharePoint.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

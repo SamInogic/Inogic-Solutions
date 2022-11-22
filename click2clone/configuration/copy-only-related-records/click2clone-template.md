@@ -16,3 +16,7 @@ To set up template, follow the steps given below:
 
 If the relationships list does not load/populate then try refreshing the grid by clicking **'Refresh'** icon.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

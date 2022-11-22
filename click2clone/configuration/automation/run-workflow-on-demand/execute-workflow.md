@@ -17,3 +17,7 @@ After designing the workflow, the next task is to **execution** of workflow. To 
 ![](../../../../.gitbook/assets/Flow\_4.png)
 
 ![](../../../../.gitbook/assets/Flow\_5.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -59,3 +59,7 @@ The next section is **'Email Configuration'.** To know more about this section, 
 ### CRM Report Parameters:
 
 This will list down all the parameters that needs to be supplied for the report to render.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

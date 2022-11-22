@@ -6,3 +6,8 @@ To know more, follow the below articles:
 
 * [Word Template Workflow](https://docs.inogic.com/click2export/configuration/automation/word-template-workflow)
 * [SSRS Template Workflow](https://docs.inogic.com/click2export/configuration/automation/ssrs-template-workflow)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

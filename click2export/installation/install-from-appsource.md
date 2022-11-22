@@ -29,3 +29,7 @@ To install Click2Export solution from the Microsoft AppSource, visit the [link](
 * After the installation is done, you will be able to see **Click2Export** solution in 'My apps'.&#x20;
 
 ![](<../../.gitbook/assets/2020-05-26 13\_51\_57-Sales Activity Social Dashboard - Microsoft Dynamics 365.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -12,3 +12,7 @@ Here are the steps for the same:
 
 ![](../../.gitbook/assets/Clone2\_4.2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

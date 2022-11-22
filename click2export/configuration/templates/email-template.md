@@ -70,3 +70,7 @@ Here, you will have 4 themes to choose from - **Default, Green, Orange and Simpl
 The next section is **'Email Configuration'**. To know more about this section, please click [here.](https://docs.inogic.com/click2export/configuration/email-configuration)
 
 <figure><img src="../../../.gitbook/assets/32.2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

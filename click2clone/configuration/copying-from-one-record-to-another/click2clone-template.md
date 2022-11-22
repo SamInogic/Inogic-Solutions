@@ -10,3 +10,7 @@ To set up the template, follow the steps given below:
 
 ![](<../../../.gitbook/assets/C2C temp\_1 - Copy.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

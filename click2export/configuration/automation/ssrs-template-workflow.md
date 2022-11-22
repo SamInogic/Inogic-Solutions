@@ -48,3 +48,7 @@ Given below are the steps to export reports through automation:
 * You can now see the workflow in ‘**My Processes**’.
 
 ![](<../../../.gitbook/assets/6 (13).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

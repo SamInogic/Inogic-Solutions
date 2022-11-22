@@ -42,3 +42,7 @@ You can design your own automation workflow by following the steps given below:
 
 ![](../../../../.gitbook/assets/On-dem\_12.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

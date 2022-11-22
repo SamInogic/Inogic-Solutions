@@ -50,3 +50,7 @@ If you wish to leverage Click2Export’s '**Upload to SharePoint'** functionalit
 
 **Report Path**: \<environmentname>\_MSCRM/CustomReports
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

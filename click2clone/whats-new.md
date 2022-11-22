@@ -18,5 +18,9 @@
 * Set Rules to select records for cloning&#x20;
 * Support to create multiple copies of any given record
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

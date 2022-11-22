@@ -28,5 +28,9 @@ You can read more about **Action and Email** Section from [here.](https://docs.i
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

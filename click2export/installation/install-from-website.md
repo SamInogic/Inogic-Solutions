@@ -70,3 +70,7 @@ Now, if you want to upgrade the solution to its latest version or reinstall the 
 ![](../../.gitbook/assets/UpgradeAndOverwrite.jpg)
 
 Once you are done installing the solution in your environment the next step would be to [activate the license](https://docs.inogic.com/click2export/getting-started/license-activation).
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

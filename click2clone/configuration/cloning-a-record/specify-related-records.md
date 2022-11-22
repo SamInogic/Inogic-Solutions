@@ -9,3 +9,7 @@ To copy related records, follow the steps given below:
 This is nothing but a **hierarchical (deep level)** cloning. If there are no any related records, then user can skip over the relationship selection.
 
 We are leaving this blank since we have not got any related records to clone from order line item.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

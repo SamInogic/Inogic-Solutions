@@ -15,3 +15,7 @@ To set up Click2Clone template, follow the steps given below:
 ![Attributes](../../../../.gitbook/assets/On-dem\_2.png)
 
 ![](../../../../.gitbook/assets/On-dem\_3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

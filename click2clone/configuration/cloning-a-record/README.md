@@ -15,4 +15,8 @@ After completing the above steps, you will be able to;
 * [Clone multiple records](https://docs.inogic.com/click2clone/configuration/cloning-a-record/clone-multiple-records)
 * [Create multiple copies of a record](https://docs.inogic.com/click2clone/configuration/cloning-a-record/multiple-copies-of-a-record)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 &#x20; &#x20;

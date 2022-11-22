@@ -14,3 +14,7 @@ Follow the steps given below to set up entities for Click2Clone:
 
 Once this is done, click **'Save'** to save the template and proceed to **attributes/relationship** selection.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
