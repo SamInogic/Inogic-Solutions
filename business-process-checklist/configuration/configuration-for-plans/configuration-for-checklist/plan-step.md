@@ -13,7 +13,7 @@ To create **Plan Steps**, follow the steps given below:
 <figure><img src="../../../../.gitbook/assets/Plan step_2 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-* **Name:** Provide an appropriate name to the Plan Step.
+* **Name:** Provide an appropriate name for the Plan Step.
 * **Description:** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’**
 

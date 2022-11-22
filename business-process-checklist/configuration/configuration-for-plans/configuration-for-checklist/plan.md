@@ -11,7 +11,7 @@ Below are the steps to configure the checklist - type plan:
 <figure><img src="../../../../.gitbook/assets/Configuration entity checklist _2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details
-  * **Name:** Provide a unique name to the plan.
+  * **Name:** Provide a unique name for the plan.
   * **Description:** Provide a short description of the plan.
   * **Record Type:** Select the Record Type to which the plan will be created.
   * **Plan Type:** Select Plan Type **** as **Checklist**.

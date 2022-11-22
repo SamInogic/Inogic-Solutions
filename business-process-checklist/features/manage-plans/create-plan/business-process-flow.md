@@ -71,7 +71,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 <figure><img src="../../../../.gitbook/assets/BPF steps 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
-  * **Name:** Provide an appropriate name to the Plan Step.
+  * **Name:** Provide an appropriate name for the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
   * **Add a waiting period for this step:**
     * **Days:** Add the desired waiting period for this step to be performed after **'X'** **Days**.
@@ -97,7 +97,7 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
 * **Priority Order:** Set the priority order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field.
-* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria matches). Select either **Simple** or **Advanced**.
+* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria match). Select either **Simple** or **Advanced**.
   * **Simple:** Execute plans based on the View of an entity.
   * **Advanced:** Execute plans based on filter criteria or conditions (conditions defined in Fetch XML).
 * Select **'Business Process Flow'.**
@@ -134,8 +134,8 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF stage plan step.png" alt=""><figcaption></figcaption></figure>
 
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
-  * **Name:** Provide an appropriate name to the Plan Step.
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+  * **Name:** Provide an appropriate name for the Plan Step.
   * **Description:** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’**.
 

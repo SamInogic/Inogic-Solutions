@@ -2,7 +2,7 @@
 
 How to migrate configurations, plans, plan steps, and plan step actions from one environment to another.
 
-The process of migrating configurations from one environment to another can be divided into two parts:
+The process of migrating configurations from one environment into another can be divided into two parts:
 
 * Export configuration from one environment
 * Import the same configuration in another environment
