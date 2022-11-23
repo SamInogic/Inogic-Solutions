@@ -54,7 +54,7 @@ Once the dependencies are removed, you can uninstall the solution from the **Dyn
 
 ### Uninstall from Power Apps
 
-After deleting the plans and entity configuration,  navigate to [make.powerapps.com](https://make.powerapps.com/)****
+After deleting the plans and entity configuration,  navigate to [make.powerapps.com](https://make.powerapps.com/)
 
 * In Solutions, select the Business Process Checklist Solution **→** Click on **Delete.**
 

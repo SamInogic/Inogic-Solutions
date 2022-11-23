@@ -21,7 +21,7 @@ Here are the steps to activate the Business Process Checklist license.
 
 <figure><img src="../../.gitbook/assets/license activation 4.png" alt=""><figcaption></figcaption></figure>
 
-* If you want to purchase or extend the trial, click **‘SEND REQUEST’** after which you need to enter your **First Name, Last Name, Company Name, Email, Website, and Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
+* If you want to purchase or extend the trial, click **‘SEND REQUEST’** after which you need to enter your **First Name, Last Name, Company Name, Email, Website, and, Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to crm@inogic.com so we can process the request.
 
 <figure><img src="../../.gitbook/assets/send request.png" alt=""><figcaption></figcaption></figure>
 
