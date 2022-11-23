@@ -113,7 +113,7 @@
     * [License Activation](business-process-checklist/getting-started/license-activation.md)
     * [Set up Security](business-process-checklist/getting-started/set-up-security.md)
   * [Configuration](business-process-checklist/configuration/README.md)
-    * [Configuration for Entity](business-process-checklist/configuration/configuration-for-entity.md)
+    * [Enable Entity](business-process-checklist/configuration/enable-entity.md)
     * [Configuration for Plans](business-process-checklist/configuration/configuration-for-plans/README.md)
       * [Configuration for Process](business-process-checklist/configuration/configuration-for-plans/configuration-for-process/README.md)
         * [Plan](business-process-checklist/configuration/configuration-for-plans/configuration-for-process/plan.md)
