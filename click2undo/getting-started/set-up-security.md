@@ -34,9 +34,5 @@ Here are the steps to assign security role to users.
 
 ![](<../../.gitbook/assets/sec\_6 (1).png>)
 
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 
 

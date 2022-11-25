@@ -19,7 +19,3 @@ Here are the steps to undo last changes made to Dynamics 365 CRM record.&#x20;
 * The last changes made to the record will be undone.
 
 ![](../../.gitbook/assets/undo3.3.png)
-
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

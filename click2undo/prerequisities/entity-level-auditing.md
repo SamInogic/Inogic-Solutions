@@ -80,8 +80,4 @@ To achieve this, follow the steps given below:
 
 ![](<../../.gitbook/assets/image (197).png>)
 
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 __

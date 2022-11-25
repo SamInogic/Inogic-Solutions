@@ -10,9 +10,5 @@
 * Restore deleted Dynamics 365 records
 * Supports OOB as well as Custom Entities
 
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 
 

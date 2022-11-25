@@ -60,10 +60,6 @@ Here are the steps to import and install Click2Undo solution.
 
 ![](<../../.gitbook/assets/Imp\_5 - Copy (2).png>)
 
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 
 
 ###

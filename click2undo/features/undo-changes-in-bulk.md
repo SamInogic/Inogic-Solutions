@@ -16,8 +16,4 @@ Here are the steps to undo changes in bulk.
 
 
 
-{% hint style="danger" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-
 &#x20;
