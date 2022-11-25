@@ -36,3 +36,7 @@ In order to enable Organization Level Auditing follow the steps given below:
 
 ![](<../../.gitbook/assets/image (81).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

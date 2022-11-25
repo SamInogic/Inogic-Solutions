@@ -29,3 +29,7 @@ To install **Undo2Restore** (Formerly known as Click2Undo) solution from **Micro
 * Once the installation is completed, **Undo2Restore** solution will be visible in **My apps**.&#x20;
 
 ![](../../.gitbook/assets/AppS\_6.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

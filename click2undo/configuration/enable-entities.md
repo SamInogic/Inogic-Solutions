@@ -24,3 +24,7 @@ Here are the steps to 'Enable Entities' for Undo2Restore solution.
 
 ![](<../../.gitbook/assets/Entity\_4 - Copy.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
