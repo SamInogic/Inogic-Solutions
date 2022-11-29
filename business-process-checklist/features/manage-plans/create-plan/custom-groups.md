@@ -1,13 +1,15 @@
 # Process-Type Plan for Custom Groups
 
-With this feature, you can create both **Process** and **Checklist -** type plans against **Custom Groups** to do the same user has to follow the steps given below:
+Sometimes, users need to have a plan for Custom Groups where order of tasks in the plan matters to complete a business process effectively, in this case manager can create a Process-Type plan for Business Process Flow.
 
-### **Custom Groups - Process:**
+This is useful for creating plans for Custom Groups where you want your salesperson to follow the guidelines in a predefined order and not randomly.
+
+To create a Process-Type plan for Custom Groups, follow the steps given below:
 
 * **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the priority order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
-* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria match). Select either **Simple** or **Advanced**.
-  * **Simple:** Execute plans based on the View of an entity.
+* **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
+* **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced**.
+  * **Simple:** Execute plans based on the chosen View of an entity.
   * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
 
 <figure><img src="../../../../.gitbook/assets/Custom process new 1.png" alt=""><figcaption></figcaption></figure>
@@ -20,6 +22,8 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 <figure><img src="../../../../.gitbook/assets/Custom process new save plan.png" alt=""><figcaption></figcaption></figure>
 
+Your Process-Type plan for Custom Groups is created, and now you can add the Plan Steps for the newly created plan. To do the same, follow the steps given below:
+
 * Navigate to **Manage Steps**.
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_1 (1).png" alt=""><figcaption></figcaption></figure>
@@ -30,8 +34,8 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 * This will open the **‘Quick Create Form: Plan’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name for the plan.
-  * **Description:** Provide a short description of the plan.
-  * **Priority Order:** Set the priority order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
+  * **Description (Optional):** Provide a short description of the plan.
+  * **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
 * Once the required fields are filled, click on **‘Save and Close’**.
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_3 (1).png" alt=""><figcaption></figcaption></figure>
@@ -42,23 +46,27 @@ With this feature, you can create both **Process** and **Checklist -** type plan
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name for the Plan Step.
-  * **Description:** Provide a short description of the Plan Step.
-  * **Add a waiting period for this step:**
+  * **Description (Optional):** Provide a short description of the Plan Step.
+  * **Add a waiting period for this step (Optional):** A waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete a plan step. For example, if there is a plan step for getting the lead details and the waiting period for it is set as 2 hours then the plan step actions within the plan step can only be performed after the waiting period ends.
     * **Days:** Add the desired waiting period for this step to be performed after **'X' Days.**
     * **Hours:** Add the desired waiting period for this step to be performed after **'X' Hours.**
 * Once the required fields are filled, click on **‘Save and Close’**.
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_6.png" alt=""><figcaption></figcaption></figure>
 
-* Your plan step will be added to the plan and will appear here.
+* Your plan step will be added to the plan and will appear on **Plan Steps**.
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_7.png" alt=""><figcaption></figcaption></figure>
 
-* &#x20;We can add multiple steps, by clicking on the '**+'** button as shown below.&#x20;
+* &#x20;We can add multiple steps, by clicking on the '**+'** button, as shown below.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Custom process PLAN STEP_8.png" alt=""><figcaption></figcaption></figure>
 
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
+
+In this way, Process-Type plan for Custom Groups can be created with plan steps and plan step actions.
+
+You can also create a [Checklist-Type](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-custom-groups/checklist-type-plan-for-custom-groups) plan for Custom Groups.
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

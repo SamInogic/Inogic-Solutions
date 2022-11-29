@@ -1,16 +1,16 @@
 # Process-Type Plan for Business Process Flow
 
-With this feature, you can create both **Process** and **Checklist** - **** type plans against **Business Process Flow.**
+Sometimes, users need to have a plan for Business Process Flow where order of tasks in the plan matters to complete a business process effectively, in this case manager can create a Process-Type plan for Business Process Flow.
 
-For example, if a user wants to create a plan against the **Lead to Opportunity Sales process** to set the best practices for **Lead Nurturing**. **** In order to achieve this, the user has to follow the steps given below:
+This is useful for creating plans for Business Process Flow where you want your salesperson to follow the guidelines in a predefined order and not randomly.
 
-### Business Process Flow - Process:
+To create a Process-Type plan for Business Process Flow, follow the steps given below:&#x20;
 
-* **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
-* **Priority Order:** Set the priority order against the plan (If the criteria are matching with three different plans, then which plan has to be followed, for that we need to set the priority order number) any value less than 1 or repeated numbers are invalid for this priority order field. ****&#x20;
-* **Set criteria for the execution of the Plan:** Set the criteria against the plan (so that if the criteria satisfy then the plan will attach against those for which the criteria match). Select either **Simple** or **Advanced**.
-  * **Simple:** Execute plans based on the View of an entity.
-  * **Advanced:** Execute plans **** based on filter criteria or conditions (conditions defined in Fetch XML).
+* **Fill in the following plan details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Priority Order:** A **** waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete a plan step. For example, if there is a plan step for getting the lead details and the waiting period for it is set as 2 hours then the plan step actions within the plan step can only be performed after the waiting period ends.
+* **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced.**
+  * **Simple:** Execute plans based on the chosen View of an entity.
+  * **Advanced:** Execute plans based on filter criteria or conditions (conditions defined in Fetch XML).
 
 {% hint style="info" %}
 Note: This step is the same for checklist and process - type plans.
@@ -51,9 +51,6 @@ In the same way, you can set Advanced criteria for other plan records as well.
 <figure><img src="../../../../.gitbook/assets/BPF new 4.png" alt=""><figcaption></figcaption></figure>
 
 * Select **'Business Process Flow'.**
-
-<figure><img src="../../../../.gitbook/assets/BPF new 5 (1).png" alt=""><figcaption></figcaption></figure>
-
 * Select Business Process Flow to which the plan will be attached.
 
 <figure><img src="../../../../.gitbook/assets/BPF new 6.png" alt=""><figcaption></figcaption></figure>
@@ -62,9 +59,11 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF new 8 (1).png" alt=""><figcaption></figcaption></figure>
 
+Your Process-Type plan for Business Process Flow is created and now you can add the Plan Steps inside the various stages of the selected Business Process Flow. To do the same, follow the steps given below:
+
 * Navigate to **Manage Steps**.
-* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.&#x20;
-* **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below. &#x20;
+* Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. The manager now selects the desired stages and creates the plan step and plan step action inside the stages.
+* **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process,** and the stages are Qualify, Develop, Propose, and Close of the **Lead to Opportunity Sales Process** which **** will **** automatically be displayed as shown below.
 * Now, select the required BPF stage, for example, select the **Qualify** stage.
 * Click on the **'Create Plan Step'** Button.
 
@@ -72,8 +71,8 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 * This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name for the Plan Step.
-  * **Description:** Provide a short description of the Plan Step.
-  * **Add a waiting period for this step:**
+  * **Description (Optional):** Provide a short description of the Plan Step.
+  * **Add a waiting period for this step (Optional):** Waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete a plan step. For example, if there is a plan step for getting the lead details and the waiting period for it is set as 2 hours then the plan step actions within the plan step can only be performed after the waiting period ends.
     * **Days:** Add the desired waiting period for this step to be performed after **'X'** **Days**.
     * **Hours:** Add the desired waiting period for this step to be performed after **'X'** **Hours.**
 
@@ -83,15 +82,19 @@ In the same way, you can set Advanced criteria for other plan records as well.
 
 <figure><img src="../../../../.gitbook/assets/BPF step 3.png" alt=""><figcaption></figcaption></figure>
 
-* Your plan step will be added to the process and will appear here.
+* Your plan step will be added to the process and will appear on plan steps.
 
 <figure><img src="../../../../.gitbook/assets/BPF step 4 (1).png" alt=""><figcaption></figcaption></figure>
 
-* And now you can add the actions inside the selected stage.
+* And now you can add the actions inside the plan step created for the selected stage.
 
 <figure><img src="../../../../.gitbook/assets/BPF_ 14.png" alt=""><figcaption></figcaption></figure>
 
 * To create Plan Step Actions [click here](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans-process/plan-step-action).
+
+In this way, Process-Type plans for Business Process Flow can be created with plan steps and plan step actions.
+
+You can also create a [Checklist-Type](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/checklist-type-plan-for-business-process-flow) plan for Business Process Flow.
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
