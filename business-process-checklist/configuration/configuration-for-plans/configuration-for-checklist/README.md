@@ -1,4 +1,4 @@
-# Configuration for Checklist
+# Create Checklist-Type Plan
 
 The checklist is a type of plan where steps are independent and can be performed arbitrarily.
 

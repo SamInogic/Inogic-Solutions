@@ -1,11 +1,15 @@
-# Configuration for Plans
+# Create Plan For Business Process Flow
 
-A manager can create plans for various records (like lead, opportunity, campaigns, etc) which then CRM users can follow. This helps in increasing the productivity of the business.
+Business Process Flow provides various stages for users to follow while going through a business process.
 
-There are two types of plans - Process and Checklist:
+When using Business Process Flow, users can fill in the various fields present on the stages to complete a business process, helping managers guide their users, but by creating plans for Business Process Flow, managers can specifically tell the users what tasks they need to perform in order to effectively complete a business process.
 
-* [Configuration for Process](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process)
-* [Configuration for Checklist](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-checklist)
+You can create plans that can be attached to specific stages of Business Process Flows in Dynamics 365 CRM. **For example,** if a user wants to create a plan to connect to the **Qualify Stage** of **Lead to Opportunity Sales Process** to setting up the best practices for **qualifying a lead in the Lead to Opportunity Sales Process**. **** In order to achieve this, the user has to follow the steps given below:
+
+You can create both **Process** and **Checklist-Type** plans for Business Process Flows:
+
+* **Process-Type plan for Business Process Flow:** In a Process-Type plan for Business Process Flow, tasks can only be performed in a pre-defined order.
+* **Checklist-Type Plan for Business Process Flow:** In a Checklist-Type plan for Business Process Flow, tasks can be performed regardless of the set order.
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

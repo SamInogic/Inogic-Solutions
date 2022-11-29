@@ -3,6 +3,8 @@
 You can manage plans in the following ways:
 
 * [Create Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plans)
+* Create Plan for Business Process Flow
+* Create Plan for Custom Groups
 * [Revise Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/revise-plan)
 * [Delete Plan](https://docs.inogic.com/business-process-checklist/features/manage-plans/delete-plan)
 

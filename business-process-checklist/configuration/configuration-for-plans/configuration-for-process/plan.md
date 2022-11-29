@@ -6,11 +6,11 @@ Below are the steps to create a Process-Type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan.**
 
-<figure><img src="../../../../../.gitbook/assets/Configuration entity _1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **New plan** button and select **Process.**
 
-<figure><img src="../../../../../.gitbook/assets/Configuration entity _2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open a **'New Plan'** page, where you need to fill in the details.
   * **Name:** Provide a unique name for the plan.
@@ -31,11 +31,11 @@ Note: If neither business process nor custom groups are selected, then the plan 
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../../.gitbook/assets/Configuration entity _3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _3.png" alt=""><figcaption></figcaption></figure>
 
 * The new plan will be created and can be seen on **Plans**.
 
-<figure><img src="../../../../../.gitbook/assets/Plan_12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_12 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now that we have created a plan, let’s add [plan steps](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process/plan-step) to the plan.
 

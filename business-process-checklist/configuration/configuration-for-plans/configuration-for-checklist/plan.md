@@ -4,11 +4,11 @@ Below are the steps to configure the checklist - type plan:
 
 * Navigate to **Business Process Checklist App** **--> Plans --> New Plan**
 
-<figure><img src="../../../../../.gitbook/assets/Configuration entity _1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity _1.png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'New plan'** button and select **Checklist.**
 
-<figure><img src="../../../../../.gitbook/assets/Configuration entity checklist _2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Configuration entity checklist _2.png" alt=""><figcaption></figcaption></figure>
 
 * This will open the **'New Plan'** page where you need to fill in the details
   * **Name:** Provide a unique name for the plan.
@@ -28,11 +28,11 @@ Note: If either business process or custom groups are selected, then the plan wi
 
 * Once the required fields are filled, click on **‘Save’**.
 
-<figure><img src="../../../../../.gitbook/assets/Plan_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan_4 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The new plan will be created and can be seen on **Plans**.
 
-<figure><img src="../../../../../.gitbook/assets/Publish checklist.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Publish checklist.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
