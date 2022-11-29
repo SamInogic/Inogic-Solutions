@@ -1,10 +1,10 @@
 # Auto-Attach the Plan to Record
 
-Plans defined by the manager will automatically get attached to the records as per the matched criteria.
+Plans defined by the manager will automatically get attached to the records as per the matched criteria. And whenever a new record will be created in the chosen record type the set plan for it will automatically get connected to the newly created record.
 
 **Below is an example:**
 
-* Now, the manager has created a plan for lead nurturing for the lead entity, where the criteria are set as lead source as **"Web"**.
+* Suppose the manager has created a plan for lead nurturing for the lead entity, where the criteria are set as lead source as **"Web".**
 
 <figure><img src="../../../.gitbook/assets/Auto Attach the Plan to Record new 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 <figure><img src="../../../.gitbook/assets/Auto Attach the Plan to Record new 3.png" alt=""><figcaption></figcaption></figure>
 
-* So, whenever the lead is created with the lead source as **"Web"** then the lead nurturing plan will get attached to that lead record.
+* So, whenever the lead is created with the lead source as **“Web”** then the lead nurturing plan will get attached to that lead record.
 
 <figure><img src="../../../.gitbook/assets/Auto attach plan to record.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Plans defined by the manager will automatically get attached to the records as p
 
 <figure><img src="../../../.gitbook/assets/Check to complete action.png" alt=""><figcaption></figcaption></figure>
 
-* Users can be able to skip the plan step instead of performing it.
+* Users can be able to skip the **plan step** instead of performing it.
 
 <figure><img src="../../../.gitbook/assets/skip plan step action.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Plans defined by the manager will automatically get attached to the records as p
 Note: In the same way, you can unmark to remove favorite plan steps from the Important Items view.
 {% endhint %}
 
-* Users can view the due date against each open-plan step. The due date can be changed as per the requirements.
+* Users can view the due date against each **open-plan step.** The due date can be changed as per the requirements. due date is the date on which the plan step is set to be performed.
 
 <figure><img src="../../../.gitbook/assets/due date.png" alt=""><figcaption></figcaption></figure>
 

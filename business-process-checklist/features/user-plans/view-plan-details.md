@@ -1,6 +1,6 @@
 # View Plan Details
 
-The salesperson can check the plan created by the manager that he needs to follow.
+Users can view the details of plan created by the manager that he needs to follow during the course of the day.
 
 To view the **Plan Details** follow the steps below:
 

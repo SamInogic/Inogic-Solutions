@@ -1,13 +1,15 @@
 # Data Migration
 
-How to migrate configurations, plans, plan steps, and plan step actions from one environment to another.
+Managers can migrate the already created configurations, plans, plan steps and plan step actions from one environment to another instead of manually creating the same configurations in another environment of their choice.
 
-The process of migrating configurations from one environment into another can be divided into two parts:
+How to migrate configurations, plans, plan steps, and plan step actions from one environment to another. The process of migrating configurations from one environment to another can be divided into two parts:
 
 * Export configuration from one environment
-* Import the same configuration in another environment
+* Import the same configuration into another environment
 
 ### Export configurations from one environment to another
+
+To export configurations from one environment to another follow the steps given below:
 
 Before exporting the configurations, create a **custom view** on **'Business Process Checklist configuration'** in the environment from which the configuration is to be moved in the following way:
 
@@ -91,11 +93,13 @@ Before exporting the configurations, create a **custom view** on **'Business Pro
 
 <figure><img src="../../.gitbook/assets/data migration_23.png" alt=""><figcaption></figcaption></figure>
 
-* Browse the **.csv** file.
+* Click on **Chose File** and Browse the **.csv** file.
 
 <figure><img src="../../.gitbook/assets/data migration_31 new.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/data migration_32 new.png" alt=""><figcaption></figcaption></figure>
+
+* Click on **NEXT.**
 
 <figure><img src="../../.gitbook/assets/data migration_33 new.png" alt=""><figcaption></figcaption></figure>
 
@@ -114,6 +118,8 @@ Before exporting the configurations, create a **custom view** on **'Business Pro
 * Click on **Done.**
 
 <figure><img src="../../.gitbook/assets/data migration_30.png" alt=""><figcaption></figcaption></figure>
+
+In this way, users can export configuration from one environment and Import the same configuration into another environment
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
