@@ -35,6 +35,8 @@ To create **Plan steps**, follow the steps given below:
 
 <figure><img src="../../../../.gitbook/assets/plan step_5 (1).png" alt=""><figcaption></figcaption></figure>
 
+Now that we have created a plan step, let’s add [plan step actions](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan/create-process-type-plan/plan-step-action) next.
+
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
 {% endhint %}

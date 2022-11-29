@@ -128,7 +128,7 @@
         * [Process-Type Plan for Business Process Flow](business-process-checklist/features/manage-plans/create-plan/business-process-flow.md)
         * [Checklist-Type Plan for Business Process Flow](business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/checklist-type-plan-for-business-process-flow.md)
       * [Create Plan For Custom Groups](business-process-checklist/features/manage-plans/create-plan-for-custom-groups/README.md)
-        * [Process-Type Plan for Custom Groups](business-process-checklist/features/manage-plans/create-plan-for-custom-groups/process-type-plan-for-custom-groups.md)
+        * [Process-Type Plan for Custom Groups](business-process-checklist/features/manage-plans/create-plan/custom-groups.md)
         * [Checklist-Type Plan for Custom Groups](business-process-checklist/features/manage-plans/create-plan-for-custom-groups/checklist-type-plan-for-custom-groups.md)
       * [Revise Plan](business-process-checklist/features/manage-plans/revise-plan.md)
       * [Delete Plan](business-process-checklist/features/manage-plans/delete-plan.md)

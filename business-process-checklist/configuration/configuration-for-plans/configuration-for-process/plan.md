@@ -22,8 +22,8 @@ Below are the steps to create a Process-Type plan:
     * **Simple:** Execute plans based on the chosen View of an entity.
     * **Advanced:** Execute plans **** based on filtered criteria or conditions (conditions defined in Fetch XML).
   * **Plan for (Optional)**: Users can create plans for **Business Process Flow** or **Custom Groups.** (If neither business process nor custom groups are selected, then the plan will be automatically created for the record type selected).
-    * **Business Process Flow:** Select **Business Process Flow** to create a plan for Custom or OOB Business Process Flows. &#x20;
-    * **Custom Groups:** Select **Custom Groups** to create a plan for Custom Groups.
+    * **Business Process Flow:** Select **Business Process Flow** to create a plan for Custom or OOB[ Business Process Flows. ](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/process-type-plan-for-business-process-flow)&#x20;
+    * **Custom Groups:** Select **Custom Groups** to create a plan for [Custom Groups.](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-custom-groups/process-type-plan-for-custom-groups)
 
 {% hint style="info" %}
 Note: If neither business process nor custom groups are selected, then the plan will be created for the record by default.

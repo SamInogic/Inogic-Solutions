@@ -8,8 +8,8 @@ You can create plans that can be attached to specific stages of Business Process
 
 You can create both **Process** and **Checklist-Type** plans for Business Process Flows:
 
-* **Process-Type plan for Business Process Flow:** In a Process-Type plan for Business Process Flow, tasks can only be performed in a pre-defined order.
-* **Checklist-Type Plan for Business Process Flow:** In a Checklist-Type plan for Business Process Flow, tasks can be performed regardless of the set order.
+* ****[**Process-Type plan for Business Process Flow:**](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/process-type-plan-for-business-process-flow) In a Process-Type plan for Business Process Flow, tasks can only be performed in a pre-defined order.
+* ****[**Checklist-Type Plan for Business Process Flow:** ](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/checklist-type-plan-for-business-process-flow)In a Checklist-Type plan for Business Process Flow, tasks can be performed regardless of the set order.
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
