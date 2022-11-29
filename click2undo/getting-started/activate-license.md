@@ -35,3 +35,7 @@ Here are the steps to complete registration through the **‘License Registratio
 * Click on ‘Register’ to complete the License Registration.
 
 ![](<../../.gitbook/assets/Lic\_5 (5).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

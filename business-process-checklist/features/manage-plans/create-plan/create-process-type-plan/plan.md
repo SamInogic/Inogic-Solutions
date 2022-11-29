@@ -1,0 +1,44 @@
+# Plan
+
+To create a Process-Type plan, you need to create a plan first. Plans consist of multiple tasks/plan steps that are needed to be performed to complete a business process successfully.
+
+Below are the steps to create a Process-Type plan:
+
+* Navigate to **Business Process Checklist App** **--> Plans --> New Plan.**
+
+<figure><img src="../../../../../.gitbook/assets/Configuration entity _1 (1).png" alt=""><figcaption></figcaption></figure>
+
+* Click on the **New plan** button and select **Process.**
+
+<figure><img src="../../../../../.gitbook/assets/Configuration entity _2.png" alt=""><figcaption></figcaption></figure>
+
+* This will open a **'New Plan'** page, where you need to fill in the details.
+  * **Name:** Provide a unique name for the plan.
+  * **Description (Optional):** Provide a short description of the plan.
+  * **Plan Type:** Select Plan Type **** as **Process**.
+  * **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
+  * **Record Type:** Select the **Record Type** for which the plan will be created.
+  * **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced**.
+    * **Simple:** Execute plans based on the chosen View of an entity.
+    * **Advanced:** Execute plans **** based on filtered criteria or conditions (conditions defined in Fetch XML).
+  * **Plan for (Optional)**: Users can create plans for **Business Process Flow** or **Custom Groups.** (If neither business process nor custom groups are selected, then the plan will be automatically created for the record type selected).
+    * **Business Process Flow:** Select **Business Process Flow** to create a plan for Custom or OOB Business Process Flows. &#x20;
+    * **Custom Groups:** Select **Custom Groups** to create a plan for Custom Groups.
+
+{% hint style="info" %}
+Note: If neither business process nor custom groups are selected, then the plan will be created for the record by default.
+{% endhint %}
+
+* Once the required fields are filled, click on **‘Save’**.
+
+<figure><img src="../../../../../.gitbook/assets/Configuration entity _3.png" alt=""><figcaption></figcaption></figure>
+
+* The new plan will be created and can be seen on **Plans**.
+
+<figure><img src="../../../../../.gitbook/assets/Plan_12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Now that we have created a plan, let’s add [plan steps](https://docs.inogic.com/business-process-checklist/configuration/configuration-for-plans/configuration-for-process/plan-step) to the plan.
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

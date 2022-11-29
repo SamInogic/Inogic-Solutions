@@ -1,21 +1,21 @@
-# Configuration for Entity
+# Enable Record Type
 
-Enabling **Entity Configuration** is essential to **create** and **manage** Plans for Entity (except activity entity).
+Enabling **Record Type** is essential for creating and managing plans in the Business Process Checklist App. Without enabling record types, you will not be able to create plans for specific records in Dynamics 365 CRM.
 
-Below are the steps for Entity Configuration in Business Process Checklist:
+Below are the steps for enabling the **Record Type** for which the plan needs to be created in the Business Process Checklist App:
 
 * Navigate to **Business Process Checklist App** **--> BPC Settings --> Add Record Type.**
 
 <figure><img src="../../.gitbook/assets/Entity configuration 1 new.png" alt=""><figcaption></figcaption></figure>
 
-* Select the required **entity** to configure from the appeared menu.
+* Select the required **Record Type** from the appearing menu to enable it.
 
 <figure><img src="../../.gitbook/assets/Entity configuration 3 new.png" alt=""><figcaption></figcaption></figure>
 
-* Now your **enabled entity configuration** will appear below along with **Email, Phone Call & Task** which are three default supported activities.
+* Now your **Enabled Record Types** will appear below, along with **Email, Phone Call & Task,** which are the three default supported activities.
 
 {% hint style="info" %}
-Note: Email activity is supported only for those entities that have an email field.
+Note: Supported activities are activities through which tasks in the plan can be performed. For example, making a phone call to verify lead details in the lead nurturing plan.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Entity configuration 4 new.png" alt=""><figcaption></figcaption></figure>
@@ -24,7 +24,7 @@ Note: Email activity is supported only for those entities that have an email fie
 
 <figure><img src="../../.gitbook/assets/Entity configuration 5 new.png" alt=""><figcaption></figcaption></figure>
 
-* Entity configuration can be deleted using **** the **Delete icon**.
+* If you want to disable any record type, you can delete it by clicking on the **Delete icon**.
 
 <figure><img src="../../.gitbook/assets/Entity configuration 6 new.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,8 +32,10 @@ Note: Email activity is supported only for those entities that have an email fie
 
 <figure><img src="../../.gitbook/assets/Entity Configuration_5.png" alt=""><figcaption></figcaption></figure>
 
+In this way, you can enable and disable record types.
+
 {% hint style="info" %}
-**Note: Business Process Checklist User can't create entity configuration.**
+**Note: Users with the Business Process Checklist User Security Role can't enable or disable record types.**
 {% endhint %}
 
 {% hint style="success" %}
