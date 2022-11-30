@@ -7,7 +7,7 @@ Installing Business Process Checklist solution in your CRM or Dataverse environm
 
 ### Using Power Apps UI&#x20;
 
-To import a solution, first sign into [Power Apps](https://make.powerapps.com/).
+To import a solution, first sign into [Power Apps](https://make.powerapps.com/?utm\_source=padocs\&utm\_medium=linkinadoc\&utm\_campaign=referralsfromdoc).
 
 * Once you have signed in, select the instance on which you want to install the solution.
 

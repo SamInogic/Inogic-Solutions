@@ -16,7 +16,7 @@ Business Process Checklist has the following security roles:
 **Note:**&#x20;
 
 * **It is necessary to assign any one of the above security roles to use Business Process Checklist.**
-* **Only System Administrator can enable the record type for Business Process Checklist.**
+* **Only System Administrator can do the configuration for Business Process Checklist.**
 {% endhint %}
 
 Here are the steps to assign security roles to CRM users:

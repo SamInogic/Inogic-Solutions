@@ -15,7 +15,7 @@ Below are the steps for enabling the **Record Type** for which the plan needs to
 * Now your **Enabled Record Types** will appear below, along with **Email, Phone Call & Task,** which are the three default supported activities.
 
 {% hint style="info" %}
-**Note: Supported activities are activities through which tasks in the plan can be performed. For example, making a phone call to verify lead details in the lead nurturing plan.**
+Note: Supported activities are activities through which tasks in the plan can be performed. For example, making a phone call to verify lead details in the lead nurturing plan.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Enable record type.png" alt=""><figcaption></figcaption></figure>
@@ -35,7 +35,7 @@ Below are the steps for enabling the **Record Type** for which the plan needs to
 In this way, you can enable and disable record types.
 
 {% hint style="info" %}
-**Note:** **Users with the Business Process Checklist Administrator or Business Process Checklist User Security Role can't enable or disable record types.**
+**Note: Users with the Business Process Checklist User Security Role can't enable or disable record types.**
 {% endhint %}
 
 {% hint style="success" %}
