@@ -17,7 +17,7 @@ To create a Process-Type plan for Business Process Flow, follow the steps given 
   * **Advanced:** Execute plans based on filter criteria or conditions (conditions defined in Fetch XML).
 
 {% hint style="info" %}
-Note: This step is the same for checklist and Process-Type plans.
+**Note: This step is the same for checklist and Process-Type plans.**
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/BPF new 2.png" alt=""><figcaption></figcaption></figure>

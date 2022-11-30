@@ -35,7 +35,7 @@ Plans defined by the manager will automatically get attached to the records as p
 <figure><img src="../../../.gitbook/assets/Favorite.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: In the same way, you can unmark to remove favorite plan steps from the Important Items view.
+**Note: In the same way, you can unmark to remove favorite plan steps from the Important Items view.**
 {% endhint %}
 
 * Users can view the due date against each **open-plan step.** The due date can be changed as per the requirements. due date is the date on which the plan step is set to be performed.

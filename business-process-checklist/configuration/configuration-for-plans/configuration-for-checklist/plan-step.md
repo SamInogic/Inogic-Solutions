@@ -32,7 +32,7 @@ To create **Plan Steps**, follow the steps given below:
 * **Click** on **Publish** to publish the plan.
 
 {% hint style="info" %}
-Note: At least one plan step should be added to publish a Checklist-Type plan.
+**Note: At least one plan step should be added to publish a Checklist-Type plan.**
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/Publish checklist (1).png" alt=""><figcaption></figcaption></figure>

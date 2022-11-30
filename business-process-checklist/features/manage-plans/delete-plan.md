@@ -19,7 +19,7 @@ To delete Process-Type plans, plan steps and plan step actions follow the steps 
 <figure><img src="../../../.gitbook/assets/Delete plan_2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If a plan is deleted then the associated Plan steps and Plan Step Actions will also be deleted.
+**Note: If a plan is deleted then the associated Plan steps and Plan Step Actions will also be deleted.**
 {% endhint %}
 
 ### 2) Plan Step
@@ -33,7 +33,7 @@ Note: If a plan is deleted then the associated Plan steps and Plan Step Actions 
 <figure><img src="../../../.gitbook/assets/delete plan step _2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If Plan Step is deleted then associated plan step actions are deleted automatically.
+**Note: If Plan Step is deleted then associated plan step actions are deleted automatically.**
 {% endhint %}
 
 ### 3) Plan Step Action
@@ -55,7 +55,7 @@ To delete **Checklist-Type** plans and plan steps follow the steps given below:
 <figure><img src="../../../.gitbook/assets/delete plan_1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note: If a plan is deleted then the associated Plan steps will also be deleted.
+**Note: If a plan is deleted then the associated Plan steps will also be deleted.**
 {% endhint %}
 
 ### 2) Plan Step&#x20;

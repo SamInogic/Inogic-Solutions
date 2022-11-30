@@ -17,7 +17,7 @@ To revise Process-Type plans, plan steps and plan step actions follow the steps 
 * Click on the **'Revise'** Button, this will change the plan status to **Draft**.
 
 {% hint style="info" %}
-Note: Locked Fields can't be edited.
+**Note: Locked Fields can't be edited.**
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/revise plan_2.png" alt=""><figcaption></figcaption></figure>
