@@ -17,7 +17,7 @@ To create **Plan steps**, follow the steps given below:
 * This will open a **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name for the Plan Step.
   * **Description (Optional):** Provide a short description of the Plan Step.
-  * **Add a waiting period for this step (Optional):** A waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete the plan step. For example, if there is a plan step for getting the lead details and the waiting period for it is set as 2 hours then the plan step actions within the plan step can only be performed after the waiting period ends.
+  * **Add a waiting period for this step (Optional):** A waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete the plan step. For example, If there is a step in the process to send a product introduction email and the waiting period for it is set to 1 day, then the actual email action within the plan step can only be performed after the waiting period ends, i.e., after 1 day.
     * **Days:** Add the desired waiting period for this step to be performed after **'X' Days.**
     * **Hours:** Add the desired waiting period for this step to be performed after **'X' Hours.**
 
