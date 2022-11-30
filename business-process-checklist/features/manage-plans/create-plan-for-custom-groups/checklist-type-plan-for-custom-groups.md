@@ -6,7 +6,11 @@ This proves useful for creating flexible plans for Custom Groups where your sale
 
 To create a Checklist-Type plan for Custom Groups, follow the steps given below:
 
-* **Fill in the following details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Fill in the following details:**&#x20;
+* **Name:** Provide a unique name for the plan.
+* **Description (Optional):** Provide a short description of the plan.
+* **Plan Type:** Select Plan Type **** as **Checklist**.
+* **Record Type:** Select the **Record Type** for which the plan will be created.
 * **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
 * **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced.**
   * **Simple:** Execute plans based on the chosen View of an entity.

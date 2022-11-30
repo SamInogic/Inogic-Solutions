@@ -6,7 +6,11 @@ This is useful for creating plans for Business Process Flow where you want your 
 
 To create a Process-Type plan for Business Process Flow, follow the steps given below:&#x20;
 
-* **Fill in the following plan details:** Name, Description, Plan Type, Priority Order, Record Type.
+* **Fill in the following plan details:**&#x20;
+* **Name:** Provide a unique name for the plan.
+* **Description (Optional):** Provide a short description of the plan.
+* **Plan Type:** Select Plan Type **** as **Process**.
+* **Record Type:** Select the **Record Type** for which the plan will be created.
 * **Priority Order:** A **** waiting period can be added to define when the plan step should be performed. Once the waiting period is over the plan step actions within the plan step can be performed to eventually complete a plan step. For example, if there is a plan step for getting the lead details and the waiting period for it is set as 2 hours then the plan step actions within the plan step can only be performed after the waiting period ends.
 * **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced.**
   * **Simple:** Execute plans based on the chosen View of an entity.
