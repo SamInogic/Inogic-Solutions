@@ -17,9 +17,9 @@ Below are the steps to create a Process-Type plan:
   * **Description (Optional):** Provide a short description of the plan.
   * **Plan Type:** Select Plan Type **** as **Process**.
   * **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
-  * **Record Type:** Select the **Record Type** for which the plan will be created. (E.g. Lead, Opportunity, Case, or Custom record type etc.)
+  * **Record Type:** Select the **Record Type** for which the plan will be created.
   * **Set criteria for the execution of the Plan (Optional):** Set the criteria against the plan (the plan will automatically attach against those for which the criteria match). Select either **Simple** or **Advanced**.
-    * **Simple:** Execute plans based on the conditions defined in view of an entity.
+    * **Simple:** Execute plans based on the chosen View of an entity.
     * **Advanced:** Execute plans **** based on filtered criteria or conditions (conditions defined in Fetch XML).
   * **Plan for (Optional)**: Users can create plans for **Business Process Flow** or **Custom Groups.** (If neither business process nor custom groups are selected, then the plan will be automatically created for the record type selected).
     * **Business Process Flow:** Select **Business Process Flow** to create a plan for Custom or OOB[ Business Process Flows. ](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan-for-business-process-flow/process-type-plan-for-business-process-flow)&#x20;

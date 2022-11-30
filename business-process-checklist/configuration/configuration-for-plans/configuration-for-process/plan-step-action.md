@@ -18,7 +18,7 @@ To Add a **Plan Step Action**, follow the steps given below:
   * **Set criteria for the execution of Plan Step Action:**
     * **Execution Order:** Enter the execution order for Plan Step Action in which the Plan Step Action will be executed.
     * **Criteria Mode (optional): Criteria mode** defines the criteria of the records on which the Plan Step Action will be applicable and executed. Select either **Simple** or **Advanced**.
-      * **Simple:** Here, you can further define and set criteria for records through the view of an entity.
+      * **Simple:** Here you can select any ‘View’ from the dropdown.
       * **Advanced:** Here, you can further define and set criteria for records through fetch XML.
 
 <figure><img src="../../../../.gitbook/assets/Quick create plan step actions.png" alt=""><figcaption></figcaption></figure>
