@@ -2,7 +2,7 @@
 
 > ### _This feature to restore deleted records is part of our Dynamics 365 CRM_
 >
-> ### _1-click app_ [_Undo2Restore_](https://www.inogic.com/product/productivity-apps/undo-restore-recover-deleted-dynamics-365-crm-records)_!_
+> ### _1-click app_ [_Undo2Restore_](https://bit.ly/3H1u0YB)_!_
 
 Sometimes, it happens that you may delete a record by mistake and find that there is no way to restore it. In such situations, this feature allows you to restore that deleted record. For this feature to function it is a must to [enable entities](https://docs.inogic.com/click2undo/configuration/enable-entities) for Undo2Restore solution.&#x20;
 
