@@ -19,6 +19,7 @@ Given below are the steps to add multiple messages to an existing Alert.
     * **Name:** This is the name of the message you are trying to create.&#x20;
     * **Alert:** This is the Alert for which you are creating the message.&#x20;
     * **Message Text:** Enter the message you would like to display in the notification or send to the users as email. Users can also pass dynamic values here for e.g. Account {name} has been created, where {name} stands for Account’s name.&#x20;
+    * &#x20;**Message Rich Text:**&#x20;
     * **Alert Level:** This can be categorized as **Information, Warning** and **Critical**. This determines the severity level of the Alert you are trying to create.&#x20;
     *   **Alert As:** This is the mode of notifying your users. It can be done as:&#x20;
 
