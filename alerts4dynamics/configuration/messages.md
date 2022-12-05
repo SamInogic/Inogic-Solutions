@@ -18,7 +18,7 @@ Given below are the steps to add multiple messages to an existing Alert.
   * **Name:** This is the name of the message you are trying to create.&#x20;
   * **Alert:** This is the Alert for which you are creating the message.&#x20;
   * **Message Text:** Enter the message you would like to display in the notification or send to the users as email. Users can also pass dynamic values here for e.g. Account {name} has been created, where {name} stands for Account’s name.&#x20;
-  * **Message Rich Text:** With Message Rich Text, users can create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.
+  * **Message Rich Text:** Gives provision to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.
   * **Alert Level:** This can be categorized as **Information, Warning** and **Critical**. This determines the severity level of the Alert you are trying to create.&#x20;
   * **Alert As:** This is the mode of notifying your users. It can be done as:&#x20;
     * **Pop-Up:** The notification with message will pop-up post clicking the global notification bell button.&#x20;
@@ -29,7 +29,9 @@ Given below are the steps to add multiple messages to an existing Alert.
   * **Auto Dismissible:** Gives provision to configure the alerts as auto-dismissible/non auto-dismissible. If **‘Yes’** is selected then alerts will be automatically dismissed once the defined condition is no more satisfied. If **‘No’** is selected then alerts cannot be dismissed automatically even if it moves out of the defined condition in the alert configuration. **(Note: Is applicable to Rule-based and Event-based alerts. However, it only supports Record-based alert if the alert is configured using advanced message type.)**
   * **Email Workflow:** If the **‘Email Notification’** is selected in ‘**Alert As’** field then the user needs to create an OOB workflow for sending an email. We can send email notification to not only the CRM users but also the customers as well
 
-> **Note:  If both Message Text and Message Rich Text fields are filled then preference will be given to Message Rich Text.**
+{% hint style="info" %}
+**Note:  If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
+{% endhint %}
 
 ![](../../.gitbook/assets/Message\_3.png)
 
