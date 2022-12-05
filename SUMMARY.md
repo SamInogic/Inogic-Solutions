@@ -31,6 +31,7 @@
     * [Alert in Multiple Languages](alerts4dynamics/features/alert-in-multiple-languages.md)
     * [Set User Preference](alerts4dynamics/features/set-user-preference.md)
     * [Alert Delivery Preferences](alerts4dynamics/features/alert-delivery-preferences.md)
+    * [Message Rich Text](alerts4dynamics/features/message-rich-text.md)
   * [Uninstallation](alerts4dynamics/uninstallation.md)
   * [FAQs](alerts4dynamics/faqs.md)
   * [Video Library](alerts4dynamics/video-library.md)
