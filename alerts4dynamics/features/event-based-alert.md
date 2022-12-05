@@ -42,24 +42,21 @@ There is an invoice with a related account which has further multiple associated
 * Fill the following fields:&#x20;
   * **Name** – Enter some valid name for the message.&#x20;
   * **Message Text** – Enter a text for the message that you would like to display on the alert notification. Let’s say, we would like to show the invoice name in the message. For this we’ll select a dynamic field from the list.
-  * **Message Rich Text –**  Gives provision to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.
+  * **Message Rich Text –** Select the appropriate Message Rich Text from the lookup.&#x20;
 
 {% hint style="info" %}
 **Note:**&#x20;
 
 * **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
-* **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
+* **Message Rich Text cannot be displayed as a bar in a form notification.**
+* **To add Message Rich Text in Event-Based Alerts you need to create messages before creating the workflow.  using "Message Texts entity" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/Event 2\_9.png>)
 
-* Click on **‘Add’** and **‘OK’**.
-
-![](<../../.gitbook/assets/Event 2\_10.png>)
-
-* Next, fill the following fields:&#x20;
-  * **Alert As** – Since we want to send an alert through an email, we will select it as **‘Email notification’.**&#x20;
-  * **Alert level** – Let’s say it is just a normal informational alert, we will select it as ‘**Information’**.
+* Click on **‘Add’** and Next, fill the following fields:&#x20;
+* **Alert As** – Since we want to send an alert through an email, we will select it as **‘Email notification’.**&#x20;
+* **Alert level** – Let’s say it is just a normal informational alert, we will select it as ‘**Information’**.
 * Populate the field **‘Notification Associated with’ f**ield. Since this alert is associated with **‘Invoice’** but we want a notification to be shown on the related Account, we will select the Record URL of the **Account** entity and **not** of the **Invoice**.
 
 {% hint style="info" %}
