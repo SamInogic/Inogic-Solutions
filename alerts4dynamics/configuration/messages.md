@@ -30,7 +30,10 @@ Given below are the steps to add multiple messages to an existing Alert.
   * **Email Workflow:** If the **‘Email Notification’** is selected in ‘**Alert As’** field then the user needs to create an OOB workflow for sending an email. We can send email notification to not only the CRM users but also the customers as well
 
 {% hint style="info" %}
-**Note:  If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
+**Note:**&#x20;
+
+* **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
+* **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/Message\_3.png)

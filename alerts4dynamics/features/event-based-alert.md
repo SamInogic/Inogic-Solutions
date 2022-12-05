@@ -44,6 +44,13 @@ There is an invoice with a related account which has further multiple associated
   * **Message Text** – Enter a text for the message that you would like to display on the alert notification. Let’s say, we would like to show the invoice name in the message. For this we’ll select a dynamic field from the list.
   * **Message Rich Text –**  Gives provision to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.
 
+{% hint style="info" %}
+**Note:**&#x20;
+
+* **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
+* **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
+{% endhint %}
+
 ![](<../../.gitbook/assets/Event 2\_9.png>)
 
 * Click on **‘Add’** and **‘OK’**.
@@ -56,14 +63,14 @@ There is an invoice with a related account which has further multiple associated
 * Populate the field **‘Notification Associated with’ f**ield. Since this alert is associated with **‘Invoice’** but we want a notification to be shown on the related Account, we will select the Record URL of the **Account** entity and **not** of the **Invoice**.
 
 {% hint style="info" %}
-**Note**: We support N:1 relationship to show notification on related entity record. For example, you can show all active cases notification on the related account record
+**Note**: **We support N:1 relationship to show notification on related entity record. For example, you can show all active cases notification on the related account record**
 {% endhint %}
 
 ![](<../../.gitbook/assets/Event 2\_11.png>)
 
 * This will set the field with value as shown below:
 
-<figure><img src="../../.gitbook/assets/12 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 * Now we will define the email recipient and select the user from whom you would like to send an email notification. Click on the below look-up field. In this scenario we will set the Notification Audience section blank. Hence, the notification will be displayed to all the users in the CRM.
 * **‘To – Same As Include Users’** : If we have selected the include users and want the same audience to be carry forwarded for the email audience as well, then in such scenario we would have to just set the field to ‘**Yes**’, as by default is set to **‘No’.**
