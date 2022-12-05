@@ -28,7 +28,7 @@ Visit the [link](https://appsource.microsoft.com/en-us/product/dynamics-365/inog
 
 * After the installation is complete, you will be able to see **Attach2Dynamics** solution in 'My apps'.
 
-![](<../../.gitbook/assets/12 (11).png>)
+![](<../../.gitbook/assets/12 (1).png>)
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

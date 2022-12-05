@@ -50,7 +50,7 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](<../../.gitbook/assets/12 (1).png>)
+![](<../../.gitbook/assets/12 (1) (1).png>)
 
 * Check the solution **SharePoint Security Sync** in '**Apps**'.
 
