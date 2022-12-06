@@ -6,11 +6,11 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * Enable entity configuration for **‘Account’** entity.&#x20;
 
-![](<../../../.gitbook/assets/Event\_1 (1) (1).png>)
+![](<../../../.gitbook/assets/Event\_1 (1).png>)
 
 * Navigate to **Advanced Settings --> Processes --> Create New process**.
 
-![](<../../../.gitbook/assets/Event\_2 (2) (1).png>)
+![](<../../../.gitbook/assets/Event\_2 (2).png>)
 
 * Fill the following details and click on **OK**.&#x20;
   * Enter a relevant name for the process •
@@ -35,7 +35,7 @@ For example, the user wants an alert notification to be shown to all users in CR
   * **Message Text –** Enter some valid text (You can also select dynamic value).&#x20;
 * Select the above field and click on **‘Add’** button to add it in the Message Text field.
 
-![](../../../.gitbook/assets/Event\_1.png)
+![](<../../../.gitbook/assets/Event\_1 (5).png>)
 
 * Click **OK**. You will see the dynamic value is set to the **‘Message Text’** field. Similarly add Dynamic values in **‘Name’** field.
 * **Message Rich Text -** Select the appropriate Message Rich Text from the lookup. for this type of message to appear in the lookup users need to create these messages before creating an Event-Based Alert.
@@ -45,7 +45,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 {% endhint %}
 
 * To create and add **Message Rich Text** in an **Event-Based Alert** follow the steps given below:
-* Navigate to **Alerts4Dynamics App -->  Message Texts -->** Click on the **'New'** Button**.**
+  * Navigate to **Alerts4Dynamics App -->  Message Texts -->** Click on the **'New'** Button**.**
 
 <figure><img src="../../../.gitbook/assets/Message Rich Text 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 <figure><img src="../../../.gitbook/assets/Message Rich Text 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note:**&#x20;
+**ote:**&#x20;
 
 * **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
 * **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
@@ -73,7 +73,7 @@ For example, the user wants an alert notification to be shown to all users in CR
   * **For Notification Associated With Field** - You will have to select a dynamic record URL of the entity on which you want to show the notification. In this scenario, we want a notification to be shown on the Account entity, so we will select the Record URL of the Account entity.
 * Click on **‘Add’.**
 
-![](<../../../.gitbook/assets/Event\_2 (2).png>)
+![](<../../../.gitbook/assets/Event\_2 (5).png>)
 
 * For the **‘Notification Audiences’** you can select dynamic users like **Owning User** of the record as well as the **Manager of the Owning User** as shown in **Include Users** field.
 

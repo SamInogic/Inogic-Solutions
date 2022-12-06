@@ -6,7 +6,7 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Navigate to **Advanced Settings** --> **Settings** --> **Process** --> **New Process**.
 
-![](<../../../.gitbook/assets/Event\_1 (1).png>)
+![](../../../.gitbook/assets/Event\_1.png)
 
 * Select category as **‘Workflow’** and choose the **Entity** --> Click on **OK.**
 
