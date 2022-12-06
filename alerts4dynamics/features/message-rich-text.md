@@ -2,6 +2,10 @@
 
 As we already know, once an alert is created, messages can be added to it. But with the Message Rich Text feature, users can create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their alerts and notifications more descriptive and engaging.
 
+<figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/View and dismiss notifications.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Note:**&#x20;
 
@@ -9,7 +13,5 @@ As we already know, once an alert is created, messages can be added to it. But w
 * **Message Rich Text cannot be displayed as a bar in a form notification.**
 * **To add Message Rich Text in Event-Based Alerts you need to create messages before creating the workflow.  using "Message Texts entity" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
 
 For more information, please [click here.](https://docs.inogic.com/alerts4dynamics/configuration/messages)
