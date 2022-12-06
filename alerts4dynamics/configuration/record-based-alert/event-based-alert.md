@@ -32,12 +32,39 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * Fill in the following details:&#x20;
   * **Name –** Enter some valid name for the Notification Request record.&#x20;
-  * **Message Text –** Enter some valid text (You can also select dynamic value).
+  * **Message Text –** Enter some valid text (You can also select dynamic value).&#x20;
 * Select the above field and click on **‘Add’** button to add it in the Message Text field.
 
 ![](<../../../.gitbook/assets/Event\_1 (2).png>)
 
 * Click **OK**. You will see the dynamic value is set to the **‘Message Text’** field. Similarly add Dynamic values in **‘Name’** field.
+* **Message Rich Text -** Select the appropriate Message Rich Text from the lookup. for this type of message to appear in the lookup users need to create these messages before creating an Event-Based Alert.
+
+{% hint style="info" %}
+**Note: Message Rich Text gives users provisions to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.**
+{% endhint %}
+
+* To create and add **Message Rich Text** in an **Event-Based Alert** follow the steps given below:
+* Navigate to **Alerts4Dynamics App -->  Message Texts -->** Click on the **'New'** Button**.**
+
+<figure><img src="../../../.gitbook/assets/Message Rich Text 1.png" alt=""><figcaption></figcaption></figure>
+
+* Fill in the following details:
+  * **Name -** Provide an appropriate name for the Message Rich Text.
+  * **Message Rich Text -** Enter some valid text and do the desired text formatting to create Message Rich Text that will be shown on the notification.
+* Click on **'Save'.**
+
+<figure><img src="../../../.gitbook/assets/Message Rich Text 2.png" alt=""><figcaption></figcaption></figure>
+
+* Once you have created the message
+
+{% hint style="info" %}
+**Note:**&#x20;
+
+* **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
+* **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
+{% endhint %}
+
 * Fill in the following details:&#x20;
   * **Alert As** - Pop up (To display an alert in the form of pop up notification)&#x20;
   * **Alert Level** - Warning/Critical/Informational depending on user’s requirement&#x20;
