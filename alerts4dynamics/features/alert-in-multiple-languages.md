@@ -11,7 +11,7 @@ Similarly, Notification Message record can be **Updated** in two ways:
 
 * Change the **‘Message Text’** field in the Message record will update the respective Notification Message record as it is in the **‘Language’** field of that Message record.
 
-![](../../.gitbook/assets/Multi\_2.png)
+![](<../../.gitbook/assets/Multi\_2 (1).png>)
 
 * Select the Notification Message from its Sub-Grid in Message record and click on the **‘Edit’** button. Notification Message record form will be opened and you can edit the message from that form.
 
