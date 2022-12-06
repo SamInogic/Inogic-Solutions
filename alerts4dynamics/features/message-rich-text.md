@@ -5,13 +5,13 @@ As we already know, once an alert is created, messages can be added to it. But w
 **Message Rich Text field supports the following text formatting options:**&#x20;
 
 * Change font style and size, bold text, and italic text.
-* Underline text, add background color, and add text color.
+* Underline text, strikethrough text, add background color, and add text color.
 * Insert bullets and numbered lists, decrease or increase the indent and add quotation marks.&#x20;
 * Add links, images, and add tables in messages.
 
 <figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/View and dismiss notifications.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Message Rich Text_2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Note:**&#x20;

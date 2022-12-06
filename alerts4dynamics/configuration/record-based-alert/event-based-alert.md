@@ -61,7 +61,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 <figure><img src="../../../.gitbook/assets/Message Rich Text 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**ote:**&#x20;
+**Note:**&#x20;
 
 * **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
 * **Message Rich Text cannot be displayed as a bar in a form notification.**&#x20;
