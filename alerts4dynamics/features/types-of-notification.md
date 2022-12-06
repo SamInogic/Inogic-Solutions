@@ -32,7 +32,7 @@ Notifications can be dismissed at any time. There are two ways to dismiss Notifi
 
 If user sets **‘Is Dismissible’** field as **‘Yes’** then the alert can be dismissed. In this case, ‘**X**’ button will continue showing up on the alert notification indicating that the alert notification is dismissible.
 
-![](../../.gitbook/assets/Dismiss\_1.png)
+![](<../../.gitbook/assets/Dismiss\_1 (1).png>)
 
 ![](../../.gitbook/assets/Dismiss\_2.png)
 
