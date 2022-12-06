@@ -49,7 +49,7 @@ There is an invoice with a related account which has further multiple associated
 
 * **If both Message Text and Message Rich Text fields are filled, then preference will be given to Message Rich Text when displaying the notification.**
 * **Message Rich Text cannot be displayed as a bar in a form notification.**
-* **To add Message Rich Text in Event-Based Alerts you need to create messages before creating the workflow.  using "Message Texts entity" of Alerts4Dynamics App.**&#x20;
+* **To add Message Rich Text in Event-Based Alerts you need to create messages text before creating the workflow using "Message Texts" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/Event 2\_9.png>)
