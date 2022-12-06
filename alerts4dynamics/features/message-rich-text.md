@@ -2,9 +2,12 @@
 
 As we already know, once an alert is created, messages can be added to it. But with the Message Rich Text feature, users can create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their alerts and notifications more descriptive and engaging.
 
-**Message Rich Text field supports the following text formatting options:** change font style, change font size, bold text, italic text, underline text, add background color, add text color, insert bullets and numbered lists, decrease or increase Indent, add quotation marks,add links and images, and add tables in messages.
+**Message Rich Text field supports the following text formatting options:**&#x20;
 
-
+* Change font style and size, bold text, and italic text.
+* Underline text, add background color, and add text color.
+* Insert bullets and numbered lists, decrease or increase the indent and add quotation marks.&#x20;
+* Add links, images, and add tables in messages.
 
 <figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
 
