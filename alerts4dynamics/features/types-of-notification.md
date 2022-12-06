@@ -12,9 +12,9 @@ Whenever there is a new notification a red dot comes on the Notification button.
 
 ![](../../.gitbook/assets/Noti\_1.png)
 
-Notifications can be seen by clicking on Notification button.
+Notifications can be seen by clicking on the Notification button.
 
-<figure><img src="../../.gitbook/assets/VIEW AND Dismiss notification.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/View and dismiss notifications (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to dismiss Notifications?
 
