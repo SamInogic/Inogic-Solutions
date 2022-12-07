@@ -42,7 +42,7 @@ There is an invoice with a related account which has further multiple associated
 * Fill the following fields:&#x20;
   * **Name** – Enter some valid name for the message.&#x20;
   * **Message Text** – Enter a text for the message that you would like to display on the alert notification. Let’s say, we would like to show the invoice name in the message. For this we’ll select a dynamic field from the list.
-  * **Message Rich Text –** Select the appropriate Message Rich Text from the lookup.&#x20;
+  * **Message Rich Text –** Select the appropriate Message Text from the lookup.&#x20;
 
 {% hint style="info" %}
 **Note:**&#x20;
