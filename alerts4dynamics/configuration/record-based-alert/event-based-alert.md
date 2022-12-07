@@ -38,7 +38,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 ![](<../../../.gitbook/assets/Event\_1 (5).png>)
 
 * Click **OK**. You will see the dynamic value is set to the **‘Message Text’** field. Similarly add Dynamic values in **‘Name’** field.
-* **Message Rich Text -** Select the appropriate Message Text from the lookup. For Message Text to appear in the lookup users need to create this Message Texts before creating an Event-Based Alert.
+* **Message Rich Text -** Select the appropriate Message Text from the lookup. For Message Text to appear in the lookup users need to create these Message Texts.&#x20;
 
 {% hint style="info" %}
 **Note: Message Rich Text gives users provisions to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.**

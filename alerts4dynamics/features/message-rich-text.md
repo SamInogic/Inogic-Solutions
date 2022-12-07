@@ -11,6 +11,8 @@ As we already know, once an alert is created, messages can be added to it. But w
 
 <figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
 
+Once the alert is created, the message will be displayed in the notifications.
+
 <figure><img src="../../.gitbook/assets/Message Rich Text_2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
