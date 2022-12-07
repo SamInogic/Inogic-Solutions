@@ -39,3 +39,8 @@ Here are the steps to assign security role to users.
 * Select the security role you want to assign --> Click **Ok**.
 
 ![](<../../.gitbook/assets/Sec Role\_1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

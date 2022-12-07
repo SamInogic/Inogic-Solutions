@@ -69,3 +69,7 @@ This will allow InoLink to interact with QuickBooks. Once you have all the pre-r
 ![](<../../../.gitbook/assets/Connect & Configure QB\_12.png>)
 
 Here, select the suitable details of the QuickBooks that are to be synced with the CRM system.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

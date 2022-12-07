@@ -29,3 +29,8 @@ Once the dependencies are removed you can uninstall the solution from the CRM en
 ![](<../.gitbook/assets/Uninstall\_2 (4).png>)
 
 ![](../.gitbook/assets/Uninstall\_3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

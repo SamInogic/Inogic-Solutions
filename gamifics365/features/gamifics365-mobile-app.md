@@ -17,3 +17,7 @@ Now you can view the information of all the games in this app.
 ![](<../../.gitbook/assets/Mobile App\_2.png>)
 
 ![](<../../.gitbook/assets/Mobile App\_3.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

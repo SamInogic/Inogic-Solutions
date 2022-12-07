@@ -15,4 +15,8 @@ To set player (user) profile, follow the steps given below:
 
 ![](../../.gitbook/assets/Users\_2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 You are now ready to participate in games.

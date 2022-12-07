@@ -16,3 +16,7 @@ The points and rewards earned by the individual users from the game can be found
 
 ![](<../../.gitbook/assets/Earned points\_2.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

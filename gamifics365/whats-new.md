@@ -12,3 +12,8 @@
 * Set criteria for participation in the games
 * Copy rules of existing games to create new games
 * View the performance of players live on scoreboards and leaderboards
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

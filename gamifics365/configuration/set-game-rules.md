@@ -33,5 +33,9 @@ To set the game rules, just follow the simple steps given below:
 
 ![](<../../.gitbook/assets/Game Rule\_4.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

@@ -16,3 +16,7 @@ To create Badges & Rewards, follow the steps given below:
 ![](<../../.gitbook/assets/Badges\_2 (1).png>)
 
 ![](../../.gitbook/assets/Badges\_3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

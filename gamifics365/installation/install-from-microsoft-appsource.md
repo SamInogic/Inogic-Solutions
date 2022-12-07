@@ -21,3 +21,7 @@ Install the **Gamifics365** solution from **Microsoft AppSource** by visiting th
 * The installation process will be completed automatically. After the installation is done, you can see **Gamifics365** solution in **My apps** in your Dynamics 365 CRM environment.
 
 ![](../../.gitbook/assets/Install\_AppSource\_5.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

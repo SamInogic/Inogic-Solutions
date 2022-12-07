@@ -94,3 +94,7 @@ After clicking on **Connect** you will get success message as shown below:
 {% hint style="info" %}
 **Note: QuickBooks side the status displayed is 'Mappings installation in process. This may take a while'. For integration between two systems i.e. Dynamics 365 and QB requires mappings to say which field of QuickBooks must map with which field of Dynamics 365 and vice versa. This status indicates that the mappings installation is in process.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

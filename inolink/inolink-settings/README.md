@@ -11,3 +11,7 @@ The next step after activating license is to set the **InoLink Settings** and en
 * [Scheduling Services](https://docs.inogic.com/inolink/inolink-settings/scheduling-services)
 * [Link Existing Customers and Products](https://docs.inogic.com/inolink/inolink-settings/link-existing-customers-and-products)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

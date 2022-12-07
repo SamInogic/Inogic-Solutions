@@ -31,3 +31,7 @@ In case you are using **IFD** deployment then you need to provide the following 
 **User** **Name/ Password –** Enter the credentials of a Dynamics 365 CRM user that has appropriate permissions to read/write data to Dynamics 365 CRM.
 
 ![](<../../../.gitbook/assets/Connect CRM\_6.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

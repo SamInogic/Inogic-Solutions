@@ -19,3 +19,7 @@
 * Seamless integration within native CRM entities and forms&#x20;
 * Ability to access the solution via web, mobile and Tablet as well
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

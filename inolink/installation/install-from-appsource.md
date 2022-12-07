@@ -25,3 +25,7 @@ To install **InoLink** solution from the **Microsoft AppSource**, visit the [lin
 * After the installation is done, you will be able to see **InoLink** solution in **My apps**.
 
 ![](<../../.gitbook/assets/Install AppSource\_1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

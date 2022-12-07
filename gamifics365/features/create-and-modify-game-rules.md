@@ -15,3 +15,7 @@ To modify existing game rules, follow the steps given below:
 * Make the required changes to the rule --> Click on **‘Modify Rule’**.
 
 ![](<../../.gitbook/assets/Modify Rule\_3.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

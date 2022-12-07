@@ -56,14 +56,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 ![](<../../.gitbook/assets/5 (14).png>)
 
-
-
-
-
-
-
-\
-\
-\
-
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
 

@@ -7,3 +7,7 @@ Gamifics365 provides a perfect platform for players to view and review their ind
 In Gamifics365 Leaderboard users can search for the details of any Game created within Dynamics 365 CRM.
 
 ![](../../.gitbook/assets/Leaderboards\_2.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -133,3 +133,7 @@ Once the game configuration is completed, click on the **‘Go Live’** button 
 After clicking on **‘Go Live’**, if **** the **** current date is the start date of the game, then the status of the game will be changed to **‘In progress’** and if the start date is a future date then the status of the game will be changed to **‘Scheduled’**. Once the game is over, the status will be shown as **‘Completed’**.
 
 ![](../../.gitbook/assets/Games\_13.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

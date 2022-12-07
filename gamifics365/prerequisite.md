@@ -43,3 +43,7 @@ To set the time zone and activate the flow, follow the simple steps given below:
 * Now go back to **'Gamifics365 Schedule and End Games'** flow --> Click on **'Turn On'** to activate the flow.
 
 ![](../.gitbook/assets/Flow\_11.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

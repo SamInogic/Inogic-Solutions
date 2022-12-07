@@ -59,3 +59,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 * Next, check **‘Enable any SDK message processing steps included in the solution’** --> Click on **Import** and proceed to import the solution.
 
 ![](<../../.gitbook/assets/Install\_3 (6).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

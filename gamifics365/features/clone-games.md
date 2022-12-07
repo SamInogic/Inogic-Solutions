@@ -8,3 +8,7 @@ The game will be cloned and you can make necessary changes such as the date, nam
 
 ![](<../../.gitbook/assets/Clone game new\_2.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

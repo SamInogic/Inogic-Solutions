@@ -234,5 +234,9 @@ After clicking on **Save** button you will get below success message.
 
 ![](<../../.gitbook/assets/CRM to QB\_Inv\_3.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

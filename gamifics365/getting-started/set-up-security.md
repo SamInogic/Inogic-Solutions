@@ -40,3 +40,8 @@ Here are the steps to assign security roles to CRM users.
 * Click on any one of the Gamifics365 security roles --> Click **OK.**
 
 ![](<../../.gitbook/assets/Set up Security\_4.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

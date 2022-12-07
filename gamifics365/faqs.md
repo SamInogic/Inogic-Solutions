@@ -19,3 +19,7 @@ Face-off, Race, and Challenge are different kinds of games that can be created w
 ## 5) Is there any limit to creating games with Gamifics365 in Dynamics 365 CRM?
 
 There is no such limit in creating games. The Game Managers can create any number of games to engage and motivate users with Gamifics365 in Dynamics 365 CRM.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
