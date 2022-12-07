@@ -30,7 +30,7 @@ If user sets the alert as **‘Form Notification – Dialog’** then the alert 
 
 If user selects ‘Display As’ option as ‘Bar’ then an alert will be displayed on the top of the record in the form of bar.
 
-![](../../.gitbook/assets/Bar\_1.png)
+![](<../../.gitbook/assets/Bar\_1 (1).png>)
 
 <figure><img src="../../.gitbook/assets/Form and Pop-Up notificationForm and Pop-Up notification pending.png" alt=""><figcaption></figcaption></figure>
 
