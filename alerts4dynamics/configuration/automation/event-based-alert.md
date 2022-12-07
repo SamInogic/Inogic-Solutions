@@ -36,7 +36,7 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](<../../../.gitbook/assets/Event\_9 (1).png>)
+![](../../../.gitbook/assets/Event\_9.png)
 
 ![](../../../.gitbook/assets/Event\_10.png)
 
