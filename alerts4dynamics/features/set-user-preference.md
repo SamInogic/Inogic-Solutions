@@ -46,19 +46,19 @@ Admin will not be able to see an alert since an alert is configured as only **�
 
 * Next, select user from whom an email is to be sent as **‘From’** in Alerts4Dynamics configurations. For this, navigate to **Alerts4Dynamics app** --> **Configurations.**
 
-![](<../../.gitbook/assets/Set Pref1\_6.png>)
+![](<../../.gitbook/assets/Set Pref1\_6 (1).png>)
 
 * Open the configuration record.
 
-![](<../../.gitbook/assets/Set Pref1\_7.png>)
+![](<../../.gitbook/assets/Set Pref1\_7 (1).png>)
 
 * Select the user (this is the user from whom an alert will be sent via email to that user who has preference to receive an alert set as **‘Email Notification’**).
 
-![](<../../.gitbook/assets/Set Pref1\_8.png>)
+![](<../../.gitbook/assets/Set Pref1\_8 (1).png>)
 
 * Configure and activate the message.
 
-![](<../../.gitbook/assets/Set Pref1\_9.png>)
+![](<../../.gitbook/assets/Set Pref1\_9 (1).png>)
 
 * Once the message is activated - **User 1** will receive an alert only through an **Email.**
 
@@ -112,7 +112,7 @@ Admin configures an alert as both **‘User Preference’** and **‘From Notifi
 
 * Configure the alert message.
 
-![](<../../.gitbook/assets/Set Pref2\_4.png>)
+![](<../../.gitbook/assets/Set Pref2\_4 (1).png>)
 
 * Once the message is activated; **Admin** will be able to see an alert only as a **Form Dialog**.
 
