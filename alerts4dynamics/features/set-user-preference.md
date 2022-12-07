@@ -46,7 +46,7 @@ Admin will not be able to see an alert since an alert is configured as only **�
 
 * Next, select user from whom an email is to be sent as **‘From’** in Alerts4Dynamics configurations. For this, navigate to **Alerts4Dynamics app** --> **Configurations.**
 
-![](<../../.gitbook/assets/Set Pref1\_6 (1).png>)
+![](<../../.gitbook/assets/Set Pref1\_6.png>)
 
 * Open the configuration record.
 
