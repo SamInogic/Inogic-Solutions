@@ -4,10 +4,10 @@ As we already know, once an alert is created, messages can be added to it. But w
 
 **Message Rich Text field supports the following text formatting options:**&#x20;
 
-* Change font style and size, bold text, and italic text.
-* Underline text, strikethrough text, add background color, and add text color.
+* Change font style and size, bold text, italic text.
+* Underline text, strikethrough text, add background color, text color.
 * Insert bullets and numbered lists, decrease or increase the indent and add quotation marks.&#x20;
-* Add links, images, and add tables in messages.
+* Add links, images, tables in messages.
 
 <figure><img src="../../.gitbook/assets/message rich text.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,4 +23,4 @@ Once the alert is created, the message will be displayed in the notifications.
 * **To add Message Rich Text in Event-Based Alerts you need to create messages text before creating the workflow using "Message Texts" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
 
-To know how to Add Message Rich Text, go to the [Message section. ](https://docs.inogic.com/alerts4dynamics/configuration/messages)
+To know how to add Message Rich Text, go to the [Message](https://docs.inogic.com/alerts4dynamics/configuration/messages) section.
