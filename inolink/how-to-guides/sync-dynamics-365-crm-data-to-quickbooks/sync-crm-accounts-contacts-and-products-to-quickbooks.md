@@ -29,6 +29,10 @@ To sync Dynamics 365 CRM records to QuickBooks, you can follow the steps below:
 * If the job was successfully processed the Link Job status is updated to **Success.** If there was an error in processing the job request, it would be updated to **Error** and the error description would be available in the **Error Description** field on the Link Job.
 * When Link job is processed successfully, the Account Link status is updated to **'Linked'.** In case of an error, it is set to **'Error'.**
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
 

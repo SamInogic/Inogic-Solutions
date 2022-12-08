@@ -167,3 +167,7 @@ This is the same view as can be seen on the **Customer Card** in **QuickBooks.**
 {% hint style="info" %}
 **Note: All of the transactions are imported and stored within the Dynamics 365 CRM database. This allows you to implement Field Level Security to handle access to Accounting Details by only authorized Dynamics 365 CRM users.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

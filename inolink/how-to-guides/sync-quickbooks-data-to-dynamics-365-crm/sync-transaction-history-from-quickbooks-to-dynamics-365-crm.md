@@ -15,3 +15,7 @@ This is the same view as can be seen on the Customer Card in QuickBooks.
 {% endhint %}
 
 There are certain **Custom Entities** shipped along with the solution. These custom entities are developed so as to save the details of enabled features, sync request, payments made and sales transactions performed in them accordingly.&#x20;
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

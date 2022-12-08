@@ -65,3 +65,6 @@ Before you start the services, ensure that all the **Preferences** have been set
 **Note: During Sync, the program tries to match all fields using their text value so ensure that both systems use the same labels for Picklists and lookups.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

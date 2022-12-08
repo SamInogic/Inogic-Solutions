@@ -22,3 +22,7 @@ In case of a successful transfer of transaction from Dynamics 365 CRM to QuickBo
 **Note: Once a transaction has been successfully promoted to QuickBooks, it cannot be updated in Dynamics 365 CRM.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

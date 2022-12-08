@@ -58,3 +58,7 @@ A Link Job is executed with the link status updated as **Success** and on record
 
 * On **update** of **linked records** the Link Job will be created.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

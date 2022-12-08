@@ -16,3 +16,7 @@ The details here are the same that is reported in QuickBooks using the **'A/R Ag
 
 ![](<../../../.gitbook/assets/Sync Aging\_4.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

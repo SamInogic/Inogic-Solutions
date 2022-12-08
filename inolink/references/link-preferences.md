@@ -23,3 +23,10 @@ Each record shows the every detail of the enabled feature for selected Entity al
 You can select each record and drill down to see the further details of each enabled feature.
 
 ![](<../../.gitbook/assets/Link Pref\_4.png>)
+
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

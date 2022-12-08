@@ -11,3 +11,7 @@ You can modify the poll interval to an interval of your choice. However, it is a
 Successful update would result in a new Link Job created in Dynamics 365 CRM with the **'Success'** status and the Source would be set to **'Accounting'** to denote a successful completion of the sync job triggered from QuickBooks. In case of an error, the status of the Link Job is set to **'Error'.**
 
 ![](<../../../.gitbook/assets/QB to CRM\_2.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

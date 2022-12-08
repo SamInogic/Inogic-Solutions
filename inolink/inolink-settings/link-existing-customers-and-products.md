@@ -34,3 +34,7 @@ After clicking on **Smart Match** and **Save** button you will get the below dis
 
 ![](<../../.gitbook/assets/Link Prod\_2.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
