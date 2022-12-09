@@ -19,3 +19,7 @@ In this section you will get all the **payment details** that have been made in 
 Further to drill down the invoice that is paid, you can select the invoice record from Applied Transaction. There you will get the payments details along with the invoice details.
 
 ![](../../.gitbook/assets/Payments\_5.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
