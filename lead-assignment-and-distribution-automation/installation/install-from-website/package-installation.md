@@ -46,3 +46,7 @@ To install Lead Assignment and Distribution Automation solution in Dynamics 365 
 * Click on **Finish** --> Go to **Dynamics 365 CRM** to complete **License Registration**.
 
 ![](<../../../.gitbook/assets/LADA Package Install\_10.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

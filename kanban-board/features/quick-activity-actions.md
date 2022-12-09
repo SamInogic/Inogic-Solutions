@@ -15,3 +15,7 @@ The activities to be supported can be defined in the configuration screen when s
 ![](../../.gitbook/assets/Activity.png)
 
 Make sure to type in the schema name of the activity types. You can also choose a custom activity type here.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

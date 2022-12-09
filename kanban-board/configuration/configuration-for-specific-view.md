@@ -35,3 +35,7 @@ To add Kanban Board Control on Entity Views follow the steps given below:
 * Now it will be shown to only the specific view ‘**All Accounts.’**
 
 ![](../../.gitbook/assets/ConfigureSpecificView-last.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

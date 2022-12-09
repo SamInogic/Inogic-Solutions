@@ -37,3 +37,7 @@ In a similar way, Kanban Board can be configured for Personal Views created by t
 * Now the personal view will be displayed in Kanban View.
 
 ![](<../../.gitbook/assets/Personal View\_14.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

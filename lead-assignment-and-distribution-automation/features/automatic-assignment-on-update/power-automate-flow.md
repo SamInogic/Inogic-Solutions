@@ -22,3 +22,7 @@ To enable automatic assignments on the update, follow the steps given below:
 
 * **Save and test** the Power Automate flow.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

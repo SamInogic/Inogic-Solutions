@@ -11,3 +11,7 @@ You can do this in two ways:
 * [Using Power Automate Flow](https://docs.inogic.com/lead-assignment-and-distribution-automation/features/automatic-assignments/power-automate-flow)
 * [Using Classic Workflow](https://docs.inogic.com/lead-assignment-and-distribution-automation/features/automatic-assignments/classic-workflow)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

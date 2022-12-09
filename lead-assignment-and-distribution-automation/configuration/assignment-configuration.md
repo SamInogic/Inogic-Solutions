@@ -35,3 +35,7 @@ To enable Assignment Configuration follow the steps given below:&#x20;
     &#x20;**App --> Assignment Configurations** where all the enabled Assignment Configurations can be viewed.
 
 ![](<../../.gitbook/assets/Assign Config\_1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

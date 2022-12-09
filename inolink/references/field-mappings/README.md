@@ -9,7 +9,3 @@ InoLink seamlessly synchronizes data between Dynamics 365 and QuickBooks. Indivi
 * [Order](https://docs.inogic.com/inolink/references/field-mappings/order)
 * [Invoice](https://docs.inogic.com/inolink/references/field-mappings/invoice)
 
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}
-

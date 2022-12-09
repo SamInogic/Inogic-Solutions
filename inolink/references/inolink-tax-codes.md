@@ -21,7 +21,3 @@ If the Field Service Tax is set as **Yes** then all the Tax Codes that are selec
 {% hint style="info" %}
 **Note: Field Service Tax works only for US QuickBooks Company.**
 {% endhint %}
-
-{% hint style="success" %}
-For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
-{% endhint %}

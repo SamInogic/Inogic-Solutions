@@ -24,4 +24,8 @@ In this section, you will see how to do mapping for **Product** entity.
 | NA                     | Income Account (for all types of Items)                                 | ![130](<../../../.gitbook/assets/Prod Mapp\_5.png>)                                                                                                                                                                                                                                                                                                                                                                                    |
 | NA                     | COGS Account (only for inventory part)                                  | ![131](<../../../.gitbook/assets/Prod Mapp\_6.png>)                                                                                                                                                                                                                                                                                                                                                                                    |
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ****

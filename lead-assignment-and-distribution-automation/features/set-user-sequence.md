@@ -11,3 +11,9 @@ The records will get assigned from lowest to highest sequence and will work with
 By default all users will have **0** sequence. If no sequence is provided then the records will get assigned by date when the user workload is created (i.e. date when a user added in the queue).&#x20;
 
 You cannot add duplicate sequence number for two or more users. It will restrict the user from adding same sequence number for the users.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
+###

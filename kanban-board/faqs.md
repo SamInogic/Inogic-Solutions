@@ -89,3 +89,7 @@ You can use the following types of fields in Lane and Row Filter Criteria:
 Yes, there is a way to view the full length of the card title. While [configuring](https://docs.inogic.com/kanban-board/configuration/configuration-for-entity) Kanban View for an entity, you can add the field name in **Body Text 3** as highlighted in the below image. The length of the **Body Text 3** is maximized, hence you can view the whole text.
 
 ![](../.gitbook/assets/FAQ\_10.jpg)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

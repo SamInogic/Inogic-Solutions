@@ -36,3 +36,7 @@ After removing the dependencies,  navigate to [make.powerapps.com](https://make.
 
 ![](<../.gitbook/assets/LADA Power Apps\_1.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

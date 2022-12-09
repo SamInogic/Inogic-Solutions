@@ -56,4 +56,8 @@ Now to assign Leads on the basis of User Capacity follow the steps given below:
 
 ![](<../../.gitbook/assets/Capacity\_7 (1).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ####

@@ -23,3 +23,7 @@ Double-click on the card to open the record form.&#x20;
 The fields for these can be defined when configuring the component for a view as shown in the screenshot below.
 
 ![](<../../.gitbook/assets/1 (306).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

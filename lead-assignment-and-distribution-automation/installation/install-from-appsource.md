@@ -27,3 +27,8 @@ To install **Lead Assignment and Distribution Automation** solution from the Mic
 * After the installation is done, you will be able to see **Lead Assignment and Distribution Automation** solution in your Apps section.
 
 ![](../../.gitbook/assets/A6.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -10,3 +10,7 @@ Lead Assignment and Distribution Automation has the following features:
 * [Automatic Assignment on Update](https://docs.inogic.com/lead-assignment-and-distribution-automation/features/automatic-assignments)
 * [Monitoring & Analytics](https://docs.inogic.com/lead-assignment-and-distribution-automation/features/monitoring-and-analytics)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

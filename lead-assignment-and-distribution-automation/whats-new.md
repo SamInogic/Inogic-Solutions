@@ -27,3 +27,8 @@
 * Set Priority or Criteria while assigning Leads&#x20;
 * Monitor and Analyze distribution of Leads with Dashboards
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

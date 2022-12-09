@@ -38,3 +38,7 @@ Here are the steps to complete registration through the **‘License Registratio
 
 * Your license will be now **activated.**
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -15,3 +15,8 @@ Aggregate field values shown on **Lane header**
 Aggregate field values shown on **Row header**
 
 ![](<../../.gitbook/assets/Aggregate Row head\_1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

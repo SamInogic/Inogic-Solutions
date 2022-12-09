@@ -9,3 +9,9 @@ Works in context of the native CRM environment and responds to all native ribbon
 Apart from the ribbon it also responds to filtering options from Charts.
 
 ![](../../.gitbook/assets/Chart.png)
+
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

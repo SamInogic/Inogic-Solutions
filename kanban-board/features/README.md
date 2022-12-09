@@ -14,3 +14,9 @@ Kanban Board has following features:
 * [Global Sorting](https://docs.inogic.com/kanban-board/features/global-sorting)
 * [Aggregate Field Values](https://docs.inogic.com/kanban-board/features/view-aggregate-field-values)
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

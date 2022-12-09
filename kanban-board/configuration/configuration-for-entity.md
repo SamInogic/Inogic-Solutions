@@ -129,3 +129,7 @@ If you didn’t select any of the Radio Buttons, then for viewing Kanban Board y
 And if you have selected web radio button before Kanban, then to switch back to default grid you would have to follow same step as mentioned above. But this time you would have to select **Read Only Grid.**
 
 ![](<../../.gitbook/assets/Grid View.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

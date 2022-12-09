@@ -8,3 +8,9 @@ Run Assignment is used to auto-assign the already existing Leads (before the ins
 **Note: The maximum records that can be assigned is 20. This button is only visible to Lead Assignment and Distribution Automation Administrator and System Administrator**
 {% endhint %}
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -27,3 +27,7 @@ After the installation is done, you will be able to see Kanban Board solution in
 
 ![](../../.gitbook/assets/2020\_06\_05\_16\_00\_21\_My\_Apps.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

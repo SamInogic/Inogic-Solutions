@@ -76,3 +76,7 @@ This is because of the limitation from Microsoft for On-premise instances. Users
 ## 8) What does the following error log mean- **“The real-time workflow named "Inogic.AddItemsToQueue" failed with the error "CallAssignRecordAction:The real-time workflow named "Inogic.AssignRecordToUser" failed with the error "AssignToUser : You are not allowed to pick this item.""”**
 
 This log gets generated when the record is already been picked by some other user or if there is any custom process that also assigns the record along with our Lead assignment process**.**
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

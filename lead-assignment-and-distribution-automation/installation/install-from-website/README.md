@@ -8,3 +8,7 @@ Installing **Lead Assignment and Distribution Automation** solution in your CRM 
 {% hint style="info" %}
 **Note: **_**Only a user with System Administrator Role can install the solution.**_
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

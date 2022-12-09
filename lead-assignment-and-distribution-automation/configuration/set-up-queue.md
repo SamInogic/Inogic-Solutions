@@ -41,3 +41,8 @@ Once the members are added to the teams, next step is to set up Queues. It is ne
     Once it is saved, you can add members to the **Queue**.
 
 ![](<../../.gitbook/assets/image (146).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

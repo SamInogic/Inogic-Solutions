@@ -43,3 +43,7 @@ Unlink all Account, Contact, and Product records.
 ![](<../.gitbook/assets/2021-03-09 09\_35\_27-Greenshot1.png>)
 
 ![](<../.gitbook/assets/uninstall\_5 - Copy (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

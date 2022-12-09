@@ -18,3 +18,7 @@ Also the users that have been added in the team must have ‘**Lead Assignment a
 **Note: DO NOT RENAME OR DELETE THIS TEAM.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

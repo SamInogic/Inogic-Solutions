@@ -18,3 +18,8 @@ Click on **‘Switch to Default Board’** to switch the Kanban Board to Default
 This field is by default enabled. You can disable/enable this field while configuring the Kanban View Component for a view as shown below:
 
 ![](<../../.gitbook/assets/1 (98).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

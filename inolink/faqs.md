@@ -16,6 +16,10 @@ Once the solution is imported, please follow the below steps to activate all the
 
 ![](<../.gitbook/assets/FAQ\_1 (3).jpg>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
 

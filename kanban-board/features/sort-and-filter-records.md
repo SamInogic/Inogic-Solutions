@@ -9,3 +9,7 @@ The Kanban Board supports the ability to sort the cards in ascending or descendi
 In addition to the quick search option, it also supports filtering of the records based on the “CreatedOn” date.
 
 ![](../../.gitbook/assets/Sort.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

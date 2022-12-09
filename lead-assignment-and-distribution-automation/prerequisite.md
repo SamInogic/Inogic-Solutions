@@ -62,5 +62,9 @@ In **'Inogic.DailyUpdateUserStatus'** workflow it is necessary to set time zone 
 
 ![](<../.gitbook/assets/Power Automate timezone\_4.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

@@ -32,3 +32,7 @@ To enable automatic assignments on the update, follow the steps given below:
 * **Save and Activate** the workflow. The final workflow will look as below:
 
 ![](<../../../.gitbook/assets/Classic WF\_8.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

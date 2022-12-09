@@ -55,3 +55,7 @@ To update availability, follow the steps given below:
 ![](<../../.gitbook/assets/Update user\_2.1.png>)
 
 ![](<../../.gitbook/assets/Update user\_3.1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

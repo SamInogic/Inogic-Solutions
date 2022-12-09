@@ -32,5 +32,9 @@ To add Kanban Board Control on Subgrid follow the steps given below:
 
 ![](../../.gitbook/assets/Subgrid\_6.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
