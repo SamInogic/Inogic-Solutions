@@ -54,7 +54,7 @@ Admin will not be able to see an alert since an alert is configured as only **�
 
 * Select the user (this is the user from whom an alert will be sent via email to that user who has preference to receive an alert set as **‘Email Notification’**).
 
-![](<../../.gitbook/assets/Set Pref1\_8 (1).png>)
+![](<../../.gitbook/assets/Set Pref1\_8 (2).png>)
 
 * Configure and activate the message.
 

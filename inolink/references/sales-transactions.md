@@ -12,5 +12,9 @@ Sales Transaction is the custom entity shipped along with the solution. This ent
 
 ![](<../../.gitbook/assets/Sales Tran\_3.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ****
 

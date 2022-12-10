@@ -24,7 +24,7 @@ Here are the steps to assign security role to users.
 
 * Select **Users**.
 
-![](<../../.gitbook/assets/12 (2).png>)
+![](<../../.gitbook/assets/12 (2) (1).png>)
 
 * Select user --> Click on **MANAGE ROLES**.
 
