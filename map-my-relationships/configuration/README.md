@@ -15,4 +15,5 @@ Given below are the detailed steps for the same:
 
 Given below are the detailed steps for the same:
 
-* [Add Map My Connections on the form](https://docs.inogic.com/map-my-relationships/configuration/add-map-my-relationships-control-on-the-form)
+* [Add Map My Connections on the form](https://docs.inogic.com/map-my-relationships/configuration/add-map-my-connections-control-on-the-form)
+
