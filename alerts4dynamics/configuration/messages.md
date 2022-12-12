@@ -18,8 +18,7 @@ Given below are the steps to add multiple messages to an existing Alert.
   * **Name:** This is the name of the message you are trying to create.&#x20;
   * **Alert:** This is the Alert for which you are creating the message.&#x20;
   * **Message Text:** Enter the message you would like to display in the notification or send to the users as email. Users can also pass dynamic values here for e.g. Account {name} has been created, where {name} stands for Account’s name.&#x20;
-  * **Message Rich Text:** Gives users provision to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging.
-    * To learn more about Message Rich Text, go to the [Message Rich Text](https://docs.inogic.com/alerts4dynamics/features/message-rich-text) section.
+  * **Message Rich Text:** Gives users provision to create more interactive messages by doing all kinds of text formatting, adding links and images, etc., to make their messages more descriptive and engaging. To learn more about Message Rich Text, go to the [Message Rich Text](https://docs.inogic.com/alerts4dynamics/features/message-rich-text) section.
   * **Alert Level:** This can be categorized as **Information, Warning** and **Critical**. This determines the severity level of the Alert you are trying to create.&#x20;
   * **Alert As:** This is the mode of notifying your users. It can be done as:&#x20;
     * **Pop-Up:** The notification with message will pop-up post clicking the global notification bell button.&#x20;
