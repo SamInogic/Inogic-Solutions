@@ -22,5 +22,3 @@ Once the alert is created, the message will be displayed in the notifications.
 * **Message Rich Text cannot be displayed as a bar in a form notification.**
 * **To add Message Rich Text in Event-Based Alerts you need to create messages text before creating the workflow using "Message Texts" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
-
-To know how to add Message Rich Text, go to the [Message](https://docs.inogic.com/alerts4dynamics/configuration/messages) section.
