@@ -35,9 +35,17 @@ Now let’s go through the different functions of SharePoint Security Sync Tool.
 
 ![](<../.gitbook/assets/SSS Tool\_4.png>)
 
-* Next tab is **Folder Security**. With this tab you can sync/assign records for a selected period of time.
+*   &#x20;Next tab is **Folder Security**. With this tab, you can **synchronize** records for a selected period. You can also select particular user/users from the **drop-down menu** and apply **folder security** to the records they owned.
 
-![](<../.gitbook/assets/SSS Tool\_5.png>)
+    **For example**, if your CRM has 7 users and you want to sync records of only 2 particular users for “Account” entity, created during a particular period, then you can select those two specific users from the dropdown menu and click on Sync button as shown in the below-given image in order to sync records.
+
+![](<../.gitbook/assets/SSS1 image  (2).jpg>)
+
+* &#x20;**Note:** If you will not select any user then the folder security syncing will be applied to all the records owned by the users for that selected period.
+
+
+
+<figure><img src="../.gitbook/assets/SSS2.jpg" alt=""><figcaption></figcaption></figure>
 
 * The third tab is **Failed Sync**. Click on the **‘Sync’** button to sync all the failed records.
 
