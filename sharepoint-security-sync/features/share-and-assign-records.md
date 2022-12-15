@@ -31,3 +31,7 @@ The record will not be visible to Sam anymore and will be assigned and visible t
 Now that record is assigned to Rhea, visibility of record to her:
 
 ![](../../.gitbook/assets/Share\_7.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

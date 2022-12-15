@@ -56,4 +56,8 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 ![](<../../.gitbook/assets/7 (19).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ###

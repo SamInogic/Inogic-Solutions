@@ -87,3 +87,7 @@ Now let’s take another use-case when a user, who is not an admin uploads a fil
 {% hint style="info" %}
 **Note: SharePoint Security Sync supports multiple SharePoint sites and syncs the privileges with ease.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

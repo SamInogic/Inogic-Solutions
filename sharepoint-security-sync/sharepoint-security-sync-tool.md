@@ -43,8 +43,6 @@ Now let’s go through the different functions of SharePoint Security Sync Tool.
 
 * &#x20;**Note:** If you will not select any user then the folder security syncing will be applied to all the records owned by the users for that selected period.
 
-
-
 <figure><img src="../.gitbook/assets/SSS2.jpg" alt=""><figcaption></figcaption></figure>
 
 * The third tab is **Failed Sync**. Click on the **‘Sync’** button to sync all the failed records.
@@ -59,3 +57,8 @@ Now let’s go through the different functions of SharePoint Security Sync Tool.
   * **To:** Enter the end date till which you want to do the migration.
 
 ![](<../.gitbook/assets/SSS Tool\_7.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

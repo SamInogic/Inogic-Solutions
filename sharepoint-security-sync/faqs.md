@@ -209,3 +209,7 @@ To know more about this, kindly follow this [link](https://docs.inogic.com/share
 ## 17) What is the difference between SharePoint Security Sync and Attach2Dynamics?
 
 <figure><img src="../.gitbook/assets/Attach2Dynamics and SharePoint Security Sync Comparison.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -7,3 +7,7 @@ If only **View** is selected then the document is available in read only mode wh
 ![](<../../.gitbook/assets/Copy Link 1.png>)
 
 ![](<../../.gitbook/assets/Copy Link 2.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

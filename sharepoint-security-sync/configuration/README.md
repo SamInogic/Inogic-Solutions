@@ -15,3 +15,7 @@ Business Units --> More than 10
 Therefore, it is recommended to configure the application during off hours. This will ensure that other user activities are not hampered.
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

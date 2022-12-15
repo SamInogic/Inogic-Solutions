@@ -156,4 +156,8 @@ To create entity configuration for Activity Entities, follow the steps given bel
 
 * Similarly, if there are any other entity records as an email regarding then create an Entity configuration for those entities as well.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 &#x20;

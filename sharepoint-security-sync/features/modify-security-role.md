@@ -27,3 +27,10 @@ Now we change the access level of Rhea to Parent Child Business Unit, and keep t
 ![](../../.gitbook/assets/Modify\_4.png)
 
 Apart from these modifications the user level access comes into action even when a security role is associated/dissociated to/from a user/team or a member is added/removed from a team or security role deleted.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
+
+

@@ -32,4 +32,8 @@ If you want to share the SharePoint site **** with the users who doesn’t have 
 
 After sharing the site, the users will be able to access the site and will not get the permission issue from the Attach2Dynamics UI.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 ****

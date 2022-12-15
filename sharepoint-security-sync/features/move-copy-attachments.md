@@ -26,3 +26,7 @@ If enabled, it’ll move/copy the Sales Literature Attachments to the respective
 
 ![](<../../.gitbook/assets/Sales Literature Attachments 2.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

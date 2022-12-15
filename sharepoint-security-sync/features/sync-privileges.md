@@ -12,3 +12,7 @@ With SharePoint Security Sync, the user will have the same privileges in SharePo
 
 ![](<../../.gitbook/assets/Sync Privi\_2 (1).jpg>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -46,3 +46,12 @@ The next tab is Information that comprises the details of processed records.
 * **Total Succeeded Size (KB):** The size of records that were moved to SharePoint. This tells the Dynamics 365 CRM user how much space he has freed from the CRM.
 * **Total Ignored Size (KB):** This is the size of files that were ignored while migrating to SharePoint.
 * **Total Failed Size (KB):** Size of failed files while uploading to SharePoint.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
+
+
+
+

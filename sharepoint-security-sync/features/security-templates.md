@@ -41,3 +41,10 @@ After filling the respective fields, click on **'Save'**.
 * **For Delete feature a Security Template is must.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
+
+
+##

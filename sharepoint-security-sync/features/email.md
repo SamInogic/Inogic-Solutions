@@ -20,3 +20,7 @@ On selecting this option you can attach the file itself in the email body. The b
 **Note: Email can be sent only with files and not folders. Also, multiple files can be sent in single mail.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

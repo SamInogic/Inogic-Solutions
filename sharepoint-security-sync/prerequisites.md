@@ -46,3 +46,8 @@ To do this, follow the steps given below:
 
 Once this is done, you can easily store **Documents/Attachments** related to selected **Entities** in the respective **SharePoint site** using **Attach2Dynamics** button.
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -31,3 +31,7 @@ With this feature, users can customize the record folder structure in SharePoint
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_12 (1).png>)
 
 ![](<../../.gitbook/assets/Create Cust Fold Feat\_13 (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

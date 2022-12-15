@@ -7,3 +7,7 @@ Users can delete files from SharePoint.
 {% endhint %}
 
 ![](<../../.gitbook/assets/Delete (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
