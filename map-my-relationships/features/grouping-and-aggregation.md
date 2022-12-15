@@ -4,3 +4,7 @@ Map My Relationships provides support for viewing **aggregate values** of Dynami
 
 ![](<../../.gitbook/assets/Fea\_4 (1).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

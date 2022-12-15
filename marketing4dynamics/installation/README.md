@@ -6,3 +6,7 @@ You can install **Marketing4Dynamics** from any one of the two sources:
 * [Install from Website](https://docs.inogic.com/marketing4dynamics/installation/install-from-website)
 
 Once installed, you can also [upgrade ](https://docs.inogic.com/marketing4dynamics/installation/solution-upgrade)the solution.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

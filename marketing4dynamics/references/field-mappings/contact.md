@@ -30,3 +30,7 @@ In this section, you will see how mapping for **Contact** entity is done.
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

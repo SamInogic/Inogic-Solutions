@@ -8,3 +8,8 @@ Marketing4Dynamics synchronizes data between Dynamics 365 and Mailchimp. Individ
 * [Audience](https://docs.inogic.com/marketing4dynamics/field-mappings/audiences)
 * [Tag](https://docs.inogic.com/marketing4dynamics/field-mappings/tags)
 * [Marketing Activity](https://docs.inogic.com/marketing4dynamics/field-mappings/member-activity)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

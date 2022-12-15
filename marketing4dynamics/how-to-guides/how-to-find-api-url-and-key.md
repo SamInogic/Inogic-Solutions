@@ -33,3 +33,7 @@ To connect Mailchimp and Dynamics 365 CRM, **API URL** and **API key** from Mail
 
 * Now use the **API URL** and **API key** to connect Mailchimp account with Dynamics 365 CRM.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

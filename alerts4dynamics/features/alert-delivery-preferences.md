@@ -18,7 +18,7 @@ If user sets the alert as **‘Pop up’** while configuring the message, an ale
 
 If user sets the alert as **‘Form Notification – Dialog’** then the alert will pop-up after opening a record without having to click on the global notification bell icon.
 
-![](<../../.gitbook/assets/Dialog\_1 (1).png>)
+![](../../.gitbook/assets/Dialog\_1.png)
 
 <figure><img src="../../.gitbook/assets/Form and Pop-Up notification image  2  pending.png" alt=""><figcaption></figcaption></figure>
 

@@ -10,3 +10,7 @@
 | ------------------------- | ---------- |
 | Dynamics 365 v9.0 & above | Online     |
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

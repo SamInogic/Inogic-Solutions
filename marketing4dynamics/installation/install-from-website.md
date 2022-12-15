@@ -36,6 +36,10 @@ Installing Marketing4Dynamics solution in your CRM environment is quite easy. Fi
 
 ![](<../../.gitbook/assets/Install\_8 (1).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
 

@@ -13,3 +13,8 @@ Apart from this, users can also select the desired view for any entity node with
 {% hint style="info" %}
 **Note: This field is available only for One-to-Many and Many-to-Many relationships.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

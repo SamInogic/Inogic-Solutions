@@ -36,9 +36,9 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](<../../../.gitbook/assets/Event\_9 (2).png>)
+![](../../../.gitbook/assets/Event\_9.png)
 
-![](<../../../.gitbook/assets/Event\_10 (1) (1).png>)
+![](<../../../.gitbook/assets/Event\_10 (1).png>)
 
 * After creating an alert, now add a **‘Wait’** condition which will wait till the case is resolved.
 

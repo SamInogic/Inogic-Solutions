@@ -19,3 +19,8 @@
 | -------------------------- | ------------------------------- |
 | Dynamics 365 9.0 and above | On-Premises with IFD and Online |
 | Dataverse (Power Apps)     |                                 |
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

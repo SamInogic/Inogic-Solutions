@@ -51,3 +51,8 @@ A new Sync Job request is created when one of the following actions is performed
 * When Mailchimp related fields (first name, last name, business phone & so on) are updated on Contact/Lead which is member of any marketing list that has **Sync Status** as **synced.**&#x20;
 * On update of any synced record, a new sync job will be created.
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

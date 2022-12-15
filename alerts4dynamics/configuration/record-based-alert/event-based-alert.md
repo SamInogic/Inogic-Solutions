@@ -81,7 +81,7 @@ For example, the user wants an alert notification to be shown to all users in CR
 
 * Once details are filled, click on **‘Save and Close’** and then activate the workflow by clicking **‘Activate’** button.
 
-![](../../../.gitbook/assets/Event\_9.png)
+![](<../../../.gitbook/assets/Event\_9 (2).png>)
 
 To know more about Event-Based Alert, please [click here.](https://docs.inogic.com/alerts4dynamics/features/event-based-alert)
 

@@ -30,3 +30,7 @@ Follow the steps given below to upgrade the Marketing4Dynamics solution to its l
 * Click on **Import**.
 
 ![](../../.gitbook/assets/Upgrade\_7.jpg)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

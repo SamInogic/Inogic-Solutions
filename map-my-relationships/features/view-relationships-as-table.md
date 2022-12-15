@@ -14,3 +14,7 @@ All the records in the selected entity node will then appear in the read-only gr
 **Note: This is available only for One-to-Many and Many-to-Many relationships.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

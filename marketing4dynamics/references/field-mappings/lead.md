@@ -28,3 +28,8 @@ In this section, you will see how mapping for **Lead** entity is done.
 | Country/Region      | country                  | country of member will be mapped with Country/Region in CRM                           |
 | Audience            | list\_id                 | list\_id of member will be mapped with Audience in CRM                                |
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

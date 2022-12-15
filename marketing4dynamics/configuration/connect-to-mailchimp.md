@@ -21,3 +21,7 @@ To successfully connect Mailchimp account to Dynamics 365 CRM, follow the steps 
 * Now the section will be indicated as **‘Connected’**.
 
 ![](../../.gitbook/assets/Connect\_5.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

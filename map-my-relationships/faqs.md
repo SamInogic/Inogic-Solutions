@@ -51,3 +51,8 @@ To delete the **Map My Relationships** license follow the steps given below:
 Yes, we can customize the tooltip details which will be shown based on the view selected in the entity configuration for relationships map. It takes the first five columns from the selected view.
 
 ![](<../.gitbook/assets/MMR FAQ\_6.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -64,3 +64,7 @@ All the campaigns in Mailchimp which has been sent to the subscribers will be sy
 
 ![](<../../.gitbook/assets/Sync Campaigns\_5.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

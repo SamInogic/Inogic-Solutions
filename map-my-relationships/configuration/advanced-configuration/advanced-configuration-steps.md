@@ -90,3 +90,7 @@ On hovering over the group node, it will show the **sum of Credit limit**:
 * **Save and Publish** the customization.
 
 ![](<../../../.gitbook/assets/Adv\_8 (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -33,3 +33,7 @@ Here are the steps for the same:
 
 ![](../../.gitbook/assets/Adv\_8.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

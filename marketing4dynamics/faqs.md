@@ -90,4 +90,8 @@ However, after the initial sync, in which the entire audience or a specific segm
 
 * Click on **PackageDeployer.exe** again and follow the next steps from the **ReadMe.md file.**
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 &#x20;

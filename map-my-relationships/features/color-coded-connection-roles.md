@@ -28,3 +28,8 @@ You will be redirected to the actual contact record.
 {% hint style="info" %}
 **Note: Not only the connection record but also all the lookup type fields/columns are supported for this navigation.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

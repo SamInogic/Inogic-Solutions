@@ -21,3 +21,8 @@ Here are the steps to get relationship schema names:
 ![Many-to-Many](<../../.gitbook/assets/Schema\_1 (1).png>)
 
 * Copy and paste this name in comma separated format in properties of the Map My Relationships control.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

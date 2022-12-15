@@ -69,3 +69,7 @@ Now to sync this Marketing List to Mailchimp, follow the steps given below:
 
 &#x20;
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

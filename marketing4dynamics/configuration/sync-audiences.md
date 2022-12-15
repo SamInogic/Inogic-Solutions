@@ -75,3 +75,7 @@ To sync audiences, follow the steps given below:
 ![](../../.gitbook/assets/22.png)
 
 ![](<../../.gitbook/assets/23 - Copy.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

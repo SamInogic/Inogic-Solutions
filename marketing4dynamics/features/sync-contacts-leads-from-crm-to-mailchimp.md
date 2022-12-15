@@ -3,3 +3,7 @@
 CRM Marketing List members (Contacts/Leads) can be synced with Mailchimp using Marketing4Dynamics. By syncing marketing lists, it is possible to promote CRM contacts and leads (clients) to Mailchimp. This proves helpful while planning campaigns and marketing activities targeting these customers in CRM. The marketing team can also save time as they do not have to create new audiences in Mailchimp.
 
 <figure><img src="../../.gitbook/assets/Sync-Contacts-f1d2.svg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

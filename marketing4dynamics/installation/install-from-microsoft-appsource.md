@@ -22,5 +22,9 @@ Install **Marketing4Dynamics** solution from the **Microsoft AppSource** by visi
 
 ![](<../../.gitbook/assets/M4D Appsource\_5.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

@@ -29,3 +29,7 @@ To install **SharePoint Security Sync** from Microsoft AppSource, click [here](h
 * You will be able to see the **SharePoint Security Sync** solution in '**Apps**' after the successful installation.
 
 ![](<../../.gitbook/assets/7 (5).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

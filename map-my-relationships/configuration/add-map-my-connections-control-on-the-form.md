@@ -309,6 +309,10 @@ d) As well as in the relationship view of connections:
 
 ![](../../.gitbook/assets/MMC\_70.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 
 

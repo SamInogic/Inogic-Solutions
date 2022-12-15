@@ -24,3 +24,7 @@ Click on **delete** button. A pop-up will appear asking for your confirmation. C
 
 ![](<../.gitbook/assets/Uninstall\_3 (5).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -55,3 +55,7 @@ To add Map My Relationships control on the form, follow the steps given below:
 * Scroll down and select **Map My Relationships** control --> Click on **Add**.
 
 ![](../../.gitbook/assets/Add\_10.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

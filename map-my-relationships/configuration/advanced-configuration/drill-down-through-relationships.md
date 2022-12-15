@@ -76,3 +76,7 @@ Let’s consider a scenario where user wants to see the associated contact conne
 
 Using this approach, you will be able to drill down through the connection relationship to see its related entity records i.e. **Accounts** in this illustration.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

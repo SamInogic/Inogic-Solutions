@@ -35,3 +35,7 @@ In a similar manner as above, Measure title can also be customized. When user se
 ![Configuration](<../../.gitbook/assets/Custom Label Measure\_1.jpg>)
 
 ![Outcome](<../../.gitbook/assets/Custom Label Measure\_2.jpg>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

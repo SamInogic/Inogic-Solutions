@@ -6,6 +6,12 @@
 
 {% embed url="https://youtu.be/DjX8jU0OHck" %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
+
+
 | Available For             | Deployment |
 | ------------------------- | ---------- |
 | Dynamics 365 v9.1 onwards | Online     |

@@ -16,3 +16,7 @@ In this section, you will see how mapping for **Campaign** is done.
 | #Clicks               | NA                       | Automatically calculated based on marketing activities. The total number of click activities for that campaign.                           |
 | Successful Deliveries | NA                       | Automatically calculated based on marketing activities. The total number of sent activities for that campaign.                            |
 | #Unsubscribes         | NA                       | Automatically calculated based on marketing activities. The total number of unsubscribe activities for that campaign.                     |
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

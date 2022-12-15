@@ -36,3 +36,7 @@ Now the user wants to connect this **‘Abraham McCormick’** contact to **‘A
 
 ![](<../../.gitbook/assets/Create Conn\_8.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

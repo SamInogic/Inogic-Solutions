@@ -11,3 +11,7 @@ In this section, you will see how mapping for **Marketing Activity** is done.
 | Campaign           | campaign\_id             | campaign \_id of Email Activity will be mapped with Campaign field in CRM                                                 |
 | Regarding          | email\_id                | email\_id of Email Activity will be mapped with Contact/Lead field in CRM                                                 |
 | IP                 | ip                       | ip of Email Activity will be mapped with IP field in CRM in case of Open/Click Activities                                 |
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

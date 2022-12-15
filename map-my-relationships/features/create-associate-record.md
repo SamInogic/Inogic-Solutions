@@ -11,3 +11,7 @@ The user has to click on the entity node and it will open up a quick create form
 After the record is created, the newly added record will start showing in the relationship view.
 
 ![](<../../.gitbook/assets/Quick Rec\_3.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

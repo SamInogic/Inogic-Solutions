@@ -10,3 +10,7 @@ In this section, you will see how mapping for **Tag** is done.
 | Audience           | list\_id                 | list\_id of Tag will be mapped with Audience in CRM    |
 | Name               | name                     | name of the Tag will be mapped with Name of Audience   |
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
