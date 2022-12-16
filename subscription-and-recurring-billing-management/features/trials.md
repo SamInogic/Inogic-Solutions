@@ -45,3 +45,7 @@ To extend trials, follow the steps given below:
 
 ![](../../.gitbook/assets/Trials\_4.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

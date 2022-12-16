@@ -33,3 +33,7 @@ Tax Detail is used to define the number of taxes to be applied on a product whic
 
 ![](<../../../.gitbook/assets/Tax Sch\_9.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

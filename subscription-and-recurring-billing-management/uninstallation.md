@@ -11,3 +11,7 @@ Please follow the below steps to uninstall Subscription and Recurring Billing Ma
 ![](../.gitbook/assets/Unistall\_5.png)
 
 ![](../.gitbook/assets/Unistall\_3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

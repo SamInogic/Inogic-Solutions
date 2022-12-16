@@ -11,3 +11,7 @@ The **‘User CRM Access Summary’** dashboard can be viewed under the System d
 {% hint style="info" %}
 **Note: This dashboard is visible to only user who has any one of the following security roles - System Administrator, System Customizer or User Adoption Monitor Administrator.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

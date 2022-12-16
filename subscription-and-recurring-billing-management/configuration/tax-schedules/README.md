@@ -14,3 +14,7 @@ The Tax Schedule entity is used to create your Tax Schedules and assign the Tax 
 
 ![](<../../../.gitbook/assets/Tax Sch\_3 (1).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -22,3 +22,7 @@ Next, we see is the Subscription Management tab which shows information about th
 * **Charge Type:** This field defines how to charge the product. It is either **Recurring** or **One time** charge. Based on this information charges will be added while renewing subscriptions.
 
 ![](../../.gitbook/assets/Product\_3.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

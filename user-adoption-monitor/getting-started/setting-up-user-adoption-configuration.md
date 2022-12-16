@@ -22,3 +22,7 @@ Once the User Adoption Monitor solution is installed and activated, there is alr
 #### Importance of Tracking Details
 
 If you enable Track Details in User Adoption Configuration entity, then the tool will also store a link to the record on which the action was performed by the user.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

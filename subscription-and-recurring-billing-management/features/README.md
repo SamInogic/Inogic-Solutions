@@ -8,3 +8,8 @@ Subscription and Recurring Billing Management has the following features:
 * [Cancellation](https://docs.inogic.com/subscription-and-recurring-billing-management/features/cancellation)
 * [Trials](https://docs.inogic.com/subscription-and-recurring-billing-management/features/trials)
 * [Revenue Analysis](https://docs.inogic.com/subscription-and-recurring-billing-management/features/revenue-analysis)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

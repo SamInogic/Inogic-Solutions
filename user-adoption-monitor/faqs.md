@@ -89,3 +89,7 @@ To delete the **User Adoption Monitor** license follow the steps given below:
 * Select the **User Adoption Monitor** record and **delete** it.
 
 ![](<../.gitbook/assets/FAQ 7\_1.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

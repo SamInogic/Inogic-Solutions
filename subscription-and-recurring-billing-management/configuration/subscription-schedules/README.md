@@ -94,3 +94,8 @@ If **‘X Day(s)’** is selected then there will be no additional fields since 
 * **Delayed Charge Schedule:** The Delayed Charge Schedule assigned to the Invoice/Order generated from this Subscription Schedule. It is a penalty fee a customer must pay when the invoice/Orders are past due. It is an optional field and only used if Delayed Charge Schedules are used.&#x20;
 * **Reminder Schedule:** The Reminder Schedule assigned to the Invoice/Order generated from this Subscription Schedule. A Reminder Schedule is an automated reminder sent to the customer regarding their bill and its due date. A different Reminder Schedule can be assigned to each Subscription Schedule. It is an optional field and only used if Reminder Schedules are used.&#x20;
 * **Reminder Renewal Schedule:** A reminder schedule to renew subscriptions can be incorporated with the subscription schedule. Once the end date is nearby an automated reminder will be sent to the customers for subscription renewal and to the owner of the subscription schedule intimating about the same.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

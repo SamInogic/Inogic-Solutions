@@ -48,3 +48,7 @@ CRM Access Tracking is a feature to track access of the Dynamics CRM users. It e
 
 ![](<../../../.gitbook/assets/Access Trac\_5.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

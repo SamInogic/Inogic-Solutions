@@ -175,3 +175,7 @@ Similar steps needed to be followed for the creation of the **Target configurati
 ![](<../../.gitbook/assets/Targ Fix\_3.png>)
 
 ![](<../../.gitbook/assets/Aggre Track.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -15,3 +15,8 @@ Please follow the below steps to uninstall **User Adoption Monitor** solution fr
 3\) Click on delete button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
 ![](<../.gitbook/assets/uninstall\_5 - Copy.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

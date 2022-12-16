@@ -26,3 +26,7 @@ Once the sample records are created, tracking of the above entity-action pairs w
 If you wish to modify the entity-action pairs, go to **User Adoption Monitor App --> Entity Configuration --> Select the record you wish to modify.**
 
 ![](../../.gitbook/assets/ISamp\_2.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

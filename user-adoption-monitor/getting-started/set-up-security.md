@@ -33,3 +33,7 @@ Follow the steps below to assign security roles to users.
 * Click on any one of the security roles --> Click **Ok**.
 
 ![](../../.gitbook/assets/UAM\_Roles.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

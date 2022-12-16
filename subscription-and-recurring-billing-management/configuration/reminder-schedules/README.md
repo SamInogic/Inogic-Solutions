@@ -14,3 +14,7 @@ The Reminder Schedule is used to set up a reminder for customers regarding their
 
 ![](../../../.gitbook/assets/Reminder\_2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

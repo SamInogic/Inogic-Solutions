@@ -70,3 +70,7 @@ Now, if you want to upgrade the solution to its latest version, then you will ge
 
 ![](../../.gitbook/assets/UpgradeAndOverwrite.jpg)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

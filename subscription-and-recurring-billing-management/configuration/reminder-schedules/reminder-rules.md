@@ -40,3 +40,7 @@ The Reminder Rule is used to create the rules around the Reminder Schedule, such
 
 ![](<../../../.gitbook/assets/Reminder on Invoice\_1.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

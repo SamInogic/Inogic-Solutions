@@ -45,3 +45,7 @@ To add a pricing range where you want to define the pricing for when the user co
 {% hint style="info" %}
 **Note: Plan Details grid on Plan is an editable grid.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

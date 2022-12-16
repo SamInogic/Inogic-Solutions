@@ -17,3 +17,7 @@ When Reminder Schedules are generated, the system uses the Bill To Customer/Ship
 
 ![](../../.gitbook/assets/FunRoles\_2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

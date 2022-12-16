@@ -21,3 +21,7 @@
 * Track and monitor target value allotted to users&#x20;
 * Track and ensure the completeness of an entity record
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

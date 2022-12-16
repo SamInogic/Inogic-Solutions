@@ -6,3 +6,8 @@ Subscription Schedules can be revised in the following ways:
 
 * [Through Subscription Lines](https://docs.inogic.com/subscription-and-recurring-billing-management/features/revision/revise-subscriptions-through-subscription-lines)
 * [Through Opportunity/Quote/Order](https://docs.inogic.com/subscription-and-recurring-billing-management/features/revision/revise-subscriptions-through-opportunity-quote-order)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

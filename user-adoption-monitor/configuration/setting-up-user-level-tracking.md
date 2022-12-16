@@ -27,3 +27,8 @@ Given below are the steps to set up user level tracking:
 {% hint style="info" %}
 **Note: Customizing tracking capability of a particular user will end the synchronization with the System Level configurations. This means if you customize a user’s tracking capability, and later on, you enable tracking for an entity under Create action at System Level, then it will not take effect for that user. For a user to Sync with System-Level configurations again, you need to delete all of the modifications done for that user or you would need to customize the user’s tracking for the newly created action as well.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

@@ -77,3 +77,7 @@ And for every product line as the name of the entity suggests we create the brea
 
 ![](<../../.gitbook/assets/Use case\_7.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

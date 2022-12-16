@@ -25,3 +25,8 @@ In simple words the basic purpose of this entity is to automate the processes, b
 ![](<../../.gitbook/assets/Work Trig\_1.png>)
 
 ![](<../../.gitbook/assets/Work Trig\_2.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

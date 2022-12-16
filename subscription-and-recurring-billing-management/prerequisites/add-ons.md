@@ -17,3 +17,8 @@ An add-on is an extension that adds extra features to the Parent product. It may
   * **Charge Type:** Will be carried over from the selected Add-On Product.
 
 ![](../../.gitbook/assets/Add-on\_2.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

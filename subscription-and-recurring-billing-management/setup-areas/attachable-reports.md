@@ -17,3 +17,7 @@ The word template defined in the Attachable Reports will be used as email attach
 
 ![](<../../.gitbook/assets/Att Rep\_2.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

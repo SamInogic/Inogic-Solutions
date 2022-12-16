@@ -36,3 +36,8 @@ To revise the fields in Subscription Line, follow the steps given below:
 {% hint style="info" %}
 **Note: On your existing Subscription Schedule you cannot add a new product. For this you will have to create a new Subscription Schedule itself.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

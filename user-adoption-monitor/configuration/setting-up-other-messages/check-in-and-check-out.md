@@ -41,3 +41,7 @@ In order to enable Check-in & Check-out feature for a particular entity, follow 
 * Once the task is completed, click on **Check-out** button. Both **Check-in & Check-out Buttons** are interchangeable.
 
 ![](../../../.gitbook/assets/Checkin\_6.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

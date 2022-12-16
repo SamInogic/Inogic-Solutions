@@ -25,3 +25,7 @@ Let us understand what these terms **None, Daily, Weekly,** and **Monthly** spec
 
 ![Represents changes that will be tracked and summarized on a monthly basis.](<../../.gitbook/assets/image (20).png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

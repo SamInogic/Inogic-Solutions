@@ -67,3 +67,7 @@ In similar scenario, if future date is selected i.e. 1st September, then the inv
 * **To decrease the subscriber count you should** [**revise**](https://docs.inogic.com/subscription-and-recurring-billing-management/features/revision) **your Subscription Schedule**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

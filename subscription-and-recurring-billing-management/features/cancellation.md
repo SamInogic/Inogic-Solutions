@@ -25,3 +25,8 @@ There are chances that half way through subscription customer may want to cancel
 In case a Subscription Schedule consists of more than one Subscription Lines and the customer wants to opt out of a single product, then you can only cancel the subscription line rather than cancelling the entire Subscription Schedule.
 
 On cancelling the parent product, it will also cancel their respective add-ons.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

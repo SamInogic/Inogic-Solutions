@@ -7,3 +7,7 @@ We have added a **Copy** button on the form Ribbon of the Subscription Schedule 
 {% hint style="info" %}
 **Note: On copying the Subscription Schedule only those Subscription Lines will get carried over which have the associated product having the ‘Charge Type’ as ‘Recurring’.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

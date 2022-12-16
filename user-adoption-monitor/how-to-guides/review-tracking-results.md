@@ -25,3 +25,7 @@ A tracking detail record provides you with the following information;
 * **Record Guid:** Unique Id of the record on which the operation was performed.&#x20;
 * **Record URL:** Link to the record on which the operation was performed. You can click on the link to navigate to the record that is being tracked.
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

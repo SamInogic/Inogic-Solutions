@@ -40,3 +40,7 @@ User Adoption Monitor supports the following special messages apart from the CRU
 {% hint style="info" %}
 **Note: Through the User Adoption Tracking screen, you can only configure to monitor CRUD operations performed on entities. To monitor other actions performed by the user on the entities you need to create the User Adoption Entity Configuration Record manually.**
 {% endhint %}
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

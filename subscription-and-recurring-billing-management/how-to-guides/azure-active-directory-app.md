@@ -51,3 +51,7 @@ Please copy/paste it somewhere because after some time it will disappears.
 ![](https://www.inogic.com/blog/wp-content/uploads/2020/10/image10.png)
 
 We are done with AAD app, now copy/paste your app id and secret key in connector in credentials section then you can authenticate it.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

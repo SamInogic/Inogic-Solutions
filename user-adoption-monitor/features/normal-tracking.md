@@ -17,3 +17,7 @@ User Adoption Monitor helps you to track the following normal user actions in Dy
 **The above tracking actions would also appear under ‘Trackings’ all together:**
 
 ![](../../.gitbook/assets/Sp\_Mess\_8.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -47,3 +47,7 @@ To run the workflow kindly follow the below steps:
 * Click on **Activate** Button.
 
 ![](../../../.gitbook/assets/Reminder\_10.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -11,3 +11,9 @@ This entity defines the payment terms that the customer has agreed to. Invoice d
 
 ![](<../../.gitbook/assets/Payment Terms.png>)
 
+
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

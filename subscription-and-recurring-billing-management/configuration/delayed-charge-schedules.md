@@ -31,3 +31,7 @@ The Delayed Charge Schedule is used to create a schedule by which the customer w
 ![](../../.gitbook/assets/Delayed\_3.png)
 
 ![](../../.gitbook/assets/Delayed\_4.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

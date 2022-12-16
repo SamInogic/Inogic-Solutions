@@ -6,5 +6,9 @@ You can see exact time at which CRM users have accessed the CRM by opening the â
 
 ![](<../../.gitbook/assets/Access Trac\_6.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
 
 

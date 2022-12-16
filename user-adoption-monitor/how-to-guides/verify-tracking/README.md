@@ -20,3 +20,7 @@ In this section you will see how to verify tracking. Let us go ahead and verify 
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

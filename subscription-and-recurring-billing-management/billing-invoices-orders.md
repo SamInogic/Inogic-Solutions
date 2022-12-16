@@ -65,3 +65,8 @@ The Invoice/Order consists of a Subscription Management tab which holds the belo
 * **Reminder Schedule:** Reminder schedule according to which the email reminders will be sent.&#x20;
 * **Delayed charge Schedule:** Schedule according to which the delayed charges will be implemented.
 * **Delayed charge thru date:** Date after which the delayed charges will be implemented.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

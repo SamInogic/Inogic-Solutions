@@ -10,3 +10,7 @@ Apart from sending reminders for due payments, reminders can also be sent to ren
 
 ![](<../../../.gitbook/assets/Renewal Reminder\_3.1.png>)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

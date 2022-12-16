@@ -8,3 +8,7 @@ User Adoption Monitor helps you to track the following messages:
 * [Check In & Check Out](https://docs.inogic.com/user-adoption-monitor/configuration/setting-up-other-messages/check-in-and-check-out)
 * [Data Completeness](https://docs.inogic.com/user-adoption-monitor/configuration/setting-up-other-messages/data-completeness)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

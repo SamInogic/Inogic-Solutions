@@ -25,3 +25,7 @@ In the example above, **more than one person** appears in the same **Functional 
 * Click on **Save.**
 
 ![](../../.gitbook/assets/FunCon\_2.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

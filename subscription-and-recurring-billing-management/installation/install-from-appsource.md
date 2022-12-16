@@ -25,3 +25,7 @@ To install **Subscription and Recurring Billing Management** from Microsoft AppS
 * The installation process will be completed automatically. After the installation is done, you can see **Subscription and Recurring Billing Management** solution in **My apps** in your Dynamics 365 CRM environment.
 
 ![](<../../.gitbook/assets/SRBM AppSource\_6.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -8,3 +8,7 @@ The below screenshots give an idea on the **Completeness** fields when placed on
 
 ![Complete](../../.gitbook/assets/Datacomp\_4.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

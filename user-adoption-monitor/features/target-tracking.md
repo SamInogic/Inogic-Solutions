@@ -13,3 +13,8 @@ With the help of **‘Target Tracking’** in User Adoption Monitor, one can all
 #### Target defined for Fixed Interval
 
 ![](<../../.gitbook/assets/Targ Fix\_4.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

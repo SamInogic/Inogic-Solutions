@@ -96,3 +96,7 @@ To generate **‘Token’**, follow the steps given below:
 * **Pricing Mode:** This field defines two pricing modes – **Subscription Management Mode & Recurring Billing Mode.** The Recurring Billing Mode has the basic features like generating recurring Invoices as per the CRM price list. The Subscription Management mode has the additional functionalities of creating plans & add-ons, price list, proration, revising schedules, creating margin schedules, etc. Users can select either mode depending on the work requirement.
 
 ![](<../../.gitbook/assets/Config\_4 (4).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

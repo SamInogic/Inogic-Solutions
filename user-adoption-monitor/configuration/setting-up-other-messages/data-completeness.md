@@ -65,3 +65,7 @@ Follow the steps given below to create workflow to monitor the completeness of H
 * Once the workflow has run the value of the **Completeness** field shall get set.
 
 ![](../../../.gitbook/assets/Datahis\_8.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

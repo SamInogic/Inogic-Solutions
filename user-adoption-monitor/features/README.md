@@ -9,3 +9,8 @@ User Adoption Monitor has the following features:
 * [Data Completeness](https://docs.inogic.com/user-adoption-monitor/features/data-completeness)
 * [Aggregate Tracking](https://docs.inogic.com/user-adoption-monitor/features/aggregate-tracking)
 * [Target Tracking](https://docs.inogic.com/user-adoption-monitor/features/target-tracking)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

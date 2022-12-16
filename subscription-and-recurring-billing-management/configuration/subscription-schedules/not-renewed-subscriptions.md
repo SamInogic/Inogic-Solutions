@@ -22,3 +22,7 @@ Once the subscription period is completed, the customers will either renew the s
 * **Marking completed Subscription schedules as ‘Not Renewed’ is mandatory to calculate the Churn rate accurately.**
 {% endhint %}
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

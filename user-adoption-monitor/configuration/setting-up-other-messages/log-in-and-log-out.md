@@ -31,3 +31,7 @@ To enable this feature, follow the steps given below:
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

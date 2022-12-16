@@ -29,3 +29,7 @@ To install **User Adoption Monitor** solution from **Microsoft AppSource**, clic
 * Once the installation is completed, **User Adoption Monitor** solution will be visible in **Apps**.
 
 ![](../../.gitbook/assets/2021\_01\_12\_15\_27\_10\_Greenshot.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

@@ -29,3 +29,7 @@ If the product has an Add-On and if you wish to add it in the Subscription Sched
 ![](<../../../.gitbook/assets/Sub Sch\_8.png>)
 
 ![](<../../../.gitbook/assets/Sub Sch\_9.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

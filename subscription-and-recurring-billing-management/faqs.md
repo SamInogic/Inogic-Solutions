@@ -31,3 +31,7 @@ Once the solution is imported, please follow the below steps to activate all the
 ![](<../.gitbook/assets/SRBM FAQ 5\_1.png>)
 
 ![](<../.gitbook/assets/SRBM FAQ 5\_2.png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

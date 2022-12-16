@@ -47,3 +47,7 @@ You can also track the touch of the records by tracking the opening of the recor
 
 
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

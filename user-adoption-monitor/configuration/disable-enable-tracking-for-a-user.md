@@ -7,3 +7,8 @@ On the System Users form, we have a section called User Adoption Monitor where y
 Set the **Enable User Adoption** to **No** __ to not track any actions of this user.&#x20;
 
 **Last Touch** would show the last date of any action for this user was tracked.
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+

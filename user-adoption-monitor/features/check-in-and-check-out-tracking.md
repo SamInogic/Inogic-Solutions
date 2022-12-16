@@ -9,3 +9,7 @@ Go to **Entity Configurations --> Case-checkincheckout**. Here, you can view ass
 Click on **record URL** and you will be directed to the record that the user worked on.
 
 ![](../../.gitbook/assets/Checkin\_8.png)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

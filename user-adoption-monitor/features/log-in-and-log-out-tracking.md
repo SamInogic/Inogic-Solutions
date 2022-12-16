@@ -9,3 +9,7 @@ Go to **Entity Configurations (User Adoption Monitor group) --> Application-logi
 Click on the respective record to get in depth **Log-in/Log-out** Tracking Detail records.
 
 ![](<../../.gitbook/assets/Log\_6 (1).png>)
+
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

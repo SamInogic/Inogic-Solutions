@@ -14,3 +14,7 @@ The Margin Schedule is used to assign the details of the margin offered to the p
 
 ![](../../.gitbook/assets/Margin\_2.png)
 
+{% hint style="success" %}
+For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}
+
