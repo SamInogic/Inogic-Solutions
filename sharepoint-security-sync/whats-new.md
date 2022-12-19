@@ -1,5 +1,13 @@
 # What's New!
 
+## Version 9.0.0.22
+
+### Features
+
+*   &#x20;
+
+    Added user tab under folder security in bulk synchronization tool to run the folder security for the records owned by the selected users for the selected period.
+
 ## Version 9.0.0.21&#x20;
 
 ### Features
