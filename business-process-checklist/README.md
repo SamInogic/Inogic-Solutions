@@ -10,4 +10,4 @@ Benefits of implementing **Business Process Checklist** within your **Dynamics 3
 
 3\. Increase the success rate of projects by 70%
 
-### Download 15 days FREE TRIAL from our [website](https://www.inogic.com/product/productivity-apps/business-process-dynamics-365-crm-to-do-checklist-sequence) or Microsoft AppSource today!&#x20;
+### Download 15 days FREE TRIAL from our [website](https://www.inogic.com/product/productivity-apps/business-process-dynamics-365-crm-to-do-checklist-sequence) or [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365/inogic.business-process-to-do-checklist-dynamics-365-crm?tab=Overview) today!&#x20;
