@@ -115,6 +115,7 @@
     * [Set up Security](business-process-checklist/getting-started/set-up-security.md)
   * [Configuration](business-process-checklist/configuration/README.md)
     * [Enable Record Type](business-process-checklist/configuration/enable-entity.md)
+    * [View Plan Items on Record](business-process-checklist/configuration/view-plan-items-on-record.md)
   * [Features](business-process-checklist/features/README.md)
     * [Manage Plans](business-process-checklist/features/manage-plans/README.md)
       * [Create Plan](business-process-checklist/configuration/configuration-for-plans/README.md)

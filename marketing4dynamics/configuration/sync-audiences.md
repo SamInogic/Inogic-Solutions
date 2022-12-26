@@ -24,7 +24,7 @@ To sync audiences, follow the steps given below:
 **Note: You can select only static marketing list of type (Target At) Lead and Contact. Account type of Marketing List is not supported.**
 {% endhint %}
 
-![](<../../.gitbook/assets/9 (1).png>)
+![](<../../.gitbook/assets/9 (1) (1).png>)
 
 * In this case, we have created a new Marketing List. For this, go to **Marketing List** --> Click on **‘Search’** icon --> Click on **‘New Marketing List’.**
 

@@ -34,7 +34,7 @@ You can also complete the license registration by another method. Follow the bel
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/8 (6).png>)
+![](<../../.gitbook/assets/8 (6) (1).png>)
 
 {% hint style="success" %}
 For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
