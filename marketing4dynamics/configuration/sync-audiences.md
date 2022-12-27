@@ -50,7 +50,7 @@ To sync audiences, follow the steps given below:
 
 * **The status is now changed to 'In-progress' which indicates that the synchronization of Audience is in under process.** (See Status section to know meaning of each Sync Status).
 
-![](<../../.gitbook/assets/16 (5).png>)
+![](<../../.gitbook/assets/16 (5) (1).png>)
 
 * Refresh or revisit the page to see current Sync Status.
 
@@ -58,15 +58,15 @@ To sync audiences, follow the steps given below:
 
 * Another way to verify **Sync Status** is to navigate to **Settings --> Audiences**.
 
-![](../../.gitbook/assets/18.png)
+![](<../../.gitbook/assets/18 (2).png>)
 
 * Once sync is complete, there will be two distinct changes in CRM data. Firstly, Mailchimp Tags will get synced to CRM.&#x20;
 
-![Mailchimp Tags](../../.gitbook/assets/19.png)
+![Mailchimp Tags](<../../.gitbook/assets/19 (3).png>)
 
 * The tags in Mailchimp will be be synced and can be seen in both **‘Tags’** and **‘Audiences’** entity. To verify this, go to **Audiences --> Tags** or **Settings --> Tags**.
 
-![](../../.gitbook/assets/20.png)
+![](<../../.gitbook/assets/20 (3).png>)
 
 ![](<../../.gitbook/assets/21 (2).png>)
 

@@ -26,7 +26,7 @@ To import the solution from make.powerapps.com, download the **Undo2Restore** so
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (1).png>)
+![](<../../.gitbook/assets/6 (1) (1).png>)
 
 * Then click on **Import**.
 

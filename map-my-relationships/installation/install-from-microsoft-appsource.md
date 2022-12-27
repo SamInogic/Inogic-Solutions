@@ -28,7 +28,7 @@ Install **Map My Relationships** solution from the **Microsoft AppSource** by vi
 
 * After the installation is done, you can see **Map My Relationships** solution in **My apps** in your Dynamics 365 CRM environment.
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (3) (1).png>)
 
 {% hint style="success" %}
 For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

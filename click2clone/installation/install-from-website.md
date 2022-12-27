@@ -50,7 +50,7 @@ Follow the steps to import and install **Click2Clone** solution.
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (30).png>)
+![](<../../.gitbook/assets/3 (30) (1).png>)
 
 * Browse the downloaded file.
 

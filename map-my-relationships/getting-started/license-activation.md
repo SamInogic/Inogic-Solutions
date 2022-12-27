@@ -10,7 +10,7 @@ Given below are the steps to activate **Map My Relationships** license.
 
 * Go to **License Registration**.
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (27).png>)
 
 * Enter the Details: First Name, Last Name, Company Name, Email, Website and Main Phone --> Click on **ACTIVATE**.
 
@@ -34,7 +34,7 @@ You can also complete the license registration by another method. Follow the bel
 
 * Click on **Register** to complete the **License Registration**.
 
-![](<../../.gitbook/assets/8 (6) (1).png>)
+![](<../../.gitbook/assets/8 (6).png>)
 
 {% hint style="success" %}
 For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

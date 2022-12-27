@@ -4,7 +4,7 @@ To install **SharePoint Security Sync** from Microsoft AppSource, click [here](h
 
 * Click on the **FREE TRIAL** button.
 
-![](<../../.gitbook/assets/1 (85).png>)
+![](<../../.gitbook/assets/1 (85) (1).png>)
 
 * If the user is already logged into CRM, accept the terms & conditions, and click on '**Continue**'.
 

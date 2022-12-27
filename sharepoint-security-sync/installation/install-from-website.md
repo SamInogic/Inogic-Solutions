@@ -38,19 +38,19 @@ To import the solution from make.powerapps.com, download the SharePoint Security
 
 * Proceed to **Settings** --> **Solutions**.
 
-![](../../.gitbook/assets/9.png)
+![](<../../.gitbook/assets/9 (1).png>)
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/10 (4) (1).png>)
+![](<../../.gitbook/assets/10 (4).png>)
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/11 (6) (1).png>)
+![](<../../.gitbook/assets/11 (6).png>)
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](<../../.gitbook/assets/12 (1) (1).png>)
+![](<../../.gitbook/assets/12 (1) (1) (1).png>)
 
 * Check the solution **SharePoint Security Sync** in '**Apps**'.
 

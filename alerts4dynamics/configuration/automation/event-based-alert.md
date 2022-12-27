@@ -62,7 +62,7 @@ Let’s further configure the condition.
 
 * Click on **‘Set Properties’.**
 
-<figure><img src="../../../.gitbook/assets/17 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the below option from the list for **‘Look for’** field. This is a first step description that was added to create a notification request record.
 

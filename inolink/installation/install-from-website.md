@@ -46,7 +46,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/?u
 
 * Click on **Import**.
 
-![](<../../.gitbook/assets/3 (30).png>)
+![](<../../.gitbook/assets/3 (30) (1).png>)
 
 * Browse the downloaded file.
 

@@ -18,7 +18,7 @@ To add Kanban Board Control on Entity Views follow the steps given below:
 
 * In that click on **‘Custom Controls’ -> ‘Add Control’**
 
-![](../../.gitbook/assets/4.png)
+![](<../../.gitbook/assets/4 (3).png>)
 
 * Here a list of Data-set control will be displayed. Select the respective Data-set Control that you want to add i.e. **‘Kanban Board’ -> Click on ‘Add’.**
 

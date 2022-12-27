@@ -67,7 +67,7 @@ To import a solution, first sign into [Power Apps](https://make.powerapps.com/).
 
 * Next, check **‘Enable any SDK message processing steps included in the solution’** and proceed to import the solution.
 
-<figure><img src="../../.gitbook/assets/6 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
 * The solution is successfully imported
 

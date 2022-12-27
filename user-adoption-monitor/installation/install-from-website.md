@@ -64,7 +64,7 @@ Here are the steps to import and install User Adoption Monitor solution.
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 
-![](../../.gitbook/assets/15.png)
+![](<../../.gitbook/assets/15 (3).png>)
 
 Now, if you want to upgrade the solution to its latest version, then you will get the following dialog box. Here, select the highlighted part and click on **Import** to install the updated/higher version of User Adoption Monitor.
 

@@ -20,7 +20,7 @@ To connect Mailchimp and Dynamics 365 CRM, **API URL** and **API key** from Mail
 
 * The key will be created shortly. This will be the **API key.**
 
-![](<../../.gitbook/assets/5 (27).png>)
+![](<../../.gitbook/assets/5 (27) (1).png>)
 
 ### **API URL**
 

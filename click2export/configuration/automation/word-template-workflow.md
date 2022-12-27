@@ -48,7 +48,7 @@ Follow the steps given below to export word templates using workflow:
 * Now ’**Save**’  and then ‘**Activate**’ the process.
 * You can now see the workflow in ‘**My Processes**’.
 
-![](<../../../.gitbook/assets/8 (5) (1).png>)
+![](<../../../.gitbook/assets/8 (5).png>)
 
 {% hint style="success" %}
 For further queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
