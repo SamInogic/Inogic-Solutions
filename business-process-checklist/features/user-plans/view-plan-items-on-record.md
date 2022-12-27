@@ -4,7 +4,7 @@ Once the conditions are satisfied, the plan will be automatically attached to th
 
 * **Plan items** will appear on the selected record as shown below. In addition, users can perform the various steps of the attached plan during the course of their day.
 
-<figure><img src="../../../.gitbook/assets/view plan items on record new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

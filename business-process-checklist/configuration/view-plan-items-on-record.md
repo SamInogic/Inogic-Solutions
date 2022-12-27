@@ -80,7 +80,7 @@ This can be done in the following two ways:
 
 * Go to [https://make.powerapps.com/](https://make.powerapps.com/).
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Select the Environment.
 
