@@ -1,5 +1,7 @@
 # Export Email Template (CRM Views Data)
 
+> **Schedule and send CRM views data in different table layouts via email to the configured recipients. Set up a quick** [**demo**](https://www.inogic.com/product/productivity-apps/click-2-export-microsoft-dynamics-crm-reports) **with our experts to export Dynamic 365 CRM templates and views in just one click.**
+
 Email Templates can be exported for a View. Go to the entity for which you have configured Email Template and click on **Click2Export** button.
 
 <figure><img src="../../.gitbook/assets/33.1.png" alt=""><figcaption></figcaption></figure>
