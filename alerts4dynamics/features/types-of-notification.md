@@ -1,5 +1,7 @@
 # Notifications
 
+> #### Get notified of every alert, and access your notifications from anywhere within Dynamics 365 CRM using [Alert4Dynamics](https://bit.ly/3C3EvY9)! To explore more, download a 15-day trial of this notification app from our [website](https://bit.ly/3C3EvY9) or [Microsoft AppSource](https://appsource.microsoft.com/en-gb/product/dynamics-365/inogic.alerts-4-dynamics-add-manage-schedule-notification?tab=Overview).
+
 ### View Notifications
 
 Every alert message is shown to the users as **Notifications**. The Notifications button is on the ribbon and can be accessed from anywhere in the CRM.
