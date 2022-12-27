@@ -1,6 +1,6 @@
 # Auto Create Folder
 
-> **Create customized folder structure within SharePoint to store CRM records. Download** [**SharePoint Security Sync app**](https://www.inogic.com/product/productivity-apps/dynamics-365-crm-sharepoint-security-metadata-sync) **from our** [**website**](https://www.inogic.com/product/productivity-apps/dynamics-365-crm-sharepoint-security-metadata-sync) **or** [**Microsoft AppSource**](https://appsource.microsoft.com/en-gb/product/dynamics-365/inogic.sync-dynamics-365-sharepoint-security-model?tab=Overview) **and Sign Up for 15 days free trial.**
+> #### **Create customized folder structure within SharePoint to store CRM records. Download** [**SharePoint Security Sync**](https://bit.ly/3Gumu81) **app from our** [**website**](https://bit.ly/3Gumu81) **or** [**Microsoft AppSource**](https://appsource.microsoft.com/en-gb/product/dynamics-365/inogic.sync-dynamics-365-sharepoint-security-model?tab=Overview) **and Sign Up for 15 days free trial.**
 
 This feature allows users to create folder structure in the respective SharePoint Site with the help of workflow. The **‘Auto Create Folder’** field on the entity configuration form serves this purpose.
 
