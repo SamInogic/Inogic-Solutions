@@ -1,7 +1,5 @@
 # Round Robin Assignment
 
-> **With Round Robin Assignment, assign leads to the employees in sequential order and avoid overstuffing them with work. Write to us at** [**crm@inogic.com**](<mailto:crm@inogic.com >) **to know more or schedule a personal demo.**
-
 In this method, users are assigned Leads in sequence. For e.g. Consider there are 3 members in a team namely – A, B & C. With Round Robin method, the first Lead will be assigned to A, the second Lead to B, third Lead to C and the fourth Lead will be again assigned to A. In this sequence Leads will be assigned to the users.&#x20;
 
 To assign Leads as per Round Robin method, follow the steps given below:
