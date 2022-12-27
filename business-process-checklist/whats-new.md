@@ -14,3 +14,4 @@
 * Allow to mark the step as complete and can also see the progress
 * Supports both OOB and custom Business Process Flows
 * Supports both OOB and custom entities
+* Provision for handling Failures/Error
