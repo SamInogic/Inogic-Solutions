@@ -163,3 +163,7 @@ This can be done in the following two ways:
 * Now plan will get displayed on the **‘Record Form’.**
 
 <figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
+{% endhint %}

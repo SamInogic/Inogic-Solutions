@@ -14,7 +14,7 @@ After importing the solution, the next step is to activate the License. Follow t
 
 After filling the details click ‘**ACTIVATE**’ for activating the **Trial Version for 15 days**. The license is issued based on the details filled in the CRM Details section. The **User License** is the count of **active users** in the **CRM**.
 
-![](<../../.gitbook/assets/1 (1) (2).png>)
+![](<../../.gitbook/assets/1 (1) (2) (1).png>)
 
 After you have activated license, you need to configure Kanban Board to view it on desired home grid.&#x20;
 
