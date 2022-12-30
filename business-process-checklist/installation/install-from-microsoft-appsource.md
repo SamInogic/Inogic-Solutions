@@ -1,6 +1,6 @@
 # Install from Microsoft AppSource
 
-To install the Business Process Checklist solution from the Microsoft AppSource, visit the link and go through the below steps.
+To install the Business Process Checklist solution from the Microsoft AppSource, visit the [link](https://appsource.microsoft.com/en-us/product/dynamics-365/inogic.business-process-to-do-checklist-dynamics-365-crm?tab=Overview) and go through the below steps.
 
 * &#x20;Click on the **FREE TRIAL** button.&#x20;
 * If the user is already logged into CRM, accept the terms & conditions and click on **Free Trial**. If the user is not logged into CRM, fill in the credentials and **Sign in**.
