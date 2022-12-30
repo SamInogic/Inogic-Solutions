@@ -22,7 +22,7 @@ To import the solution from make.powerapps.com, download the Alerts4Dynamics sol
 
 ![](<../../.gitbook/assets/4 (18).png>)
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (4) (1).png>)
 
 * Select **Next**.
 

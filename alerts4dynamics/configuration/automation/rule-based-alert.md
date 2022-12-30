@@ -14,7 +14,7 @@ Given below are the steps to configure workflow to auto-dismiss alerts:
 
 * Set **‘Auto Dismissible’** as **‘Yes’**.
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Navigate to **Accounts** --> **My Active Accounts** --> **Open** **any record**. Here, an alert will be displayed as a Form dialog post opening the record and it will continue showing up as long as it satisfies the rule defined in the alert configuration i.e. **‘My Active Accounts’**.
 

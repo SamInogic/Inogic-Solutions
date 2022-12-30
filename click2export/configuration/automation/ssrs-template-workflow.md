@@ -10,7 +10,7 @@ Given below are the steps to export reports through automation:
 
 * Enter the ‘**Process Name**’, select the ‘**Category**’ as ‘**Workflow**’ and ‘**Entity**’ for which you want to create this workflow. Click on ‘**OK**’.
 
-![](<../../../.gitbook/assets/2 (3).png>)
+![](<../../../.gitbook/assets/2 (3) (1).png>)
 
 * Here you can select whether you want the **Workflow** to be **On Demand** or trigger on a change of Options for Automatic Processes.
 
