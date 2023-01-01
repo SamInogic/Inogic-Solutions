@@ -6,7 +6,7 @@ To Add a **Plan Step Action**, follow the steps given below:
 
 * Click on **ellipsis --> '+ Create Action'** to Add an action.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_1 new (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action.png" alt=""><figcaption></figcaption></figure>
 
 * This will open a **‘Quick Create Form: Plan Step Action’,** where we need to fill in the details**.**
   * **Select Action:** Select an activity (Phone Call, Email, and Tasks) through which you want to carry out a task.
@@ -21,19 +21,19 @@ To Add a **Plan Step Action**, follow the steps given below:
       * **Simple:** Here, you can further define and set criteria for records through the view of an entity.
       * **Advanced:** Here, you can further define and set criteria for records through fetch XML.
 
-<figure><img src="../../../../.gitbook/assets/Quick create plan step actions.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action 2.png" alt=""><figcaption></figcaption></figure>
 
 * Once the required fields are filled, click on **‘Save and Close’**.
 
-<figure><img src="../../../../.gitbook/assets/Quick create plan step actions save.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action 3.png" alt=""><figcaption></figcaption></figure>
 
 * Your Plan Step Action will be added to the plan step and will appear on **Plan Step Actions.**
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_4 new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action 4.png" alt=""><figcaption></figcaption></figure>
 
 * Similarly, we can add more Plan Step Actions by clicking on the **'Add an action’** as shown below.
 
-<figure><img src="../../../../.gitbook/assets/Plan step actions_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action 5.png" alt=""><figcaption></figcaption></figure>
 
 * **Click** on **Publish** to publish the plan.
 
@@ -41,7 +41,7 @@ To Add a **Plan Step Action**, follow the steps given below:
 **Note: At least one plan step and plan step action should be added to publish a plan.**
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/publish process (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Plan step action 6.png" alt=""><figcaption></figcaption></figure>
 
 In this way, **Process-Type plan** can be created with the plan steps and plan step actions.
 

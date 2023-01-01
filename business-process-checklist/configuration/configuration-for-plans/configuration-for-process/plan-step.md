@@ -29,11 +29,11 @@ To create **Plan steps**, follow the steps given below:
 
 * Your plan step will be added to the process and appear on Plan Steps.
 
-<figure><img src="../../../../.gitbook/assets/Plan step_4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/plan step (1).png" alt=""><figcaption></figcaption></figure>
 
 * Similarly, we can add more steps by clicking on the **'+'** button, as shown below.
 
-<figure><img src="../../../../.gitbook/assets/plan step_5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/add step (1).png" alt=""><figcaption></figcaption></figure>
 
 Now that we have created a plan step, let’s add [plan step actions](https://docs.inogic.com/business-process-checklist/features/manage-plans/create-plan/create-process-type-plan/plan-step-action) next.
 

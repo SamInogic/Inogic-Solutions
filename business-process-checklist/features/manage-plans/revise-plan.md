@@ -41,11 +41,11 @@ To revise Process-Type plans, plan steps and plan step actions follow the steps 
 
 * To Edit Plan Step Action, navigate to **--> Manage Steps -->** Click on the **ellipsis -->** Click on **'Edit'**.
 
-<figure><img src="../../../.gitbook/assets/Revise plan step action new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan step action 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Make the required changes to the Plan Step Action **-->** Click on the **‘Publish’** Button.
 
-<figure><img src="../../../.gitbook/assets/Revise plan step action new (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Revise plan step action 2.png" alt=""><figcaption></figcaption></figure>
 
 In this way Process-Type plan, plan steps and plan step actions can be revised to suit the business requirement.
 

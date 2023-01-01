@@ -26,7 +26,7 @@ To delete Process-Type plans, plan steps and plan step actions follow the steps 
 
 * To Delete Plan Step, navigate to **Manage Steps -->**  Click on **Revise --> Select** the **Existing Plan Step** you want to delete-->  Click on the **ellipsis** --> Click on **'Delete'** Button.
 
-<figure><img src="../../../.gitbook/assets/delete plan step _1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/delete plan steps (1).png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;Click on **'Delete'**.
 
@@ -40,7 +40,7 @@ To delete Process-Type plans, plan steps and plan step actions follow the steps 
 
 * To Delete Plan Step Action, navigate to **Manage Steps -->**  Click on **Revise --> Select** the **Existing Plan Step Action** you want to delete --> Click on the **ellipsis** --> Click **'Delete'**.
 
-<figure><img src="../../../.gitbook/assets/Delete plan step action_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Delete plan step actions.png" alt=""><figcaption></figcaption></figure>
 
 In this way **Process-Type** plan, plan steps and plan step actions that are no longer in use can be deleted.
 
