@@ -33,7 +33,7 @@ Your Checklist-Type plan for Business Process Flow is created and, now you can a
 * Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. Manager can now select the desired stages and create the actions inside the stages.&#x20;
 * **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
 
-<figure><img src="../../../../.gitbook/assets/1 (2) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Now select the required BPF stage. For example, select the **Qualify stage**.
 
@@ -48,7 +48,7 @@ Your Checklist-Type plan for Business Process Flow is created and, now you can a
   * **Description (Optional):** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 * Your plan step will be added to the process and will appear on **Plan Steps.**
 

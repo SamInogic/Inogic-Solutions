@@ -20,7 +20,7 @@ After you have activated license, you need to configure Kanban Board to view it 
 
 If you want to purchase or extend the trial, click ‘**SEND REQUEST**’ after which you need to enter **First Name, Last Name, Company Name, Email, Website** and **Main Phone** and it will redirect you to an email along with the details entered in the License Registration section. This email needs to be sent to us so we can process the request.
 
-![](<../../.gitbook/assets/1 (2) (2).png>)
+![](<../../.gitbook/assets/1 (2) (2) (1).png>)
 
 ### Alternate method to complete License Activation __&#x20;
 

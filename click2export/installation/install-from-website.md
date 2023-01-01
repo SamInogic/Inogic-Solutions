@@ -22,11 +22,11 @@ To import the solution from make.powerapps.com, download the Click2Export soluti
 
 ![](<../../.gitbook/assets/4 (20).png>)
 
-![](<../../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (5) (1).png>)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (7).png>)
+![](<../../.gitbook/assets/6 (7) (1).png>)
 
 * Then click on **Import**.
 

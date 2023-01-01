@@ -22,7 +22,7 @@ To import the solution from make.powerapps.com, download the Attach2Dynamics sol
 
 ![](<../../.gitbook/assets/4 (6).png>)
 
-![](<../../.gitbook/assets/5 (3).png>)
+![](<../../.gitbook/assets/5 (3) (1).png>)
 
 * Select **Next**.
 

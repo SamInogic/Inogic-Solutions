@@ -36,7 +36,7 @@ Uninstalling **Map My Relationships** solution from your CRM environment is quit
 
 8\) Next, navigate to **Settings** --> **Solution** --> Select **Map My Relationships** solution.
 
-![](<../.gitbook/assets/2 (6) (1).png>)
+![](<../.gitbook/assets/2 (6).png>)
 
 9\) Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 

@@ -24,7 +24,7 @@ Your Checklist-Type plan for Custom Groups is created, and now you can add the P
 
 * Navigate to **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Add New Group'** button.
 
@@ -40,18 +40,18 @@ Your Checklist-Type plan for Custom Groups is created, and now you can add the P
 
 * Click on the **'Create Plan Step'** button.
 
-<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
 
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill the details**.**
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
   * **Name:** Provide an appropriate name for the Plan Step.
   * **Description (Optional):** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’**
 
-<figure><img src="../../../../.gitbook/assets/5 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Your plan step will be added to the plan and will appear on **Plan Steps.**
 
-<figure><img src="../../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
 
 In this way, Checklist-Type plans for Custom Groups can be created with plan steps.
 
