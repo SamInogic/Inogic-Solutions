@@ -20,7 +20,7 @@ To install the Business Process Checklist solution from the Microsoft AppSource,
 
 * The installation process will now start, and you can check the status by refreshing the page.&#x20;
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;After the installation is done, you can see **Business Process Checklist** solution in **Apps**.
 

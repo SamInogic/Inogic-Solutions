@@ -14,7 +14,7 @@ To add Kanban Board Control on Entity Views follow the steps given below:
 
 * Next, click on any Entity, for e.g. **‘Account’ -> Views -> Click on any view,** for e.g. ‘All Accounts’.
 
-![](<../../.gitbook/assets/3 (5).png>)
+![](<../../.gitbook/assets/3 (5) (1).png>)
 
 * In that click on **‘Custom Controls’ -> ‘Add Control’**
 

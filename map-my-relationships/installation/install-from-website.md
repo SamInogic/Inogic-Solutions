@@ -22,7 +22,7 @@ To import the solution from make.powerapps.com, download the Map My Relationship
 
 ![](<../../.gitbook/assets/d (3).png>)
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (7) (1).png>)
 
 * Select **Next**.
 
