@@ -54,7 +54,7 @@ Follow the steps to import and install **Attach2Dynamics** solution.
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/4 (4).png>)
+![](<../../.gitbook/assets/4 (4) (1).png>)
 
 * Check ‘Enable any SDK message processing steps included in the solution’ and proceed to import the solution.
 

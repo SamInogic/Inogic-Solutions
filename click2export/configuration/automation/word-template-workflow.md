@@ -18,7 +18,7 @@ Follow the steps given below to export word templates using workflow:
 
 * First user needs to click on **‘Add Step’** and add **Perform Action** step that is predefined by Microsoft to select the appropriate **Action** for required word template. Select **Action** as **SetWordTemplate** option and **Entity** as **None** (global).&#x20;
 
-![](<../../../.gitbook/assets/4 (2).png>)
+![](<../../../.gitbook/assets/4 (2) (1).png>)
 
 * Now click on **‘Set Properties’** of **Perform Action** step and select the required Word Template in **SelectedTemplate** section and required **Entity** in **Target** section. In order to select the required entity in Target section, it should have **Business Process Flows** ticked in the entity settings like shown below:&#x20;
 

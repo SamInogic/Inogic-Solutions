@@ -18,7 +18,7 @@ If you are not using Click2Export assembly, then start from Step 2.&#x20;
 
 **Step 3:** Click on **delete** button.
 
-![](<../.gitbook/assets/1 (3) (1).png>)
+![](<../.gitbook/assets/1 (3) (1) (1).png>)
 
 &#x20;**Step 4:** Click on **OK** button.
 

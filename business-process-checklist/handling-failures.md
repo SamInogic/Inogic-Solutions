@@ -23,7 +23,7 @@ License expires while an existing plan on the lead is being executed. Follow the
 * Once you resolve the issue causing the Error/Failure you will see retry button on the pending plan steps.
 * Click on the ‘Retry’ Button.
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 * After clicking the "Retry" button, you will be able to complete any pending plan steps.
 

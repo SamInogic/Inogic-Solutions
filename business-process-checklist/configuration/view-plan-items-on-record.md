@@ -88,11 +88,11 @@ This can be done in the following two ways:
 
 * Navigate to Dataverse **--> Tables**.
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Go to All and search for the required Entity.
 
-<figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the desired Entity.
 
