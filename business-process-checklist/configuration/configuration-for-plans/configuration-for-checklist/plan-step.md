@@ -8,7 +8,7 @@ To create **Plan Steps**, follow the steps given below:
 
 * Once the plan is created, navigate to **Manage Steps**.
 
-<figure><img src="../../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **Create Plan Step** button.
 
@@ -23,7 +23,7 @@ To create **Plan Steps**, follow the steps given below:
 
 * Your plan step will be added to the checklist and appear on Plan Steps.
 
-<figure><img src="../../../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Similarly, we can add more steps, by clicking on the **'Add Step'** button as shown below.&#x20;
 

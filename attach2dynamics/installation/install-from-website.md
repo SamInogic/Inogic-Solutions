@@ -20,7 +20,7 @@ To import the solution from make.powerapps.com, download the Attach2Dynamics sol
 
 *  On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](<../../.gitbook/assets/4 (6).png>)
+![](<../../.gitbook/assets/4 (6) (1).png>)
 
 ![](<../../.gitbook/assets/5 (3) (1).png>)
 

@@ -24,7 +24,7 @@ If you would like to use Click2Export’s **'Upload to SharePoint'** functionali
 
 * Once the site is validated, click on **Finish**.
 
-![](<../../.gitbook/assets/1 (4).png>)
+![](<../../.gitbook/assets/1 (4) (1).png>)
 
 * The **server-based integration** of SharePoint site is now enabled for your Dynamics 365 CRM environment. Now, go back to **Settings -> Document Management Settings.**
 

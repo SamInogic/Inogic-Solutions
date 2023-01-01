@@ -48,7 +48,7 @@ Your Checklist-Type plan for Business Process Flow is created and, now you can a
   * **Description (Optional):** Provide a short description of the Plan Step.
 * Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4 (8).png" alt=""><figcaption></figcaption></figure>
 
 * Your plan step will be added to the process and will appear on **Plan Steps.**
 
