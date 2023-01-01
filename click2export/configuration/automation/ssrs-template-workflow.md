@@ -14,7 +14,7 @@ Given below are the steps to export reports through automation:
 
 * Here you can select whether you want the **Workflow** to be **On Demand** or trigger on a change of Options for Automatic Processes.
 
-![](<../../../.gitbook/assets/3 (8).png>)
+![](<../../../.gitbook/assets/3 (8) (1).png>)
 
 * First user needs to click on ‘**Add Step**’.  Click2Export ships with one workflow assembly namely ‘**Inogic.Click2Export.ExportReport.ExportAndScheduleReports**’. This step is required to call the workflow for performing the selected action.
 

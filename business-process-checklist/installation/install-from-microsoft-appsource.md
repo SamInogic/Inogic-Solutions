@@ -4,7 +4,7 @@ To install the Business Process Checklist solution from the Microsoft AppSource,
 
 * &#x20;Click on the **FREE TRIAL** button.&#x20;
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 * If the user is already logged into CRM, accept the terms & conditions and click on **Free Trial**. If the user is not logged into CRM, fill in the credentials and **Sign in**.
 

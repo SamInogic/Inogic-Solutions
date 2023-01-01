@@ -33,34 +33,26 @@ Your Checklist-Type plan for Business Process Flow is created and, now you can a
 * Here, as per the Business Process Flow selected by the manager, various stages of the selected Business Process Flow will be displayed. Manager can now select the desired stages and create the actions inside the stages.&#x20;
 * **For example:** Here we have selected the Business process flow of the **Lead to Opportunity Sales Process** and the stages (Qualify, Develop, Propose, and Close) of the **Lead to Opportunity Sales Process** will **** automatically be displayed as shown below. &#x20;
 
-<figure><img src="../../../../.gitbook/assets/MANAGE STEPS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Now select the required BPF stage. For example, select the **Qualify stage**.
 
-<figure><img src="../../../../.gitbook/assets/MANAGE STEPS 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
-* Fill in the **"Child plan"** details (Qualify)**.**
-  * **Name:** Provide an appropriate name for the Plan.
-  * **Description:** Provide a short description of the Plan.
-* Once the required fields are filled, click on **‘Save’**.
+* Click on the **'Create Plan Step'** Button.
 
-<figure><img src="../../../../.gitbook/assets/BPF stage plan details..png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
 
-* Navigate to **Manage Steps**.
-* Click on the **'New Plan step'** Button.
-
-<figure><img src="../../../../.gitbook/assets/BPF stage plan step.png" alt=""><figcaption></figcaption></figure>
-
-* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details**.**
+* This will open the **‘Quick Create Form: Plan Step’,** where we need to fill in the details.
   * **Name:** Provide an appropriate name for the Plan Step.
   * **Description (Optional):** Provide a short description of the Plan Step.
-* Once the required fields are filled, click on **‘Save and Close’**.
+* Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/Quick create plan step bpf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 * Your plan step will be added to the process and will appear on **Plan Steps.**
 
-<figure><img src="../../../../.gitbook/assets/qualify plan step.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5 (31).png" alt=""><figcaption></figcaption></figure>
 
 In this way, Checklist-Type plans for Business Process Flow can be created with plan steps.
 
