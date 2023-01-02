@@ -1,6 +1,6 @@
 # How to migrate Templates from one environment to another
 
-> **Migrate Microsoft Dynamic 365 CRM templates from one environment to another with our 1-click app** [**Click2Clone**](https://bit.ly/3i2UkaL)**! Excited to try? Download the free trial from our** [**website**](https://www.inogic.com/product/productivity-apps/click-2-clone-microsoft-dynamics-crm-records) **or mail us at** [**crm@inogic.com**](mailto:crm@inogic.com) **to schedule a personalized demo**
+> **Migrate Microsoft Dynamic 365 CRM templates from one environment to another with our 1-click app** [**Click2Clone**](https://bit.ly/3i2UkaL)**! Excited to try? Download the free trial from our website or mail us at** [**crm@inogic.com**](mailto:crm@inogic.com) **to schedule a personalized demo**
 
 The process of migrating templates from one environment to another can be divided into two parts:
 
