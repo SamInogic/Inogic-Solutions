@@ -1,5 +1,12 @@
 # What's New!
 
+## Version 9.0.0.1
+
+### Features
+
+* Provision for handling Failures/Error
+* View plans on record forms
+
 ## Version 9.0.0.0
 
 ### Features
@@ -14,4 +21,3 @@
 * Allow to mark the step as complete and can also see the progress
 * Supports both OOB and custom Business Process Flows
 * Supports both OOB and custom entities
-* Provision for handling Failures/Error
