@@ -37,7 +37,7 @@ Your Checklist-Type plan for Business Process Flow is created and, now you can a
 
 * Now select the required BPF stage. For example, select the **Qualify stage**.
 
-<figure><img src="../../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Create Plan Step'** Button.
 

@@ -48,7 +48,7 @@ Follow the step by step procedure given below:
 
 * Navigate to **Settings** --> **Solutions**.
 
-![](<../../.gitbook/assets/2 (2) (1).png>)
+![](<../../.gitbook/assets/2 (2) (1) (1).png>)
 
 * Click on **Import**.
 

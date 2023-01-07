@@ -27,7 +27,7 @@ License expires while an existing plan on the lead is being executed. Follow the
 
 * After clicking the "Retry" button, you will be able to complete any pending plan steps.
 
-<figure><img src="../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

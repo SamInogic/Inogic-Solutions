@@ -36,7 +36,7 @@ Your Checklist-Type plan for Custom Groups is created, and now you can add the P
   * **Priority Order:** Users can attach multiple plans to a single record, for which it is necessary to define which plan needs to be connected to the record first. To do this, you can set the priority order against the plan (if the criteria are matching with three different plans, then the plan that has to be followed, we need to set the priority order number respectively). Any value less than 1 or repeated numbers are invalid for this priority order field.
 * Once the required fields are filled, click on **‘Save and Close’.**
 
-<figure><img src="../../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Click on the **'Create Plan Step'** button.
 

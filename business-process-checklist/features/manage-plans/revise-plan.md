@@ -75,11 +75,11 @@ To revise Checklist-Type plans and plan steps follow the steps given below:
 
 * **Select** the **Existing Plan Step** you want to edit **-->** Click on the **'Edit' Icon**.
 
-<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 * Make the required changes to the plan step **-->** Click on the **'Save' Icon.**
 
-<figure><img src="../../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click on **‘Publish’**.
 

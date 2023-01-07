@@ -62,7 +62,7 @@ To delete **Checklist-Type** plans and plan steps follow the steps given below:
 
 * To Delete Plan Step, navigate to **Manage Steps --> Select** the **Existing Plan Step** you want to delete--> Click on **'Delete' Icon**.
 
-<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 In this way, Checklist-Type plans and plan steps that are no longer in use can be deleted.
 
