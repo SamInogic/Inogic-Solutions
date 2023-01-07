@@ -22,15 +22,15 @@ To import the solution from make.powerapps.com, download the Alerts4Dynamics sol
 
 ![](<../../.gitbook/assets/4 (18).png>)
 
-![](<../../.gitbook/assets/5 (4) (1).png>)
+![](../../.gitbook/assets/5.png)
 
 * Select **Next**.
 
-![](<../../.gitbook/assets/6 (19).png>)
+![](<../../.gitbook/assets/6 (7).png>)
 
 * Then click on **Import**.
 
-![](<../../.gitbook/assets/7 (15).png>)
+![](<../../.gitbook/assets/7 (2).png>)
 
 * Your solution will get imported. To check the status of the installation, refresh the page.
 
@@ -60,7 +60,7 @@ Follow the steps to import and install **Alerts4Dynamics** solution.
 
 * Browse the downloaded file.
 
-![](<../../.gitbook/assets/2020-09-30 09\_45\_48-Greenshot.png>)
+![](../../.gitbook/assets/d.png)
 
 * Check **Enable any SDK message processing steps included in the solution** and proceed to import the solution.
 

@@ -22,7 +22,7 @@ Given below are the steps to configure workflow to auto-dismiss alerts:
 
 * Now deactivate this account record so that it will move out of **‘My Active Accounts’** entity view.
 
-<figure><img src="../../../.gitbook/assets/5 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../../.gitbook/assets/Event\_6 (1).png>)
 

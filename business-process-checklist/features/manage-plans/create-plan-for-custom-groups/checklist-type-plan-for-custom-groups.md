@@ -51,7 +51,7 @@ Your Checklist-Type plan for Custom Groups is created, and now you can add the P
 
 * Your plan step will be added to the plan and will appear on **Plan Steps.**
 
-<figure><img src="../../../../.gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/6 (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 In this way, Checklist-Type plans for Custom Groups can be created with plan steps.
 

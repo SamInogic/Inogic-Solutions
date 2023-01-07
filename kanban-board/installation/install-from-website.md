@@ -20,7 +20,7 @@ To import the solution from make.powerapps.com, download the Kanban Board soluti
 
 * &#x20;On the **Import a solution** page, select **Browse** to locate the previously downloaded compressed (.zip) file that contains the solution.
 
-![](../../.gitbook/assets/d.png)
+![](<../../.gitbook/assets/d (5).png>)
 
 ![](../../.gitbook/assets/e.png)
 
