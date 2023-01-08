@@ -42,8 +42,14 @@ There is an invoice with a related account which has further multiple associated
 * Fill the following fields:&#x20;
   * **Name** – Enter some valid name for the message.&#x20;
   * **Message Text** – Enter a text for the message that you would like to display on the alert notification. Let’s say, we would like to show the invoice name in the message. For this we’ll select a dynamic field from the list.
-  * **Message Rich Text –** Select the appropriate Message Text from the lookup.&#x20;
-* To know how to add Message Rich Text in an Event-Based alert, [click here.](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/event-based-alert)[ ](https://docs.inogic.com/alerts4dynamics/configuration/messages)****
+
+<figure><img src="../../.gitbook/assets/Event 2_9.png" alt=""><figcaption></figcaption></figure>
+
+* Click on **‘Add’** and **'OK'.**
+
+<figure><img src="../../.gitbook/assets/Message Text Field.png" alt=""><figcaption></figcaption></figure>
+
+* **Message Rich Text –** Select the appropriate Message Text from the lookup. To know more about how to add Message Rich Text in an Event-Based alert, skip to the [Event-Based Alert](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/event-based-alert) Configuration section.
 
 {% hint style="info" %}
 **Note:**&#x20;
@@ -53,11 +59,9 @@ There is an invoice with a related account which has further multiple associated
 * **To add Message Rich Text in Event-Based Alerts you need to create messages text before creating the workflow using "Message Texts" of Alerts4Dynamics App.**&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/Event 2\_9.png>)
-
-* Click on **‘Add’** and Next, fill the following fields:&#x20;
-* **Alert As** – Since we want to send an alert through an email, we will select it as **‘Email notification’.**&#x20;
-* **Alert level** – Let’s say it is just a normal informational alert, we will select it as ‘**Information’**.
+* Next, fill in the following fields:&#x20;
+  * **Alert As** – Since we want to send an alert through an email, we will select it as **‘Email notification’.**&#x20;
+  * **Alert level** – Let’s say it is just a normal informational alert, we will select it as ‘**Information’**.
 * Populate the field **‘Notification Associated with’ f**ield. Since this alert is associated with **‘Invoice’** but we want a notification to be shown on the related Account, we will select the Record URL of the **Account** entity and **not** of the **Invoice**.
 
 {% hint style="info" %}
@@ -68,7 +72,7 @@ There is an invoice with a related account which has further multiple associated
 
 * This will set the field with value as shown below:
 
-<figure><img src="../../.gitbook/assets/12 (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 * Now we will define the email recipient and select the user from whom you would like to send an email notification. Click on the below look-up field. In this scenario we will set the Notification Audience section blank. Hence, the notification will be displayed to all the users in the CRM.
 * **‘To – Same As Include Users’** : If we have selected the include users and want the same audience to be carry forwarded for the email audience as well, then in such scenario we would have to just set the field to ‘**Yes**’, as by default is set to **‘No’.**

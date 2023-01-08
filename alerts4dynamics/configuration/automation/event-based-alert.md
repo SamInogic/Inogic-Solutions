@@ -32,13 +32,13 @@ To understand how this provision works in case of Event-Based Alerts,  let’s c
 
 * Perform the dynamic field selection as required.
 
-![](<../../../.gitbook/assets/Event\_8 (1) (1).png>)
+![](<../../../.gitbook/assets/Event\_8 (1) (3).png>)
 
 * To display alert on the case record, set the **‘Notification Associated With’** as shown below:
 
-![](../../../.gitbook/assets/Event\_9.png)
+<figure><img src="../../../.gitbook/assets/Event_9 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/Event\_10 (1).png>)
+<figure><img src="../../../.gitbook/assets/Event_10 (2).png" alt=""><figcaption></figcaption></figure>
 
 * After creating an alert, now add a **‘Wait’** condition which will wait till the case is resolved.
 
@@ -104,7 +104,7 @@ Let’s further configure the condition.
 
 * Once saved successfully, an alert will be shown as a **Dialog** on the case record. It will continue showing up until the case is resolved.
 
-![](../../../.gitbook/assets/Event\_29.png)
+<figure><img src="../../../.gitbook/assets/Event_29.png" alt=""><figcaption></figcaption></figure>
 
 * Now, let’s mark this case record as resolved.
 

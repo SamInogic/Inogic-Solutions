@@ -6,7 +6,7 @@ Rule-Based Alerts are designed for specific conditions. There are two types of R
 
 Simple alerts are rule-based alerts created based on System Views related to the entity whose Entity Configuration has been selected.&#x20;
 
-![](<../../.gitbook/assets/Rule based\_2.png>)
+![](<../../.gitbook/assets/Rule based\_1.png>)
 
 To know how to create Rule-Based Simple Alerts, please [click here.](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/rule-based-alert#1-simple-alerts)
 
@@ -34,7 +34,7 @@ For eg. If you want to create alerts for all the Invoices whose Total Amount is 
 
 In the same way, you can create Advanced Alerts for other records also.
 
-![](<../../.gitbook/assets/Rule based\_1.png>)
+![](<../../.gitbook/assets/Rule based\_2 (1).png>)
 
 To know how to create Rule-Based Advanced Alerts, please [click here.](https://docs.inogic.com/alerts4dynamics/configuration/record-based-alert/rule-based-alert#2-advanced-alerts)
 

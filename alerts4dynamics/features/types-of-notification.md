@@ -24,7 +24,7 @@ Notifications can be dismissed at any time. There are two ways to dismiss Notifi
 
 * **Dismiss Alerts individually:** Every alert can be dismissed individually by clicking on cross icon next to it.
 
-![](../../.gitbook/assets/Noti\_3.png)
+![](<../../.gitbook/assets/Noti\_3 (1).png>)
 
 * **Dismiss all Alerts at once:** All the alerts can be dismissed at once by clicking on **Dismiss All** button.
 
@@ -34,15 +34,15 @@ Notifications can be dismissed at any time. There are two ways to dismiss Notifi
 
 If user sets **‘Is Dismissible’** field as **‘Yes’** then the alert can be dismissed. In this case, ‘**X**’ button will continue showing up on the alert notification indicating that the alert notification is dismissible.
 
-![](<../../.gitbook/assets/Dismiss\_1 (1).png>)
+![](../../.gitbook/assets/Dismiss\_1.png)
 
-![](../../.gitbook/assets/Dismiss\_2.png)
+![](<../../.gitbook/assets/Dismiss\_2 (1).png>)
 
 If user sets **‘Is Dismissible’** field as **‘No’** then the alert cannot be dismissed. In this case, **‘X’** button will not be displayed on the alert notification indicating that the alert notification is non-dismissible.
 
-![](../../.gitbook/assets/Dismiss\_3.png)
+![](<../../.gitbook/assets/Dismiss\_3 (2).png>)
 
-![](../../.gitbook/assets/Dismiss\_4.png)
+![](<../../.gitbook/assets/Dismiss\_4 (1).png>)
 
 {% hint style="info" %}
 **Note:**
