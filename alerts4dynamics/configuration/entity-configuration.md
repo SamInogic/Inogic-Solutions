@@ -30,7 +30,7 @@ Given below are the steps to enable Entity Configuration in Alerts4Dynamics:
 
 * To view the Entity Configurations, go to **Alerts4Dynamics App --> Entity Configurations** where all the enabled Entity Configurations can be seen.
 
-![](../../.gitbook/assets/EntConf\_6.png)
+![](<../../.gitbook/assets/EntConf\_6 (1).png>)
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)

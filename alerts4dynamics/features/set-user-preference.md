@@ -76,7 +76,7 @@ In case of an announcement alert being sent through an email, there will be no s
 
 ![](<../../.gitbook/assets/Set Pref1\_13.png>)
 
-![](<../../.gitbook/assets/Set Pref1\_14.png>)
+![](<../../.gitbook/assets/Set Pref1\_14 (1).png>)
 
 ### Scenario 2:
 
@@ -116,7 +116,7 @@ Admin configures an alert as both **‘User Preference’** and **‘From Notifi
 
 * Once the message is activated; **Admin** will be able to see an alert only as a **Form Dialog**.
 
-![](<../../.gitbook/assets/Set Pref2\_5.png>)
+![](<../../.gitbook/assets/Set Pref2\_5 (1).png>)
 
 **User 1** will be notified through both **Email** as well as **Form Dialog.**
 
@@ -126,17 +126,17 @@ Admin configures an alert as both **‘User Preference’** and **‘From Notifi
 
 **As Form Dialog:**
 
-![](<../../.gitbook/assets/Set Pref2\_7.png>)
+![](<../../.gitbook/assets/Set Pref2\_7 (1).png>)
 
 **User 2** will be able to see an alert both as **Pop-up** and **Form Dialog.**
 
 **As Pop up:**
 
-![](<../../.gitbook/assets/Set Pref2\_8.png>)
+![](<../../.gitbook/assets/Set Pref2\_8 (1).png>)
 
 **As Form Dialog:**
 
-![](<../../.gitbook/assets/Set Pref2\_9.png>)
+![](<../../.gitbook/assets/Set Pref2\_9 (1).png>)
 
 {% hint style="info" %}
 **Note: - User preference and Email notification cannot be used together.**
