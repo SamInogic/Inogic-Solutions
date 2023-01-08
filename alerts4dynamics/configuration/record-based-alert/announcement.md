@@ -8,7 +8,7 @@ Given below is the step to create announcements.
   * **Name:** Enter suitable name for Alert.&#x20;
   * **Alert Type:** Select Announcement.
 
-![](../../../.gitbook/assets/Ann\_1.png)
+![](<../../../.gitbook/assets/Ann\_1 (2).png>)
 
 After the **Alert** is created you can add a message associated with it in **Add New Message** tab. To know how to Add New Message skip to [**Message** ](https://docs.inogic.com/alerts4dynamics/configuration/messages)section.
 
