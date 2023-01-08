@@ -12,11 +12,11 @@ To uninstall **Alerts4Dynamics** solution from your CRM environment, follow the 
 
 3\) **** Navigate to **Settings** --> **Solutions** --> Select **Alerts4Dynamics** solution.
 
-![](<../.gitbook/assets/aa (1).png>)
+![](<../.gitbook/assets/aa (4).png>)
 
 4\) Click on **delete** button. A pop-up will appear asking for your confirmation. Click on **OK** and the solution will be uninstalled from your environment.
 
-![](../.gitbook/assets/bb.png)
+![](<../.gitbook/assets/bb (3).png>)
 
 ![](../.gitbook/assets/h.png)
 
