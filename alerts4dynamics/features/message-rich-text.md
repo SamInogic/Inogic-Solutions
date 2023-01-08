@@ -9,7 +9,7 @@ Message Rich Text field supports the following text formatting options:
 * Insert bullets and numbered lists, decrease or increase the indent and add quotation marks.
 * Add links, images, tables in messages.
 
-<figure><img src="../../.gitbook/assets/message rich text (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/message rich text (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the alert is created, the message will be displayed in the notifications.
 

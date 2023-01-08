@@ -1,5 +1,9 @@
 # What's New!
 
+## Version 9.0.0.3 - 2022
+
+* Provision to create more engaging messages with all kinds of text formatting using Message Rich Text.
+
 ## Version 9.0.0.3 - 2020-10-20
 
 ### Features

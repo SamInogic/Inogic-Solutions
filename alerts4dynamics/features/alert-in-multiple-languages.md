@@ -5,7 +5,7 @@ Every Message can have multiple languages if they are enabled by the user in CRM
 1. When the user saves a Message, the Language record is automatically created and appears in Notification Message Sub-Grid.
 2. After Message record is created, and user needs to add another language record (which should be different from the existing one). Click on **‘+ New Message Texts’** button on Sub-Grid and Language form will be displayed and you can create a new Notification Message (language) for that particular record.
 
-![](<../../.gitbook/assets/Multi\_1 (2).png>)
+![](../../.gitbook/assets/Multi\_1.png)
 
 Similarly, Notification Message record can be **Updated** in two ways:
 
