@@ -15,7 +15,7 @@ Here are the steps to create Simple Alerts:
   * **Entity Configuration:** Select the Entity Configuration.&#x20;
   * **Rule Mode:** Select **Simple**.  (This option only appears for Rule Based alerts.)
 
-![](../../../.gitbook/assets/Rule\_1.png)
+![](<../../../.gitbook/assets/Rule\_1 (1).png>)
 
 * Select the View for which Alert has to be created.
 
@@ -39,7 +39,7 @@ Here are the steps to create Simple Alerts:
 
 * After entering values in the Alerts field click on Save and the alert will be created. Create new message from the Messages sub grid. To know how to Add New Message go to the [**Message** ](https://docs.inogic.com/alerts4dynamics/configuration/messages)section.
 
-![](../../../.gitbook/assets/Rule\_4.png)
+![](<../../../.gitbook/assets/simple 4.png>)
 
 ### 2) Advanced Alerts
 
@@ -51,15 +51,15 @@ Here are the steps to create Advanced Alerts:&#x20;
   * **Entity Configuration:** Select the Entity Configuration.&#x20;
   * **Rule Mode:** Select **Advanced.**  (This option only appears for Rule Based alerts.)
 
-![](../../../.gitbook/assets/Rule\_1.png)
+![](<../../../.gitbook/assets/Rule\_1 (3).png>)
 
 * Enter the Fetch XML as per your conditions.
 
-![](<../../../.gitbook/assets/Rule Ad\_1.png>)
+![](<../../../.gitbook/assets/Rule Ad\_1 (1).png>)
 
 * After creating the **Alert**, you can add a message to it. To know how to **Add New Message** go to the [**Message** ](https://docs.inogic.com/alerts4dynamics/configuration/messages)section.
 
-![](<../../../.gitbook/assets/Rule Ad\_2.png>)
+![](<../../../.gitbook/assets/Rule Ad\_2 (1).png>)
 
 {% hint style="success" %}
 For any queries, reach out to us at [crm@inogic.com](mailto:crm@inogic.com)
